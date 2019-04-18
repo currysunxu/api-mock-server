@@ -1,0 +1,18 @@
+{
+  "name": "omni-gateway-mock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@bitbucket.englishtown.cn:7999/etkt/omni-gateway-mock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.14.2"
+  }
+}

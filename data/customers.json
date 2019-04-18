@@ -1,0 +1,14 @@
+[
+  {
+    "id": "hf2.cn.01",
+    "data": {
+      "CustomerId": 1001
+    }
+  },
+  {
+    "id": "hf2.cn.02",
+    "data": {
+      "CustomerId": 1002
+    }
+  }
+]

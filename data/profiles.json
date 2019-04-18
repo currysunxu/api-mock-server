@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1001,
+    "data": {
+      "CustomerId": 1001,
+      "CountryCode": "CN",
+      "EnglishFirstName": "test",
+      "EnglishLastName": "hf",
+      "Status": "Ex-Student",
+      "StatusUpdatedUtcDateTime": "2019-03-19T17:09:42",
+      "AvatarURL": null,
+      "PreferredLanguageCode": null,
+      "Gender": null,
+      "Address": null,
+      "Email": null,
+      "HomePhoneNumber": "13671999379",
+      "MobilePhoneNumber": null,
+      "JoinedDate": null,
+      "DateOfBirth": null,
+      "WechatOpenIds": [],
+      "FirstName": "Test Account 1",
+      "LastName": null,
+      "KidsILabUserName": "hf2.cn.01"
+    }
+  },
+  {
+    "id": 1002,
+    "data": {
+      "CustomerId": 1002,
+      "CountryCode": "CN",
+      "EnglishFirstName": "tst",
+      "EnglishLastName": "hfke",
+      "Status": "Ex-Student",
+      "StatusUpdatedUtcDateTime": "2019-03-19T17:09:42",
+      "AvatarURL": null,
+      "PreferredLanguageCode": null,
+      "Gender": "F",
+      "Address": null,
+      "Email": null,
+      "HomePhoneNumber": "13671999379",
+      "MobilePhoneNumber": null,
+      "JoinedDate": null,
+      "DateOfBirth": null,
+      "WechatOpenIds": [],
+      "FirstName": "Test Account 2",
+      "LastName": null,
+      "KidsILabUserName": "hf2.cn.02"
+    }
+  }
+]
