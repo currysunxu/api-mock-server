@@ -30,7 +30,7 @@ pipeline {
   environment {
     AWS_REGION = ktGetAWSRegion(config.region)
     ECR_URL = ktGetECRUrl(config.region)
-    VERSION_TAG = ktGetVersionTag(ktGetTriggerBranch())
+    VERSION_TAG = 'master'
     COMMIT_TAG = ktGetCommitTag()
     APP_NAME = "${config.service}-${config.environment}"
   }
