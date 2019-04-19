@@ -4,7 +4,7 @@ const utils = require('./utils')
 
 module.exports = {
   supportAuth: function(req, res, next) {
-    if (req.method == 'POST' && req.url == ('/customers')) {
+    if (req.method == 'POST' && req.url == ('/accounts')) {
       // Get username from request body
       var reqBody = utils.lowerJSONKey(req.body)
       var username = reqBody.username
