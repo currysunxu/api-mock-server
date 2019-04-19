@@ -11,7 +11,7 @@ module.exports = {
 
       // Replace req.method to GET and req.url
       req.method = 'GET'
-      req.url = '/customers/' + username
+      req.url = '/accounts/' + username
     }
     // Contiue to JSON server router
     next()

@@ -25,4 +25,5 @@ GET /api/v1/account/authenticate
 
 POST /api/v1/customer/GetInfoListofGroup
 
+
 ## Prerequest

@@ -2,7 +2,7 @@ version: '3.4'
 
 services:
   e1-pd-omni-gateway-mock:
-    image: e1-pd/omni-gateway-mock
+    image: e1-pd/omni-gateway-mock:${IMAGE_TAG}
     build:
       context: .
       dockerfile: ./Dockerfile
