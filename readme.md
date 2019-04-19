@@ -1,29 +1,33 @@
-# omni-gateway-mock
+# OMNI API Gateway Mock
 
 This project provides a mock of omni-api-gateway for UAT and QA environment usage.
 
+## Supported API
 
-## API Spec
+- [X] POST /api/v1/customer
+- [X] GET /api/v1/customer/{customerId}/profile
+- [X] GET /api/v1/customer/{customerId}/inprogressgroups
+- [X] GET /api/v1/customer/{customerId}/enrolledgroups
+- [ ] GET /api/v1/customer/{customerId}/grammarpro
+- [ ] GET /api/v1/user/{customerId}/profile
+- [ ] GET /api/v1/teacher/{teacherId}/GetSessionsofDateandSchoolCode
+- [ ] GET /api/v1/account/authenticate
+- [ ] POST /api/v1/customer/GetInfoListofGroup
 
-POST /api/v1/customer
+## Prerequisites
 
-GET /api/v1/customer/{customerId}/profile
+- node.js 10.x
 
-GET /api/v1/customer/{customerId}/inprogressgroups
+## Installation
 
-GET /api/v1/customer/{customerId}/enrolledgroups
+Follow the instructions below.
 
---- TODO
+1. Clone the repository `git clone git@github.com:LearningLocker/xapi-service.git`.
+2. Install dependencies `npm install`.
+3. Start the server `npm start`.
 
-GET /api/v1/customer/{customerId}/grammarpro
+## Development
 
-GET /api/v1/user/{customerId}/profile
-
-GET /api/v1/teacher/{teacherId}/GetSessionsofDateandSchoolCode
-
-GET /api/v1/account/authenticate
-
-POST /api/v1/customer/GetInfoListofGroup
-
-
-## Prerequest
+1. Follow the `installation procedure`.
+2. Put mock data into the "data" directory.
+3. Run the server `npm start`.
