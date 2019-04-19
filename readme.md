@@ -31,3 +31,7 @@ Follow the instructions below.
 1. Follow the `installation procedure`.
 2. Put mock data into the "data" directory.
 3. Run the server `npm start`.
+
+## Deployment
+
+[PD-CN-OMNI-ApiGateway-QA-Deploy](https://e1jenkins.ef.cn/view/E1PDBE_QA/job/PD-CN-OMNI-ApiGateway-QA-Deploy/)
