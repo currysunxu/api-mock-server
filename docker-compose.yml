@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  e1-pd-omni-gateway-mock:
+    image: e1-pd/omni-gateway-mock
+    build:
+      context: .
+      dockerfile: ./Dockerfile

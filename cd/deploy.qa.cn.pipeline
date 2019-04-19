@@ -1,0 +1,70 @@
+#!groovy
+library identifier: 'JenkinsSharedLib@master', retriever: modernSCM(
+  [$class: 'GitSCMSource',
+   remote: 'ssh://git@bitbucket.englishtown.cn:7999/elab/jenkinssharedlib.git',
+   credentialsId: '6f6f2853-94ac-4d4e-a714-fb0768580952'])
+
+config = [
+  service:            'e1-pd-omni-gateway-mock',             // docker-compose service for building image.
+  imageRepo:          'e1-pd/omni-gateway-mock',
+  region:             'cn',                                  // Optional value: cn, sg.
+  environment:        'qa',
+  deployInstance:     1,
+  teamsConnectorName: 'EdTech-KSD-Project',
+  teamsConnectorUrl:  'https://outlook.office.com/webhook/764533ac-2ef5-4fad-bced-1a77d57f5326@f0d1c6fd-dff0-486a-8e91-cfefefc7d98d/JenkinsCI/2bc22fc52d444cc9a67d41a54f556698/6034223b-343c-4dc8-8cd6-f71f41659b6c'
+]
+
+pipeline {
+  options {
+    disableConcurrentBuilds()
+    timeout(time: 60, unit: 'MINUTES')
+    buildDiscarder(logRotator(numToKeepStr: '20'))
+  }
+  agent {
+    // label ktGetJenkinsSlave(config.region)
+    label 'CN-OMNI-UI-CI'
+  }
+  triggers {
+    pollSCM('')
+  }
+  environment {
+    AWS_REGION = ktGetAWSRegion(config.region)
+    ECR_URL = ktGetECRUrl(config.region)
+    VERSION_TAG = ktGetVersionTag(params.BRANCH)
+    COMMIT_TAG = ktGetCommitTag()
+    APP_NAME = "${config.service}-${config.environment}"
+  }
+  stages {
+    stage('Build & Push Image') {
+      steps {
+        script {
+          def awsRegion = ktGetAWSRegion(config.region)
+          def ecrUrl = ktGetECRUrl(config.region)
+
+          ktBuildAndPushImage(config.service, awsRegion, ecrUrl, config.imageRepo, VERSION_TAG, COMMIT_TAG)
+        }
+      }
+    }
+    stage('Create ECS Task Definition') {
+      steps {
+        script {
+          def dockerImage = "${ECR_URL}/${config.imageRepo}:${COMMIT_TAG}"
+          def ecsTaskFamily = APP_NAME
+          def ecsTaskTemplate = "cd/${APP_NAME}-${config.region}.json"
+          ktRegisterTaskDefinition(AWS_REGION, ecsTaskFamily, ecsTaskTemplate, dockerImage)
+        }
+      }
+    }
+    stage('Update ECS Service') {
+      steps {
+        script {
+          def ecsCluster = ktGetECSCluster(config.region, config.environment)
+          def ecsService = APP_NAME
+          def ecsTask = APP_NAME
+          def ecsTaskDesiredCount = config.deployInstance
+          ktUpdateECSService(AWS_REGION, ecsCluster, ecsService, ecsTask, ecsTaskDesiredCount)
+        }
+      }
+    }
+  }
+}
