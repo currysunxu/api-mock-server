@@ -18,7 +18,7 @@
         "logDriver": "awslogs",
         "options": {
           "awslogs-region": "%AWS_REGION%",
-          "awslogs-group": "kt-ksd-omni-gateway-mock-qa",
+          "awslogs-group": "kt-omni-gateway-mock-qa",
           "awslogs-stream-prefix": "runtime"
         }
       }
