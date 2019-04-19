@@ -15,5 +15,5 @@ WORKDIR /app
 COPY . ./
 COPY --from=build-env /build/node_modules ./node_modules
 
-EXPOSE 3000
+EXPOSE 80
 CMD ["npm", "start"]

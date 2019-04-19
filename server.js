@@ -18,6 +18,10 @@ server.use(customMiddlewares.supportAuth)
 const middlewares = jsonServer.defaults()
 server.use(middlewares)
 
+server.get('/omni/apigateway/health', (req, res) => {
+  res.status(200).jsonp('ok')
+})
+
 // Set mock data source
 const dbGen = require('./data')
 const router = jsonServer.router(dbGen())
@@ -29,6 +33,6 @@ router.render = function(req, res) {
 }
 
 // Start server
-server.listen(3000, () => {
+server.listen(80, () => {
   console.log('JSON Server is running')
 })

@@ -1,0 +1,29 @@
+{
+  "family": "%TASK_FAMILY%",
+  "networkMode": "bridge",
+  "containerDefinitions": [
+    {
+      "name": "web",
+      "image": "%IMAGE%",
+      "memory": 256,
+      "essential": true,
+      "portMappings": [
+        {
+          "hostPort": 0,
+          "protocol": "tcp",
+          "containerPort": 80
+        }
+      ],
+      "logConfiguration": {
+        "logDriver": "awslogs",
+        "options": {
+          "awslogs-region": "%AWS_REGION%",
+          "awslogs-group": "kt-ksd-omni-gateway-mock-qa",
+          "awslogs-stream-prefix": "runtime"
+        }
+      }
+    }
+  ],
+  "volumes": [],
+  "placementConstraints": []
+}
