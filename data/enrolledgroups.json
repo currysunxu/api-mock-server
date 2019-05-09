@@ -17,5 +17,273 @@
           "RemainingACH": 0
       }
     ]
+  },{
+    "id": 1002,
+    "data": [
+      {
+          "CourseTypeCode": "HF",
+          "CourseLevelCodes": [
+              "C",
+              "F",
+              "D",
+              "E",
+              "G",
+              "H",
+              "I",
+              "J"
+          ],
+          "RemainingACH": 0
+      }
+  ]
+  },{
+    "id": 1003,
+    "data": [
+    {
+        "CourseTypeCode": "HF",
+        "CourseLevelCodes": [
+            "C"
+        ],
+        "RemainingACH": 0
+    }
+]
+  },{
+    "id": 1004,
+    "data": [
+      {
+          "CourseTypeCode": "HF",
+          "CourseLevelCodes": [
+              "C",
+              "D"
+          ],
+          "RemainingACH": 0
+      }
+  ]
+  },{
+    "id": 1016,
+    "data": [
+      {
+          "CourseTypeCode": "SS",
+          "CourseLevelCodes": [
+              "Blue",
+              "A",
+              "B",
+              "C"
+          ],
+          "RemainingACH": 0
+      }
+  ]
+  },{
+    "id": 1017,
+    "data": [
+      {
+          "CourseTypeCode": "SS",
+          "CourseLevelCodes": [
+              "A",
+              "Blue",
+              "B",
+              "C"
+          ],
+          "RemainingACH": 0
+      }
+  ]
+  },{
+    "id": 1022,
+    "data": [
+      {
+          "CourseTypeCode": "TB",
+          "CourseLevelCodes": [
+              "v3Bk1",
+              "v3Bk2",
+              "v3Bk3",
+              "v3Bk8",
+              "v3Bk4",
+              "v3Bk6",
+              "v3Bk5",
+              "v3Bk7"
+          ],
+          "RemainingACH": 0
+      }
+  ]
+  },{
+    "id": 1023,
+    "data": [
+      {
+          "CourseTypeCode": "TB",
+          "CourseLevelCodes": [
+              "v3Bk1",
+              "v3Bk2",
+              "v3Bk3",
+              "v3Bk4",
+              "v3Bk5",
+              "v3Bk7",
+              "v3Bk8",
+              "v3Bk6"
+          ],
+          "RemainingACH": 0
+      }
+  ]
+  },{
+    "id": 1024,
+    "data": [
+      {
+          "CourseTypeCode": "TB",
+          "CourseLevelCodes": [
+              "v3Bk1",
+              "v3Bk2",
+              "v3Bk3",
+              "v3Bk8",
+              "v3Bk4",
+              "v3Bk5",
+              "v3Bk6",
+              "v3Bk7"
+          ],
+          "RemainingACH": 0
+      }
+  ]
+  },{
+    "id": 1025,
+    "data": [
+      {
+          "CourseTypeCode": "HF",
+          "CourseLevelCodes": [
+              "C",
+              "F",
+              "D",
+              "E",
+              "G",
+              "H",
+              "I",
+              "J"
+          ],
+          "RemainingACH": 0
+      }
+  ]
+  },{
+    "id": 1047,
+    "data": [
+      {
+          "CourseTypeCode": "SS",
+          "CourseLevelCodes": [
+              "v3bk1",
+              "v3bk2",
+              "v3bk3",
+              "v3bk4"
+          ],
+          "RemainingACH": 0
+      }
+  ]
+  },{
+    "id": 1048,
+    "data": [
+      {
+          "CourseTypeCode": "SS",
+          "CourseLevelCodes": [
+              "v3bk1",
+              "v3bk2",
+              "v3bk3",
+              "v3bk4"
+          ],
+          "RemainingACH": 0
+      }
+  ]
+  },{
+    "id": 1063,
+    "data": [
+      {
+          "CourseTypeCode": "FR",
+          "CourseLevelCodes": [
+              "b2.2.1",
+              "a1.1",
+              "b1.1.2",
+              "c1.2.2",
+              "a1.2",
+              "a2.1",
+              "a2.2",
+              "b1.1.1",
+              "b1.2.1",
+              "b1.2.2",
+              "b2.1.1",
+              "b2.1.2",
+              "b2.2.2",
+              "c1.1.1",
+              "c1.1.2",
+              "c1.2.1"
+          ],
+          "RemainingACH": 0
+      }
+  ]
+  },{
+    "id": 1064,
+    "data": [
+      {
+          "CourseTypeCode": "FR",
+          "CourseLevelCodes": [
+              "a1.1",
+              "a1.2",
+              "a2.1",
+              "a2.2",
+              "b1.1.1",
+              "c1.2.2",
+              "b1.1.2",
+              "b1.2.1",
+              "b1.2.2",
+              "b2.1.1",
+              "b2.1.2",
+              "b2.2.1",
+              "b2.2.2",
+              "c1.1.1",
+              "c1.1.2",
+              "c1.2.1"
+          ],
+          "RemainingACH": 0
+      }
+  ]
+  },{
+    "id": 1070,
+    "data": [
+      {
+          "CourseTypeCode": "HF",
+          "CourseLevelCodes": [
+              "H",
+              "C",
+              "D",
+              "E",
+              "G",
+              "I",
+              "J",
+              "F"
+          ],
+          "RemainingACH": 0
+      }
+  ]
+  },{
+    "id": 1071,
+    "data": [
+      {
+          "CourseTypeCode": "HF",
+          "CourseLevelCodes": [
+              "I",
+              "C",
+              "D",
+              "F",
+              "G",
+              "J",
+              "E",
+              "H"
+          ],
+          "RemainingACH": 0
+      }
+  ]
+  },{
+    "id": 1038,
+    "data": [
+      {
+          "CourseTypeCode": "HF",
+          "CourseLevelCodes": [
+              "C"
+          ],
+          "RemainingACH": 0
+      }
+  ]
   }
 ]

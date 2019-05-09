@@ -331,5 +331,696 @@
           "TotalACH": 72
       }
     ]
+  },
+  {
+    "id": 1002,
+    "data": [
+        {
+            "GroupId": 10003,
+            "GroupName": "High Fly 2.0 E",
+            "GroupCode": "HFV2E-1-120-A-03",
+            "CourseType": {
+                "Code": "HF",
+                "Name": "HF"
+            },
+            "CourseTypeLevel": {
+                "Code": "HFE",
+                "Name": "E"
+            },
+            "School": {
+                "Code": "DCNTES01",
+                "Name": "CN Omni Test"
+            },
+            "CustomerProductionStatus": {
+                "Code": "TO",
+                "Name": "Trans Out"
+            },
+            "GroupStatus": {
+                "Code": "A",
+                "Name": "Activated"
+            },
+            "MainTeacher": {
+                "Id": 0,
+                "Name": null
+            },
+            "CoTeacher": {
+                "Id": 0,
+                "Name": null
+            },
+            "AssignTo": {
+                "Id": 0,
+                "Name": null
+            },
+            "IsCurrentGroup": true,
+            "CountryCode": "CN",
+            "SessionACH": 3,
+            "TotalACH": 72
+        }
+    ]
+  },
+  {
+    "id": 1003,
+    "data": [
+        {
+            "GroupId": 10001,
+            "GroupName": "High Fly 2.0 C",
+            "GroupCode": "HFV2C-1-120-A-01",
+            "CourseType": {
+                "Code": "HF",
+                "Name": "HF"
+            },
+            "CourseTypeLevel": {
+                "Code": "HFC",
+                "Name": "C"
+            },
+            "School": {
+                "Code": "DCNTES01",
+                "Name": "CN Omni Test"
+            },
+            "CustomerProductionStatus": {
+                "Code": "TO",
+                "Name": "Trans Out"
+            },
+            "GroupStatus": {
+                "Code": "A",
+                "Name": "Activated"
+            },
+            "MainTeacher": {
+                "Id": 0,
+                "Name": null
+            },
+            "CoTeacher": {
+                "Id": 0,
+                "Name": null
+            },
+            "AssignTo": {
+                "Id": 0,
+                "Name": null
+            },
+            "IsCurrentGroup": true,
+            "CountryCode": "CN",
+            "SessionACH": 3,
+            "TotalACH": 72
+        }
+    ]
+  },
+  {
+    "id": 1004,
+    "data": [
+        {
+            "GroupId": 10001,
+            "GroupName": "High Fly 2.0 C",
+            "GroupCode": "HFV2C-1-120-A-01",
+            "CourseType": {
+                "Code": "HF",
+                "Name": "HF"
+            },
+            "CourseTypeLevel": {
+                "Code": "HFC",
+                "Name": "C"
+            },
+            "School": {
+                "Code": "DCNTES01",
+                "Name": "CN Omni Test"
+            },
+            "CustomerProductionStatus": {
+                "Code": "TO",
+                "Name": "Trans Out"
+            },
+            "GroupStatus": {
+                "Code": "A",
+                "Name": "Activated"
+            },
+            "MainTeacher": {
+                "Id": 0,
+                "Name": null
+            },
+            "CoTeacher": {
+                "Id": 0,
+                "Name": null
+            },
+            "AssignTo": {
+                "Id": 0,
+                "Name": null
+            },
+            "IsCurrentGroup": true,
+            "CountryCode": "CN",
+            "SessionACH": 3,
+            "TotalACH": 72
+        }
+    ]
+  },
+  {
+    "id": 1016,
+    "data": [
+        {
+            "GroupId": 10009,
+            "GroupName": "SS2.0 Blue",
+            "GroupCode": "SSV2Blue-1-120-A-01",
+            "CourseType": {
+                "Code": "SS",
+                "Name": "SS"
+            },
+            "CourseTypeLevel": {
+                "Code": "SSBlue",
+                "Name": "Blue"
+            },
+            "School": {
+                "Code": "DCNTES01",
+                "Name": "CN Omni Test"
+            },
+            "CustomerProductionStatus": {
+                "Code": "TO",
+                "Name": "Trans Out"
+            },
+            "GroupStatus": {
+                "Code": "A",
+                "Name": "Activated"
+            },
+            "MainTeacher": {
+                "Id": 0,
+                "Name": null
+            },
+            "CoTeacher": {
+                "Id": 0,
+                "Name": null
+            },
+            "AssignTo": {
+                "Id": 0,
+                "Name": null
+            },
+            "IsCurrentGroup": true,
+            "CountryCode": "CN",
+            "SessionACH": 3,
+            "TotalACH": 96
+        }
+    ]
+  },
+  {
+    "id": 1017,
+    "data": [
+        {
+            "GroupId": 10009,
+            "GroupName": "SS2.0 Blue",
+            "GroupCode": "SSV2Blue-1-120-A-01",
+            "CourseType": {
+                "Code": "SS",
+                "Name": "SS"
+            },
+            "CourseTypeLevel": {
+                "Code": "SSBlue",
+                "Name": "Blue"
+            },
+            "School": {
+                "Code": "DCNTES01",
+                "Name": "CN Omni Test"
+            },
+            "CustomerProductionStatus": {
+                "Code": "TO",
+                "Name": "Trans Out"
+            },
+            "GroupStatus": {
+                "Code": "A",
+                "Name": "Activated"
+            },
+            "MainTeacher": {
+                "Id": 0,
+                "Name": null
+            },
+            "CoTeacher": {
+                "Id": 0,
+                "Name": null
+            },
+            "AssignTo": {
+                "Id": 0,
+                "Name": null
+            },
+            "IsCurrentGroup": true,
+            "CountryCode": "CN",
+            "SessionACH": 3,
+            "TotalACH": 96
+        }
+    ]
+  },
+  {
+    "id": 1022,
+    "data": [
+        {
+            "GroupId": 10013,
+            "GroupName": "Trailblazers Book1",
+            "GroupCode": "TBV31-1-120-A-01",
+            "CourseType": {
+                "Code": "TB",
+                "Name": "TB"
+            },
+            "CourseTypeLevel": {
+                "Code": "TBv3Bk1",
+                "Name": "v3Bk1"
+            },
+            "School": {
+                "Code": "DCNTES01",
+                "Name": "CN Omni Test"
+            },
+            "CustomerProductionStatus": {
+                "Code": "TO",
+                "Name": "Trans Out"
+            },
+            "GroupStatus": {
+                "Code": "A",
+                "Name": "Activated"
+            },
+            "MainTeacher": {
+                "Id": 0,
+                "Name": null
+            },
+            "CoTeacher": {
+                "Id": 0,
+                "Name": null
+            },
+            "AssignTo": {
+                "Id": 0,
+                "Name": null
+            },
+            "IsCurrentGroup": true,
+            "CountryCode": "CN",
+            "SessionACH": 3,
+            "TotalACH": 60
+        }
+    ]
+  },
+  {
+    "id": 1023,
+    "data": [
+        {
+            "GroupId": 10013,
+            "GroupName": "Trailblazers Book1",
+            "GroupCode": "TBV31-1-120-A-01",
+            "CourseType": {
+                "Code": "TB",
+                "Name": "TB"
+            },
+            "CourseTypeLevel": {
+                "Code": "TBv3Bk1",
+                "Name": "v3Bk1"
+            },
+            "School": {
+                "Code": "DCNTES01",
+                "Name": "CN Omni Test"
+            },
+            "CustomerProductionStatus": {
+                "Code": "TO",
+                "Name": "Trans Out"
+            },
+            "GroupStatus": {
+                "Code": "A",
+                "Name": "Activated"
+            },
+            "MainTeacher": {
+                "Id": 0,
+                "Name": null
+            },
+            "CoTeacher": {
+                "Id": 0,
+                "Name": null
+            },
+            "AssignTo": {
+                "Id": 0,
+                "Name": null
+            },
+            "IsCurrentGroup": true,
+            "CountryCode": "CN",
+            "SessionACH": 3,
+            "TotalACH": 60
+        }
+    ]
+  },
+  {
+    "id": 1024,
+    "data": [
+        {
+            "GroupId": 10013,
+            "GroupName": "Trailblazers Book1",
+            "GroupCode": "TBV31-1-120-A-01",
+            "CourseType": {
+                "Code": "TB",
+                "Name": "TB"
+            },
+            "CourseTypeLevel": {
+                "Code": "TBv3Bk1",
+                "Name": "v3Bk1"
+            },
+            "School": {
+                "Code": "DCNTES01",
+                "Name": "CN Omni Test"
+            },
+            "CustomerProductionStatus": {
+                "Code": "TO",
+                "Name": "Trans Out"
+            },
+            "GroupStatus": {
+                "Code": "A",
+                "Name": "Activated"
+            },
+            "MainTeacher": {
+                "Id": 0,
+                "Name": null
+            },
+            "CoTeacher": {
+                "Id": 0,
+                "Name": null
+            },
+            "AssignTo": {
+                "Id": 0,
+                "Name": null
+            },
+            "IsCurrentGroup": true,
+            "CountryCode": "CN",
+            "SessionACH": 3,
+            "TotalACH": 60
+        }
+    ]
+  },
+  {
+    "id": 1047,
+    "data": [
+        {
+            "GroupId": 10022,
+            "GroupName": "Small stars 3.0 Book1",
+            "GroupCode": "SSV31-1-120-A-01",
+            "CourseType": {
+                "Code": "SS",
+                "Name": "SS"
+            },
+            "CourseTypeLevel": {
+                "Code": "SSv3bk1",
+                "Name": "v3bk1"
+            },
+            "School": {
+                "Code": "DCNTES01",
+                "Name": "CN Omni Test"
+            },
+            "CustomerProductionStatus": {
+                "Code": "TO",
+                "Name": "Trans Out"
+            },
+            "GroupStatus": {
+                "Code": "A",
+                "Name": "Activated"
+            },
+            "MainTeacher": {
+                "Id": 0,
+                "Name": null
+            },
+            "CoTeacher": {
+                "Id": 0,
+                "Name": null
+            },
+            "AssignTo": {
+                "Id": 30929,
+                "Name": "Connie Gu"
+            },
+            "IsCurrentGroup": true,
+            "CountryCode": "CN",
+            "SessionACH": 1.5,
+            "TotalACH": 96
+        }
+    ]
+  },
+  {
+    "id": 1048,
+    "data": [
+        {
+            "GroupId": 10022,
+            "GroupName": "Small stars 3.0 Book1",
+            "GroupCode": "SSV31-1-120-A-01",
+            "CourseType": {
+                "Code": "SS",
+                "Name": "SS"
+            },
+            "CourseTypeLevel": {
+                "Code": "SSv3bk1",
+                "Name": "v3bk1"
+            },
+            "School": {
+                "Code": "DCNTES01",
+                "Name": "CN Omni Test"
+            },
+            "CustomerProductionStatus": {
+                "Code": "TO",
+                "Name": "Trans Out"
+            },
+            "GroupStatus": {
+                "Code": "A",
+                "Name": "Activated"
+            },
+            "MainTeacher": {
+                "Id": 0,
+                "Name": null
+            },
+            "CoTeacher": {
+                "Id": 0,
+                "Name": null
+            },
+            "AssignTo": {
+                "Id": 30929,
+                "Name": "Connie Gu"
+            },
+            "IsCurrentGroup": true,
+            "CountryCode": "CN",
+            "SessionACH": 1.5,
+            "TotalACH": 96
+        }
+    ]
+  },
+  {
+    "id": 1063,
+    "data": [
+        {
+            "GroupId": 10028,
+            "GroupName": "Frontrunner 1.0 Book3",
+            "GroupCode": "FRV13-1-120-A-03",
+            "CourseType": {
+                "Code": "FR",
+                "Name": "FR"
+            },
+            "CourseTypeLevel": {
+                "Code": "FRa2.1",
+                "Name": "a2.1"
+            },
+            "School": {
+                "Code": "DCNTES01",
+                "Name": "CN Omni Test"
+            },
+            "CustomerProductionStatus": {
+                "Code": "TO",
+                "Name": "Trans Out"
+            },
+            "GroupStatus": {
+                "Code": "A",
+                "Name": "Activated"
+            },
+            "MainTeacher": {
+                "Id": 0,
+                "Name": null
+            },
+            "CoTeacher": {
+                "Id": 0,
+                "Name": null
+            },
+            "AssignTo": {
+                "Id": 0,
+                "Name": null
+            },
+            "IsCurrentGroup": true,
+            "CountryCode": "CN",
+            "SessionACH": 3,
+            "TotalACH": 72
+        }
+    ]
+  },
+  {
+    "id": 1064,
+    "data": [
+        {
+            "GroupId": 10026,
+            "GroupName": "Frontrunner 1.0 Book1",
+            "GroupCode": "FRV11-1-120-A-01",
+            "CourseType": {
+                "Code": "FR",
+                "Name": "FR"
+            },
+            "CourseTypeLevel": {
+                "Code": "FRa1.1",
+                "Name": "a1.1"
+            },
+            "School": {
+                "Code": "DCNTES01",
+                "Name": "CN Omni Test"
+            },
+            "CustomerProductionStatus": {
+                "Code": "TO",
+                "Name": "Trans Out"
+            },
+            "GroupStatus": {
+                "Code": "A",
+                "Name": "Activated"
+            },
+            "MainTeacher": {
+                "Id": 0,
+                "Name": null
+            },
+            "CoTeacher": {
+                "Id": 0,
+                "Name": null
+            },
+            "AssignTo": {
+                "Id": 0,
+                "Name": null
+            },
+            "IsCurrentGroup": true,
+            "CountryCode": "CN",
+            "SessionACH": 3,
+            "TotalACH": 72
+        }
+    ]
+  },
+  {
+    "id": 1070,
+    "data": [
+        {
+            "GroupId": 10043,
+            "GroupName": "High Fly 3.0 D",
+            "GroupCode": "HFV3PlusD-1-120-A-02",
+            "CourseType": {
+                "Code": "HF",
+                "Name": "HF"
+            },
+            "CourseTypeLevel": {
+                "Code": "HFD",
+                "Name": "D"
+            },
+            "School": {
+                "Code": "DCNTES01",
+                "Name": "CN Omni Test"
+            },
+            "CustomerProductionStatus": {
+                "Code": "TO",
+                "Name": "Trans Out"
+            },
+            "GroupStatus": {
+                "Code": "A",
+                "Name": "Activated"
+            },
+            "MainTeacher": {
+                "Id": 0,
+                "Name": null
+            },
+            "CoTeacher": {
+                "Id": 0,
+                "Name": null
+            },
+            "AssignTo": {
+                "Id": 0,
+                "Name": null
+            },
+            "IsCurrentGroup": true,
+            "CountryCode": "CN",
+            "SessionACH": 3,
+            "TotalACH": 54
+        }
+    ]
+  },
+  {
+    "id": 1071,
+    "data": [
+        {
+            "GroupId": 10042,
+            "GroupName": "High Fly 3.0 C",
+            "GroupCode": "HFV3PlusC-1-120-A-01",
+            "CourseType": {
+                "Code": "HF",
+                "Name": "HF"
+            },
+            "CourseTypeLevel": {
+                "Code": "HFC",
+                "Name": "C"
+            },
+            "School": {
+                "Code": "DCNTES01",
+                "Name": "CN Omni Test"
+            },
+            "CustomerProductionStatus": {
+                "Code": "TO",
+                "Name": "Trans Out"
+            },
+            "GroupStatus": {
+                "Code": "A",
+                "Name": "Activated"
+            },
+            "MainTeacher": {
+                "Id": 0,
+                "Name": null
+            },
+            "CoTeacher": {
+                "Id": 0,
+                "Name": null
+            },
+            "AssignTo": {
+                "Id": 0,
+                "Name": null
+            },
+            "IsCurrentGroup": true,
+            "CountryCode": "CN",
+            "SessionACH": 3,
+            "TotalACH": 54
+        }
+    ]
+  },
+  {
+    "id": 1038,
+    "data": [
+        {
+            "GroupId": 10001,
+            "GroupName": "High Fly 2.0 C",
+            "GroupCode": "HFV2C-1-120-A-01",
+            "CourseType": {
+                "Code": "HF",
+                "Name": "HF"
+            },
+            "CourseTypeLevel": {
+                "Code": "HFC",
+                "Name": "C"
+            },
+            "School": {
+                "Code": "DCNTES01",
+                "Name": "CN Omni Test"
+            },
+            "CustomerProductionStatus": {
+                "Code": "TO",
+                "Name": "Trans Out"
+            },
+            "GroupStatus": {
+                "Code": "A",
+                "Name": "Activated"
+            },
+            "MainTeacher": {
+                "Id": 0,
+                "Name": null
+            },
+            "CoTeacher": {
+                "Id": 0,
+                "Name": null
+            },
+            "AssignTo": {
+                "Id": 0,
+                "Name": null
+            },
+            "IsCurrentGroup": true,
+            "CountryCode": "CN",
+            "SessionACH": 3,
+            "TotalACH": 72
+        }
+    ]
   }
+
 ]
