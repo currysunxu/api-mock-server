@@ -32,7 +32,7 @@ GET /api/v1/customer/{customerId}/inprogressgroups | data/inprogressgroups.json
 GET /api/v1/customer/{customerId}/enrolledgroups | data/enrolledgroups.json
 GET /api/v1/customer/{customerId}/grammarpro | data/gpgroups.json
 GET /api/v1/account/authenticate?loginName={}&encryptedPassword={} | data/teachers.json
-GET /api/v1/user/{customerId}/profile | data/profiles.json
+GET /api/v1/user/{customerId}/profile | data/users.json
 GET /api/v1/teacher/{teacherId}/GetSessionsofDateandSchoolCode?year={}&month={}&date={}&schoolCode={} | data/sessions.json
 (TODO) POST /api/v1/customer/GetInfoListofGroup | ?
 

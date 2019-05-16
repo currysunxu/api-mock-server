@@ -1,0 +1,27 @@
+[
+  {
+    "id": 145719,
+    "data": {
+      "UserId": 145719,
+      "AvatarURL": null,
+      "FirstName": "CN PD Teacher",
+      "LastName": null,
+      "Gender": null,
+      "DisplayName": "CN PD Teacher",
+      "SchoolsInCounty": [
+        {
+          "CountryCode": "RU",
+          "SchoolCodes": [
+            "SNA"
+          ]
+        },
+        {
+          "CountryCode": "CN",
+          "SchoolCodes": [
+            "DCNBJS21"
+          ]
+        }
+      ]
+    }
+  }
+]
