@@ -1,0 +1,25 @@
+[
+  {
+    "id": 145719,
+    "data": [
+      {
+          "GroupId": 100082298,
+          "CourseTypeCode": "HF",
+          "CourseTypeLevelCode": "HFF",
+          "StartTime": "2019-05-16T20:00:00",
+          "EndTime": "2019-05-16T21:00:00",
+          "GroupCode": "HFV2F-1-60-A-011218-01",
+          "Classroom": "Success"
+      },
+      {
+          "GroupId": 100082618,
+          "CourseTypeCode": "TB",
+          "CourseTypeLevelCode": "TBv3Bk2",
+          "StartTime": "2019-05-16T09:21:00",
+          "EndTime": "2019-05-16T11:21:00",
+          "GroupCode": "TBV32-1-120-A-270219-01",
+          "Classroom": "Clever"
+      }
+    ]
+  }
+]
