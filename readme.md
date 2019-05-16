@@ -4,15 +4,17 @@ This project provides a mock of omni-api-gateway for UAT and QA environment usag
 
 ## Supported API
 
-- [X] POST /api/v1/customer
-- [X] GET /api/v1/customer/{customerId}/profile
-- [X] GET /api/v1/customer/{customerId}/inprogressgroups
-- [X] GET /api/v1/customer/{customerId}/enrolledgroups
-- [X] GET /api/v1/customer/{customerId}/grammarpro
-- [X] GET /api/v1/account/authenticate?loginName={}&encryptedPassword={}
-- [X] GET /api/v1/user/{customerId}/profile
-- [ ] GET /api/v1/teacher/{teacherId}/GetSessionsofDateandSchoolCode?year={}&month={}&date={}&schoolCode={}
-- [ ] POST /api/v1/customer/GetInfoListofGroup
+Request | Data Source
+---|---
+POST /api/v1/customer | data/students.json
+GET /api/v1/customer/{customerId}/profile | data/profiles.json
+GET /api/v1/customer/{customerId}/inprogressgroups | data/inprogressgroups.json
+GET /api/v1/customer/{customerId}/enrolledgroups | data/enrolledgroups.json
+GET /api/v1/customer/{customerId}/grammarpro | data/gpgroups.json
+GET /api/v1/account/authenticate?loginName={}&encryptedPassword={} | data/teachers.json
+GET /api/v1/user/{customerId}/profile | data/profiles.json
+(TODO) GET /api/v1/teacher/{teacherId}/GetSessionsofDateandSchoolCode?year={}&month={}&date={}&schoolCode={} | ?
+(TODO) POST /api/v1/customer/GetInfoListofGroup | ?
 
 ## Prerequisites
 
