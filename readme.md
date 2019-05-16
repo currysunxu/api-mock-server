@@ -8,10 +8,10 @@ This project provides a mock of omni-api-gateway for UAT and QA environment usag
 - [X] GET /api/v1/customer/{customerId}/profile
 - [X] GET /api/v1/customer/{customerId}/inprogressgroups
 - [X] GET /api/v1/customer/{customerId}/enrolledgroups
-- [ ] GET /api/v1/customer/{customerId}/grammarpro
-- [ ] GET /api/v1/user/{customerId}/profile
-- [ ] GET /api/v1/teacher/{teacherId}/GetSessionsofDateandSchoolCode
-- [ ] GET /api/v1/account/authenticate
+- [X] GET /api/v1/customer/{customerId}/grammarpro
+- [X] GET /api/v1/account/authenticate?loginName={}&encryptedPassword={}
+- [X] GET /api/v1/user/{customerId}/profile
+- [ ] GET /api/v1/teacher/{teacherId}/GetSessionsofDateandSchoolCode?year={}&month={}&date={}&schoolCode={}
 - [ ] POST /api/v1/customer/GetInfoListofGroup
 
 ## Prerequisites
