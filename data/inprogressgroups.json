@@ -1067,6 +1067,256 @@
             "TotalACH": 72
         }
     ]
+  },
+  {"id":45670366,
+    "data":[
+    {
+        "GroupId": 100020868,
+        "GroupName": "SSblue-Vivian-开心果",
+        "GroupCode": "SSV2Blue-2-120-A-140918-09",
+        "CourseType": {
+            "Code": "SS",
+            "Name": "SS"
+        },
+        "CourseTypeLevel": {
+            "Code": "SSBlue",
+            "Name": "Blue"
+        },
+        "School": {
+            "Code": "DCNBJS21",
+            "Name": "BJ10FT1"
+        },
+        "CustomerProductionStatus": {
+            "Code": "STU",
+            "Name": "Studying"
+        },
+        "GroupStatus": {
+            "Code": "A",
+            "Name": "Activated"
+        },
+        "MainTeacher": {
+            "Id": 257759,
+            "Name": "Buziwe"
+        },
+        "CoTeacher": {
+            "Id": 258252,
+            "Name": "Jarek"
+        },
+        "AssignTo": {
+            "Id": 3960,
+            "Name": "Hannah Lu"
+        },
+        "IsCurrentGroup": true,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 96
+    },
+    {
+        "GroupId": 100082182,
+        "GroupName": "GroupTestCreateManyStudent04",
+        "GroupCode": "HFV3PlusC-2-240-A-260219-04",
+        "CourseType": {
+            "Code": "HF",
+            "Name": "HF"
+        },
+        "CourseTypeLevel": {
+            "Code": "HFC",
+            "Name": "C"
+        },
+        "School": {
+            "Code": "DCNBJS21",
+            "Name": "BJ10FT1"
+        },
+        "CustomerProductionStatus": {
+            "Code": "STU",
+            "Name": "Studying"
+        },
+        "GroupStatus": {
+            "Code": "A",
+            "Name": "Activated"
+        },
+        "MainTeacher": {
+            "Id": 13167,
+            "Name": "Ida"
+        },
+        "CoTeacher": {
+            "Id": 13167,
+            "Name": "Ida"
+        },
+        "AssignTo": {
+            "Id": 261038,
+            "Name": "Zoe Shang"
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 57
+    },
+    {
+        "GroupId": 100082210,
+        "GroupName": "TBv3-sang-test",
+        "GroupCode": "TBV31-3-300-A-010118-01",
+        "CourseType": {
+            "Code": "TB",
+            "Name": "TB"
+        },
+        "CourseTypeLevel": {
+            "Code": "TBv3Bk1",
+            "Name": "v3Bk1"
+        },
+        "School": {
+            "Code": "MOI",
+            "Name": "Aeroport"
+        },
+        "CustomerProductionStatus": {
+            "Code": "STU",
+            "Name": "Studying"
+        },
+        "GroupStatus": {
+            "Code": "A",
+            "Name": "Activated"
+        },
+        "MainTeacher": {
+            "Id": 36583,
+            "Name": "Thisbe Tian"
+        },
+        "CoTeacher": {
+            "Id": 36919,
+            "Name": "Naufal"
+        },
+        "AssignTo": {
+            "Id": 146113,
+            "Name": "Richie Zhu"
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "RU",
+        "SessionACH": 2,
+        "TotalACH": 60
+    },
+    {
+        "GroupId": 100082297,
+        "GroupName": "smoke sspt",
+        "GroupCode": "SSV31-1-60-A-250219-01",
+        "CourseType": {
+            "Code": "SS",
+            "Name": "SS"
+        },
+        "CourseTypeLevel": {
+            "Code": "SSv3bk1",
+            "Name": "v3bk1"
+        },
+        "School": {
+            "Code": "DCNBJS21",
+            "Name": "BJ10FT1"
+        },
+        "CustomerProductionStatus": {
+            "Code": "STU",
+            "Name": "Studying"
+        },
+        "GroupStatus": {
+            "Code": "A",
+            "Name": "Activated"
+        },
+        "MainTeacher": {
+            "Id": 13167,
+            "Name": "Ida"
+        },
+        "CoTeacher": {
+            "Id": 13167,
+            "Name": "Ida"
+        },
+        "AssignTo": {
+            "Id": 259882,
+            "Name": "BJ10Vivian"
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 1.5,
+        "TotalACH": 96
+    },
+    {
+        "GroupId": 100082298,
+        "GroupName": "smoke pt HF 05",
+        "GroupCode": "HFV2F-1-60-A-011218-01",
+        "CourseType": {
+            "Code": "HF",
+            "Name": "HF"
+        },
+        "CourseTypeLevel": {
+            "Code": "HFF",
+            "Name": "F"
+        },
+        "School": {
+            "Code": "DCNBJS21",
+            "Name": "BJ10FT1"
+        },
+        "CustomerProductionStatus": {
+            "Code": "STU",
+            "Name": "Studying"
+        },
+        "GroupStatus": {
+            "Code": "A",
+            "Name": "Activated"
+        },
+        "MainTeacher": {
+            "Id": 146003,
+            "Name": "Jenny"
+        },
+        "CoTeacher": {
+            "Id": 146003,
+            "Name": "Jenny"
+        },
+        "AssignTo": {
+            "Id": 145719,
+            "Name": "CN PD Teacher"
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+    },
+    {
+        "GroupId": 100082370,
+        "GroupName": "SSV3 Sang Testing",
+        "GroupCode": "SSV31-1-60-A-010118-03",
+        "CourseType": {
+            "Code": "SS",
+            "Name": "SS"
+        },
+        "CourseTypeLevel": {
+            "Code": "SSv3bk1",
+            "Name": "v3bk1"
+        },
+        "School": {
+            "Code": "DCNTES01",
+            "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+            "Code": "STU",
+            "Name": "Studying"
+        },
+        "GroupStatus": {
+            "Code": "A",
+            "Name": "Activated"
+        },
+        "MainTeacher": {
+            "Id": 36583,
+            "Name": "Thisbe Tian"
+        },
+        "CoTeacher": {
+            "Id": 36919,
+            "Name": "Naufal"
+        },
+        "AssignTo": {
+            "Id": 261035,
+            "Name": "Mia Zhu"
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 1.5,
+        "TotalACH": 96
+    }
+]
   }
 
 
