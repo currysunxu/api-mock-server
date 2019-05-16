@@ -33,6 +33,6 @@ router.render = function(req, res) {
 }
 
 // Start server
-server.listen(8000, () => {
+server.listen(80, () => {
   console.log('JSON Server is running')
 })
