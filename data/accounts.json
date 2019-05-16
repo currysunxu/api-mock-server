@@ -23,6 +23,18 @@
       "CustomerId": 1004
     }
   },
+    {
+    "id": "hf3.cn.01",
+    "data": {
+      "CustomerId": 1070
+    }
+  },
+    {
+    "id": "hf3.cn.02",
+    "data": {
+      "CustomerId": 1071
+    }
+  },
   {
     "id": "ss2.cn.01",
     "data": {
@@ -54,6 +66,12 @@
     }
   },
   {
+    "id": "tb3.cn.auto1",
+    "data": {
+      "CustomerId": 1025
+    }
+  },
+  {
     "id": "fr.cn.01",
     "data": {
       "CustomerId": 1063
@@ -64,7 +82,8 @@
     "data": {
       "CustomerId": 1064
     }
-  },  {
+  },
+  {
     "id": "ss3.cn.01",
     "data": {
       "CustomerId": 1047
@@ -80,17 +99,6 @@
     "id": "gp.cn.auto4",
     "data": {
       "CustomerId": 1038
-    }
-  },
-  {
-    "id": "hf3.cn.01",
-    "data": {
-      "CustomerId": 1070
-    }
-  }, {
-    "id": "hf3.cn.02",
-    "data": {
-      "CustomerId": 1071
     }
   }
 ]
