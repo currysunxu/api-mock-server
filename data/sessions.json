@@ -10,7 +10,13 @@
           "EndTime": "2019-05-16T21:00:00",
           "GroupCode": "HFV2F-1-60-A-011218-01",
           "Classroom": "Success"
-      },
+      }
+    ]
+  },
+    {
+    "id": 145722,
+    "data": [
+
       {
           "GroupId": 100082618,
           "CourseTypeCode": "TB",
