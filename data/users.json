@@ -23,5 +23,30 @@
         }
       ]
     }
+  },
+  {
+    "id": 145722,
+    "data": {
+      "UserId": 145722,
+      "AvatarURL": null,
+      "FirstName": "ID PD Teacher",
+      "LastName": null,
+      "Gender": null,
+      "DisplayName": "ID PD Teacher",
+      "SchoolsInCounty": [
+        {
+          "CountryCode": "RU",
+          "SchoolCodes": [
+            "SNA"
+          ]
+        },
+        {
+          "CountryCode": "CN",
+          "SchoolCodes": [
+            "DCNBJS21"
+          ]
+        }
+      ]
+    }
   }
 ]
