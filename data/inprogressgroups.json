@@ -1068,7 +1068,8 @@
         }
     ]
   },
-  {"id":45670366,
+  {
+    "id":45670366,
     "data":[
     {
         "GroupId": 100020868,
@@ -1316,8 +1317,55 @@
         "SessionACH": 1.5,
         "TotalACH": 96
     }
-]
-  }
 
+
+]
+  },
+  {
+    "id": 43287872,
+    "data": [
+      {
+        "GroupId": 100082587,
+        "GroupName": "bk4 0326-2",
+        "GroupCode": "SSV34-1-60-A-110319-03",
+        "CourseType": {
+          "Code": "SS",
+          "Name": "SS"
+        },
+        "CourseTypeLevel": {
+          "Code": "SSv3bk4",
+          "Name": "v3bk4"
+        },
+        "School": {
+          "Code": "DCNBJS21",
+          "Name": "BJ10FT1"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Activated"
+        },
+        "MainTeacher": {
+          "Id": 145719,
+          "Name": "CN PD Teacher"
+        },
+        "CoTeacher": {
+          "Id": 145719,
+          "Name": "CN PD Teacher"
+        },
+        "AssignTo": {
+          "Id": 145719,
+          "Name": "CN PD Teacher"
+        },
+        "IsCurrentGroup": true,
+        "CountryCode": "CN",
+        "SessionACH": 1.5,
+        "TotalACH": 96
+      }
+    ]
+  }
 
 ]
