@@ -40,6 +40,24 @@
           "EndTime": "2019-05-19T06:43:00.000Z",
           "GroupCode": "SSV34-1-60-A-110319-03",
           "Classroom": "Laugh"
+      },
+      {
+          "GroupId": 100082587,
+          "CourseTypeCode": "SS",
+          "CourseTypeLevelCode": "SSv3bk4",
+          "StartTime": "2019-05-26T05:43:00.000Z",
+          "EndTime": "2019-05-26T06:43:00.000Z",
+          "GroupCode": "SSV34-1-60-A-110319-03",
+          "Classroom": "Laugh"
+      },
+      {
+          "GroupId": 100082587,
+          "CourseTypeCode": "SS",
+          "CourseTypeLevelCode": "SSv3bk4",
+          "StartTime": "2019-06-02T05:43:00.000Z",
+          "EndTime": "2019-06-02T06:43:00.000Z",
+          "GroupCode": "SSV34-1-60-A-110319-03",
+          "Classroom": "Laugh"
       }
     ]
   }
