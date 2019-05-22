@@ -3,15 +3,6 @@
     "id": 145719,
     "data": [
       {
-          "GroupId": 100082298,
-          "CourseTypeCode": "HF",
-          "CourseTypeLevelCode": "HFF",
-          "StartTime": "2019-05-16T20:00:00",
-          "EndTime": "2019-05-16T21:00:00",
-          "GroupCode": "HFV2F-1-60-A-011218-01",
-          "Classroom": "Success"
-      },
-      {
           "GroupId": 100082587,
           "CourseTypeCode": "SS",
           "CourseTypeLevelCode": "SSv3bk4",
@@ -20,6 +11,16 @@
           "GroupCode": "SSV34-1-60-A-110319-03",
           "Classroom": "Laugh"
       },
+      {
+          "GroupId": 100082298,
+          "CourseTypeCode": "HF",
+          "CourseTypeLevelCode": "HFF",
+          "StartTime": "2019-05-16T20:00:00",
+          "EndTime": "2019-05-16T21:00:00",
+          "GroupCode": "HFV2F-1-60-A-011218-01",
+          "Classroom": "Success"
+      },
+
       {
           "GroupId": 100082587,
           "CourseTypeCode": "SS",
