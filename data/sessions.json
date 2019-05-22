@@ -10,28 +10,7 @@
           "EndTime": "2019-05-16T21:00:00",
           "GroupCode": "HFV2F-1-60-A-011218-01",
           "Classroom": "Success"
-      }
-    ]
-  },
-    {
-    "id": 145722,
-    "data": [
-
-      {
-          "GroupId": 100082618,
-          "CourseTypeCode": "TB",
-          "CourseTypeLevelCode": "TBv3Bk2",
-          "StartTime": "2019-05-16T09:21:00",
-          "EndTime": "2019-05-16T11:21:00",
-          "GroupCode": "TBV32-1-120-A-270219-01",
-          "Classroom": "Clever"
-      }
-    ]
-  },
-  {
-    "id": 145719,
-    "data": [
-
+      },
       {
           "GroupId": 100082587,
           "CourseTypeCode": "SS",
@@ -58,6 +37,20 @@
           "EndTime": "2019-06-02T06:43:00.000Z",
           "GroupCode": "SSV34-1-60-A-110319-03",
           "Classroom": "Laugh"
+      }
+    ]
+  },
+  {
+    "id": 145722,
+    "data": [
+      {
+        "GroupId": 100082618,
+        "CourseTypeCode": "TB",
+        "CourseTypeLevelCode": "TBv3Bk2",
+        "StartTime": "2019-05-16T09:21:00",
+        "EndTime": "2019-05-16T11:21:00",
+        "GroupCode": "TBV32-1-120-A-270219-01",
+        "Classroom": "Clever"
       }
     ]
   }
