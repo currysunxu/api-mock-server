@@ -1327,14 +1327,14 @@
       {
         "GroupId": 100082587,
         "GroupName": "bk4 0326-2",
-        "GroupCode": "SSV34-1-60-A-110319-03",
+        "GroupCode": "SSV31-1-60-A-110319-03",
         "CourseType": {
           "Code": "SS",
           "Name": "SS"
         },
         "CourseTypeLevel": {
-          "Code": "SSv3bk4",
-          "Name": "v3bk4"
+          "Code": "SSv3bk1",
+          "Name": "v3bk1"
         },
         "School": {
           "Code": "DCNBJS21",
