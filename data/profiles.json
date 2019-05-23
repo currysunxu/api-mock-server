@@ -1,26 +1,5 @@
 [
   {
-    "id": 100360613,
-    "data": {
-      "CustomerId": 100360613,
-      "CountryCode": "CN",
-      "EnglishFirstName": "Tony",
-      "EnglishLastName": "Liu",
-      "Status": "Student",
-      "AvatarURL": null,
-      "PreferredLanguageCode": null,
-      "Gender": "M",
-      "Address": null,
-      "Email": null,
-      "HomePhoneNumber": null,
-      "MobilePhoneNumber": null,
-      "DateOfBirth": "2018-01-05T00:00:00",
-      "FirstName": "Tony test",
-      "LastName": null,
-      "KidsILabUserName": "Tony.Liu"
-    }
-  },
-  {
     "id": 39981176,
     "data": {
       "CustomerId": 39981176,
