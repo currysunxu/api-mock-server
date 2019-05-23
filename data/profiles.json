@@ -1,9 +1,23 @@
 [
   {
-    "id": 1234,
+    "id": 100360613,
     "data": {
-        "id": 1234,
-        "name": "Yet Another Student"
+      "CustomerId": 100360613,
+      "CountryCode": "CN",
+      "EnglishFirstName": "Tony",
+      "EnglishLastName": "Liu",
+      "Status": "Student",
+      "AvatarURL": null,
+      "PreferredLanguageCode": null,
+      "Gender": "M",
+      "Address": null,
+      "Email": null,
+      "HomePhoneNumber": null,
+      "MobilePhoneNumber": null,
+      "DateOfBirth": "2018-01-05T00:00:00",
+      "FirstName": "Tony test",
+      "LastName": null,
+      "KidsILabUserName": "Tony.Liu"
     }
   },
   {
