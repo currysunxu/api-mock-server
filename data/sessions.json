@@ -1,6 +1,20 @@
 [
   {
-    "id": 145719,
+    "id": "145719-2019-5-16",
+    "data": [
+      {
+          "GroupId": 100082298,
+          "CourseTypeCode": "HF",
+          "CourseTypeLevelCode": "HFF",
+          "StartTime": "2019-05-16T20:00:00",
+          "EndTime": "2019-05-16T21:00:00",
+          "GroupCode": "HFV2F-1-60-A-011218-01",
+          "Classroom": "Success"
+      }
+    ]
+  },
+  {
+    "id": "145719-2019-5-19",
     "data": [
       {
           "GroupId": 100082587,
@@ -10,30 +24,11 @@
           "EndTime": "2019-05-19T06:43:00.000Z",
           "GroupCode": "SSV34-1-60-A-110319-03",
           "Classroom": "Laugh"
-      },
-
-      {
-          "GroupId": 100082587,
-          "CourseTypeCode": "SS",
-          "CourseTypeLevelCode": "SSv3bk4",
-          "StartTime": "2019-05-26T05:43:00.000Z",
-          "EndTime": "2019-05-26T06:43:00.000Z",
-          "GroupCode": "SSV34-1-60-A-110319-03",
-          "Classroom": "Laugh"
-      },
-      {
-          "GroupId": 100082587,
-          "CourseTypeCode": "SS",
-          "CourseTypeLevelCode": "SSv3bk4",
-          "StartTime": "2019-06-02T05:43:00.000Z",
-          "EndTime": "2019-06-02T06:43:00.000Z",
-          "GroupCode": "SSV34-1-60-A-110319-03",
-          "Classroom": "Laugh"
       }
     ]
   },
   {
-    "id": 145722,
+    "id": "145722-2019-5-16",
     "data": [
       {
         "GroupId": 100082618,
@@ -43,15 +38,6 @@
         "EndTime": "2019-05-16T11:21:00",
         "GroupCode": "TBV32-1-120-A-270219-01",
         "Classroom": "Clever"
-      },
-        {
-          "GroupId": 100082298,
-          "CourseTypeCode": "HF",
-          "CourseTypeLevelCode": "HFF",
-          "StartTime": "2019-05-16T20:00:00",
-          "EndTime": "2019-05-16T21:00:00",
-          "GroupCode": "HFV2F-1-60-A-011218-01",
-          "Classroom": "Success"
       }
     ]
   }

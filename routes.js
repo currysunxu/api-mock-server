@@ -8,5 +8,5 @@ module.exports = {
   "/omni/apigateway/api/v1/customer/:id/grammarpro": "/gpgroups/:id",
   "/omni/apigateway/api/v1/account/authenticate?loginName=:id&*": "/teachers/:id",
   "/omni/apigateway/api/v1/user/:id/profile": "/users/:id",
-  "/omni/apigateway/api/v1/teacher/:id/GetSessionsofDateandSchoolCode?*": "/sessions/:id"
+  "/omni/apigateway/api/v1/teacher/:teacher/GetSessionsofDateandSchoolCode?year=:year&month=:month&date=:date&schoolCode=*": "/sessions/:teacher-:year-:month-:date"
 }
