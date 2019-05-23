@@ -10,7 +10,7 @@ This project provides a mock of omni-api-gateway for UAT and QA environment usag
 
 Follow the instructions below.
 
-1. Clone the repository `git clone git@github.com:LearningLocker/xapi-service.git`.
+1. Clone the repository `ssh://git@bitbucket.englishtown.cn:7999/etkt/extract-course-structure.git`.
 2. Install dependencies `npm install`.
 3. Start the server `npm start`.
 
@@ -34,10 +34,14 @@ GET /api/v1/customer/{customerId}/grammarpro | data/gpgroups.json
 GET /api/v1/account/authenticate?loginName={}&encryptedPassword={} | data/teachers.json
 GET /api/v1/user/{customerId}/profile | data/users.json
 GET /api/v1/teacher/{teacherId}/GetSessionsofDateandSchoolCode?year={}&month={}&date={}&schoolCode={} | data/sessions.json
-(TODO) POST /api/v1/customer/GetInfoListofGroup | ?
+GET /api/v1/customer/GetInfoListofGroup?groupId={} | data/groupinfos.json
 
 ## Deployment
 
 [PD-CN-OMNI-ApiGateway-QA-Deploy](https://e1jenkins.ef.cn/view/E1PDBE_QA/job/PD-CN-OMNI-ApiGateway-QA-Deploy/)
 
 Webhook is setup, git push will trigger deployment automatically.
+
+## Reference
+
+This mock is built based on [json-server](https://github.com/typicode/json-server)
