@@ -27,7 +27,7 @@ module.exports = {
       req.url = '/phones/' + phoneNum
     }
 
-    if (req.method == 'POST' && req.url == ('/registerphone')) {
+    if (req.method == 'POST' && req.url == ('/registeredphones')) {
 
       // Get phone number from request body
       var reqBody = utils.lowerJSONKey(req.body)
@@ -36,7 +36,7 @@ module.exports = {
 
       // Replace req.method to GET and req.url
       req.method = 'GET'
-      req.url = '/registerphone/' + phoneNum
+      req.url = '/registeredphones/' + phoneNum
       console.log(req.url)
     }
 
