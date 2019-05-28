@@ -21,7 +21,6 @@ module.exports = {
       var reqBody = utils.lowerJSONKey(req.body)
       var phoneNum = reqBody.phone
 
-
       // Replace req.method to GET and req.url
       req.method = 'GET'
       req.url = '/phones/' + phoneNum
@@ -32,7 +31,6 @@ module.exports = {
       // Get phone number from request body
       var reqBody = utils.lowerJSONKey(req.body)
       var phoneNum = reqBody.phone
-      console.log(req.body)
 
       // Replace req.method to GET and req.url
       req.method = 'GET'

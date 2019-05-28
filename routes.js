@@ -11,5 +11,5 @@ module.exports = {
   "/omni/apigateway/api/v1/user/:id/profile": "/users/:id",
   "/omni/apigateway/api/v1/teacher/:teacher/GetSessionsofDateandSchoolCode?year=:year&month=:month&date=:date&schoolCode=*": "/sessions/:teacher-:year-:month-:date",
   "/omni/apigateway/api/v1/ilab/checkphone":"/phones",
-  "/omni/apigateway/api/v1/ilab/register":"/registerphone"
+  "/omni/apigateway/api/v1/ilab/register":"/registeredphones"
 }
