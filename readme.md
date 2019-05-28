@@ -35,7 +35,8 @@ GET /api/v1/account/authenticate?loginName={}&encryptedPassword={} | data/teache
 GET /api/v1/user/{customerId}/profile | data/users.json
 GET /api/v1/teacher/{teacherId}/GetSessionsofDateandSchoolCode?year={}&month={}&date={}&schoolCode={} | data/sessions.json
 GET /api/v1/customer/GetInfoListofGroup?groupId={} | data/groupinfos.json
-GET /api/v1/ilab/checkphone | data/phones.json
+POST /api/v1/ilab/checkphone | data/phones.json
+POST /api/v1/ilab/register | data/registor.json
 
 ## Deployment
 
