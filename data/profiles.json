@@ -1,12 +1,5 @@
 [
   {
-    "id": 1234,
-    "data": {
-        "id": 1234,
-        "name": "Yet Another Student"
-    }
-  },
-  {
     "id": 39981176,
     "data": {
       "CustomerId": 39981176,
@@ -457,7 +450,7 @@
       "JoinedDate": "2018-08-19T00:00:00",
       "DateOfBirth": "2015-01-01T00:00:00",
       "WechatOpenIds": [],
-      "FirstName": "葛欣雨",
+      "FirstName": "xin",
       "LastName": null,
       "KidsILabUserName": "null1161388"
     }

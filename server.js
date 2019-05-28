@@ -9,6 +9,7 @@ const server = jsonServer.create()
 const rules = require('./routes')
 server.use(jsonServer.rewriter(rules))
 
+// Set body parser to support post request body
 server.use(jsonServer.bodyParser);
 
 // Convert POST /customer to GET /customer/:id
@@ -18,6 +19,7 @@ server.use(customMiddlewares.supportAuth)
 const middlewares = jsonServer.defaults()
 server.use(middlewares)
 
+// Add healthcheck path
 server.get('/omni/apigateway/health', (req, res) => {
   res.status(200).jsonp('ok')
 })
