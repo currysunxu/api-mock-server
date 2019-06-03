@@ -1,8 +1,8 @@
 [
   {
-    "id": 39981176,
+    "id": "39981176",
     "data": {
-      "CustomerId": 39981176,
+      "CustomerId": "39981176",
       "CountryCode": "CN",
       "EnglishFirstName": "test",
       "EnglishLastName": "hf",
@@ -26,7 +26,7 @@
   {
     "id": 1002,
     "data": {
-      "CustomerId": 1002,
+      "CustomerId": "1002",
       "CountryCode": "CN",
       "EnglishFirstName": "tst",
       "EnglishLastName": "hfke",
@@ -50,7 +50,7 @@
   {
     "id": 1003,
     "data": {
-      "CustomerId": 1003,
+      "CustomerId": "1003",
       "CountryCode": "CN",
       "EnglishFirstName": "test",
       "EnglishLastName": "last",
@@ -69,12 +69,12 @@
       "FirstName": "Test Account 3",
       "LastName": null,
       "KidsILabUserName": "hf2.cn.03"
-  }
+    }
   },
   {
     "id": 1004,
     "data": {
-      "CustomerId": 1004,
+      "CustomerId": "1004",
       "CountryCode": "CN",
       "EnglishFirstName": null,
       "EnglishLastName": null,
@@ -93,12 +93,12 @@
       "FirstName": "Test Account 4",
       "LastName": null,
       "KidsILabUserName": "hf2.cn.04"
-  }
+    }
   },
   {
     "id": 1016,
     "data": {
-      "CustomerId": 1016,
+      "CustomerId": "1016",
       "CountryCode": "CN",
       "EnglishFirstName": null,
       "EnglishLastName": null,
@@ -117,12 +117,12 @@
       "FirstName": "Test Account 16",
       "LastName": null,
       "KidsILabUserName": "ss2.cn.01"
-  }
+    }
   },
   {
     "id": 1017,
     "data": {
-      "CustomerId": 1017,
+      "CustomerId": "1017",
       "CountryCode": "CN",
       "EnglishFirstName": null,
       "EnglishLastName": null,
@@ -141,12 +141,12 @@
       "FirstName": "Test Account 17",
       "LastName": null,
       "KidsILabUserName": "ss2.cn.auto"
-  }
+    }
   },
   {
     "id": 1022,
     "data": {
-      "CustomerId": 1022,
+      "CustomerId": "1022",
       "CountryCode": "CN",
       "EnglishFirstName": null,
       "EnglishLastName": null,
@@ -165,12 +165,12 @@
       "FirstName": "Test Account 22",
       "LastName": null,
       "KidsILabUserName": "tb3.cn.01"
-  }
+    }
   },
   {
     "id": 1023,
     "data": {
-      "CustomerId": 1023,
+      "CustomerId": "1023",
       "CountryCode": "CN",
       "EnglishFirstName": null,
       "EnglishLastName": null,
@@ -189,12 +189,12 @@
       "FirstName": "Test Account 23",
       "LastName": null,
       "KidsILabUserName": "tb3.cn.02"
-  }
+    }
   },
   {
     "id": 1024,
     "data": {
-      "CustomerId": 1024,
+      "CustomerId": "1024",
       "CountryCode": "CN",
       "EnglishFirstName": null,
       "EnglishLastName": null,
@@ -213,12 +213,12 @@
       "FirstName": "Test Account 24",
       "LastName": null,
       "KidsILabUserName": "tb3.cn.03"
-  }
+    }
   },
-    {
+  {
     "id": 13682700,
     "data": {
-      "CustomerId": 13682700,
+      "CustomerId": "13682700",
       "CountryCode": "CN",
       "EnglishFirstName": "tb",
       "EnglishLastName": "test1",
@@ -237,12 +237,12 @@
       "FirstName": "Test Account 25",
       "LastName": null,
       "KidsILabUserName": "tb3.cn.auto1"
-  }
+    }
   },
   {
     "id": 1047,
     "data": {
-      "CustomerId": 1047,
+      "CustomerId": "1047",
       "CountryCode": "CN",
       "EnglishFirstName": null,
       "EnglishLastName": null,
@@ -261,12 +261,12 @@
       "FirstName": "Test Account 47",
       "LastName": null,
       "KidsILabUserName": "ss3.cn.01"
-  }
+    }
   },
   {
     "id": 1048,
     "data": {
-      "CustomerId": 1048,
+      "CustomerId": "1048",
       "CountryCode": "CN",
       "EnglishFirstName": null,
       "EnglishLastName": null,
@@ -285,12 +285,12 @@
       "FirstName": "Test Account 48",
       "LastName": null,
       "KidsILabUserName": "ss3.cn.02"
-  }
+    }
   },
   {
     "id": 1063,
     "data": {
-      "CustomerId": 1063,
+      "CustomerId": "1063",
       "CountryCode": "CN",
       "EnglishFirstName": null,
       "EnglishLastName": null,
@@ -309,12 +309,12 @@
       "FirstName": "Test Account 63",
       "LastName": null,
       "KidsILabUserName": "fr.cn.01"
-  }
+    }
   },
   {
     "id": 1064,
     "data": {
-      "CustomerId": 1064,
+      "CustomerId": "1064",
       "CountryCode": "CN",
       "EnglishFirstName": null,
       "EnglishLastName": null,
@@ -333,12 +333,12 @@
       "FirstName": "Test Account 64",
       "LastName": null,
       "KidsILabUserName": "fr.cn.02"
-  }
+    }
   },
   {
     "id": 1070,
     "data": {
-      "CustomerId": 1070,
+      "CustomerId": "1070",
       "CountryCode": "CN",
       "EnglishFirstName": null,
       "EnglishLastName": null,
@@ -357,12 +357,12 @@
       "FirstName": "Test Account 70",
       "LastName": null,
       "KidsILabUserName": "hf3.cn.01"
-  }
+    }
   },
   {
     "id": 1071,
     "data": {
-      "CustomerId": 1071,
+      "CustomerId": "1071",
       "CountryCode": "CN",
       "EnglishFirstName": null,
       "EnglishLastName": null,
@@ -381,12 +381,12 @@
       "FirstName": "Test Account 71",
       "LastName": null,
       "KidsILabUserName": "hf3.cn.02"
-  }
+    }
   },
   {
     "id": 1038,
     "data": {
-      "CustomerId": 1038,
+      "CustomerId": "1038",
       "CountryCode": "CN",
       "EnglishFirstName": null,
       "EnglishLastName": null,
@@ -405,36 +405,36 @@
       "FirstName": "Test Account 38",
       "LastName": null,
       "KidsILabUserName": "gp.cn.auto4"
-  }
+    }
   },
   {
-    "id":45670366,
-    "data":{
-    "CustomerId": 45670366,
-    "CountryCode": "CN",
-    "EnglishFirstName": "Eason",
-    "EnglishLastName": "Shao Testing",
-    "Status": "Student",
-    "StatusUpdatedUtcDateTime": "2019-05-15T09:08:22",
-    "AvatarURL": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_roufph.jpg",
-    "PreferredLanguageCode": null,
-    "Gender": "M",
-    "Address": null,
-    "Email": "allen.y.zhang@ef.com",
-    "HomePhoneNumber": "12221111111",
-    "MobilePhoneNumber": "12221111111",
-    "JoinedDate": "2018-04-09T00:00:00",
-    "DateOfBirth": "2002-10-23T00:00:00",
-    "WechatOpenIds": [],
-    "FirstName": "邵宇宸",
-    "LastName": null,
-    "KidsILabUserName": "WuBao1"
-}
+    "id": 45670366,
+    "data": {
+      "CustomerId": "45670366",
+      "CountryCode": "CN",
+      "EnglishFirstName": "Eason",
+      "EnglishLastName": "Shao Testing",
+      "Status": "Student",
+      "StatusUpdatedUtcDateTime": "2019-05-15T09:08:22",
+      "AvatarURL": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_roufph.jpg",
+      "PreferredLanguageCode": null,
+      "Gender": "M",
+      "Address": null,
+      "Email": "allen.y.zhang@ef.com",
+      "HomePhoneNumber": "12221111111",
+      "MobilePhoneNumber": "12221111111",
+      "JoinedDate": "2018-04-09T00:00:00",
+      "DateOfBirth": "2002-10-23T00:00:00",
+      "WechatOpenIds": [],
+      "FirstName": "邵宇宸",
+      "LastName": null,
+      "KidsILabUserName": "WuBao1"
+    }
   },
   {
     "id": 43287872,
     "data": {
-      "CustomerId": 43287872,
+      "CustomerId": "43287872",
       "CountryCode": "CN",
       "EnglishFirstName": "Daisy",
       "EnglishLastName": "Ge",
@@ -453,6 +453,30 @@
       "FirstName": "xin",
       "LastName": null,
       "KidsILabUserName": "null1161388"
+    }
+  },
+  {
+    "id": "00Q6D0000019OSeUAM",
+    "data": {
+      "CustomerId": "00Q6D0000019OSeUAM",
+      "CountryCode": "CN",
+      "EnglishFirstName": null,
+      "EnglishLastName": null,
+      "Status": "Lead",
+      "StatusUpdatedUtcDateTime": null,
+      "AvatarURL": null,
+      "PreferredLanguageCode": null,
+      "Gender": null,
+      "Address": null,
+      "Email": null,
+      "HomePhoneNumber": null,
+      "MobilePhoneNumber": "1231231231333",
+      "JoinedDate": null,
+      "DateOfBirth": "2019-02-12T00:00:00",
+      "WechatOpenIds": [],
+      "FirstName": null,
+      "LastName": "test by",
+      "KidsILabUserName": null
     }
   }
 ]

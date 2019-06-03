@@ -20,12 +20,22 @@ module.exports = {
       // Get phone number from request body
       var reqBody = utils.lowerJSONKey(req.body)
       var phoneNum = reqBody.phone
-      console.log(phoneNum)
-
 
       // Replace req.method to GET and req.url
       req.method = 'GET'
       req.url = '/phones/' + phoneNum
+    }
+
+    if (req.method == 'POST' && req.url == ('/registeredphones')) {
+
+      // Get phone number from request body
+      var reqBody = utils.lowerJSONKey(req.body)
+      var phoneNum = reqBody.phone
+
+      // Replace req.method to GET and req.url
+      req.method = 'GET'
+      req.url = '/registeredphones/' + phoneNum
+      console.log(req.url)
     }
 
     // Contiue to JSON server router
