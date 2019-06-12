@@ -25,6 +25,31 @@
     }
   },
   {
+    "id": 245720,
+    "data": {
+      "UserId": 245720,
+      "AvatarURL": null,
+      "FirstName": "CN auto Teacher",
+      "LastName": null,
+      "Gender": null,
+      "DisplayName": "CN auto Teacher",
+      "SchoolsInCounty": [
+        {
+          "CountryCode": "RU",
+          "SchoolCodes": [
+            "SNA"
+          ]
+        },
+        {
+          "CountryCode": "CN",
+          "SchoolCodes": [
+            "DCNBJS21","BJP"
+          ]
+        }
+      ]
+    }
+  },
+  {
     "id": 145722,
     "data": {
       "UserId": 145722,
