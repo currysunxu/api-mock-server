@@ -21,8 +21,7 @@ pipeline {
     buildDiscarder(logRotator(numToKeepStr: '20'))
   }
   agent {
-    // label ktGetJenkinsSlave(config.region)
-    label 'CN-OMNI-UI-CI'
+    label ktGetJenkinsSlave(config.region)
   }
   triggers {
     pollSCM('')
