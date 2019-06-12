@@ -343,5 +343,41 @@
         "RemainingACH": 48
       }
     ]
+  },
+  {
+    "id": 2001,
+    "data": [
+      {
+          "CourseTypeCode": "SS",
+          "CourseLevelCodes": [
+              "v3bk1"
+          ],
+          "RemainingACH": 140
+      }
+  ]
+  },
+  {
+    "id": 2002,
+    "data": [
+      {
+          "CourseTypeCode": "SS",
+          "CourseLevelCodes": [
+              "v3bk1"
+          ],
+          "RemainingACH": 140
+      }
+  ]
+  },
+  {
+    "id": 2003,
+    "data": [
+      {
+          "CourseTypeCode": "SS",
+          "CourseLevelCodes": [
+              "v3bk1"
+          ],
+          "RemainingACH": 140
+      }
+  ]
   }
 ]
