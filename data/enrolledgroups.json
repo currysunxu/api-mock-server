@@ -317,5 +317,31 @@
   {
     "id":43287872,
     "data":[]
+  },
+  {
+    "id":100095818,
+    "data":[]
+  },
+  {
+    "id": 11328149,
+    "data": [
+      {
+        "CourseTypeCode": "SS",
+        "CourseLevelCodes": [
+            "Orange",
+            "C",
+            "Green",
+            "Blue"
+        ],
+        "RemainingACH": 0
+      },
+      {
+        "CourseTypeCode": "HF",
+        "CourseLevelCodes": [
+            "C"
+        ],
+        "RemainingACH": 48
+      }
+    ]
   }
 ]
