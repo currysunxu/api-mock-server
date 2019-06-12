@@ -44,7 +44,7 @@
     "id":200082587,
     "data": [
       {
-        "CustomerId": "1003",
+        "CustomerId": "2001",
         "CountryCode": "CN",
         "EnglishFirstName": "Hf2Test",
         "EnglishLastName": "Ge",
@@ -59,10 +59,10 @@
         "DateOfBirth": "2015-01-01T00:00:00",
         "FirstName": "yuxin",
         "LastName": null,
-        "KidsILabUserName": "hf2.cn.03"
+        "KidsILabUserName": "sspt.cn.03"
       },
       {
-        "CustomerId": "1002",
+        "CustomerId": "2001",
         "CountryCode": "CN",
         "EnglishFirstName": "test",
         "EnglishLastName": "Ge",
@@ -77,10 +77,10 @@
         "DateOfBirth": "2015-01-01T00:00:00",
         "FirstName": "yuxin",
         "LastName": null,
-        "KidsILabUserName": "hf2.cn.02"
+        "KidsILabUserName": "sspt.cn.02"
       },
       {
-        "CustomerId": "1003",
+        "CustomerId": "2003",
         "CountryCode": "CN",
         "EnglishFirstName": "test3",
         "EnglishLastName": "Ge",
@@ -95,7 +95,7 @@
         "DateOfBirth": "2015-01-01T00:00:00",
         "FirstName": "yuxin",
         "LastName": null,
-        "KidsILabUserName": "hf2.cn.03"
+        "KidsILabUserName": "sspt.cn.03"
       }
     ]
   }
