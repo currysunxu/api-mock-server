@@ -181,15 +181,27 @@
     }
   },
   {
-    "id": "hfDefBKTest.Mul.Pending",
+    "id": "hfDefBKTest.Mul.Created",
     "data": {
       "CustomerId": "9000005"
     }
   },
   {
-    "id": "hfDefBKTest.false.Mul.Pending",
+    "id": "hfDefBKTest.false.Mul.Created",
     "data": {
       "CustomerId": "9000006"
+    }
+  },
+  {
+    "id": "hfDefBKTest.Mix.Pending",
+    "data": {
+      "CustomerId": "9000013"
+    }
+  },
+  {
+    "id": "hfDefBKTest.false.Mix.Pending",
+    "data": {
+      "CustomerId": "9000014"
     }
   },
   {
