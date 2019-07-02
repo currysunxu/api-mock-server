@@ -213,7 +213,7 @@
   {
     "id": "hfDefBKTest.false.Sig.Activated",
     "data": {
-      "CustomerId": "9000008"
+      "CustomerId": "12226032"
     }
   },
   {
@@ -238,6 +238,18 @@
     "id": "hfDefBKTest.Cancelled",
     "data": {
       "CustomerId": "9000012"
+    }
+  },
+  {
+    "id": "ptReviewTest01",
+    "data": {
+      "CustomerId": "12221442"
+    }
+  },
+  {
+    "id": "ptReviewTest02",
+    "data": {
+      "CustomerId": "12071306"
     }
   }
 ]
