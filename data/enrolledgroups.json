@@ -379,5 +379,62 @@
           "RemainingACH": 140
       }
   ]
+  },
+  {
+    "id": 12221442,
+    "data": [
+      {
+          "CourseTypeCode": "HF",
+          "CourseLevelCodes": [
+              "I",
+              "C",
+              "D",
+              "F",
+              "G",
+              "J",
+              "E",
+              "H"
+          ],
+          "RemainingACH": 0
+      }
+  ]
+  },
+  {
+    "id": 12071306,
+    "data": [
+      {
+          "CourseTypeCode": "HF",
+          "CourseLevelCodes": [
+              "I",
+              "C",
+              "D",
+              "F",
+              "G",
+              "J",
+              "E",
+              "H"
+          ],
+          "RemainingACH": 0
+      }
+  ]
+  },
+  {
+    "id": 12226032,
+    "data": [
+      {
+          "CourseTypeCode": "HF",
+          "CourseLevelCodes": [
+              "I",
+              "C",
+              "D",
+              "F",
+              "G",
+              "J",
+              "E",
+              "H"
+          ],
+          "RemainingACH": 0
+      }
+  ]
   }
 ]
