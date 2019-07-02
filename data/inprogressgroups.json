@@ -4624,8 +4624,8 @@
           "CountryCode": "CN",
           "SessionACH": 3,
           "TotalACH": 72
-      }
-	  {
+      },
+	    {
           "GroupId": 10006,
           "GroupName": "High Fly 2.0 H",
           "GroupCode": "HFV2H-1-120-A-06",
