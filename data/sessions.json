@@ -68,5 +68,19 @@
         "Classroom": "Clever"
       }
     ]
+  },
+  {
+    "id": "145719-2019-7-2",
+    "data": [
+      {
+          "GroupId": 100082300,
+          "CourseTypeCode": "HF",
+          "CourseTypeLevelCode": "HFC",
+          "StartTime": "2019-07-02T20:00:00",
+          "EndTime": "2019-07-02T21:00:00",
+          "GroupCode": "HFV2C-1-120-P-160619-44",
+          "Classroom": "Success"
+      }
+    ]
   }
 ]
