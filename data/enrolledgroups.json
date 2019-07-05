@@ -498,5 +498,17 @@
         "RemainingACH": 468
     }
     ]
+  },
+   {
+    "id":100363191,
+    "data":[
+    {
+        "CourseTypeCode": "HF",
+        "CourseLevelCodes": [
+            "D"
+        ],
+        "RemainingACH": 468
+    }
+    ]
   }
 ]
