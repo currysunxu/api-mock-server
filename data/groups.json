@@ -2,275 +2,275 @@
   {
     "id": 9000001,
     "data": {
-    "groups": [
-        {
-            "usedACH": 34.5,
-            "totalACH": 76.5,
-            "timezone": "Asia/Shanghai",
-            "status": "current",
-            "programLevelId": "100547",
-            "programLevel": "F",
-            "program": "High Flyers",
-            "name": "smoke pt HF 05",
-            "leftACH": 0,
-            "isCurrentGroup": true,
-            "id": "100082298",
-            "allSessions": []
-        },
-        {
-            "usedACH": 36,
-            "totalACH": 60,
-            "timezone": "Asia/Shanghai",
-            "status": "past",
-            "programLevelId": "100544",
-            "programLevel": "C",
-            "program": "High Flyers",
-            "name": "GroupTestCreateManyStudent04",
-            "leftACH": 0,
-            "isCurrentGroup": false,
-            "id": "100082182",
-            "allSessions": []
-        },
-        {
-            "usedACH": 0,
-            "totalACH": 60,
-            "timezone": "Asia/Shanghai",
-            "status": "current",
-            "programLevelId": "100545",
-            "programLevel": "D",
-            "program": "High Flyers",
-            "name": "testgroup05",
-            "leftACH": 40,
-            "isCurrentGroup": false,
-            "id": "100084835",
-            "allSessions": []
-        },
-        {
-            "usedACH": 0,
-            "totalACH": 0,
-            "timezone": "Asia/Shanghai",
-            "status": "future",
-            "programLevelId": "100546",
-            "programLevel": "E",
-            "program": "High Flyers",
-            "name": null,
-            "leftACH": null,
-            "isCurrentGroup": null,
-            "id": null,
-            "allSessions": []
-        }
-    ],
-    "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-    "customerId": "9000001"
+      "groups": [
+          {
+              "usedACH": 34.5,
+              "totalACH": 76.5,
+              "timezone": "Asia/Shanghai",
+              "status": "current",
+              "programLevelId": "100547",
+              "programLevel": "F",
+              "program": "High Flyers",
+              "name": "smoke pt HF 05",
+              "leftACH": 0,
+              "isCurrentGroup": true,
+              "id": "100082298",
+              "allSessions": []
+          },
+          {
+              "usedACH": 36,
+              "totalACH": 60,
+              "timezone": "Asia/Shanghai",
+              "status": "past",
+              "programLevelId": "100544",
+              "programLevel": "C",
+              "program": "High Flyers",
+              "name": "GroupTestCreateManyStudent04",
+              "leftACH": 0,
+              "isCurrentGroup": false,
+              "id": "100082182",
+              "allSessions": []
+          },
+          {
+              "usedACH": 0,
+              "totalACH": 60,
+              "timezone": "Asia/Shanghai",
+              "status": "current",
+              "programLevelId": "100545",
+              "programLevel": "D",
+              "program": "High Flyers",
+              "name": "testgroup05",
+              "leftACH": 40,
+              "isCurrentGroup": false,
+              "id": "100084835",
+              "allSessions": []
+          },
+          {
+              "usedACH": 0,
+              "totalACH": 0,
+              "timezone": "Asia/Shanghai",
+              "status": "future",
+              "programLevelId": "100546",
+              "programLevel": "E",
+              "program": "High Flyers",
+              "name": null,
+              "leftACH": null,
+              "isCurrentGroup": null,
+              "id": null,
+              "allSessions": []
+          }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "9000001"
     }
   },
   {
     "id": 9000002,
     "data": {
-    "groups": [
-        {
-            "usedACH": 36,
-            "totalACH": 60,
-            "timezone": "Asia/Shanghai",
-            "status": "past",
-            "programLevelId": "100544",
-            "programLevel": "C",
-            "program": "High Flyers",
-            "name": "GroupTestCreateManyStudent04",
-            "leftACH": 0,
-            "isCurrentGroup": false,
-            "id": "null",
-            "allSessions": []
-        },
-        {
-            "usedACH": 0,
-            "totalACH": 60,
-            "timezone": "Asia/Shanghai",
-            "status": "past",
-            "programLevelId": "100545",
-            "programLevel": "D",
-            "program": "High Flyers",
-            "name": "testgroup05",
-            "leftACH": 40,
-            "isCurrentGroup": false,
-            "id": "null",
-            "allSessions": []
-        },
-        {
-            "usedACH": 0,
-            "totalACH": 0,
-            "timezone": "Asia/Shanghai",
-            "status": "past",
-            "programLevelId": "100546",
-            "programLevel": "E",
-            "program": "High Flyers",
-            "name": null,
-            "leftACH": null,
-            "isCurrentGroup": false,
-            "id": null,
-            "allSessions": []
-        },
-		    {
-            "usedACH": 34.5,
-            "totalACH": 76.5,
-            "timezone": "Asia/Shanghai",
-            "status": "future",
-            "programLevelId": "100547",
-            "programLevel": "F",
-            "program": "High Flyers",
-            "name": "smoke pt HF 05",
-            "leftACH": 0,
-            "isCurrentGroup": null,
-            "id": "null",
-            "allSessions": []
-        }
-    ],
-    "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-    "customerId": "9000002"
+      "groups": [
+          {
+              "usedACH": 36,
+              "totalACH": 60,
+              "timezone": "Asia/Shanghai",
+              "status": "past",
+              "programLevelId": "100544",
+              "programLevel": "C",
+              "program": "High Flyers",
+              "name": "GroupTestCreateManyStudent04",
+              "leftACH": 0,
+              "isCurrentGroup": false,
+              "id": "null",
+              "allSessions": []
+          },
+          {
+              "usedACH": 0,
+              "totalACH": 60,
+              "timezone": "Asia/Shanghai",
+              "status": "past",
+              "programLevelId": "100545",
+              "programLevel": "D",
+              "program": "High Flyers",
+              "name": "testgroup05",
+              "leftACH": 40,
+              "isCurrentGroup": false,
+              "id": "null",
+              "allSessions": []
+          },
+          {
+              "usedACH": 0,
+              "totalACH": 0,
+              "timezone": "Asia/Shanghai",
+              "status": "past",
+              "programLevelId": "100546",
+              "programLevel": "E",
+              "program": "High Flyers",
+              "name": null,
+              "leftACH": null,
+              "isCurrentGroup": false,
+              "id": null,
+              "allSessions": []
+          },
+          {
+              "usedACH": 34.5,
+              "totalACH": 76.5,
+              "timezone": "Asia/Shanghai",
+              "status": "future",
+              "programLevelId": "100547",
+              "programLevel": "F",
+              "program": "High Flyers",
+              "name": "smoke pt HF 05",
+              "leftACH": 0,
+              "isCurrentGroup": null,
+              "id": "null",
+              "allSessions": []
+          }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "9000002"
     }
   },
   {
     "id": 9000003,
     "data": {
-    "groups": [
-        {
-            "usedACH": 0,
-            "totalACH": 0,
-            "timezone": "Asia/Shanghai",
-            "status": "future",
-            "programLevelId": "100546",
-            "programLevel": "E",
-            "program": "High Flyers",
-            "name": null,
-            "leftACH": null,
-            "isCurrentGroup": null,
-            "id": null,
-            "allSessions": []
-        },
-		    {
-            "usedACH": 34.5,
-            "totalACH": 76.5,
-            "timezone": "Asia/Shanghai",
-            "status": "future",
-            "programLevelId": "100547",
-            "programLevel": "F",
-            "program": "High Flyers",
-            "name": "smoke pt HF 05",
-            "leftACH": 0,
-            "isCurrentGroup": null,
-            "id": "null",
-            "allSessions": []
-        }
-    ],
-    "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-    "customerId": "9000003"
+      "groups": [
+          {
+              "usedACH": 0,
+              "totalACH": 0,
+              "timezone": "Asia/Shanghai",
+              "status": "future",
+              "programLevelId": "100546",
+              "programLevel": "E",
+              "program": "High Flyers",
+              "name": null,
+              "leftACH": null,
+              "isCurrentGroup": null,
+              "id": null,
+              "allSessions": []
+          },
+          {
+              "usedACH": 34.5,
+              "totalACH": 76.5,
+              "timezone": "Asia/Shanghai",
+              "status": "future",
+              "programLevelId": "100547",
+              "programLevel": "F",
+              "program": "High Flyers",
+              "name": "smoke pt HF 05",
+              "leftACH": 0,
+              "isCurrentGroup": null,
+              "id": "null",
+              "allSessions": []
+          }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "9000003"
     }
   },
   {
     "id": 9000004,
     "data": {
-    "groups": [
-        {
-            "usedACH": 62.5,
-            "totalACH": 62.5,
-            "timezone": "Asia/Baghdad",
-            "status": "past",
-            "programLevelId": "100507",
-            "programLevel": "1",
-            "program": "Trailblazers",
-            "name": "TBv3-sang-test",
-            "leftACH": 0,
-            "isCurrentGroup": false,
-            "id": "100082210",
-            "allSessions": []
-        },
-        {
-            "usedACH": 102,
-            "totalACH": 103.5,
-            "timezone": "Asia/Shanghai",
-            "status": "current",
-            "programLevelId": "100369",
-            "programLevel": "1",
-            "program": "Small Stars",
-            "name": "SSV3 Sang Testing",
-            "leftACH": 0,
-            "isCurrentGroup": false,
-            "id": "100082370",
-            "allSessions": []
-        },
-        {
-            "usedACH": 94.5,
-            "totalACH": 106.5,
-            "timezone": "Asia/Shanghai",
-            "status": "current",
-            "programLevelId": "100362",
-            "programLevel": "Blue",
-            "program": "Small Stars",
-            "name": "SSblue-Vivian-开心果",
-            "leftACH": 0,
-            "isCurrentGroup": false,
-            "id": "100020868",
-            "allSessions": []
-        },
-        {
-            "usedACH": 36,
-            "totalACH": 60,
-            "timezone": "Asia/Shanghai",
-            "status": "past",
-            "programLevelId": "100544",
-            "programLevel": "C",
-            "program": "High Flyers",
-            "name": "GroupTestCreateManyStudent04",
-            "leftACH": 0,
-            "isCurrentGroup": false,
-            "id": "100082182",
-            "allSessions": []
-        },
-        {
-            "usedACH": 0,
-            "totalACH": 60,
-            "timezone": "Asia/Shanghai",
-            "status": "past",
-            "programLevelId": "100545",
-            "programLevel": "D",
-            "program": "High Flyers",
-            "name": "testgroup05",
-            "leftACH": 40,
-            "isCurrentGroup": false,
-            "id": "100084835",
-            "allSessions": []
-        },
-        {
-            "usedACH": 0,
-            "totalACH": 0,
-            "timezone": "Asia/Shanghai",
-            "status": "current",
-            "programLevelId": "100546",
-            "programLevel": "E",
-            "program": "High Flyers",
-            "name": null,
-            "leftACH": null,
-            "isCurrentGroup": false,
-            "id": null,
-            "allSessions": []
-        },
-		    {
-            "usedACH": 34.5,
-            "totalACH": 76.5,
-            "timezone": "Asia/Shanghai",
-            "status": "current",
-            "programLevelId": "100547",
-            "programLevel": "F",
-            "program": "High Flyers",
-            "name": "smoke pt HF 05",
-            "leftACH": 0,
-            "isCurrentGroup": true,
-            "id": "100082298",
-            "allSessions": []
-        }
-    ],
-    "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-    "customerId": "9000004"
+      "groups": [
+          {
+              "usedACH": 62.5,
+              "totalACH": 62.5,
+              "timezone": "Asia/Baghdad",
+              "status": "past",
+              "programLevelId": "100507",
+              "programLevel": "1",
+              "program": "Trailblazers",
+              "name": "TBv3-sang-test",
+              "leftACH": 0,
+              "isCurrentGroup": false,
+              "id": "100082210",
+              "allSessions": []
+          },
+          {
+              "usedACH": 102,
+              "totalACH": 103.5,
+              "timezone": "Asia/Shanghai",
+              "status": "current",
+              "programLevelId": "100369",
+              "programLevel": "1",
+              "program": "Small Stars",
+              "name": "SSV3 Sang Testing",
+              "leftACH": 0,
+              "isCurrentGroup": false,
+              "id": "100082370",
+              "allSessions": []
+          },
+          {
+              "usedACH": 94.5,
+              "totalACH": 106.5,
+              "timezone": "Asia/Shanghai",
+              "status": "current",
+              "programLevelId": "100362",
+              "programLevel": "Blue",
+              "program": "Small Stars",
+              "name": "SSblue-Vivian-开心果",
+              "leftACH": 0,
+              "isCurrentGroup": false,
+              "id": "100020868",
+              "allSessions": []
+          },
+          {
+              "usedACH": 36,
+              "totalACH": 60,
+              "timezone": "Asia/Shanghai",
+              "status": "past",
+              "programLevelId": "100544",
+              "programLevel": "C",
+              "program": "High Flyers",
+              "name": "GroupTestCreateManyStudent04",
+              "leftACH": 0,
+              "isCurrentGroup": false,
+              "id": "100082182",
+              "allSessions": []
+          },
+          {
+              "usedACH": 0,
+              "totalACH": 60,
+              "timezone": "Asia/Shanghai",
+              "status": "past",
+              "programLevelId": "100545",
+              "programLevel": "D",
+              "program": "High Flyers",
+              "name": "testgroup05",
+              "leftACH": 40,
+              "isCurrentGroup": false,
+              "id": "100084835",
+              "allSessions": []
+          },
+          {
+              "usedACH": 0,
+              "totalACH": 0,
+              "timezone": "Asia/Shanghai",
+              "status": "current",
+              "programLevelId": "100546",
+              "programLevel": "E",
+              "program": "High Flyers",
+              "name": null,
+              "leftACH": null,
+              "isCurrentGroup": false,
+              "id": null,
+              "allSessions": []
+          },
+          {
+              "usedACH": 34.5,
+              "totalACH": 76.5,
+              "timezone": "Asia/Shanghai",
+              "status": "current",
+              "programLevelId": "100547",
+              "programLevel": "F",
+              "program": "High Flyers",
+              "name": "smoke pt HF 05",
+              "leftACH": 0,
+              "isCurrentGroup": true,
+              "id": "100082298",
+              "allSessions": []
+          }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "9000004"
     }
   }
 ]
