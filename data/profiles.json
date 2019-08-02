@@ -652,7 +652,7 @@
     "data": {
       "CustomerId": "12226032",
       "CountryCode": "CN",
-      "EnglishFirstName": "hfDefBKTest.false.Sig.Activated",
+      "EnglishFirstName": "ptReviewTest_OneCurrent",
       "EnglishLastName": "Test",
       "Status": "Student",
       "StatusUpdatedUtcDateTime": "2018-10-10T17:12:01",
@@ -666,7 +666,7 @@
       "JoinedDate": "2010-04-04T00:00:00",
       "DateOfBirth": "2008-01-04T00:00:00",
       "WechatOpenIds": [],
-      "FirstName": "hfDefBKTest.false.Sig.Activated",
+      "FirstName": "ptReviewTest_OneCurrent",
       "LastName": null,
       "KidsILabUserName": "daniel160039"
     }
@@ -676,7 +676,7 @@
     "data": {
       "CustomerId": "9000001",
       "CountryCode": "CN",
-      "EnglishFirstName": "hfDefBKTest.Mul.Activated",
+      "EnglishFirstName": "ptReviewTest_PastCurrent",
       "EnglishLastName": "Test",
       "Status": "Student",
       "StatusUpdatedUtcDateTime": "2018-10-10T17:12:01",
@@ -690,7 +690,7 @@
       "JoinedDate": "2010-04-04T00:00:00",
       "DateOfBirth": "2008-01-04T00:00:00",
       "WechatOpenIds": [],
-      "FirstName": "hfDefBKTest.Mul.Activated",
+      "FirstName": "ptReviewTest_PastCurrent",
       "LastName": null,
       "KidsILabUserName": "daniel160039"
     }
@@ -700,7 +700,7 @@
     "data": {
       "CustomerId": "9000002",
       "CountryCode": "CN",
-      "EnglishFirstName": "hfDefBKTest.Mul.Completed",
+      "EnglishFirstName": "ptReviewTest_Past",
       "EnglishLastName": "Test",
       "Status": "Student",
       "StatusUpdatedUtcDateTime": "2018-10-10T17:12:01",
@@ -714,7 +714,7 @@
       "JoinedDate": "2010-04-04T00:00:00",
       "DateOfBirth": "2008-01-04T00:00:00",
       "WechatOpenIds": [],
-      "FirstName": "hfDefBKTest.Mul.Completed",
+      "FirstName": "ptReviewTest_Past",
       "LastName": null,
       "KidsILabUserName": "daniel160039"
     }
@@ -724,7 +724,7 @@
     "data": {
       "CustomerId": "9000003",
       "CountryCode": "CN",
-      "EnglishFirstName": "hfDefBKTest.false.Mul.Activated",
+      "EnglishFirstName": "ptReviewTest_FutureInvalid",
       "EnglishLastName": "Test",
       "Status": "Student",
       "StatusUpdatedUtcDateTime": "2018-10-10T17:12:01",
@@ -738,7 +738,7 @@
       "JoinedDate": "2010-04-04T00:00:00",
       "DateOfBirth": "2008-01-04T00:00:00",
       "WechatOpenIds": [],
-      "FirstName": "hfDefBKTest.false.Mul.Activated",
+      "FirstName": "ptReviewTest_FutureInvalid",
       "LastName": null,
       "KidsILabUserName": "daniel160039"
     }
@@ -748,7 +748,7 @@
     "data": {
       "CustomerId": "9000004",
       "CountryCode": "CN",
-      "EnglishFirstName": "hfDefBKTest.false.Mul.Completed",
+      "EnglishFirstName": "ptReviewTest_MixSSHF",
       "EnglishLastName": "Test",
       "Status": "Student",
       "StatusUpdatedUtcDateTime": "2018-10-10T17:12:01",
@@ -762,7 +762,7 @@
       "JoinedDate": "2010-04-04T00:00:00",
       "DateOfBirth": "2008-01-04T00:00:00",
       "WechatOpenIds": [],
-      "FirstName": "hfDefBKTest.false.Mul.Completed",
+      "FirstName": "ptReviewTest_MixSSHF",
       "LastName": null,
       "KidsILabUserName": "daniel160039"
     }
