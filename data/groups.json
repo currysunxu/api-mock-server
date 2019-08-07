@@ -72,6 +72,20 @@
               "isCurrentGroup": false,
               "id": "100082182",
               "allSessions": []
+          },
+          {
+              "usedACH": 34.5,
+              "totalACH": 76.5,
+              "timezone": "Asia/Shanghai",
+              "status": "invalidStatus",
+              "programLevelId": "100547",
+              "programLevel": "H",
+              "program": "High Flyers",
+              "name": "smoke pt HF 05",
+              "leftACH": 0,
+              "isCurrentGroup": null,
+              "id": "null",
+              "allSessions": []
           }
       ],
       "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
@@ -137,6 +151,20 @@
               "isCurrentGroup": null,
               "id": "null",
               "allSessions": []
+          },
+          {
+              "usedACH": 34.5,
+              "totalACH": 76.5,
+              "timezone": "Asia/Shanghai",
+              "status": "invalidStatus",
+              "programLevelId": "100547",
+              "programLevel": "G",
+              "program": "High Flyers",
+              "name": "smoke pt HF 05",
+              "leftACH": 0,
+              "isCurrentGroup": null,
+              "id": "null",
+              "allSessions": []
           }
       ],
       "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
@@ -168,6 +196,20 @@
               "status": "future",
               "programLevelId": "100547",
               "programLevel": "F",
+              "program": "High Flyers",
+              "name": "smoke pt HF 05",
+              "leftACH": 0,
+              "isCurrentGroup": null,
+              "id": "null",
+              "allSessions": []
+          },
+          {
+              "usedACH": 34.5,
+              "totalACH": 76.5,
+              "timezone": "Asia/Shanghai",
+              "status": "invalidStatus",
+              "programLevelId": "100547",
+              "programLevel": "G",
               "program": "High Flyers",
               "name": "smoke pt HF 05",
               "leftACH": 0,
