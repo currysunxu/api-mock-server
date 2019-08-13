@@ -15,4 +15,5 @@ module.exports = {
   "/omni/apigateway/api/v1/ilab/register":"/registeredphones",
   "/omni/apigateway/api/v1/customer/:id/remaining-OCHs": "/creditsinfo/:id",
   "/omni/apigateway/api/v1/customer/:id/groups": "/groups/:id",
+  "/omni/apigateway/api/v1/ksd/customer/:id/bookablegroup": "/bookablegroup/:id",
 }
