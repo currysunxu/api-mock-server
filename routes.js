@@ -3,6 +3,7 @@
 module.exports = {
   "/omni/apigateway/api/v1/customer": "/students",
   "/omni/apigateway/api/v1/customer/:id/profile": "/profiles/:id",
+  "/omni/apigateway/api/v1/customer/:id/online-profile": "/online-profiles/:id",
   "/omni/apigateway/api/v1/customer/:id/inprogressgroups": "/inprogressgroups/:id",
   "/omni/apigateway/api/v1/customer/:id/enrolledgroups": "/enrolledgroups/:id",
   "/omni/apigateway/api/v1/customer/:id/grammarpro": "/gpgroups/:id",
@@ -13,4 +14,6 @@ module.exports = {
   "/omni/apigateway/api/v1/ilab/checkphone":"/phones",
   "/omni/apigateway/api/v1/ilab/register":"/registeredphones",
   "/omni/apigateway/api/v1/customer/:id/remaining-OCHs": "/creditsinfo/:id",
+  "/omni/apigateway/api/v1/customer/:id/groups": "/groups/:id",
+  "/omni/apigateway/api/v1/ksd/customer/:id/bookablegroup": "/bookablegroup/:id",
 }

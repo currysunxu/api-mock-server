@@ -161,5 +161,77 @@
     "data": {
       "CustomerId": "11328149"
     }
+  },
+  {
+    "id": "ptReviewTest_PastCurrent",
+    "data": {
+      "CustomerId": "9000001"
+    }
+  },
+  {
+    "id": "ptReviewTest_Past",
+    "data": {
+      "CustomerId": "9000002"
+    }
+  },
+  {
+    "id": "ptReviewTest_FutureInvalid",
+    "data": {
+      "CustomerId": "9000003"
+    }
+  },
+  {
+    "id": "ptReviewTest_MixSSHF",
+    "data": {
+      "CustomerId": "9000004"
+    }
+  },
+  {
+    "id": "ptReviewTest_OneCurrent",
+    "data": {
+      "CustomerId": "12226032"
+    }
+  },
+  {
+    "id": "ptReviewTest01",
+    "data": {
+      "CustomerId": "12221442"
+    }
+  },
+  {
+    "id": "ptReviewTest02",
+    "data": {
+      "CustomerId": "12071306"
+    }
+  },
+  {
+    "id": "ptReviewTest03",
+    "data": {
+      "CustomerId": "12224132"
+    }
+  },
+  {
+    "id": "ptReviewTest04",
+    "data": {
+      "CustomerId": "9000020"
+    }
+  },
+    {
+    "id": "ptReviewTest05",
+    "data": {
+      "CustomerId": "9000021"
+    }
+  },
+    {
+    "id": "ptReviewTest06",
+    "data": {
+      "CustomerId": "9000022"
+    }
+  },
+  {
+    "id": "test.pilot",
+    "data": {
+      "CustomerId": "100363191"
+    }
   }
 ]

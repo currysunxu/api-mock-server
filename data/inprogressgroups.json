@@ -934,9 +934,50 @@
     "id": 1070,
     "data": [
       {
+        "GroupId": 10042,
+        "GroupName": "High Fly 3.0 C",
+        "GroupCode": "HFV3PlusC-1-60-C-01",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFC",
+          "Name": "C"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "WA",
+          "Name": "Waiting"
+        },
+        "GroupStatus": {
+          "Code": "F",
+          "Name": "Created"
+        },
+        "MainTeacher": {
+          "Id": 31035,
+          "Name": "Katherine"
+        },
+        "CoTeacher": {
+          "Id": 13948,
+          "Name": "Holly Ma"
+        },
+        "AssignTo": {
+          "Id": 261038,
+          "Name": "Zoe Shang"
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 54
+      },
+      {
         "GroupId": 10043,
         "GroupName": "High Fly 3.0 D",
-        "GroupCode": "HFV3PlusD-1-120-A-02",
+        "GroupCode": "HFV3PlusD-1-60-C-01",
         "CourseType": {
           "Code": "HF",
           "Name": "HF"
@@ -950,12 +991,12 @@
           "Name": "CN Omni Test"
         },
         "CustomerProductionStatus": {
-          "Code": "TO",
-          "Name": "Trans Out"
+          "Code": "STU",
+          "Name": "Studying"
         },
         "GroupStatus": {
-          "Code": "A",
-          "Name": "Activated"
+          "Code": "F",
+          "Name": "Created"
         },
         "MainTeacher": {
           "Id": 0,
@@ -973,6 +1014,252 @@
         "CountryCode": "CN",
         "SessionACH": 3,
         "TotalACH": 54
+      },
+      {
+        "GroupId": 10044,
+        "GroupName": "High Fly 3.0 E",
+        "GroupCode": "HFV3PlusE-1-60-C-01",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFE",
+          "Name": "E"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "F",
+          "Name": "Created"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 54
+      },
+      {
+        "GroupId": 10045,
+        "GroupName": "High Fly 3.0 F",
+        "GroupCode": "HFV3PlusF-1-60-C-01",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFF",
+          "Name": "F"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "F",
+          "Name": "Created"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 54
+      },
+      {
+        "GroupId": 10046,
+        "GroupName": "High Fly 3.0 G",
+        "GroupCode": "HFV3PlusG-1-60-C-01",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFG",
+          "Name": "G"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "F",
+          "Name": "Created"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 54
+      },
+      {
+        "GroupId": 10047,
+        "GroupName": "High Fly 3.0 H",
+        "GroupCode": "HFV3PlusH-1-60-C-01",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFH",
+          "Name": "H"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "F",
+          "Name": "Created"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 54
+      },
+      {
+        "GroupId": 10048,
+        "GroupName": "High Fly 3.0 I",
+        "GroupCode": "HFV3PlusI-1-120-C-01",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFI",
+          "Name": "I"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "F",
+          "Name": "Created"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 57
+      },
+      {
+        "GroupId": 10049,
+        "GroupName": "High Fly 3.0 J",
+        "GroupCode": "HFV3PlusJ-1-120-C-01",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFJ",
+          "Name": "J"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "F",
+          "Name": "Created"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 57
       }
     ]
   },
@@ -1024,52 +1311,6 @@
   },
   {
     "id": 1038,
-    "data": [
-      {
-        "GroupId": 10001,
-        "GroupName": "High Fly 2.0 C",
-        "GroupCode": "HFV2C-1-120-A-01",
-        "CourseType": {
-          "Code": "HF",
-          "Name": "HF"
-        },
-        "CourseTypeLevel": {
-          "Code": "HFC",
-          "Name": "C"
-        },
-        "School": {
-          "Code": "DCNTES01",
-          "Name": "CN Omni Test"
-        },
-        "CustomerProductionStatus": {
-          "Code": "TO",
-          "Name": "Trans Out"
-        },
-        "GroupStatus": {
-          "Code": "A",
-          "Name": "Activated"
-        },
-        "MainTeacher": {
-          "Id": 0,
-          "Name": null
-        },
-        "CoTeacher": {
-          "Id": 0,
-          "Name": null
-        },
-        "AssignTo": {
-          "Id": 0,
-          "Name": null
-        },
-        "IsCurrentGroup": true,
-        "CountryCode": "CN",
-        "SessionACH": 3,
-        "TotalACH": 72
-      }
-    ]
-  },
-    {
-    "id": 1035,
     "data": [
       {
         "GroupId": 10001,
@@ -1638,6 +1879,2362 @@
         "CountryCode": "CN",
         "SessionACH": 1.5,
         "TotalACH": 96
+      }
+    ]
+  },
+  {
+    "id": "9000001",
+    "data": [
+      {
+        "GroupId": 10001,
+        "GroupName": "High Fly 2.0 C",
+        "GroupCode": "HFV2C-1-120-A-01",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFC",
+          "Name": "C"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Cancelled"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10002,
+        "GroupName": "High Fly 2.0 D",
+        "GroupCode": "HFV2D-1-120-A-02",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFD",
+          "Name": "D"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Completed"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10003,
+        "GroupName": "High Fly 2.0 E",
+        "GroupCode": "HFV2E-1-120-A-03",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFE",
+          "Name": "E"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Completed"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": true,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10004,
+        "GroupName": "High Fly 2.0 F",
+        "GroupCode": "HFV2F-1-120-A-04",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFF",
+          "Name": "F"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Activated"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": true,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10005,
+        "GroupName": "High Fly 2.0 G",
+        "GroupCode": "HFV2G-1-120-A-05",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFG",
+          "Name": "G"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Activated"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": true,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10006,
+        "GroupName": "High Fly 2.0 H",
+        "GroupCode": "HFV2H-1-120-A-06",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFH",
+          "Name": "H"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Pending"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": true,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10007,
+        "GroupName": "High Fly 2.0 I",
+        "GroupCode": "HFV2I-1-120-A-07",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFI",
+          "Name": "I"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Created"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10008,
+        "GroupName": "High Fly 2.0 J",
+        "GroupCode": "HFV2J-1-120-A-08",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFJ",
+          "Name": "J"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Activated"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      }
+    ]
+  },
+  {
+    "id": "9000002",
+    "data": [
+      {
+        "GroupId": 10001,
+        "GroupName": "High Fly 2.0 C",
+        "GroupCode": "HFV2C-1-120-A-01",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFC",
+          "Name": "C"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Cancelled"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10002,
+        "GroupName": "High Fly 2.0 D",
+        "GroupCode": "HFV2D-1-120-A-02",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFD",
+          "Name": "D"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Completed"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": true,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10003,
+        "GroupName": "High Fly 2.0 E",
+        "GroupCode": "HFV2E-1-120-A-03",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFE",
+          "Name": "E"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Completed"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": true,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10004,
+        "GroupName": "High Fly 2.0 F",
+        "GroupCode": "HFV2F-1-120-A-04",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFF",
+          "Name": "F"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Completed"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10005,
+        "GroupName": "High Fly 2.0 G",
+        "GroupCode": "HFV2G-1-120-A-05",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFG",
+          "Name": "G"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Activated"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10006,
+        "GroupName": "High Fly 2.0 H",
+        "GroupCode": "HFV2H-1-120-A-06",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFH",
+          "Name": "H"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Pending"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": true,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10007,
+        "GroupName": "High Fly 2.0 I",
+        "GroupCode": "HFV2I-1-120-A-07",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFI",
+          "Name": "I"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Created"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10008,
+        "GroupName": "High Fly 2.0 J",
+        "GroupCode": "HFV2J-1-120-A-08",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFJ",
+          "Name": "J"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Cancelled"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": true,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      }
+    ]
+  },
+  {
+    "id": "9000003",
+    "data": [
+      {
+        "GroupId": 10001,
+        "GroupName": "High Fly 2.0 C",
+        "GroupCode": "HFV2C-1-120-A-01",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFC",
+          "Name": "C"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Cancelled"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10002,
+        "GroupName": "High Fly 2.0 D",
+        "GroupCode": "HFV2D-1-120-A-02",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFD",
+          "Name": "D"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Completed"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10003,
+        "GroupName": "High Fly 2.0 E",
+        "GroupCode": "HFV2E-1-120-A-03",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFE",
+          "Name": "E"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Completed"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10004,
+        "GroupName": "High Fly 2.0 F",
+        "GroupCode": "HFV2F-1-120-A-04",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFF",
+          "Name": "F"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Activated"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10005,
+        "GroupName": "High Fly 2.0 G",
+        "GroupCode": "HFV2G-1-120-A-05",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFG",
+          "Name": "G"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Activated"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10006,
+        "GroupName": "High Fly 2.0 H",
+        "GroupCode": "HFV2H-1-120-A-06",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFH",
+          "Name": "H"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Pending"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": true,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10007,
+        "GroupName": "High Fly 2.0 I",
+        "GroupCode": "HFV2I-1-120-A-07",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFI",
+          "Name": "I"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Created"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": true,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10008,
+        "GroupName": "High Fly 2.0 J",
+        "GroupCode": "HFV2J-1-120-A-08",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFJ",
+          "Name": "J"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Cancelled"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": true,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      }
+    ]
+  },
+  {
+    "id": "9000004",
+    "data": [
+      {
+        "GroupId": 10001,
+        "GroupName": "High Fly 2.0 C",
+        "GroupCode": "HFV2C-1-120-A-01",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFC",
+          "Name": "C"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Cancelled"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10002,
+        "GroupName": "High Fly 2.0 D",
+        "GroupCode": "HFV2D-1-120-A-02",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFD",
+          "Name": "D"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Completed"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10003,
+        "GroupName": "High Fly 2.0 E",
+        "GroupCode": "HFV2E-1-120-A-03",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFE",
+          "Name": "E"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Completed"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10004,
+        "GroupName": "High Fly 2.0 F",
+        "GroupCode": "HFV2F-1-120-A-04",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFF",
+          "Name": "F"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Completed"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10005,
+        "GroupName": "High Fly 2.0 G",
+        "GroupCode": "HFV2G-1-120-A-05",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFG",
+          "Name": "G"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Pending"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10006,
+        "GroupName": "High Fly 2.0 H",
+        "GroupCode": "HFV2H-1-120-A-06",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFH",
+          "Name": "H"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Pending"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": true,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10007,
+        "GroupName": "High Fly 2.0 I",
+        "GroupCode": "HFV2I-1-120-A-07",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFI",
+          "Name": "I"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Created"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": true,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10008,
+        "GroupName": "High Fly 2.0 J",
+        "GroupCode": "HFV2J-1-120-A-08",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFJ",
+          "Name": "J"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Cancelled"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": true,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      }
+    ]
+  },
+  {
+    "id": 12226032,
+    "data": [
+      {
+        "GroupId": 10001,
+        "GroupName": "High Fly 2.0 C",
+        "GroupCode": "HFV2C-1-120-A-01",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFC",
+          "Name": "C"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Activated"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      }
+    ]
+  },
+  {
+    "id": "12221442",
+    "data": [
+      {
+        "GroupId": 10001,
+        "GroupName": "High Fly 2.0 C",
+        "GroupCode": "HFV2C-1-120-A-01",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFC",
+          "Name": "C"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Completed"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10002,
+        "GroupName": "High Fly 2.0 D",
+        "GroupCode": "HFV2D-1-120-A-02",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFD",
+          "Name": "D"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Activated"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": true,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10003,
+        "GroupName": "High Fly 2.0 E",
+        "GroupCode": "HFV2E-1-120-A-03",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFE",
+          "Name": "E"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Activated"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": true,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10004,
+        "GroupName": "High Fly 2.0 F",
+        "GroupCode": "HFV2F-1-120-A-04",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFF",
+          "Name": "F"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Pending"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      }
+    ]
+  },
+  {
+    "id": "12071306",
+    "data": [
+      {
+        "GroupId": 100082297,
+        "GroupName": "smoke sspt",
+        "GroupCode": "SSV31-1-60-A-250219-01",
+        "CourseType": {
+          "Code": "SS",
+          "Name": "SS"
+        },
+        "CourseTypeLevel": {
+          "Code": "SSv3bk1",
+          "Name": "v3bk1"
+        },
+        "School": {
+          "Code": "DCNBJS21",
+          "Name": "BJ10FT1"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Activated"
+        },
+        "MainTeacher": {
+          "Id": 13167,
+          "Name": "Ida"
+        },
+        "CoTeacher": {
+          "Id": 13167,
+          "Name": "Ida"
+        },
+        "AssignTo": {
+          "Id": 259882,
+          "Name": "BJ10Vivian"
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 1.5,
+        "TotalACH": 96
+      },
+      {
+        "GroupId": 10001,
+        "GroupName": "High Fly 2.0 C",
+        "GroupCode": "HFV2C-1-120-A-01",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFC",
+          "Name": "C"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Completed"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10002,
+        "GroupName": "High Fly 2.0 D",
+        "GroupCode": "HFV2D-1-120-A-02",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFD",
+          "Name": "D"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Completed"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": true,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10003,
+        "GroupName": "High Fly 2.0 E",
+        "GroupCode": "HFV2E-1-120-A-03",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFE",
+          "Name": "E"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Cancelled"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10006,
+        "GroupName": "High Fly 2.0 H",
+        "GroupCode": "HFV2H-1-120-A-06",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFH",
+          "Name": "H"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Completed"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": true,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10007,
+        "GroupName": "High Fly 2.0 I",
+        "GroupCode": "HFV2I-1-120-A-07",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFI",
+          "Name": "I"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Activated"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10008,
+        "GroupName": "High Fly 2.0 J",
+        "GroupCode": "HFV2J-1-120-A-08",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFJ",
+          "Name": "J"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Pending"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      }
+    ]
+  },
+  {
+    "id": "12224132",
+    "data": [
+      {
+        "GroupId": 10001,
+        "GroupName": "High Fly 2.0 C",
+        "GroupCode": "HFV2C-1-120-A-01",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFC",
+          "Name": "C"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Completed"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10002,
+        "GroupName": "High Fly 2.0 D",
+        "GroupCode": "HFV2D-1-120-A-02",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFD",
+          "Name": "D"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Completed"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10003,
+        "GroupName": "High Fly 2.0 E",
+        "GroupCode": "HFV2E-1-120-A-03",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFE",
+          "Name": "E"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Completed"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10004,
+        "GroupName": "High Fly 2.0 F",
+        "GroupCode": "HFV2F-1-120-A-04",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFF",
+          "Name": "F"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Completed"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10005,
+        "GroupName": "High Fly 2.0 G",
+        "GroupCode": "HFV2G-1-120-A-05",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFG",
+          "Name": "G"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Completed"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10006,
+        "GroupName": "High Fly 2.0 H",
+        "GroupCode": "HFV2H-1-120-A-06",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFH",
+          "Name": "H"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Completed"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10007,
+        "GroupName": "High Fly 2.0 I",
+        "GroupCode": "HFV2I-1-120-A-07",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFI",
+          "Name": "I"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Completed"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": true,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 10008,
+        "GroupName": "High Fly 2.0 J",
+        "GroupCode": "HFV2J-1-120-A-08",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFJ",
+          "Name": "J"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Completed"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": true,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      }
+    ]
+  },
+  {
+    "id": 9000020,
+    "data": [
+      {
+        "GroupId": 100082300,
+        "GroupName": "HFC19",
+        "GroupCode": "HFV2C-1-120-P-160619-44",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFC",
+          "Name": "C"
+        },
+        "School": {
+          "Code": "DCNBJS21",
+          "Name": "BJ10FT1"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Activated"
+        },
+        "MainTeacher": {
+          "Id": 146003,
+          "Name": "Jenny"
+        },
+        "CoTeacher": {
+          "Id": 146003,
+          "Name": "Jenny"
+        },
+        "AssignTo": {
+          "Id": 145719,
+          "Name": "CN PD Teacher"
+        },
+        "IsCurrentGroup": true,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      }
+    ]
+  },
+  {
+    "id": 9000021,
+    "data": [
+      {
+        "GroupId": 100082300,
+        "GroupName": "HFC19",
+        "GroupCode": "HFV2C-1-120-P-160619-44",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFC",
+          "Name": "C"
+        },
+        "School": {
+          "Code": "DCNBJS21",
+          "Name": "BJ10FT1"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Activated"
+        },
+        "MainTeacher": {
+          "Id": 146003,
+          "Name": "Jenny"
+        },
+        "CoTeacher": {
+          "Id": 146003,
+          "Name": "Jenny"
+        },
+        "AssignTo": {
+          "Id": 145719,
+          "Name": "CN PD Teacher"
+        },
+        "IsCurrentGroup": true,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      }
+    ]
+  },
+  {
+    "id": 9000022,
+    "data": [
+      {
+        "GroupId": 100082300,
+        "GroupName": "HFC19",
+        "GroupCode": "HFV2C-1-120-P-160619-44",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFC",
+          "Name": "C"
+        },
+        "School": {
+          "Code": "DCNBJS21",
+          "Name": "BJ10FT1"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Activated"
+        },
+        "MainTeacher": {
+          "Id": 146003,
+          "Name": "Jenny"
+        },
+        "CoTeacher": {
+          "Id": 146003,
+          "Name": "Jenny"
+        },
+        "AssignTo": {
+          "Id": 145719,
+          "Name": "CN PD Teacher"
+        },
+        "IsCurrentGroup": true,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      }
+    ]
+  },
+  {
+    "id": 100363191,
+    "data": [
+      {
+        "GroupId": 100082300,
+        "GroupName": "HFC19",
+        "GroupCode": "HFV2C-1-120-P-160619-44",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFC",
+          "Name": "C"
+        },
+        "School": {
+          "Code": "DCNBJS12",
+          "Name": "BJ5HD2"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Activated"
+        },
+        "MainTeacher": {
+          "Id": 146003,
+          "Name": "Jenny"
+        },
+        "CoTeacher": {
+          "Id": 146003,
+          "Name": "Jenny"
+        },
+        "AssignTo": {
+          "Id": 145719,
+          "Name": "CN PD Teacher"
+        },
+        "IsCurrentGroup": true,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
       }
     ]
   }

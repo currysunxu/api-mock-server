@@ -28,6 +28,7 @@ Request | Data Source
 ---|---
 POST /api/v1/customer | data/students.json
 GET /api/v1/customer/{customerId}/profile | data/profiles.json
+GET /api/v1/customer/{customerId}/online-profile | data/online-profiles.json
 GET /api/v1/customer/{customerId}/inprogressgroups | data/inprogressgroups.json
 GET /api/v1/customer/{customerId}/enrolledgroups | data/enrolledgroups.json
 GET /api/v1/customer/{customerId}/grammarpro | data/gpgroups.json
@@ -37,6 +38,7 @@ GET /api/v1/teacher/{teacherId}/GetSessionsofDateandSchoolCode?year={}&month={}&
 GET /api/v1/customer/GetInfoListofGroup?groupId={} | data/groupinfos.json
 POST /api/v1/ilab/checkphone | data/phones.json
 POST /api/v1/ilab/register | data/registeredphones.json
+GET /api/v1/customer/{customerId}/groups | data/groups.json
 
 ## Deployment
 
