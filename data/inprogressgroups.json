@@ -1311,6 +1311,54 @@
   },
   {
     "id": 1038,
+
+    "data": [
+      {
+        "GroupId": 10001,
+        "GroupName": "High Fly 2.0 C",
+        "GroupCode": "HFV2C-1-120-A-01",
+        "CourseType": {
+          "Code": "HF",
+          "Name": "HF"
+        },
+        "CourseTypeLevel": {
+          "Code": "HFC",
+          "Name": "C"
+        },
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "TO",
+          "Name": "Trans Out"
+        },
+        "GroupStatus": {
+          "Code": "A",
+          "Name": "Activated"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": true,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      }
+    ]
+  },
+  {
+    "id": 1035,
+
     "data": [
       {
         "GroupId": 10001,
