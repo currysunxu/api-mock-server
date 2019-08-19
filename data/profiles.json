@@ -52,8 +52,8 @@
     "data": {
       "CustomerId": "1003",
       "CountryCode": "CN",
-      "EnglishFirstName": "test",
-      "EnglishLastName": "last",
+      "EnglishFirstName": "Test",
+      "EnglishLastName": "Last",
       "Status": "Student",
       "StatusUpdatedUtcDateTime": "2019-03-19T17:09:42",
       "AvatarURL": null,
@@ -76,8 +76,8 @@
     "data": {
       "CustomerId": "1004",
       "CountryCode": "CN",
-      "EnglishFirstName": null,
-      "EnglishLastName": null,
+      "EnglishFirstName": "Lily",
+      "EnglishLastName": "Brown",
       "Status": "Student",
       "StatusUpdatedUtcDateTime": "2019-03-18T17:09:28",
       "AvatarURL": null,
@@ -340,8 +340,8 @@
     "data": {
       "CustomerId": "1070",
       "CountryCode": "CN",
-      "EnglishFirstName": null,
-      "EnglishLastName": null,
+      "EnglishFirstName": "Lala",
+      "EnglishLastName": "Bala",
       "Status": "Student",
       "StatusUpdatedUtcDateTime": "2019-04-23T17:11:43",
       "AvatarURL": null,
@@ -364,8 +364,8 @@
     "data": {
       "CustomerId": "1071",
       "CountryCode": "CN",
-      "EnglishFirstName": null,
-      "EnglishLastName": null,
+      "EnglishFirstName": "Amy",
+      "EnglishLastName": "Liang",
       "Status": "Student",
       "StatusUpdatedUtcDateTime": "2019-04-23T17:11:43",
       "AvatarURL": null,

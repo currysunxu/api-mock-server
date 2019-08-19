@@ -29,6 +29,8 @@ Request | Data Source
 POST /api/v1/customer | data/students.json
 GET /api/v1/customer/{customerId}/profile | data/profiles.json
 GET /api/v1/customer/{customerId}/online-profile | data/online-profiles.json
+GET /api/v1/customer/{customerId}/remaining-OCHs | data/creditsinfo.json
+GET /api/v1/ksd/customer/{customerId}/bookablegroup | data/bookablegroup.json
 GET /api/v1/customer/{customerId}/inprogressgroups | data/inprogressgroups.json
 GET /api/v1/customer/{customerId}/enrolledgroups | data/enrolledgroups.json
 GET /api/v1/customer/{customerId}/grammarpro | data/gpgroups.json

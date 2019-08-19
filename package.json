@@ -4,7 +4,8 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "dev": "PORT=3000 node ./server.js"
+    "dev": "PORT=3000 node ./server.js",
+    "win-dev": "node ./server.js"
   },
   "repository": {
     "type": "git",
