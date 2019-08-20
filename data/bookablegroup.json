@@ -150,6 +150,78 @@
         "CountryCode": "CN",
         "SessionACH": 3,
         "TotalACH": 72
+      },
+      {
+        "GroupId": 100020191,
+        "GroupName": "Trailblazers 3.0",
+        "GroupCode": "TBV31-1-60-1-01",
+        "GroupSFId": "a0B6BE0000050okXGA",
+        "Program": "TB",
+        "ProgramLevel": "1",
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "F",
+          "Name": "Activated"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
+      },
+      {
+        "GroupId": 100020192,
+        "GroupName": "Trailblazers 3.0",
+        "GroupCode": "TBV32-2-60-2-01",
+        "GroupSFId": "a0B9BE0000050oUYGA",
+        "Program": "TB",
+        "ProgramLevel": "2",
+        "School": {
+          "Code": "DCNTES01",
+          "Name": "CN Omni Test"
+        },
+        "CustomerProductionStatus": {
+          "Code": "STU",
+          "Name": "Studying"
+        },
+        "GroupStatus": {
+          "Code": "F",
+          "Name": "Pending"
+        },
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "AssignTo": {
+          "Id": 0,
+          "Name": null
+        },
+        "IsCurrentGroup": false,
+        "CountryCode": "CN",
+        "SessionACH": 3,
+        "TotalACH": 72
       }
     ]
   },
