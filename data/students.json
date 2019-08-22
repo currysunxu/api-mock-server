@@ -204,6 +204,30 @@
     }
   },
   {
+    "id": "hf.cn.own.test01",
+    "data": {
+      "CustomerId": "9000005"
+    }
+  },
+  {
+    "id": "hf.cn.fra.test01",
+    "data": {
+      "CustomerId": "9000006"
+    }
+  },
+  {
+    "id": "hf.cn.emptybc.test01",
+    "data": {
+      "CustomerId": "9000007"
+    }
+  },
+  {
+    "id": "hf.id.fra.test01",
+    "data": {
+      "CustomerId": "9000008"
+    }
+  },
+  {
     "id": "ptReviewTest_OneCurrent",
     "data": {
       "CustomerId": "12226032"

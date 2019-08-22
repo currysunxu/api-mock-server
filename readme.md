@@ -41,6 +41,7 @@ GET /api/v1/customer/GetInfoListofGroup?groupId={} | data/groupinfos.json
 POST /api/v1/ilab/checkphone | data/phones.json
 POST /api/v1/ilab/register | data/registeredphones.json
 GET /api/v1/customer/{customerId}/groups | data/groups.json
+GET /api/v1.1/customer/{customerId} | student-businessline.json
 
 ## Deployment
 
