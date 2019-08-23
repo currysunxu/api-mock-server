@@ -96,5 +96,19 @@
           "Classroom": "Success"
       }
     ]
+  },
+  {
+    "id": "145719-2019-8-21",
+    "data": [
+      {
+          "GroupId": 100082300,
+          "CourseTypeCode": "HF",
+          "CourseTypeLevelCode": "HFC",
+          "StartTime": "2019-08-21T20:00:00",
+          "EndTime": "2019-08-21T21:00:00",
+          "GroupCode": "HFV2C-1-120-P-160619-44",
+          "Classroom": "Success"
+      }
+    ]
   }
 ]
