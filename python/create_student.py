@@ -78,8 +78,8 @@ def create_student(group_id = None):
     "data": {
       "CustomerId": student_base_info['student_id'],
       "CountryCode": "CN",
-      "EnglishFirstName": "Online",
-      "EnglishLastName": "Classroom",
+      "EnglishFirstName": student_base_info['student_english_name'],
+      "EnglishLastName": student_base_info['studdent_last_name'],
       "Status": "Student",
       "StatusUpdatedUtcDateTime": "2019-07-18T06:25:03",
       "AvatarURL": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/0016D000002HSyJQAW_Avatar_URL__c",
