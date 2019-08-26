@@ -616,9 +616,9 @@
         }
     },
     {
-        "id": "1106",
+        "id": 1106,
         "data": {
-            "CustomerId": "1106",
+            "CustomerId": 1106,
             "CountryCode": "CN",
             "EnglishFirstName": "Online",
             "EnglishLastName": "Classroom",
