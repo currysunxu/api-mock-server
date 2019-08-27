@@ -448,6 +448,34 @@
         }
     },
     {
+        "id": 9000024,
+        "data": {
+            "CustomerId": 9000024,
+            "CountryCode": "CN",
+            "EnglishFirstName": "Online",
+            "EnglishLastName": "Classroom",
+            "Status": "Student",
+            "AvatarURL": "https://english1--stg.cs73.my.salesforce.com/services/apexrest/GetAvatarById?id=0016D000002HSyJQAW",
+            "PreferredLanguageCode": null,
+            "CurrentGroup": null,
+            "GroupsInProgress": [],
+            "Gender": null,
+            "Address": null,
+            "Email": null,
+            "HomePhoneNumber": "13671888379",
+            "MobilePhoneNumber": "13671888379",
+            "JoinedDate": null,
+            "DateOfBirth": null,
+            "WechatOpenIds": [],
+            "FirstName": "ptReviewTest08",
+            "LastName": null,
+            "KidsILabUserName": "ptReviewTest08",
+            "BusinessLineCode": "OWN",
+            "DeepBlueSchoolCode": "China_Omni",
+            "SchoolCode": "DCNTES01"
+        }
+    },
+    {
         "id": 1075,
         "data": {
             "CustomerId": 1075,
@@ -645,12 +673,12 @@
         }
     },
     {
-        "id": 1107,
+        "id": "9000025",
         "data": {
-            "CustomerId": "1107",
+            "CustomerId": "9000025",
             "CountryCode": "CN",
-            "EnglishFirstName": "Cherry",
-            "EnglishLastName": "Ye",
+            "EnglishFirstName": "Chen",
+            "EnglishLastName": "Yuan",
             "Status": "Student",
             "StatusUpdatedUtcDateTime": "2019-07-18T06:25:03",
             "AvatarURL": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/0016D000002HSyJQAW_Avatar_URL__c",
@@ -665,7 +693,7 @@
             "WechatOpenIds": [],
             "FirstName": "auto",
             "LastName": "Test",
-            "KidsILabUserName": "hfv3pt.1",
+            "KidsILabUserName": "ptReviewTest09",
             "CurrentGroup": null,
             "GroupsInProgress": [],
             "BusinessLineCode": "OWN",

@@ -5284,6 +5284,52 @@
         ]
     },
     {
+        "id": 9000024,
+        "data": [
+            {
+                "GroupId": 100082300,
+                "GroupName": "HFC19",
+                "GroupCode": "HFV2C-1-120-P-160619-44",
+                "CourseType": {
+                    "Code": "HF",
+                    "Name": "HF"
+                },
+                "CourseTypeLevel": {
+                    "Code": "HFC",
+                    "Name": "C"
+                },
+                "School": {
+                    "Code": "DCNBJS21",
+                    "Name": "BJ10FT1"
+                },
+                "CustomerProductionStatus": {
+                    "Code": "STU",
+                    "Name": "Studying"
+                },
+                "GroupStatus": {
+                    "Code": "A",
+                    "Name": "Activated"
+                },
+                "MainTeacher": {
+                    "Id": 146003,
+                    "Name": "Jenny"
+                },
+                "CoTeacher": {
+                    "Id": 146003,
+                    "Name": "Jenny"
+                },
+                "AssignTo": {
+                    "Id": 145719,
+                    "Name": "CN PD Teacher"
+                },
+                "IsCurrentGroup": true,
+                "CountryCode": "CN",
+                "SessionACH": 3,
+                "TotalACH": 72
+            }
+        ]
+    },
+    {
         "id": 9000005,
         "data": [
             {
@@ -5560,12 +5606,12 @@
         ]
     },
     {
-        "id": 1107,
+        "id": "9000025",
         "data": [
             {
-                "GroupId": 10042,
-                "GroupName": "High Fly 3.0 C",
-                "GroupCode": "HFV3PlusC-1-60-C-01",
+                "GroupId": 10001,
+                "GroupName": "High Fly 2.0 C",
+                "GroupCode": "HFV2C-1-120-A-01",
                 "School": {
                     "Code": "DCNTES01",
                     "Name": "CN Omni Test"
@@ -5580,20 +5626,20 @@
                 },
                 "MainTeacher": {
                     "Id": 145719,
-                    "Name": "Katherine"
+                    "Name": "CN PD Teacher"
                 },
                 "CoTeacher": {
                     "Id": 145719,
-                    "Name": "Holly Ma"
+                    "Name": "CN PD Teacher"
                 },
                 "AssignTo": {
                     "Id": 145719,
-                    "Name": "Zoe Shang"
+                    "Name": "CN PD Teacher"
                 },
                 "IsCurrentGroup": true,
                 "CountryCode": "CN",
                 "SessionACH": 3,
-                "TotalACH": 54,
+                "TotalACH": 72,
                 "CourseType": {
                     "Code": "HF",
                     "Name": "HF"

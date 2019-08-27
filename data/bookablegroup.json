@@ -878,12 +878,12 @@
         ]
     },
     {
-        "id": "1107",
+        "id": "9000025",
         "data": [
             {
-                "GroupId": 10042,
-                "GroupName": "High Fly 3.0 C",
-                "GroupCode": "HFV3PlusC-1-60-C-01",
+                "GroupId": 10001,
+                "GroupName": "High Fly 2.0 C",
+                "GroupCode": "HFV2C-1-120-A-01",
                 "School": {
                     "Code": "DCNTES01",
                     "Name": "CN Omni Test"
@@ -898,22 +898,22 @@
                 },
                 "MainTeacher": {
                     "Id": 145719,
-                    "Name": "Katherine"
+                    "Name": "CN PD Teacher"
                 },
                 "CoTeacher": {
                     "Id": 145719,
-                    "Name": "Holly Ma"
+                    "Name": "CN PD Teacher"
                 },
                 "AssignTo": {
                     "Id": 145719,
-                    "Name": "Zoe Shang"
+                    "Name": "CN PD Teacher"
                 },
                 "IsCurrentGroup": true,
                 "CountryCode": "CN",
                 "SessionACH": 3,
-                "TotalACH": 54,
-                "GroupSFId": "a0B6D00000050pOUAQ",
-                "Program": "HFV3Plus",
+                "TotalACH": 72,
+                "GroupSFId": "a0B6D00000050ojUAA",
+                "Program": "HFV2",
                 "ProgramLevel": "C"
             }
         ]
