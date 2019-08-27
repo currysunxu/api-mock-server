@@ -6,12 +6,12 @@ from python.libs.group_info import GroupDataMapping, InprogressGroup, BookableGr
 
 def create_student(group_id = None):
   # input the student info,only support 1 student with 1 group
-  student_course_type = ['HFV3', 'C'] # ss:['SS','v3bk1] tb['TB','v3bk1'] HF:['HF','C'],['HFV3','C']
+  student_course_type = ['HF', 'C'] # ss:['SS','v3bk1] tb['TB','v3bk1'] HF:['HF','C'],['HFV3','C']
   student_base_info = {
-    'student_id': '1106',
-    'ilab_user_name': 'hfv3.1',
-    'student_english_name': 'Cherry',
-    'studdent_last_name': 'Ye',
+    'student_id': '9000025',
+    'ilab_user_name': 'ptReviewTest09',
+    'student_english_name': 'Chen',
+    'studdent_last_name': 'Yuan',
     'business_line_code':'OWN',
     "deepblue_schoolcode": "China_Omni",
     "school_code": "DCNTES01"
