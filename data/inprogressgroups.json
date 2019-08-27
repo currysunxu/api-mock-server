@@ -5284,6 +5284,52 @@
         ]
     },
     {
+        "id": 9000024,
+        "data": [
+            {
+                "GroupId": 100082300,
+                "GroupName": "HFC19",
+                "GroupCode": "HFV2C-1-120-P-160619-44",
+                "CourseType": {
+                    "Code": "HF",
+                    "Name": "HF"
+                },
+                "CourseTypeLevel": {
+                    "Code": "HFC",
+                    "Name": "C"
+                },
+                "School": {
+                    "Code": "DCNBJS21",
+                    "Name": "BJ10FT1"
+                },
+                "CustomerProductionStatus": {
+                    "Code": "STU",
+                    "Name": "Studying"
+                },
+                "GroupStatus": {
+                    "Code": "A",
+                    "Name": "Activated"
+                },
+                "MainTeacher": {
+                    "Id": 146003,
+                    "Name": "Jenny"
+                },
+                "CoTeacher": {
+                    "Id": 146003,
+                    "Name": "Jenny"
+                },
+                "AssignTo": {
+                    "Id": 145719,
+                    "Name": "CN PD Teacher"
+                },
+                "IsCurrentGroup": true,
+                "CountryCode": "CN",
+                "SessionACH": 3,
+                "TotalACH": 72
+            }
+        ]
+    },
+    {
         "id": 9000005,
         "data": [
             {
