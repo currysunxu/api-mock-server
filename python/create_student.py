@@ -8,8 +8,8 @@ def create_student(group_id = None):
   # input the student info,only support 1 student with 1 group
   student_course_type = ['HFV3', 'C'] # ss:['SS','v3bk1] tb['TB','v3bk1'] HF:['HF','C'],['HFV3','C']
   student_base_info = {
-    'student_id': '1106',
-    'ilab_user_name': 'hfv3.1',
+    'student_id': '1107',
+    'ilab_user_name': 'hfv3pt.1',
     'student_english_name': 'Cherry',
     'studdent_last_name': 'Ye',
     'business_line_code':'OWN',
@@ -36,7 +36,7 @@ def create_student(group_id = None):
 
   gpgroup_json = JsonsData(os.path.abspath('../data/gpgroups.json'))
   new_gpgroup = {
-    "id": student_base_info['student_id'],
+    "id": int(student_base_info['student_id']),
     "data": {
       "StartDate": "1970-01-01T00:00:00.000Z",
       "ExpireDate": "2028-01-01T00:00:00.000Z"
@@ -51,7 +51,7 @@ def create_student(group_id = None):
   product_group.update(getattr(InprogressGroup, '_'.join(student_course_type)))
 
   new_ingressgroup = {
-    "id": student_base_info['student_id'],
+    "id": int(student_base_info['student_id']),
     'data': [product_group]
 
   }
@@ -60,7 +60,7 @@ def create_student(group_id = None):
   # add enrolled groups
   enrollgroup_json = JsonsData(os.path.abspath('../data/enrolledgroups.json'))
   new_enrolled_group = {
-    'id': student_base_info['student_id'],
+    'id': int(student_base_info['student_id']),
     'data': [
       {
         "CourseTypeCode": student_course_type[0][:2],
@@ -71,10 +71,48 @@ def create_student(group_id = None):
   }
   enrollgroup_json.update(new_enrolled_group)
 
+
+  #add pt review group
+  ptreview_group_json = JsonsData(os.path.abspath('../data/groups.json'))
+  base_group_info  = getattr(GroupDataMapping, '_'.join(student_course_type))
+  addtional_group_info  = getattr(InprogressGroup, '_'.join(student_course_type))
+  if addtional_group_info['CourseType']['Name'] =='HF':
+    program = 'High Flyers'
+  elif addtional_group_info['CourseType']['Name'] == 'SS':
+    program = 'Small Stars'
+  elif addtional_group_info['CourseType']['Name'] == 'TB':
+    program = 'Traiblazers'
+  else:
+    program = 'High Flyers'
+  new_pt_review_group = {
+    "id": int(student_base_info['student_id']),
+    "data": {
+      "groups": [
+        {
+          "usedACH": 36,
+          "totalACH": 60,
+          "timezone": "Asia/Shanghai",
+          "status": "current",
+          "programLevelId": "100544",
+          "programLevel":addtional_group_info['CourseTypeLevel']['Name'],
+          "program": program,
+          "name": base_group_info['GroupName'],
+          "leftACH": 0,
+          "isCurrentGroup": True,
+          "id": "null",
+          "allSessions": []
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": student_base_info['student_id']
+    }
+  }
+  ptreview_group_json.update(new_pt_review_group)
+
   # student profile
   student_profile_json = JsonsData(os.path.abspath('../data/profiles.json'))
   new_student_profile = {
-    "id": student_base_info['student_id'],
+    "id": int(student_base_info['student_id']),
     "data": {
       "CustomerId": student_base_info['student_id'],
       "CountryCode": "CN",
@@ -146,7 +184,7 @@ def create_student(group_id = None):
     # onlineprofile
     online_profile_json = JsonsData(os.path.abspath('../data/online-profiles.json'))
     new_online_profile = {
-      "id": student_base_info['student_id'],
+      "id": int(student_base_info['student_id']),
       "data": "KSD"
     }
     online_profile_json.update(new_online_profile)

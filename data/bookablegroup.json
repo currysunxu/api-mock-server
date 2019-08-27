@@ -876,5 +876,46 @@
                 "ProgramLevel": "C"
             }
         ]
+    },
+    {
+        "id": "1107",
+        "data": [
+            {
+                "GroupId": 10042,
+                "GroupName": "High Fly 3.0 C",
+                "GroupCode": "HFV3PlusC-1-60-C-01",
+                "School": {
+                    "Code": "DCNTES01",
+                    "Name": "CN Omni Test"
+                },
+                "CustomerProductionStatus": {
+                    "Code": "STU",
+                    "Name": "Studying"
+                },
+                "GroupStatus": {
+                    "Code": "A",
+                    "Name": "Activated"
+                },
+                "MainTeacher": {
+                    "Id": 145719,
+                    "Name": "Katherine"
+                },
+                "CoTeacher": {
+                    "Id": 145719,
+                    "Name": "Holly Ma"
+                },
+                "AssignTo": {
+                    "Id": 145719,
+                    "Name": "Zoe Shang"
+                },
+                "IsCurrentGroup": true,
+                "CountryCode": "CN",
+                "SessionACH": 3,
+                "TotalACH": 54,
+                "GroupSFId": "a0B6D00000050pOUAQ",
+                "Program": "HFV3Plus",
+                "ProgramLevel": "C"
+            }
+        ]
     }
 ]
