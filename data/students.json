@@ -272,7 +272,13 @@
     {
         "id": "ptReviewTest07",
         "data": {
-            "CustomerId": "9000023"
+          "CustomerId": "9000023"
+        }
+    },
+    {
+        "id": "ptReviewTest08",
+        "data": {
+            "CustomerId": "9000024"
         }
     },
     {

@@ -69,6 +69,7 @@
               "program": "High Flyers",
               "name": "GroupTestCreateManyStudent04",
               "leftACH": 0,
+              "leftACH": 0,
               "isCurrentGroup": false,
               "id": "100082182",
               "allSessions": []
@@ -707,6 +708,29 @@
       ],
       "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
       "customerId": "9000023"
+    }
+  },
+  {
+    "id": 9000024,
+    "data": {
+      "groups": [
+          {
+              "usedACH": 36,
+              "totalACH": 60,
+              "timezone": "Asia/Shanghai",
+              "status": "current",
+              "programLevelId": "100544",
+              "programLevel": "C",
+              "program": "High Flyers",
+              "name": "GroupTestCreateManyStudent04",
+              "leftACH": 0,
+              "isCurrentGroup": true,
+              "id": "null",
+              "allSessions": []
+          }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "9000024"
     }
   }
 ]
