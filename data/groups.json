@@ -788,6 +788,20 @@
                     "allSessions": []
                 },
                 {
+                    "usedACH": 0,
+                    "totalACH": 0,
+                    "timezone": "Asia/Shanghai",
+                    "status": "current",
+                    "programLevelId": "100546",
+                    "programLevel": "E",
+                    "program": "High Flyers",
+                    "name": null,
+                    "leftACH": null,
+                    "isCurrentGroup": null,
+                    "id": null,
+                    "allSessions": []
+                },
+                {
                     "usedACH": 34.5,
                     "totalACH": 76.5,
                     "timezone": "Asia/Shanghai",
@@ -836,6 +850,20 @@
                     "leftACH": 40,
                     "isCurrentGroup": false,
                     "id": "null",
+                    "allSessions": []
+                },
+                {
+                    "usedACH": 0,
+                    "totalACH": 0,
+                    "timezone": "Asia/Shanghai",
+                    "status": "current",
+                    "programLevelId": "100546",
+                    "programLevel": "E",
+                    "program": "High Flyers",
+                    "name": null,
+                    "leftACH": null,
+                    "isCurrentGroup": null,
+                    "id": null,
                     "allSessions": []
                 },
                 {
