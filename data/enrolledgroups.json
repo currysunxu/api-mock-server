@@ -593,7 +593,14 @@
             {
                 "CourseTypeCode": "HF",
                 "CourseLevelCodes": [
-                    "C"
+                    "C",
+                    "D",
+                    "E",
+                    "F",
+                    "G",
+                    "H",
+                    "I",
+                    "J"
                 ],
                 "RemainingACH": 0
             }
@@ -605,7 +612,14 @@
             {
                 "CourseTypeCode": "HF",
                 "CourseLevelCodes": [
-                    "C"
+                    "C",
+                    "D",
+                    "E",
+                    "F",
+                    "G",
+                    "H",
+                    "I",
+                    "J"
                 ],
                 "RemainingACH": 0
             }

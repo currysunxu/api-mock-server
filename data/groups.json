@@ -772,6 +772,34 @@
                     "isCurrentGroup": true,
                     "id": "null",
                     "allSessions": []
+                },
+                {
+                    "usedACH": 0,
+                    "totalACH": 60,
+                    "timezone": "Asia/Shanghai",
+                    "status": "current",
+                    "programLevelId": "100545",
+                    "programLevel": "D",
+                    "program": "High Flyers",
+                    "name": "testgroup05",
+                    "leftACH": 40,
+                    "isCurrentGroup": false,
+                    "id": "null",
+                    "allSessions": []
+                },
+                {
+                    "usedACH": 34.5,
+                    "totalACH": 76.5,
+                    "timezone": "Asia/Shanghai",
+                    "status": "current",
+                    "programLevelId": "100547",
+                    "programLevel": "F",
+                    "program": "High Flyers",
+                    "name": "smoke pt HF 05",
+                    "leftACH": 0,
+                    "isCurrentGroup": null,
+                    "id": "null",
+                    "allSessions": []
                 }
             ],
             "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
@@ -793,6 +821,34 @@
                     "name": "High Fly 3.0 C",
                     "leftACH": 0,
                     "isCurrentGroup": true,
+                    "id": "null",
+                    "allSessions": []
+                },
+                {
+                    "usedACH": 0,
+                    "totalACH": 60,
+                    "timezone": "Asia/Shanghai",
+                    "status": "current",
+                    "programLevelId": "100545",
+                    "programLevel": "D",
+                    "program": "High Flyers",
+                    "name": "testgroup05",
+                    "leftACH": 40,
+                    "isCurrentGroup": false,
+                    "id": "null",
+                    "allSessions": []
+                },
+                {
+                    "usedACH": 34.5,
+                    "totalACH": 76.5,
+                    "timezone": "Asia/Shanghai",
+                    "status": "current",
+                    "programLevelId": "100547",
+                    "programLevel": "F",
+                    "program": "High Flyers",
+                    "name": "smoke pt HF 05",
+                    "leftACH": 0,
+                    "isCurrentGroup": null,
                     "id": "null",
                     "allSessions": []
                 }
