@@ -5737,6 +5737,47 @@
                 "TotalACH": 54
             },
             {
+                "GroupId": 10044,
+                "GroupName": "High Fly 3.0 E",
+                "GroupCode": "HFV3PlusE-1-60-C-01",
+                "CourseType": {
+                    "Code": "HF",
+                    "Name": "HF"
+                },
+                "CourseTypeLevel": {
+                    "Code": "HFE",
+                    "Name": "E"
+                },
+                "School": {
+                    "Code": "DCNTES01",
+                    "Name": "CN Omni Test"
+                },
+                "CustomerProductionStatus": {
+                    "Code": "STU",
+                    "Name": "Studying"
+                },
+                "GroupStatus": {
+                    "Code": "F",
+                    "Name": "Activated"
+                },
+                "MainTeacher": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "CoTeacher": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "AssignTo": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "IsCurrentGroup": false,
+                "CountryCode": "CN",
+                "SessionACH": 3,
+                "TotalACH": 54
+            },
+            {
                 "GroupId": 10045,
                 "GroupName": "High Fly 3.0 F",
                 "GroupCode": "HFV3PlusF-1-60-C-01",
@@ -5860,6 +5901,47 @@
                     "Name": null
                 },
                 "IsCurrentGroup": true,
+                "CountryCode": "CN",
+                "SessionACH": 3,
+                "TotalACH": 54
+            },
+            {
+                "GroupId": 10044,
+                "GroupName": "High Fly 3.0 E",
+                "GroupCode": "HFV3PlusE-1-60-C-01",
+                "CourseType": {
+                    "Code": "HF",
+                    "Name": "HF"
+                },
+                "CourseTypeLevel": {
+                    "Code": "HFE",
+                    "Name": "E"
+                },
+                "School": {
+                    "Code": "DCNTES01",
+                    "Name": "CN Omni Test"
+                },
+                "CustomerProductionStatus": {
+                    "Code": "STU",
+                    "Name": "Studying"
+                },
+                "GroupStatus": {
+                    "Code": "F",
+                    "Name": "Activated"
+                },
+                "MainTeacher": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "CoTeacher": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "AssignTo": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "IsCurrentGroup": false,
                 "CountryCode": "CN",
                 "SessionACH": 3,
                 "TotalACH": 54
