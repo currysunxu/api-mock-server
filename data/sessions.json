@@ -140,14 +140,14 @@
     ]
   },
   {
-    "id": "245720-2019-9-2",
+    "id": "245720-2019-9-3",
     "data": [
       {
           "GroupId": 100082300,
           "CourseTypeCode": "HF",
           "CourseTypeLevelCode": "HFE",
-          "StartTime": "2019-09-02T18:00:00",
-          "EndTime": "2019-09-02T19:00:00",
+          "StartTime": "2019-09-03T18:00:00",
+          "EndTime": "2019-09-03T19:00:00",
           "GroupCode": "HFV2E-1-60-A-011218-01",
           "Classroom": "Success"
       }
