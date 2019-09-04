@@ -3,12 +3,12 @@
         "id": "39981176",
         "data": [
             {
-                "GroupId": 10002,
-                "GroupName": "High Fly 2.0 D",
-                "GroupCode": "HFV2D-1-60-C-01",
-                "GroupSFId": "a0B6D00000050okUAA",
+                "GroupId": 10003,
+                "GroupName": "High Fly 2.0 E",
+                "GroupCode": "HFV2E-1-60-A-01",
+                "GroupSFId": "a0B0I00000aCEqWUAW",
                 "Program": "HFV2",
-                "ProgramLevel": "D",
+                "ProgramLevel": "E",
                 "School": {
                     "Code": "DCNTES01",
                     "Name": "CN Omni Test"
@@ -18,22 +18,22 @@
                     "Name": "Studying"
                 },
                 "GroupStatus": {
-                    "Code": "F",
-                    "Name": "Created"
+                    "Code": "A",
+                    "Name": "Activated"
                 },
                 "MainTeacher": {
-                    "Id": 0,
-                    "Name": null
+                    "Id": 145719,
+                    "Name": "CN PD Teacher"
                 },
                 "CoTeacher": {
-                    "Id": 0,
-                    "Name": null
+                    "Id": 145719,
+                    "Name": "CN PD Teacher"
                 },
                 "AssignTo": {
                     "Id": 0,
-                    "Name": null
+                    "Name": "GZ11Shirley"
                 },
-                "IsCurrentGroup": false,
+                "IsCurrentGroup": true,
                 "CountryCode": "CN",
                 "SessionACH": 3,
                 "TotalACH": 72
@@ -44,12 +44,12 @@
         "id": "1002",
         "data": [
             {
-                "GroupId": 10002,
-                "GroupName": "High Fly 2.0 D",
-                "GroupCode": "HFV2D-1-60-C-01",
-                "GroupSFId": "a0B6D00000050okUAA",
+                "GroupId": 10004,
+                "GroupName": "High Fly 2.0 F",
+                "GroupCode": "HFV2F-1-60-A-01",
+                "GroupSFId": "a0B0I00000h5a8UUAQ",
                 "Program": "HFV2",
-                "ProgramLevel": "D",
+                "ProgramLevel": "F",
                 "School": {
                     "Code": "DCNTES01",
                     "Name": "CN Omni Test"
@@ -59,22 +59,22 @@
                     "Name": "Studying"
                 },
                 "GroupStatus": {
-                    "Code": "F",
-                    "Name": "Created"
+                    "Code": "A",
+                    "Name": "Activated"
                 },
                 "MainTeacher": {
-                    "Id": 0,
-                    "Name": null
+                    "Id": 145719,
+                    "Name": "CN PD Teacher"
                 },
                 "CoTeacher": {
-                    "Id": 0,
-                    "Name": null
+                    "Id": 145719,
+                    "Name": "CN PD Teacher"
                 },
                 "AssignTo": {
                     "Id": 0,
-                    "Name": null
+                    "Name": "GZ11Shirley"
                 },
-                "IsCurrentGroup": false,
+                "IsCurrentGroup": true,
                 "CountryCode": "CN",
                 "SessionACH": 3,
                 "TotalACH": 72
@@ -83,7 +83,7 @@
                 "GroupId": 10042,
                 "GroupName": "High Fly 3.0 C",
                 "GroupCode": "HFV3PlusC-1-60-C-01",
-                "GroupSFId": "a0B6D00000050pOUAQ",
+                "GroupSFId": "a0B0I00000kcEgVUAU",
                 "Program": "HFV3Plus",
                 "ProgramLevel": "C",
                 "School": {
@@ -121,12 +121,12 @@
         "id": "1003",
         "data": [
             {
-                "GroupId": 10001,
-                "GroupName": "High Fly 2.0 C",
-                "GroupCode": "HFV2C-1-60-A-01",
-                "GroupSFId": "a0B6D00000050ojUAA",
+                "GroupId": 10005,
+                "GroupName": "High Fly 2.0 G",
+                "GroupCode": "HFV2G-1-60-A-01",
+                "GroupSFId": "a0B0I00000lMMxuUAG",
                 "Program": "HFV2",
-                "ProgramLevel": "C",
+                "ProgramLevel": "G",
                 "School": {
                     "Code": "DCNTES01",
                     "Name": "CN Omni Test"
@@ -160,7 +160,7 @@
                 "GroupId": 10042,
                 "GroupName": "High Fly 3.0 C",
                 "GroupCode": "HFV3PlusC-1-60-C-01",
-                "GroupSFId": "a0B6D00000050pOUAQ",
+                "GroupSFId": "a0B0I00000kcEgVUAU",
                 "Program": "HFV3Plus",
                 "ProgramLevel": "C",
                 "School": {
@@ -201,7 +201,7 @@
                 "GroupId": 10001,
                 "GroupName": "High Fly 2.0 C",
                 "GroupCode": "HFV2C-1-60-A-01",
-                "GroupSFId": "a0B6D00000050ojUAA",
+                "GroupSFId": "a0B0I00000kXXszUAG",
                 "Program": "HFV2",
                 "ProgramLevel": "C",
                 "School": {
@@ -237,7 +237,7 @@
                 "GroupId": 10002,
                 "GroupName": "High Fly 2.0 D",
                 "GroupCode": "HFV2D-1-60-C-01",
-                "GroupSFId": "a0B6D00000050okUAA",
+                "GroupSFId": "a0B0I00000kaPcjUAE",
                 "Program": "HFV2",
                 "ProgramLevel": "D",
                 "School": {
@@ -350,7 +350,7 @@
                 "GroupId": 10042,
                 "GroupName": "High Fly 3.0 C",
                 "GroupCode": "HFV3PlusC-1-60-C-01",
-                "GroupSFId": "a0B6D00000050pOUAQ",
+                "GroupSFId": "a0B0I00000kcEgVUAU",
                 "Program": "HFV3Plus",
                 "ProgramLevel": "C",
                 "School": {
@@ -386,7 +386,7 @@
                 "GroupId": 10043,
                 "GroupName": "High Fly 3.0 D",
                 "GroupCode": "HFV3PlusD-1-60-C-01",
-                "GroupSFId": "a0B6D00000050pPUAQ",
+                "GroupSFId": "a0B0I00000lLUutUAG",
                 "Program": "HFV3Plus",
                 "ProgramLevel": "D",
                 "School": {
@@ -643,7 +643,7 @@
                 "GroupId": 10042,
                 "GroupName": "High Fly 3.0 C",
                 "GroupCode": "HFV3PlusC-1-60-C-01",
-                "GroupSFId": "a0B6D00000050pOUAQ",
+                "GroupSFId": "a0B0I00000kcEgVUAU",
                 "Program": "HFV3Plus",
                 "ProgramLevel": "C",
                 "School": {
@@ -684,7 +684,7 @@
                 "GroupId": 10001,
                 "GroupName": "High Fly 2.0 C",
                 "GroupCode": "HFV2C-1-60-A-01",
-                "GroupSFId": "a0B6D00000050ojUAA",
+                "GroupSFId": "a0B0I00000kXXszUAG",
                 "Program": "HFV2",
                 "ProgramLevel": "C",
                 "School": {
@@ -725,7 +725,7 @@
                 "GroupId": 10042,
                 "GroupName": "High Fly 3.0 C",
                 "GroupCode": "HFV3PlusC-1-60-C-01",
-                "GroupSFId": "a0B6D00000050pOUAQ",
+                "GroupSFId": "a0B0I00000kcEgVUAU",
                 "Program": "HFV3Plus",
                 "ProgramLevel": "C",
                 "School": {
@@ -761,7 +761,7 @@
                 "GroupId": 10043,
                 "GroupName": "High Fly 3.0 D",
                 "GroupCode": "HFV3PlusD-1-60-C-01",
-                "GroupSFId": "a0B6D00000050pPUAQ",
+                "GroupSFId": "a0B0I00000kcEgVUAU",
                 "Program": "HFV3Plus",
                 "ProgramLevel": "D",
                 "School": {
@@ -802,7 +802,7 @@
                 "GroupId": 10049,
                 "GroupName": "High Fly 3.0 J",
                 "GroupCode": "HFV3PlusJ-1-120-C-01",
-                "GroupSFId": "a0B6D00000050pVUAQ",
+                "GroupSFId": "a0B0I00000kcEgVUAU",
                 "Program": "HFV3Plus",
                 "ProgramLevel": "J",
                 "School": {
