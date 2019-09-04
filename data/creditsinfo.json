@@ -1,152 +1,170 @@
 [
-    {
-        "id": "39981176",
-        "data": [
-            {
-                "quantity": 26,
-                "program": "HFV2"
-            }
-        ]
-    },
-    {
-        "id": "1002",
-        "data": [
-            {
-                "quantity": 19,
-                "program": "HFV3Plus"
-            },
-            {
-                "quantity": 2,
-                "program": "HFV2"
-            }
-        ]
-    },
-    {
-        "id": "1003",
-        "data": [
-            {
-                "quantity": 21,
-                "program": "HFV3Plus"
-            },
-            {
-                "quantity": 25,
-                "program": "HFV2"
-            }
-        ]
-    },
-    {
-        "id": "1004",
-        "data": [
-            {
-                "quantity": 50,
-                "program": "HFV2"
-            },
-            {
-                "quantity": 20,
-                "program": "TB"
-            }
-        ]
-    },
-    {
-        "id": "100363191",
-        "data": [
-            {
-                "quantity": 38,
-                "program": "HFV3Plus"
-            },
-            {
-                "quantity": 19,
-                "program": "HFV2"
-            },
-            {
-                "quantity": 5,
-                "program": "GPV1"
-            }
-        ]
-    },
-    {
-        "id": "1070",
-        "data": [
-            {
-                "quantity": 45,
-                "program": "HFV3Plus"
-            }
-        ]
-    },
-    {
-        "id": "1071",
-        "data": [
-            {
-                "quantity": 21,
-                "program": "HFV3Plus"
-            }
-        ]
-    },
-    {
-        "id": "12224120",
-        "data": [
-            {
-                "quantity": 48,
-                "program": "HFV2"
-            }
-        ]
-    },
-    {
-        "id": "10750000",
-        "data": [
-            {
-                "quantity": 20,
-                "program": "HFV3Plus"
-            }
-        ]
-    },
-    {
-        "id": "1076",
-        "data": [
-            {
-                "quantity": 0,
-                "program": "HFV3Plus"
-            }
-        ]
-    },
-    {
-        "id": "1106",
-        "data": [
-            {
-                "quantity": 45,
-                "program": "HFV3Plus"
-            },
-            {
-                "quantity": 2,
-                "program": "HFV2"
-            }
-        ]
-    },
-    {
-        "id": "9000025",
-        "data": [
-            {
-                "quantity": 45,
-                "program": "HFV2"
-            }
-        ]
-    },
-    {
-        "id": "9000026",
-        "data": [
-            {
-                "quantity": 45,
-                "program": "HFV3Plus"
-            }
-        ]
-    },
-    {
-        "id": "9000027",
-        "data": [
-            {
-                "quantity": 45,
-                "program": "HFV3Plus"
-            }
-        ]
-    }
+  {
+    "id": "39981176",
+    "data": [
+      {
+        "quantity": 20,
+        "program": "HFV2"
+      }
+    ]
+  },
+  {
+    "id": "1002",
+    "data": [
+      {
+        "quantity": 19,
+        "program": "HFV3Plus"
+      },
+      {
+        "quantity": 5,
+        "program": "HFV2"
+      }
+    ]
+  },
+  {
+    "id": "1003",
+    "data": [
+      {
+        "quantity": 21,
+        "program": "HFV3Plus"
+      },
+      {
+        "quantity": 24,
+        "program": "HFV2"
+      }
+    ]
+  },
+  {
+    "id": "1004",
+    "data": [
+      {
+        "quantity": 20,
+        "program": "HFV2"
+      },
+      {
+        "quantity": 20,
+        "program": "TB"
+      }
+    ]
+  },
+  {
+    "id": "100363191",
+    "data": [
+      {
+        "quantity": 38,
+        "program": "HFV3Plus"
+      },
+      {
+        "quantity": 19,
+        "program": "HFV2"
+      },
+      {
+        "quantity": 5,
+        "program": "GPV1"
+      }
+    ]
+  },
+  {
+    "id": "1063",
+    "data": [
+      {
+        "quantity": 0,
+        "program": "HFV3Plus"
+      }
+    ]
+  },
+  {
+    "id": "1064",
+    "data": [
+      {
+        "quantity": -1,
+        "program": "HFV3Plus"
+      }
+    ]
+  },
+  {
+    "id": "1070",
+    "data": [
+      {
+        "quantity": 20,
+        "program": "HFV3Plus"
+      }
+    ]
+  },
+  {
+    "id": "1071",
+    "data": [
+      {
+        "quantity": 21,
+        "program": "HFV3Plus"
+      }
+    ]
+  },
+  {
+    "id": "12224120",
+    "data": [
+      {
+        "quantity": 19,
+        "program": "HFV2"
+      }
+    ]
+  },
+  {
+    "id": "10750000",
+    "data": [
+      {
+        "quantity": 20,
+        "program": "HFV3Plus"
+      }
+    ]
+  },
+  {
+    "id": "1076",
+    "data": [
+      {
+        "quantity": 0,
+        "program": "HFV3Plus"
+      }
+    ]
+  },
+  {
+    "id": "1106",
+    "data": [
+      {
+        "quantity": 45,
+        "program": "HFV3Plus"
+      },
+      {
+        "quantity": 2,
+        "program": "HFV2"
+      }
+    ]
+  },
+  {
+    "id": "9000025",
+    "data": [
+      {
+        "quantity": 45,
+        "program": "HFV2"
+      }
+    ]
+  },
+  {
+    "id": "9000026",
+    "data": [
+      {
+        "quantity": 45,
+        "program": "HFV3Plus"
+      }
+    ]
+  },
+  {
+    "id": "9000027",
+    "data": [
+      {
+        "quantity": 45,
+        "program": "HFV3Plus"
+      }
+    ]
+  }
 ]
