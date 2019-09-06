@@ -12,7 +12,7 @@
     "id": "1002",
     "data": [
       {
-        "quantity": 19,
+        "quantity": 10,
         "program": "HFV3Plus"
       },
       {
@@ -25,11 +25,11 @@
     "id": "1003",
     "data": [
       {
-        "quantity": 21,
+        "quantity": 20,
         "program": "HFV3Plus"
       },
       {
-        "quantity": 25,
+        "quantity": 10,
         "program": "HFV2"
       }
     ]
