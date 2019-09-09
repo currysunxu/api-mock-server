@@ -35,8 +35,11 @@ def create_student(group_id = None):
   }
   students_json.update(new_student)
 
+
+  gpgroup_json = JsonsData(os.path.abspath('../data/gpgroups.json'))
+
+
   if student_base_info['gp_user']:
-    gpgroup_json = JsonsData(os.path.abspath('../data/gpgroups.json'))
     new_gpgroup = {
       "id": int(student_base_info['student_id']),
       "data": {
@@ -44,7 +47,16 @@ def create_student(group_id = None):
         "ExpireDate": "2028-01-01T00:00:00.000Z"
       }
     }
-    gpgroup_json.update(new_gpgroup)
+  else:
+    new_gpgroup = {
+      "id": int(student_base_info['student_id']),
+      "data": {
+        "StartDate": "1970-01-01T00:00:00.000Z",
+        "ExpireDate": "1970-01-01T00:00:00.000Z"
+      }
+    }
+
+  gpgroup_json.update(new_gpgroup)
 
   # add inprogressgroup
   inprogressgroup_json = JsonsData(os.path.abspath('../data/inprogressgroups.json'))
