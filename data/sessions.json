@@ -124,5 +124,47 @@
           "Classroom": "Success"
       }
     ]
+  },
+  {
+    "id": "245720-2019-9-1",
+    "data": [
+      {
+          "GroupId": 100082300,
+          "CourseTypeCode": "HF",
+          "CourseTypeLevelCode": "HFD",
+          "StartTime": "2019-09-01T20:00:00",
+          "EndTime": "2019-09-01T21:00:00",
+          "GroupCode": "HFV2D-1-60-A-011218-01",
+          "Classroom": "Success"
+      }
+    ]
+  },
+  {
+    "id": "245720-2019-9-3",
+    "data": [
+      {
+          "GroupId": 100082300,
+          "CourseTypeCode": "HF",
+          "CourseTypeLevelCode": "HFE",
+          "StartTime": "2019-09-03T18:00:00",
+          "EndTime": "2019-09-03T19:00:00",
+          "GroupCode": "HFV2E-1-60-A-011218-01",
+          "Classroom": "Success"
+      }
+    ]
+  },
+  {
+    "id": "245720-2019-9-2",
+    "data": [
+      {
+          "GroupId": 100082300,
+          "CourseTypeCode": "HF",
+          "CourseTypeLevelCode": "HFF",
+          "StartTime": "2019-09-02T20:00:00",
+          "EndTime": "2019-09-02T21:00:00",
+          "GroupCode": "HFV2F-1-60-A-011218-01",
+          "Classroom": "Success"
+      }
+    ]
   }
 ]

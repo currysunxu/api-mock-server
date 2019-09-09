@@ -262,7 +262,7 @@
                     "programLevelId": "100362",
                     "programLevel": "Blue",
                     "program": "Small Stars",
-                    "name": "SSblue-Vivian-\u5f00\u5fc3\u679c",
+                    "name": "SSblue-Vivian-\u00e5\u00bc\u20ac\u00e5\u00bf\u0192\u00e6\u017e\u0153",
                     "leftACH": 0,
                     "isCurrentGroup": false,
                     "id": "100020868",
@@ -406,7 +406,7 @@
                     "programLevelId": "100362",
                     "programLevel": "Blue",
                     "program": "Small Stars",
-                    "name": "SSblue-Vivian-\u5f00\u5fc3\u679c",
+                    "name": "SSblue-Vivian-\u00e5\u00bc\u20ac\u00e5\u00bf\u0192\u00e6\u017e\u0153",
                     "leftACH": 0,
                     "isCurrentGroup": false,
                     "id": "100020868",
@@ -733,7 +733,7 @@
         }
     },
     {
-        "id": 1108,
+        "id": 9000025,
         "data": {
             "groups": [
                 {
@@ -744,7 +744,7 @@
                     "programLevelId": "100544",
                     "programLevel": "C",
                     "program": "High Flyers",
-                    "name": "High Fly 2.0 C",
+                    "name": "GroupTestCreateManyStudent04",
                     "leftACH": 0,
                     "isCurrentGroup": true,
                     "id": "null",
@@ -752,7 +752,137 @@
                 }
             ],
             "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "1108"
+            "customerId": "9000025"
+        }
+    },
+    {
+        "id": 9000026,
+        "data": {
+            "groups": [
+                {
+                    "usedACH": 36,
+                    "totalACH": 60,
+                    "timezone": "Asia/Shanghai",
+                    "status": "current",
+                    "programLevelId": "100544",
+                    "programLevel": "C",
+                    "program": "High Flyers",
+                    "name": "High Fly 3.0 C",
+                    "leftACH": 0,
+                    "isCurrentGroup": true,
+                    "id": "null",
+                    "allSessions": []
+                },
+                {
+                    "usedACH": 0,
+                    "totalACH": 60,
+                    "timezone": "Asia/Shanghai",
+                    "status": "current",
+                    "programLevelId": "100545",
+                    "programLevel": "D",
+                    "program": "High Flyers",
+                    "name": "testgroup05",
+                    "leftACH": 40,
+                    "isCurrentGroup": false,
+                    "id": "null",
+                    "allSessions": []
+                },
+                {
+                    "usedACH": 0,
+                    "totalACH": 0,
+                    "timezone": "Asia/Shanghai",
+                    "status": "current",
+                    "programLevelId": "100546",
+                    "programLevel": "E",
+                    "program": "High Flyers",
+                    "name": null,
+                    "leftACH": null,
+                    "isCurrentGroup": null,
+                    "id": null,
+                    "allSessions": []
+                },
+                {
+                    "usedACH": 34.5,
+                    "totalACH": 76.5,
+                    "timezone": "Asia/Shanghai",
+                    "status": "current",
+                    "programLevelId": "100547",
+                    "programLevel": "F",
+                    "program": "High Flyers",
+                    "name": "smoke pt HF 05",
+                    "leftACH": 0,
+                    "isCurrentGroup": null,
+                    "id": "null",
+                    "allSessions": []
+                }
+            ],
+            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+            "customerId": "9000026"
+        }
+    },
+    {
+        "id": 9000027,
+        "data": {
+            "groups": [
+                {
+                    "usedACH": 36,
+                    "totalACH": 60,
+                    "timezone": "Asia/Shanghai",
+                    "status": "current",
+                    "programLevelId": "100544",
+                    "programLevel": "C",
+                    "program": "High Flyers",
+                    "name": "High Fly 3.0 C",
+                    "leftACH": 0,
+                    "isCurrentGroup": true,
+                    "id": "null",
+                    "allSessions": []
+                },
+                {
+                    "usedACH": 0,
+                    "totalACH": 60,
+                    "timezone": "Asia/Shanghai",
+                    "status": "current",
+                    "programLevelId": "100545",
+                    "programLevel": "D",
+                    "program": "High Flyers",
+                    "name": "testgroup05",
+                    "leftACH": 40,
+                    "isCurrentGroup": false,
+                    "id": "null",
+                    "allSessions": []
+                },
+                {
+                    "usedACH": 0,
+                    "totalACH": 0,
+                    "timezone": "Asia/Shanghai",
+                    "status": "current",
+                    "programLevelId": "100546",
+                    "programLevel": "E",
+                    "program": "High Flyers",
+                    "name": null,
+                    "leftACH": null,
+                    "isCurrentGroup": null,
+                    "id": null,
+                    "allSessions": []
+                },
+                {
+                    "usedACH": 34.5,
+                    "totalACH": 76.5,
+                    "timezone": "Asia/Shanghai",
+                    "status": "current",
+                    "programLevelId": "100547",
+                    "programLevel": "F",
+                    "program": "High Flyers",
+                    "name": "smoke pt HF 05",
+                    "leftACH": 0,
+                    "isCurrentGroup": null,
+                    "id": "null",
+                    "allSessions": []
+                }
+            ],
+            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+            "customerId": "9000027"
         }
     }
 ]
