@@ -308,16 +308,12 @@ class BookableGroup:
   HF_D = {
     "GroupSFId": "a0B6D00000050okUAA",
     "Program": "HFV2",
-    "ProgramLevel": "D",
+    "ProgramLevel": "D"
   }
-  HF_C_ID = {"CourseType": {
-    "Code": "HF",
-    "Name": "HF"
-  },
-    "CourseTypeLevel": {
-      "Code": "HFC",
-      "Name": "C"
-    }}
+  HF_C_ID = {"GroupSFId": "a0B6D00000050pOUAQ",
+    "Program": "HFV2",
+    "ProgramLevel": "C"
+             }
 
 
 class InprogressGroup:
