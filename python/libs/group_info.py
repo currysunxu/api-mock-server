@@ -67,6 +67,39 @@ class GroupDataMapping():
     "SessionACH": 3,
     "TotalACH": 72
   }
+  HF_C_ID = {
+    "GroupId": 10001,
+    "GroupName": "High Fly 2.0 C",
+    "GroupCode": "HFV2C-1-120-A-01",
+    "School": {
+      "Code": "DCNTES01",
+      "Name": "ID Omni Test"
+    },
+    "CustomerProductionStatus": {
+      "Code": "STU",
+      "Name": "Studying"
+    },
+    "GroupStatus": {
+      "Code": "A",
+      "Name": "Activated"
+    },
+    "MainTeacher": {
+      "Id": 145722,
+      "Name": "ID PD Teacher"
+    },
+    "CoTeacher": {
+      "Id": 145722,
+      "Name": "ID PD Teacher"
+    },
+    "AssignTo": {
+      "Id": 145722,
+      "Name": "ID PD Teacher"
+    },
+    "IsCurrentGroup": True,
+    "CountryCode": "ID",
+    "SessionACH": 3,
+    "TotalACH": 72
+  }
 
   HF_D = {
     "GroupId": 10002,
@@ -277,10 +310,26 @@ class BookableGroup:
     "Program": "HFV2",
     "ProgramLevel": "D",
   }
+  HF_C_ID = {"CourseType": {
+    "Code": "HF",
+    "Name": "HF"
+  },
+    "CourseTypeLevel": {
+      "Code": "HFC",
+      "Name": "C"
+    }}
 
 
 class InprogressGroup:
   HF_C = {"CourseType": {
+    "Code": "HF",
+    "Name": "HF"
+  },
+    "CourseTypeLevel": {
+      "Code": "HFC",
+      "Name": "C"
+    }}
+  HF_C_ID = {"CourseType": {
     "Code": "HF",
     "Name": "HF"
   },
