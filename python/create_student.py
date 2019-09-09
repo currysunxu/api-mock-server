@@ -6,16 +6,16 @@ from python.libs.group_info import GroupDataMapping, InprogressGroup, BookableGr
 
 def create_student(group_id = None):
   # input the student info,only support 1 student with 1 group
-  student_course_type = ['HF', 'C'] # ss:['SS','v3bk1] tb['TB','v3bk1'] HF:['HF','C'],['HFV3','C']
+  student_course_type = ['TB', 'v3bk1'] # ss:['SS','v3bk1] tb['TB','v3bk1'] HF:['HF','C'],['HFV3','C']
   student_base_info = {
-    'student_id': '1110',
-    'ilab_user_name': 'hfv2.cn.3',
+    'student_id': '1113',
+    'ilab_user_name': 'tbv3.cn.2',
     'student_english_name': 'Cherry',
     'studdent_last_name': 'Ye',
     'business_line_code':'OWN',
     "deepblue_schoolcode": "China_Omni",
     "school_code": "SNA",
-    "gp_user":True
+    "gp_user": True
   }
   students_json = JsonsData(os.path.abspath('../data/students.json'))
   student_ilab_list =jmespath.search('[].id',students_json.params)
