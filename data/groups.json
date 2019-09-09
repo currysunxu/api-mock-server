@@ -884,5 +884,51 @@
             "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
             "customerId": "9000027"
         }
+    },
+    {
+        "id": 1108,
+        "data": {
+            "groups": [
+                {
+                    "usedACH": 36,
+                    "totalACH": 60,
+                    "timezone": "Asia/Shanghai",
+                    "status": "current",
+                    "programLevelId": "100544",
+                    "programLevel": "C",
+                    "program": "High Flyers",
+                    "name": "High Fly 2.0 C",
+                    "leftACH": 0,
+                    "isCurrentGroup": true,
+                    "id": "null",
+                    "allSessions": []
+                }
+            ],
+            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+            "customerId": "1108"
+        }
+    },
+    {
+        "id": 1109,
+        "data": {
+            "groups": [
+                {
+                    "usedACH": 36,
+                    "totalACH": 60,
+                    "timezone": "Asia/Shanghai",
+                    "status": "current",
+                    "programLevelId": "100544",
+                    "programLevel": "C",
+                    "program": "High Flyers",
+                    "name": "High Fly 2.0 C",
+                    "leftACH": 0,
+                    "isCurrentGroup": true,
+                    "id": "null",
+                    "allSessions": []
+                }
+            ],
+            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+            "customerId": "1109"
+        }
     }
 ]

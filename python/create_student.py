@@ -6,15 +6,16 @@ from python.libs.group_info import GroupDataMapping, InprogressGroup, BookableGr
 
 def create_student(group_id = None):
   # input the student info,only support 1 student with 1 group
-  student_course_type = ['HFV3', 'C'] # ss:['SS','v3bk1] tb['TB','v3bk1'] HF:['HF','C'],['HFV3','C']
+  student_course_type = ['HF', 'C','ID'] # ss:['SS','v3bk1] tb['TB','v3bk1'] HF:['HF','C'],['HFV3','C']
   student_base_info = {
-    'student_id': '1107',
-    'ilab_user_name': 'hfv3pt.1',
+    'student_id': '1109',
+    'ilab_user_name': 'hfv2.id.2',
     'student_english_name': 'Cherry',
     'studdent_last_name': 'Ye',
     'business_line_code':'OWN',
-    "deepblue_schoolcode": "China_Omni",
-    "school_code": "DCNTES01"
+    "deepblue_schoolcode": "ID_Omni",
+    "school_code": "SNA",
+    "gp_user":False
   }
   students_json = JsonsData(os.path.abspath('../data/students.json'))
   student_ilab_list =jmespath.search('[].id',students_json.params)
@@ -34,15 +35,16 @@ def create_student(group_id = None):
   }
   students_json.update(new_student)
 
-  gpgroup_json = JsonsData(os.path.abspath('../data/gpgroups.json'))
-  new_gpgroup = {
-    "id": int(student_base_info['student_id']),
-    "data": {
-      "StartDate": "1970-01-01T00:00:00.000Z",
-      "ExpireDate": "2028-01-01T00:00:00.000Z"
+  if student_base_info['gp_user']:
+    gpgroup_json = JsonsData(os.path.abspath('../data/gpgroups.json'))
+    new_gpgroup = {
+      "id": int(student_base_info['student_id']),
+      "data": {
+        "StartDate": "1970-01-01T00:00:00.000Z",
+        "ExpireDate": "2028-01-01T00:00:00.000Z"
+      }
     }
-  }
-  gpgroup_json.update(new_gpgroup)
+    gpgroup_json.update(new_gpgroup)
 
   # add inprogressgroup
   inprogressgroup_json = JsonsData(os.path.abspath('../data/inprogressgroups.json'))
