@@ -166,5 +166,19 @@
           "Classroom": "Success"
       }
     ]
+  },
+  {
+    "id": "245720-2019-9-12",
+    "data": [
+      {
+          "GroupId": 100084687,
+          "CourseTypeCode": "FR",
+          "CourseTypeLevelCode": "FRa1.1",
+          "StartTime": "2019-09-12T20:00:00",
+          "EndTime": "2019-09-12T21:00:00",
+          "GroupCode": "FRV11-1-120-A-110719-03",
+          "Classroom": "Success"
+      }
+    ]
   }
 ]
