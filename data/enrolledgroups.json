@@ -720,5 +720,17 @@
                 "RemainingACH": 0
             }
         ]
+    },
+    {
+        "id": 9000030,
+        "data": [
+            {
+                "CourseTypeCode": "TB",
+                "CourseLevelCodes": [
+                    "v3bk1"
+                ],
+                "RemainingACH": 0
+            }
+        ]
     }
 ]
