@@ -824,7 +824,7 @@
                     "usedACH": 0,
                     "totalACH": 0,
                     "timezone": "Asia/Shanghai",
-                    "status": "current",
+                    "status": "past",
                     "programLevelId": "100546",
                     "programLevel": "E",
                     "program": "High Flyers",
@@ -832,6 +832,21 @@
                     "leftACH": null,
                     "isCurrentGroup": false,
                     "id": null,
+                    "allSessions": []
+                  },
+                  {
+                    "usedACH": 0,
+                    "totalACH": 72,
+                    "timezone": "Asia/Shanghai",
+                    "status": "current",
+                    "programLevelId": "100582",
+                    "programLevel": "1",
+                    "program": "Frontrunner",
+                    "name": "FRBK1",
+                    "leftACH": 144,
+                    "isCurrentGroup": true,
+                    "id": "100084687",
+                    "cefrLevel": "A1",
                     "allSessions": []
                   }
             ],
@@ -889,7 +904,7 @@
                     "usedACH": 34.5,
                     "totalACH": 76.5,
                     "timezone": "Asia/Shanghai",
-                    "status": "current",
+                    "status": "post",
                     "programLevelId": "100547",
                     "programLevel": "F",
                     "program": "High Flyers",
@@ -897,6 +912,21 @@
                     "leftACH": 0,
                     "isCurrentGroup": null,
                     "id": "null",
+                    "allSessions": []
+                },
+                {
+                    "usedACH": 0,
+                    "totalACH": 72,
+                    "timezone": "Asia/Shanghai",
+                    "status": "current",
+                    "programLevelId": "100582",
+                    "programLevel": "1",
+                    "program": "Frontrunner",
+                    "name": "FRBK1",
+                    "leftACH": 144,
+                    "isCurrentGroup": true,
+                    "id": "100084687",
+                    "cefrLevel": "A1",
                     "allSessions": []
                 }
             ],
