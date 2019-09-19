@@ -180,5 +180,19 @@
           "Classroom": "Success"
       }
     ]
+  },
+  {
+    "id": "245720-2019-9-19",
+    "data": [
+      {
+        "GroupId": 100143682,
+        "CourseTypeCode": "TB",
+        "CourseTypeLevelCode": "TBv3Bk1",
+        "StartTime": "2019-09-19T09:21:00",
+        "EndTime": "2019-09-19T11:21:00",
+        "GroupCode": "TBV31-4-80-A-210919-01",
+        "Classroom": "Clever"
+      }
+    ]
   }
 ]
