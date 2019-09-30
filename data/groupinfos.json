@@ -358,6 +358,24 @@
         "FirstName": "yuxin",
         "LastName": null,
         "KidsILabUserName": "fr.pt02"
+      },
+      {
+        "CustomerId": "9000033",
+        "CountryCode": "CN",
+        "EnglishFirstName": "test",
+        "EnglishLastName": "hfc.test",
+        "Status": "Student",
+        "AvatarURL": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/0016D000002ITorQAG_Avatar_URL__c",
+        "PreferredLanguageCode": null,
+        "Gender": "F",
+        "Address": null,
+        "Email": null,
+        "HomePhoneNumber": null,
+        "MobilePhoneNumber": null,
+        "DateOfBirth": "2015-01-01T00:00:00",
+        "FirstName": "yuxin",
+        "LastName": null,
+        "KidsILabUserName": "hfc.test"
       }
     ]
   },

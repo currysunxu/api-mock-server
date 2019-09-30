@@ -6314,47 +6314,47 @@
     {
         "id": 9000030,
         "data": [
-              {
-                  "GroupId": 100143682,
-                  "GroupName": "Trailblazers Book1",
-                  "GroupCode": "TBV31-1-120-A-01",
-                  "School": {
-                      "Code": "DCNTES01",
-                      "Name": "CN Omni Test"
-                  },
-                  "CustomerProductionStatus": {
-                      "Code": "TO",
-                      "Name": "Trans Out"
-                  },
-                  "GroupStatus": {
-                      "Code": "A",
-                      "Name": "Activated"
-                  },
-                  "MainTeacher": {
-                      "Id": 0,
-                      "Name": null
-                  },
-                  "CoTeacher": {
-                      "Id": 0,
-                      "Name": null
-                  },
-                  "AssignTo": {
-                      "Id": 0,
-                      "Name": null
-                  },
-                  "IsCurrentGroup": true,
-                  "CountryCode": "CN",
-                  "SessionACH": 3,
-                  "TotalACH": 60,
-                  "CourseType": {
-                      "Code": "TB",
-                      "Name": "TB"
-                  },
-                  "CourseTypeLevel": {
-                      "Code": "TBv3Bk1",
-                      "Name": "v3Bk1"
-                  }
-              }
+            {
+                "GroupId": 100143682,
+                "GroupName": "Trailblazers Book1",
+                "GroupCode": "TBV31-1-120-A-01",
+                "School": {
+                    "Code": "DCNTES01",
+                    "Name": "CN Omni Test"
+                },
+                "CustomerProductionStatus": {
+                    "Code": "TO",
+                    "Name": "Trans Out"
+                },
+                "GroupStatus": {
+                    "Code": "A",
+                    "Name": "Activated"
+                },
+                "MainTeacher": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "CoTeacher": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "AssignTo": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "IsCurrentGroup": true,
+                "CountryCode": "CN",
+                "SessionACH": 3,
+                "TotalACH": 60,
+                "CourseType": {
+                    "Code": "TB",
+                    "Name": "TB"
+                },
+                "CourseTypeLevel": {
+                    "Code": "TBv3Bk1",
+                    "Name": "v3Bk1"
+                }
+            }
         ]
     },
     {
@@ -6492,6 +6492,52 @@
                 "CountryCode": "CN",
                 "SessionACH": 3,
                 "TotalACH": 72
+            }
+        ]
+    },
+    {
+        "id": 9000033,
+        "data": [
+            {
+                "GroupId": 10001,
+                "GroupName": "High Fly 2.0 C",
+                "GroupCode": "HFV2C-1-120-A-01",
+                "School": {
+                    "Code": "DCNTES01",
+                    "Name": "CN Omni Test"
+                },
+                "CustomerProductionStatus": {
+                    "Code": "STU",
+                    "Name": "Studying"
+                },
+                "GroupStatus": {
+                    "Code": "A",
+                    "Name": "Activated"
+                },
+                "MainTeacher": {
+                    "Id": 145719,
+                    "Name": "CN PD Teacher"
+                },
+                "CoTeacher": {
+                    "Id": 145719,
+                    "Name": "CN PD Teacher"
+                },
+                "AssignTo": {
+                    "Id": 145719,
+                    "Name": "CN PD Teacher"
+                },
+                "IsCurrentGroup": true,
+                "CountryCode": "CN",
+                "SessionACH": 3,
+                "TotalACH": 72,
+                "CourseType": {
+                    "Code": "HF",
+                    "Name": "HF"
+                },
+                "CourseTypeLevel": {
+                    "Code": "HFC",
+                    "Name": "C"
+                }
             }
         ]
     }
