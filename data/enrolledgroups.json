@@ -805,5 +805,44 @@
                 "RemainingACH": 0
             }
         ]
+    },
+    {
+        "id": 9000035,
+        "data": [
+            {
+                "CourseTypeCode": "FR",
+                "CourseLevelCodes": [
+                    "a1.1",
+                    "a1.2",
+                    "a2.1",
+                    "a2.2",
+                    "b1.1.1",
+                    "c1.2.2",
+                    "b1.1.2",
+                    "b1.2.1",
+                    "b1.2.2",
+                    "b2.1.1",
+                    "b2.1.2",
+                    "b2.2.1",
+                    "b2.2.2",
+                    "c1.1.1",
+                    "c1.1.2",
+                    "c1.2.1"
+                ],
+                "RemainingACH": 0
+            }
+        ]
+    },
+    {
+        "id": 9000034,
+        "data": [
+            {
+                "CourseTypeCode": "TB",
+                "CourseLevelCodes": [
+                    "v3bk1"
+                ],
+                "RemainingACH": 0
+            }
+        ]
     }
 ]
