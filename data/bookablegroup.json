@@ -1423,5 +1423,87 @@
                 "TotalACH": 72
             }
         ]
-    }
+    },
+    {
+        "id": "9000034",
+        "data": [
+            {
+                "GroupId": 100143682,
+                "GroupName": "Trailblazers 3.0",
+                "GroupCode": "TBV31-2-60-2-01",
+                "GroupSFId": "a0B9BE0000050oUYGA",
+                "Program": "TB",
+                "ProgramLevel": "1",
+                "School": {
+                    "Code": "DCNTES01",
+                    "Name": "CN Omni Test"
+                },
+                "CustomerProductionStatus": {
+                    "Code": "STU",
+                    "Name": "Studying"
+                },
+                "GroupStatus": {
+                    "Code": "F",
+                    "Name": "Pending"
+                },
+                "MainTeacher": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "CoTeacher": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "AssignTo": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "IsCurrentGroup": false,
+                "CountryCode": "CN",
+                "SessionACH": 3,
+                "TotalACH": 72
+            }
+        ]
+    },
+    {
+        "id": "9000035",
+        "data": [
+            {
+                "GroupId": 10026,
+                "GroupName": "Frontrunner 1.0 Book1",
+                "GroupCode": "FRV11-1-120-A-01",
+                "TeacherName": null,
+                "CourseTypeCode": "FR",
+                "CourseTypeLevelCode": "FRa1.1",
+                "School": {
+                    "Code": "DCNTES01",
+                    "Name": "CN Omni Test"
+                },
+                "CustomerProductionStatus": {
+                    "Code": "STU",
+                    "Name": "Studying"
+                },
+                "GroupStatus": {
+                    "Code": "F",
+                    "Name": "Pending"
+                },
+                "MainTeacher": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "CoTeacher": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "AssignTo": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "IsCurrentGroup": false,
+                "CountryCode": "CN",
+                "SessionACH": 3,
+                "TotalACH": 72
+            }
+        ]
+    },
 ]

@@ -1461,9 +1461,11 @@
                     "allSessions": []
               }
       ]
-    }
-  },
-  {
+    },
+        "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+        "customerId": "9000030"
+    },
+    {
     "id": 9000033,
     "data": {
       "groups": [
@@ -1552,6 +1554,112 @@
                   "allSessions": []
             }
       ]
+    },
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "9000033"
+  },
+  {
+    "id": 9000035,
+    "data": {
+      "groups": [
+              {
+                    "usedACH": 0,
+                    "totalACH": 72,
+                    "timezone": "Asia/Shanghai",
+                    "status": "current",
+                    "programLevelId": "100561",
+                    "programLevel": "5",
+                    "program": "Frontrunner",
+                    "name": "FRBK5",
+                    "leftACH": 144,
+                    "isCurrentGroup": false,
+                    "id": "100084663",
+                    "cefrLevel": "B1.1",
+                    "allSessions": []
+              },
+              {
+                    "usedACH": 0,
+                    "totalACH": 72,
+                    "timezone": "Asia/Shanghai",
+                    "status": "past",
+                    "programLevelId": "100561",
+                    "programLevel": "5",
+                    "program": "Frontrunner",
+                    "name": "FRBK5-ewewew-current",
+                    "leftACH": 144,
+                    "isCurrentGroup": false,
+                    "id": "",
+                    "cefrLevel": "B1.1",
+                    "allSessions": []
+              }
+      ]
+    },
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "9000035"
+  },
+  {
+        "id": 9000034,
+        "data": {
+            "groups": [
+              {
+                  "usedACH": 72,
+                  "totalACH": 78,
+                  "timezone": "Asia/Shanghai",
+                  "status": "past",
+                  "programLevelId": "100507",
+                  "programLevel": "1",
+                  "program": "Trailblazers",
+                  "name": "TBBK1",
+                  "leftACH": 0,
+                  "isCurrentGroup": false,
+                  "id": "661202",
+                  "allSessions": []
+              },
+              {
+                    "usedACH": 72,
+                    "totalACH": 81,
+                    "timezone": "Asia/Shanghai",
+                    "status": "past",
+                    "programLevelId": "100509",
+                    "programLevel": "3",
+                    "program": "Trailblazers",
+                    "name": "TBBK3",
+                    "leftACH": 111,
+                    "isCurrentGroup": false,
+                    "id": "699744",
+                    "allSessions": []
+              },
+              {
+                    "usedACH": 3,
+                    "totalACH": 78,
+                    "timezone": "Asia/Shanghai",
+                    "status": "past",
+                    "programLevelId": "100508",
+                    "programLevel": "2",
+                    "program": "Trailblazers",
+                    "name": "TBBK5",
+                    "leftACH": 111,
+                    "isCurrentGroup": false,
+                    "id": "699664",
+                    "allSessions": []
+              },
+              {
+                    "usedACH": 30,
+                    "totalACH": 72,
+                    "timezone": "Asia/Shanghai",
+                    "status": "current",
+                    "programLevelId": "100511",
+                    "programLevel": "5",
+                    "program": "Trailblazers",
+                    "name": "TBBK5",
+                    "leftACH": 111,
+                    "isCurrentGroup": true,
+                    "id": "100113553",
+                    "allSessions": []
+              }
+          ]
+        },
+    "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+    "customerId": "9000034"
     }
-  }
 ]
