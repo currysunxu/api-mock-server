@@ -1510,5 +1510,53 @@
               "LastName": "Test",
               "KidsILabUserName": "hfc.test"
           }
+      },
+      {
+          "id": 9000034,
+          "data": {
+              "CustomerId": "9000034",
+              "CountryCode": "CN",
+              "EnglishFirstName": "hfc.test",
+              "EnglishLastName": "test",
+              "Status": "Student",
+              "StatusUpdatedUtcDateTime": "2019-07-18T06:25:03",
+              "AvatarURL": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/0016D000002HSyJQAW_Avatar_URL__c",
+              "PreferredLanguageCode": null,
+              "Gender": null,
+              "Address": null,
+              "Email": "test@ef.com",
+              "HomePhoneNumber": "13671888379",
+              "MobilePhoneNumber": "13671888379",
+              "JoinedDate": null,
+              "DateOfBirth": null,
+              "WechatOpenIds": [],
+              "FirstName": "auto",
+              "LastName": "Test",
+              "KidsILabUserName": "tb.fra.01"
+          }
+      },
+      {
+          "id": 9000035,
+          "data": {
+              "CustomerId": "9000035",
+              "CountryCode": "CN",
+              "EnglishFirstName": "hfc.test",
+              "EnglishLastName": "test",
+              "Status": "Student",
+              "StatusUpdatedUtcDateTime": "2019-07-18T06:25:03",
+              "AvatarURL": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/0016D000002HSyJQAW_Avatar_URL__c",
+              "PreferredLanguageCode": null,
+              "Gender": null,
+              "Address": null,
+              "Email": "test@ef.com",
+              "HomePhoneNumber": "13671888379",
+              "MobilePhoneNumber": "13671888379",
+              "JoinedDate": null,
+              "DateOfBirth": null,
+              "WechatOpenIds": [],
+              "FirstName": "auto",
+              "LastName": "Test",
+              "KidsILabUserName": "fr.fra.01"
+          }
       }
 ]

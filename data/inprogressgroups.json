@@ -6540,5 +6540,97 @@
                 }
             }
         ]
+    },
+    {
+        "id": 9000034,
+        "data": [
+            {
+                "GroupId": 10013,
+                "GroupName": "Trailblazers Book1",
+                "GroupCode": "TBV31-1-120-A-01",
+                "CourseType": {
+                    "Code": "TB",
+                    "Name": "TB"
+                },
+                "CourseTypeLevel": {
+                    "Code": "TBv3Bk1",
+                    "Name": "v3Bk1"
+                },
+                "School": {
+                    "Code": "DCNTES01",
+                    "Name": "CN Omni Test"
+                },
+                "CustomerProductionStatus": {
+                    "Code": "TO",
+                    "Name": "Trans Out"
+                },
+                "GroupStatus": {
+                    "Code": "A",
+                    "Name": "Activated"
+                },
+                "MainTeacher": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "CoTeacher": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "AssignTo": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "IsCurrentGroup": true,
+                "CountryCode": "CN",
+                "SessionACH": 3,
+                "TotalACH": 60
+            }
+        ]
+    },
+    {
+        "id": 9000035,
+        "data": [
+            {
+                "GroupId": 10028,
+                "GroupName": "Frontrunner 1.0 Book3",
+                "GroupCode": "FRV13-1-120-A-03",
+                "CourseType": {
+                    "Code": "FR",
+                    "Name": "FR"
+                },
+                "CourseTypeLevel": {
+                    "Code": "FRa2.1",
+                    "Name": "a2.1"
+                },
+                "School": {
+                    "Code": "DCNTES01",
+                    "Name": "CN Omni Test"
+                },
+                "CustomerProductionStatus": {
+                    "Code": "TO",
+                    "Name": "Trans Out"
+                },
+                "GroupStatus": {
+                    "Code": "A",
+                    "Name": "Activated"
+                },
+                "MainTeacher": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "CoTeacher": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "AssignTo": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "IsCurrentGroup": true,
+                "CountryCode": "CN",
+                "SessionACH": 3,
+                "TotalACH": 72
+            }
+        ]
     }
 ]
