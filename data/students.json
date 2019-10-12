@@ -59,6 +59,12 @@
             "CustomerId": "1075"
         }
     },
+  {
+        "id": "ss2.cn.02",
+        "data": {
+            "CustomerId": "1018"
+        }
+    },
     {
         "id": "ss2.cn.auto",
         "data": {

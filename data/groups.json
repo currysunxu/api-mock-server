@@ -395,6 +395,29 @@
         }
     },
     {
+        "id": 1018,
+        "data": {
+            "groups": [
+                {
+                    "usedACH": 94.5,
+                    "totalACH": 106.5,
+                    "timezone": "Asia/Shanghai",
+                    "status": "current",
+                    "programLevelId": "100362",
+                    "programLevel": "Blue",
+                    "program": "Small Stars",
+                    "name": "SSblue-Vivian-\u00e5\u00bc\u20ac\u00e5\u00bf\u0192\u00e6\u017e\u0153",
+                    "leftACH": 0,
+                    "isCurrentGroup": true,
+                    "id": "10009",
+                    "allSessions": []
+                }
+              ],
+            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+            "customerId": "12071306"
+        }
+    },
+    {
         "id": 12071306,
         "data": {
             "groups": [
