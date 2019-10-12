@@ -1562,6 +1562,52 @@
         ]
     },
     {
+        "id": 1018,
+        "data": [
+            {
+                "GroupId": 10009,
+                "GroupName": "SS2.0 Blue",
+                "GroupCode": "SSV2Blue-1-120-A-01",
+                "CourseType": {
+                    "Code": "SS",
+                    "Name": "SS"
+                },
+                "CourseTypeLevel": {
+                    "Code": "SSBlue",
+                    "Name": "Blue"
+                },
+                "School": {
+                    "Code": "DCNTES01",
+                    "Name": "CN Omni Test"
+                },
+                "CustomerProductionStatus": {
+                    "Code": "TO",
+                    "Name": "Trans Out"
+                },
+                "GroupStatus": {
+                    "Code": "A",
+                    "Name": "Activated"
+                },
+                "MainTeacher": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "CoTeacher": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "AssignTo": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "IsCurrentGroup": true,
+                "CountryCode": "CN",
+                "SessionACH": 3,
+                "TotalACH": 96
+            }
+        ]
+    },
+    {
         "id": 1022,
         "data": [
             {

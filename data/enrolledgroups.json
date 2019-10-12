@@ -93,6 +93,21 @@
         ]
     },
     {
+        "id": 1018,
+        "data": [
+            {
+                "CourseTypeCode": "SS",
+                "CourseLevelCodes": [
+                    "A",
+                    "Blue",
+                    "B",
+                    "C"
+                ],
+                "RemainingACH": 0
+            }
+        ]
+    },
+    {
         "id": 1022,
         "data": [
             {

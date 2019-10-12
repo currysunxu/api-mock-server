@@ -1191,5 +1191,33 @@
             "DeepBlueSchoolCode": "China_Omni",
             "SchoolCode": "DCNTES01"
         }
+      },
+  {
+        "id": 1018,
+        "data": {
+            "CustomerId": 1018,
+            "CountryCode": "CN",
+            "EnglishFirstName": "Online",
+            "EnglishLastName": "Classroom",
+            "Status": "Student",
+            "AvatarURL": "https://english1--stg.cs73.my.salesforce.com/services/apexrest/GetAvatarById?id=0016D000002HSyJQAW",
+            "PreferredLanguageCode": null,
+            "CurrentGroup": null,
+            "GroupsInProgress": [],
+            "Gender": null,
+            "Address": null,
+            "Email": null,
+            "HomePhoneNumber": "13671888379",
+            "MobilePhoneNumber": "13671888379",
+            "JoinedDate": null,
+            "DateOfBirth": null,
+            "WechatOpenIds": [],
+            "FirstName": "ss2.cn.02",
+            "LastName": null,
+            "KidsILabUserName": "ss2.cn.02",
+            "BusinessLineCode": "OWN",
+            "DeepBlueSchoolCode": "China_Omni",
+            "SchoolCode": "DCNTES01"
+        }
       }
 ]

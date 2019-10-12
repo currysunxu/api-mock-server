@@ -1558,5 +1558,29 @@
               "LastName": "Test",
               "KidsILabUserName": "fr.fra.01"
           }
+      },
+      {
+          "id": 1018,
+          "data": {
+              "CustomerId": "1018",
+              "CountryCode": "CN",
+              "EnglishFirstName": "ss2.cn.02",
+              "EnglishLastName": "test",
+              "Status": "Student",
+              "StatusUpdatedUtcDateTime": "2019-07-18T06:25:03",
+              "AvatarURL": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/0016D000002HSyJQAW_Avatar_URL__c",
+              "PreferredLanguageCode": null,
+              "Gender": null,
+              "Address": null,
+              "Email": "test@ef.com",
+              "HomePhoneNumber": "13671888379",
+              "MobilePhoneNumber": "13671888379",
+              "JoinedDate": null,
+              "DateOfBirth": null,
+              "WechatOpenIds": [],
+              "FirstName": "auto",
+              "LastName": "Test",
+              "KidsILabUserName": "ss2.cn.02"
+          }
       }
 ]
