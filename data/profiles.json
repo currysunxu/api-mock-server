@@ -316,8 +316,8 @@
         "data": {
             "CustomerId": "1064",
             "CountryCode": "CN",
-            "EnglishFirstName": null,
-            "EnglishLastName": null,
+            "EnglishFirstName": "englishfirstname_fr",
+            "EnglishLastName": "englishlastname_fr",
             "Status": "Student",
             "StatusUpdatedUtcDateTime": "2019-03-18T17:09:32",
             "AvatarURL": null,

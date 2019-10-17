@@ -3678,7 +3678,7 @@
                     "Id": 0,
                     "Name": null
                 },
-                "IsCurrentGroup": false,
+                "IsCurrentGroup": true,
                 "CountryCode": "CN",
                 "SessionACH": 3,
                 "TotalACH": 72
@@ -3719,7 +3719,7 @@
                     "Id": 0,
                     "Name": null
                 },
-                "IsCurrentGroup": false,
+                "IsCurrentGroup": true,
                 "CountryCode": "CN",
                 "SessionACH": 3,
                 "TotalACH": 72
@@ -3760,7 +3760,7 @@
                     "Id": 0,
                     "Name": null
                 },
-                "IsCurrentGroup": false,
+                "IsCurrentGroup": true,
                 "CountryCode": "CN",
                 "SessionACH": 3,
                 "TotalACH": 72
@@ -3801,7 +3801,7 @@
                     "Id": 0,
                     "Name": null
                 },
-                "IsCurrentGroup": false,
+                "IsCurrentGroup": true,
                 "CountryCode": "CN",
                 "SessionACH": 3,
                 "TotalACH": 72
@@ -3842,7 +3842,7 @@
                     "Id": 0,
                     "Name": null
                 },
-                "IsCurrentGroup": false,
+                "IsCurrentGroup": true,
                 "CountryCode": "CN",
                 "SessionACH": 3,
                 "TotalACH": 72
@@ -6354,6 +6354,47 @@
                     "Code": "TBv3Bk1",
                     "Name": "v3Bk1"
                 }
+            },
+            {
+                "GroupId": 10022,
+                "GroupName": "Small stars 3.0 Book1",
+                "GroupCode": "SSV31-1-120-A-01",
+                "School": {
+                    "Code": "DCNTES01",
+                    "Name": "CN Omni Test"
+                },
+                "CustomerProductionStatus": {
+                    "Code": "TO",
+                    "Name": "Trans Out"
+                },
+                "GroupStatus": {
+                    "Code": "A",
+                    "Name": "Activated"
+                },
+                "MainTeacher": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "CoTeacher": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "AssignTo": {
+                    "Id": 30929,
+                    "Name": "Connie Gu"
+                },
+                "IsCurrentGroup": true,
+                "CountryCode": "CN",
+                "SessionACH": 1.5,
+                "TotalACH": 96,
+                "CourseType": {
+                    "Code": "SS",
+                    "Name": "SS"
+                },
+                "CourseTypeLevel": {
+                    "Code": "SSv3bk1",
+                    "Name": "v3bk1"
+                }
             }
         ]
     },
@@ -6399,6 +6440,47 @@
                 "CourseTypeLevel": {
                     "Code": "TBv3Bk1",
                     "Name": "v3Bk1"
+                }
+            },
+            {
+                "GroupId": 10001,
+                "GroupName": "High Fly 2.0 C",
+                "GroupCode": "HFV2C-1-120-A-01",
+                "School": {
+                    "Code": "DCNTES01",
+                    "Name": "CN Omni Test"
+                },
+                "CustomerProductionStatus": {
+                    "Code": "STU",
+                    "Name": "Studying"
+                },
+                "GroupStatus": {
+                    "Code": "A",
+                    "Name": "Activated"
+                },
+                "MainTeacher": {
+                    "Id": 145719,
+                    "Name": "CN PD Teacher"
+                },
+                "CoTeacher": {
+                    "Id": 145719,
+                    "Name": "CN PD Teacher"
+                },
+                "AssignTo": {
+                    "Id": 145719,
+                    "Name": "CN PD Teacher"
+                },
+                "IsCurrentGroup": true,
+                "CountryCode": "CN",
+                "SessionACH": 3,
+                "TotalACH": 72,
+                "CourseType": {
+                    "Code": "HF",
+                    "Name": "HF"
+                },
+                "CourseTypeLevel": {
+                    "Code": "HFC",
+                    "Name": "C"
                 }
             }
         ]
@@ -6492,6 +6574,47 @@
                 "CountryCode": "CN",
                 "SessionACH": 3,
                 "TotalACH": 72
+            },
+            {
+                "GroupId": 10001,
+                "GroupName": "High Fly 2.0 C",
+                "GroupCode": "HFV2C-1-120-A-01",
+                "School": {
+                    "Code": "DCNTES01",
+                    "Name": "CN Omni Test"
+                },
+                "CustomerProductionStatus": {
+                    "Code": "STU",
+                    "Name": "Studying"
+                },
+                "GroupStatus": {
+                    "Code": "A",
+                    "Name": "Activated"
+                },
+                "MainTeacher": {
+                    "Id": 145719,
+                    "Name": "CN PD Teacher"
+                },
+                "CoTeacher": {
+                    "Id": 145719,
+                    "Name": "CN PD Teacher"
+                },
+                "AssignTo": {
+                    "Id": 145719,
+                    "Name": "CN PD Teacher"
+                },
+                "IsCurrentGroup": true,
+                "CountryCode": "CN",
+                "SessionACH": 3,
+                "TotalACH": 72,
+                "CourseType": {
+                    "Code": "HF",
+                    "Name": "HF"
+                },
+                "CourseTypeLevel": {
+                    "Code": "HFC",
+                    "Name": "C"
+                }
             }
         ]
     },
@@ -6672,7 +6795,7 @@
                     "Id": 0,
                     "Name": null
                 },
-                "IsCurrentGroup": true,
+                "IsCurrentGroup": false,
                 "CountryCode": "CN",
                 "SessionACH": 3,
                 "TotalACH": 72
