@@ -6622,7 +6622,7 @@
         "id": 9000032,
         "data": [
             {
-                "GroupId": 10026,
+                "GroupId": null,
                 "GroupName": "Frontrunner 1.0 Book1",
                 "GroupCode": "FRV11-1-120-A-01",
                 "CourseType": {
@@ -6642,8 +6642,8 @@
                     "Name": "Trans Out"
                 },
                 "GroupStatus": {
-                    "Code": "A",
-                    "Name": "Activated"
+                    "Code": "C",
+                    "Name": "closed"
                 },
                 "MainTeacher": {
                     "Id": 0,
@@ -6668,7 +6668,7 @@
         "id": 9000033,
         "data": [
             {
-                "GroupId": 10001,
+                "GroupId": null,
                 "GroupName": "High Fly 2.0 C",
                 "GroupCode": "HFV2C-1-120-A-01",
                 "School": {
@@ -6760,7 +6760,7 @@
         "id": 9000035,
         "data": [
             {
-                "GroupId": 10028,
+                "GroupId": null,
                 "GroupName": "Frontrunner 1.0 Book3",
                 "GroupCode": "FRV13-1-120-A-03",
                 "CourseType": {
