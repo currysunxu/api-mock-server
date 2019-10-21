@@ -306,18 +306,6 @@
         ]
     },
     {
-        "id": 1038,
-        "data": [
-            {
-                "CourseTypeCode": "HF",
-                "CourseLevelCodes": [
-                    "C"
-                ],
-                "RemainingACH": 0
-            }
-        ]
-    },
-    {
         "id": 1035,
         "data": [
             {
