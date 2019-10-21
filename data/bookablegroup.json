@@ -1402,8 +1402,8 @@
                     "Name": "Studying"
                 },
                 "GroupStatus": {
-                    "Code": "A",
-                    "Name": "Activated"
+                    "Code": "C",
+                    "Name": "Cancelled"
                 },
                 "MainTeacher": {
                     "Id": 145719,

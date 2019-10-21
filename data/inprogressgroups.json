@@ -6576,7 +6576,7 @@
         "id": 9000032,
         "data": [
             {
-                "GroupId": null,
+                "GroupId": 10026,
                 "GroupName": "Frontrunner 1.0 Book1",
                 "GroupCode": "FRV11-1-120-A-01",
                 "CourseType": {
@@ -6622,7 +6622,7 @@
         "id": 9000033,
         "data": [
             {
-                "GroupId": null,
+                "GroupId": 10001,
                 "GroupName": "High Fly 2.0 C",
                 "GroupCode": "HFV2C-1-120-A-01",
                 "School": {
@@ -6634,8 +6634,8 @@
                     "Name": "Studying"
                 },
                 "GroupStatus": {
-                    "Code": "A",
-                    "Name": "Activated"
+                    "Code": "C",
+                    "Name": "Cancelled"
                 },
                 "MainTeacher": {
                     "Id": 145719,
@@ -6652,15 +6652,7 @@
                 "IsCurrentGroup": true,
                 "CountryCode": "CN",
                 "SessionACH": 3,
-                "TotalACH": 72,
-                "CourseType": {
-                    "Code": "HF",
-                    "Name": "HF"
-                },
-                "CourseTypeLevel": {
-                    "Code": "HFC",
-                    "Name": "C"
-                }
+                "TotalACH": 72
             }
         ]
     },
