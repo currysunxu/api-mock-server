@@ -1203,6 +1203,29 @@
         }
     },
     {
+        "id": 9000037,
+        "data": {
+            "groups": [
+                {
+                    "usedACH": 36,
+                    "totalACH": 60,
+                    "timezone": "Asia/Shanghai",
+                    "status": "current",
+                    "programLevelId": "100544",
+                    "programLevel": "v3bk1",
+                    "program": "Small Stars",
+                    "name": "Small stars 3.0 Book1",
+                    "leftACH": 0,
+                    "isCurrentGroup": true,
+                    "id": "null",
+                    "allSessions": []
+                }
+            ],
+            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+            "customerId": "1111"
+        }
+    },
+    {
         "id": 1112,
         "data": {
             "groups": [

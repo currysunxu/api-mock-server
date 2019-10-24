@@ -59,7 +59,7 @@
             "CustomerId": "1075"
         }
     },
-  {
+    {
         "id": "ss2.cn.02",
         "data": {
             "CustomerId": "1018"
@@ -405,6 +405,12 @@
         "id": "gp.test01",
         "data": {
             "CustomerId": "9000036"
+        }
+    },
+    {
+        "id": "ss.id.test01",
+        "data": {
+            "CustomerId": "9000037"
         }
     }
 ]

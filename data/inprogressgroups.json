@@ -6265,6 +6265,52 @@
             }
         ]
     },
+  {
+        "id": 9000037,
+        "data": [
+            {
+                "GroupId": 10022,
+                "GroupName": "Small stars 3.0 Book1",
+                "GroupCode": "SSV31-1-120-A-01",
+                "School": {
+                    "Code": "DCNTES01",
+                    "Name": "ID Omni Test"
+                },
+                "CustomerProductionStatus": {
+                    "Code": "TO",
+                    "Name": "Trans Out"
+                },
+                "GroupStatus": {
+                    "Code": "A",
+                    "Name": "Activated"
+                },
+                "MainTeacher": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "CoTeacher": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "AssignTo": {
+                    "Id": 30929,
+                    "Name": "Connie Gu"
+                },
+                "IsCurrentGroup": true,
+                "CountryCode": "ID",
+                "SessionACH": 1.5,
+                "TotalACH": 96,
+                "CourseType": {
+                    "Code": "SS",
+                    "Name": "SS"
+                },
+                "CourseTypeLevel": {
+                    "Code": "SSv3bk1",
+                    "Name": "v3bk1"
+                }
+            }
+        ]
+    },
     {
         "id": 1112,
         "data": [
