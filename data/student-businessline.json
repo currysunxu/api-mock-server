@@ -251,6 +251,34 @@
             "SchoolCode": "DCNTES01"
         }
     },
+  {
+        "id": 9000038,
+        "data": {
+            "CustomerId": 9000038,
+            "CountryCode": "RU",
+            "EnglishFirstName": "Online",
+            "EnglishLastName": "Classroom",
+            "Status": "Student",
+            "AvatarURL": "https://english1--stg.cs73.my.salesforce.com/services/apexrest/GetAvatarById?id=0016D000002HSyJQAW",
+            "PreferredLanguageCode": null,
+            "CurrentGroup": null,
+            "GroupsInProgress": [],
+            "Gender": null,
+            "Address": null,
+            "Email": null,
+            "HomePhoneNumber": "13671888379",
+            "MobilePhoneNumber": "13671888379",
+            "JoinedDate": null,
+            "DateOfBirth": null,
+            "WechatOpenIds": [],
+            "FirstName": "ss.ru.test01",
+            "LastName": null,
+            "KidsILabUserName": "ss.ru.test01",
+            "BusinessLineCode": "OWN",
+            "DeepBlueSchoolCode": "RU_Omni",
+            "SchoolCode": "DCNTES01"
+        }
+    },
     {
         "id": 12226032,
         "data": {
