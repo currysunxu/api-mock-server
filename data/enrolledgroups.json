@@ -199,6 +199,30 @@
         ]
     },
     {
+        "id": 9000037,
+        "data": [
+            {
+                "CourseTypeCode": "SS",
+                "CourseLevelCodes": [
+                    "v3bk1"
+                ],
+                "RemainingACH": 0
+            }
+        ]
+    },
+    {
+        "id": 9000038,
+        "data": [
+            {
+                "CourseTypeCode": "SS",
+                "CourseLevelCodes": [
+                    "v3bk1"
+                ],
+                "RemainingACH": 0
+            }
+        ]
+    },
+    {
         "id": 1048,
         "data": [
             {
