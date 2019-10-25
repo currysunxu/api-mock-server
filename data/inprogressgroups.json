@@ -6228,32 +6228,32 @@
                 "GroupCode": "SSV31-1-120-A-01",
                 "School": {
                     "Code": "DCNTES01",
-                    "Name": "CN Omni Test"
+                    "Name": "ID Omni Test"
                 },
                 "CustomerProductionStatus": {
-                    "Code": "TO",
-                    "Name": "Trans Out"
+                    "Code": "STU",
+                    "Name": "Studying"
                 },
                 "GroupStatus": {
                     "Code": "A",
                     "Name": "Activated"
                 },
                 "MainTeacher": {
-                    "Id": 0,
-                    "Name": null
+                    "Id": 145722,
+                    "Name": "ID PD Teacher"
                 },
                 "CoTeacher": {
-                    "Id": 0,
-                    "Name": null
+                    "Id": 145722,
+                    "Name": "ID PD Teacher"
                 },
                 "AssignTo": {
-                    "Id": 30929,
-                    "Name": "Connie Gu"
-                },
+                    "Id": 145722,
+                    "Name": "ID PD Teacher"
+              },
                 "IsCurrentGroup": true,
-                "CountryCode": "CN",
-                "SessionACH": 1.5,
-                "TotalACH": 96,
+                "CountryCode": "ID",
+                "SessionACH": 3,
+                "TotalACH": 72,
                 "CourseType": {
                     "Code": "SS",
                     "Name": "SS"
@@ -6274,32 +6274,32 @@
                 "GroupCode": "SSV31-1-120-A-01",
                 "School": {
                     "Code": "DCNTES01",
-                    "Name": "CN Omni Test"
+                    "Name": "ID Omni Test"
                 },
                 "CustomerProductionStatus": {
-                    "Code": "TO",
-                    "Name": "Trans Out"
+                    "Code": "STU",
+                    "Name": "Studying"
                 },
                 "GroupStatus": {
                     "Code": "A",
                     "Name": "Activated"
                 },
                 "MainTeacher": {
-                    "Id": 0,
-                    "Name": null
+                    "Id": 145722,
+                    "Name": "ID PD Teacher"
                 },
                 "CoTeacher": {
-                    "Id": 0,
-                    "Name": null
+                    "Id": 145722,
+                    "Name": "ID PD Teacher"
                 },
                 "AssignTo": {
-                    "Id": 30929,
-                    "Name": "Connie Gu"
-                },
+                    "Id": 145722,
+                    "Name": "ID PD Teacher"
+              },
                 "IsCurrentGroup": true,
-                "CountryCode": "CN",
-                "SessionACH": 1.5,
-                "TotalACH": 96,
+                "CountryCode": "ID",
+                "SessionACH": 3,
+                "TotalACH": 72,
                 "CourseType": {
                     "Code": "SS",
                     "Name": "SS"
@@ -6320,32 +6320,32 @@
                 "GroupCode": "SSV31-1-120-A-01",
                 "School": {
                     "Code": "DCNTES01",
-                    "Name": "CN Omni Test"
+                    "Name": "ID Omni Test"
                 },
                 "CustomerProductionStatus": {
-                    "Code": "TO",
-                    "Name": "Trans Out"
+                    "Code": "STU",
+                    "Name": "Studying"
                 },
                 "GroupStatus": {
                     "Code": "A",
                     "Name": "Activated"
                 },
                 "MainTeacher": {
-                    "Id": 0,
-                    "Name": null
+                    "Id": 145722,
+                    "Name": "ID PD Teacher"
                 },
                 "CoTeacher": {
-                    "Id": 0,
-                    "Name": null
+                    "Id": 145722,
+                    "Name": "ID PD Teacher"
                 },
                 "AssignTo": {
-                    "Id": 30929,
-                    "Name": "Connie Gu"
-                },
+                    "Id": 145722,
+                    "Name": "ID PD Teacher"
+              },
                 "IsCurrentGroup": true,
-                "CountryCode": "CN",
-                "SessionACH": 1.5,
-                "TotalACH": 96,
+                "CountryCode": "ID",
+                "SessionACH": 3,
+                "TotalACH": 72,
                 "CourseType": {
                     "Code": "SS",
                     "Name": "SS"
@@ -6839,5 +6839,28 @@
                 "TotalACH": 72
             }
         ]
+    },
+    {
+        "id": 9000036,
+        "data": {
+              "groups": [
+                 {
+                      "usedACH": 0,
+                      "totalACH": 75,
+                      "timezone": "Asia/Shanghai",
+                      "status": "current",
+                      "programLevelId": "100544",
+                      "programLevel": "GPV1",
+                      "program": "Grammar Pro",
+                      "name": "\ufffdGrammar Pro 1.0",
+                      "leftACH": 0,
+                      "isCurrentGroup": true,
+                      "id": "10021",
+                      "allSessions": []
+                  }
+              ]
+        },
+    "customerPhotoUrl": null,
+    "customerId": "9000036"
     }
 ]
