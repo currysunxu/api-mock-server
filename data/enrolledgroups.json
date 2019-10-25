@@ -714,15 +714,7 @@
     },
     {
         "id": 1111,
-        "data": [
-            {
-                "CourseTypeCode": "SS",
-                "CourseLevelCodes": [
-                    "v3bk1"
-                ],
-                "RemainingACH": 0
-            }
-        ]
+        "data": []
     },
     {
         "id": 1112,
