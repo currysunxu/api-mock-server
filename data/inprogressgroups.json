@@ -6269,92 +6269,92 @@
         "id": 9000037,
         "data": [
              {
-                "GroupId": 10022,
-                "GroupName": "Small stars 3.0 Book1",
-                "GroupCode": "SSV31-1-120-A-01",
-                "School": {
-                    "Code": "DCNTES01",
-                    "Name": "ID Omni Test"
-                },
-                "CustomerProductionStatus": {
-                    "Code": "STU",
-                    "Name": "Studying"
-                },
-                "GroupStatus": {
-                    "Code": "A",
-                    "Name": "Activated"
-                },
-                "MainTeacher": {
-                    "Id": 145722,
-                    "Name": "ID PD Teacher"
-                },
-                "CoTeacher": {
-                    "Id": 145722,
-                    "Name": "ID PD Teacher"
-                },
-                "AssignTo": {
-                    "Id": 145722,
-                    "Name": "ID PD Teacher"
-              },
-                "IsCurrentGroup": true,
-                "CountryCode": "ID",
-                "SessionACH": 3,
-                "TotalACH": 72,
-                "CourseType": {
-                    "Code": "SS",
-                    "Name": "SS"
-                },
-                "CourseTypeLevel": {
-                    "Code": "SSv3bk1",
-                    "Name": "v3bk1"
-                }
-            }
+                  "GroupId": 10120,
+                  "GroupName": "Small stars 3.0 Book1",
+                  "GroupCode": "SSV31-1-120-A-01",
+                  "CourseType": {
+                      "Code": "SS",
+                      "Name": "SS"
+                  },
+                  "CourseTypeLevel": {
+                      "Code": "SSv3bk1",
+                      "Name": "v3bk1"
+                  },
+                  "School": {
+                      "Code": "DIDTES01",
+                      "Name": "ID Omni Test"
+                  },
+                  "CustomerProductionStatus": {
+                      "Code": "STU",
+                      "Name": "Studying"
+                  },
+                  "GroupStatus": {
+                      "Code": "A",
+                      "Name": "Activated"
+                  },
+                  "MainTeacher": {
+                      "Id": 0,
+                      "Name": null
+                  },
+                  "CoTeacher": {
+                      "Id": 0,
+                      "Name": null
+                  },
+                  "AssignTo": {
+                      "Id": 0,
+                      "Name": null
+                  },
+                  "IsCurrentGroup": true,
+                  "CountryCode": "ID",
+                  "SessionACH": 1.5,
+                  "TotalACH": 96
+             }
         ]
     },
   {
         "id": 9000038,
         "data": [
              {
-                "GroupId": 10022,
-                "GroupName": "Small stars 3.0 Book1",
-                "GroupCode": "SSV31-1-120-A-01",
-                "School": {
-                    "Code": "DCNTES01",
-                    "Name": "ID Omni Test"
-                },
-                "CustomerProductionStatus": {
-                    "Code": "STU",
-                    "Name": "Studying"
-                },
-                "GroupStatus": {
-                    "Code": "A",
-                    "Name": "Activated"
-                },
-                "MainTeacher": {
-                    "Id": 145722,
-                    "Name": "ID PD Teacher"
-                },
-                "CoTeacher": {
-                    "Id": 145722,
-                    "Name": "ID PD Teacher"
-                },
-                "AssignTo": {
-                    "Id": 145722,
-                    "Name": "ID PD Teacher"
-              },
-                "IsCurrentGroup": true,
-                "CountryCode": "ID",
-                "SessionACH": 3,
-                "TotalACH": 72,
-                "CourseType": {
-                    "Code": "SS",
-                    "Name": "SS"
-                },
-                "CourseTypeLevel": {
-                    "Code": "SSv3bk1",
-                    "Name": "v3bk1"
-                }
-            }
+                    "GroupId": 10071,
+                    "GroupName": "Small stars 3.0 Book1",
+                    "GroupCode": "SSV31-1-120-A-01",
+                    "CourseType": {
+                        "Code": "SS",
+                        "Name": "SS"
+                    },
+                    "CourseTypeLevel": {
+                        "Code": "SSv3bk1",
+                        "Name": "v3bk1"
+                    },
+                    "School": {
+                        "Code": "DRUTES01",
+                        "Name": "RU Omni Test"
+                    },
+                    "CustomerProductionStatus": {
+                        "Code": "STU",
+                        "Name": "Studying"
+                    },
+                    "GroupStatus": {
+                        "Code": "A",
+                        "Name": "Activated"
+                    },
+                    "MainTeacher": {
+                        "Id": 0,
+                        "Name": null
+                    },
+                    "CoTeacher": {
+                        "Id": 0,
+                        "Name": null
+                    },
+                    "AssignTo": {
+                        "Id": 0,
+                        "Name": null
+                    },
+                    "IsCurrentGroup": true,
+                    "CountryCode": "RU",
+                    "SessionACH": 1.5,
+                    "TotalACH": 96
+             }
         ]
     },
     {
@@ -6749,6 +6749,44 @@
         ]
     },
     {
+        "id": 9000039,
+        "data": [
+            {
+                "GroupId": 10001,
+                "GroupName": "High Fly 2.0 C",
+                "GroupCode": "HFV2C-1-120-A-01",
+                "School": {
+                    "Code": "DCNTES01",
+                    "Name": "CN Omni Test"
+                },
+                "CustomerProductionStatus": {
+                    "Code": "STU",
+                    "Name": "Studying"
+                },
+                "GroupStatus": {
+                    "Code": "C",
+                    "Name": "Cancelled"
+                },
+                "MainTeacher": {
+                    "Id": 145719,
+                    "Name": "CN PD Teacher"
+                },
+                "CoTeacher": {
+                    "Id": 145719,
+                    "Name": "CN PD Teacher"
+                },
+                "AssignTo": {
+                    "Id": 145719,
+                    "Name": "CN PD Teacher"
+                },
+                "IsCurrentGroup": true,
+                "CountryCode": "CN",
+                "SessionACH": 3,
+                "TotalACH": 72
+            }
+        ]
+    },
+    {
         "id": 9000034,
         "data": [
             {
@@ -6839,28 +6877,5 @@
                 "TotalACH": 72
             }
         ]
-    },
-    {
-        "id": 9000036,
-        "data": {
-              "groups": [
-                 {
-                      "usedACH": 0,
-                      "totalACH": 75,
-                      "timezone": "Asia/Shanghai",
-                      "status": "current",
-                      "programLevelId": "100544",
-                      "programLevel": "GPV1",
-                      "program": "Grammar Pro",
-                      "name": "\ufffdGrammar Pro 1.0",
-                      "leftACH": 0,
-                      "isCurrentGroup": true,
-                      "id": "10021",
-                      "allSessions": []
-                  }
-              ]
-        },
-    "customerPhotoUrl": null,
-    "customerId": "9000036"
     }
 ]

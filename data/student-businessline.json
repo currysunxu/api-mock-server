@@ -1219,5 +1219,187 @@
             "DeepBlueSchoolCode": "China_Omni",
             "SchoolCode": "DCNTES01"
         }
+      },
+      {
+        "id": 9000038,
+        "data": {
+              "CustomerId": 1054,
+              "CountryCode": "RU",
+              "EnglishFirstName": null,
+              "EnglishLastName": null,
+              "Status": "Student",
+              "AvatarURL": "https://english1.my.salesforce.com/services/apexrest/GetAvatarById?id=0010I000024aSkrQAE",
+              "PreferredLanguageCode": null,
+              "CurrentGroup": {
+                  "GroupId": 10071,
+                  "GroupName": "Small stars 3.0 Book1",
+                  "GroupCode": "SSV31-1-120-A-01",
+                  "TeacherName": null,
+                  "CourseTypeCode": "SS",
+                  "CourseTypeLevelCode": "SSv3bk1",
+                  "SchoolCode": "DRUTES01",
+                  "SchoolName": "RU Omni Test",
+                  "CustomerStatusInGroup": "STU",
+                  "GroupStatus": "A"
+              },
+              "GroupsInProgress": [
+                  {
+                      "GroupId": 10071,
+                      "GroupName": "Small stars 3.0 Book1",
+                      "GroupCode": "SSV31-1-120-A-01",
+                      "TeacherName": null,
+                      "CourseTypeCode": "SS",
+                      "CourseTypeLevelCode": "SSv3bk1",
+                      "SchoolCode": "DRUTES01",
+                      "SchoolName": "RU Omni Test",
+                      "CustomerStatusInGroup": "STU",
+                      "GroupStatus": "A"
+                  }],
+                "Gender": null,
+                "Address": null,
+                "Email": null,
+                "HomePhoneNumber": "13671999379",
+                "MobilePhoneNumber": null,
+                "JoinedDate": null,
+                "DateOfBirth": null,
+                "WechatOpenIds": [],
+                "FirstName": "Test Account 54",
+                "LastName": null,
+                "KidsILabUserName": "ss3.ru.test01",
+                "BusinessLineCode": "OWN",
+                "DeepBlueSchoolCode": "Russia_Omni",
+                "SchoolCode": "DRUTES01"
+                  }
+      },
+      {
+        "id": 9000037,
+        "data": {
+                "CustomerId": 9000037,
+                "CountryCode": "ID",
+                "EnglishFirstName": null,
+                "EnglishLastName": null,
+                "Status": "Student",
+                "AvatarURL": "https://english1.my.salesforce.com/services/apexrest/GetAvatarById?id=0010I000024aSkoQAE",
+                "PreferredLanguageCode": null,
+                "CurrentGroup": {
+                    "GroupId": 10120,
+                    "GroupName": "Small stars 3.0 Book1",
+                    "GroupCode": "SSV31-1-120-A-01",
+                    "TeacherName": null,
+                    "CourseTypeCode": "SS",
+                    "CourseTypeLevelCode": "SSv3bk1",
+                    "SchoolCode": "DIDTES01",
+                    "SchoolName": "ID Omni Test",
+                    "CustomerStatusInGroup": "STU",
+                    "GroupStatus": "A"
+                },
+                "GroupsInProgress": [
+                    {
+                        "GroupId": 10120,
+                        "GroupName": "Small stars 3.0 Book1",
+                        "GroupCode": "SSV31-1-120-A-01",
+                        "TeacherName": null,
+                        "CourseTypeCode": "SS",
+                        "CourseTypeLevelCode": "SSv3bk1",
+                        "SchoolCode": "DIDTES01",
+                        "SchoolName": "ID Omni Test",
+                        "CustomerStatusInGroup": "STU",
+                        "GroupStatus": "A"
+                    }],
+                "Gender": null,
+                "Address": null,
+                "Email": null,
+                "HomePhoneNumber": "13671999379",
+                "MobilePhoneNumber": null,
+                "JoinedDate": null,
+                "DateOfBirth": null,
+                "WechatOpenIds": [],
+                "FirstName": "Test Account 51",
+                "LastName": null,
+                "KidsILabUserName": "ss3.id.test01",
+                "BusinessLineCode": "FRA",
+                "DeepBlueSchoolCode": "Id_Omni",
+                "SchoolCode": "DIDTES01"
+        }
+      },
+      {
+        "id": 9000039,
+        "data": {
+            "CustomerId": 9000039,
+            "CountryCode": "CN",
+            "EnglishFirstName": "hf.test1025",
+            "EnglishLastName": "Classroom",
+            "Status": "Student",
+            "AvatarURL": "https://english1--stg.cs73.my.salesforce.com/services/apexrest/GetAvatarById?id=0016D000002HSyJQAW",
+            "PreferredLanguageCode": null,
+            "CurrentGroup": null,
+            "GroupsInProgress": [],
+            "Gender": null,
+            "Address": null,
+            "Email": null,
+            "HomePhoneNumber": "13671888379",
+            "MobilePhoneNumber": "13671888379",
+            "JoinedDate": null,
+            "DateOfBirth": null,
+            "WechatOpenIds": [],
+            "FirstName": "hf.test1025",
+            "LastName": null,
+            "KidsILabUserName": "hf.test1025",
+            "BusinessLineCode": "OWN",
+            "DeepBlueSchoolCode": "China_Omni",
+            "SchoolCode": "DCNTES01"
+        }
+      },
+      {
+        "id": 9000036,
+        "data": {
+              "CustomerId": 9000036,
+              "CountryCode": "CN",
+              "EnglishFirstName": null,
+              "EnglishLastName": null,
+              "Status": "Student",
+              "AvatarURL": "https://english1.my.salesforce.com/services/apexrest/GetAvatarById?id=0010I000024aSkbQAE",
+              "PreferredLanguageCode": null,
+              "CurrentGroup": {
+                  "GroupId": 10021,
+                  "GroupName": " Grammar Pro 1.0",
+                  "GroupCode": "GPV1GPV1-1-120-A-01",
+                  "TeacherName": null,
+                  "CourseTypeCode": "HF",
+                  "CourseTypeLevelCode": "HFC",
+                  "SchoolCode": "DCNTES01",
+                  "SchoolName": "CN Omni Test",
+                  "CustomerStatusInGroup": "STU",
+                  "GroupStatus": "A"
+              },
+              "GroupsInProgress": [
+                  {
+                      "GroupId": 10021,
+                      "GroupName": " Grammar Pro 1.0",
+                      "GroupCode": "GPV1GPV1-1-120-A-01",
+                      "TeacherName": null,
+                      "CourseTypeCode": "HF",
+                      "CourseTypeLevelCode": "HFC",
+                      "SchoolCode": "DCNTES01",
+                      "SchoolName": "CN Omni Test",
+                      "CustomerStatusInGroup": "STU",
+                      "GroupStatus": "A"
+                  }
+              ],
+              "Gender": null,
+              "Address": null,
+              "Email": null,
+              "HomePhoneNumber": "13671999379",
+              "MobilePhoneNumber": null,
+              "JoinedDate": null,
+              "DateOfBirth": null,
+              "WechatOpenIds": [],
+              "FirstName": "Test Account 38",
+              "LastName": null,
+              "KidsILabUserName": "gp.test01",
+              "BusinessLineCode": "OWN",
+              "DeepBlueSchoolCode": "China_Omni",
+              "SchoolCode": "DCNTES01"
+          }
       }
 ]
