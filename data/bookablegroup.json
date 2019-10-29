@@ -1507,6 +1507,136 @@
         ]
     },
     {
+        "id": "1112",
+        "data": [
+            {
+                  "GroupId": 10013,
+                  "GroupName": "Trailblazers Book1",
+                  "GroupCode": "TBV31-1-120-A-01",
+                  "School": {
+                    "Code": "DCNTES01",
+                    "Name": "CN Omni Test"
+                  },
+                  "CustomerProductionStatus": {
+                    "Code": "TO",
+                    "Name": "Trans Out"
+                  },
+                  "GroupStatus": {
+                    "Code": "A",
+                    "Name": "Activated"
+                  },
+                  "MainTeacher": {
+                    "Id": 0,
+                    "Name": null
+                  },
+                  "CoTeacher": {
+                    "Id": 0,
+                    "Name": null
+                  },
+                  "AssignTo": {
+                    "Id": 0,
+                    "Name": null
+                  },
+                  "IsCurrentGroup": true,
+                  "CountryCode": "CN",
+                  "SessionACH": 3,
+                  "TotalACH": 60
+            }
+        ]
+    },
+    {
+        "id": "2001",
+        "data": [
+            {
+                  "GroupId": 200082587,
+                  "GroupName": "SSV3 Sang Testing",
+                  "GroupCode": "SSV31-1-60-A-010118-03",
+                  "CourseType": {
+                    "Code": "SS",
+                    "Name": "SS"
+                  },
+                  "CourseTypeLevel": {
+                    "Code": "SSv3bk1",
+                    "Name": "v3bk1"
+                  },
+                  "School": {
+                    "Code": "DCNTES01",
+                    "Name": "CN Omni Test"
+                  },
+                  "CustomerProductionStatus": {
+                    "Code": "STU",
+                    "Name": "Studying"
+                  },
+                  "GroupStatus": {
+                    "Code": "A",
+                    "Name": "Activated"
+                  },
+                  "MainTeacher": {
+                    "Id": 245720,
+                    "Name": "Thisbe Tian"
+                  },
+                  "CoTeacher": {
+                    "Id": 245720,
+                    "Name": "Naufal"
+                  },
+                  "AssignTo": {
+                    "Id": 261035,
+                    "Name": "Mia Zhu"
+                  },
+                  "IsCurrentGroup": false,
+                  "CountryCode": "CN",
+                  "SessionACH": 1.5,
+                  "TotalACH": 96
+                }
+        ]
+    },
+    {
+        "id": "1048",
+        "data": [
+            {
+                  "GroupId": 10022,
+                  "GroupName": "Small stars 3.0 Book1",
+                  "GroupCode": "SSV31-1-120-A-01",
+                  "CourseType": {
+                    "Code": "SS",
+                    "Name": "SS"
+                  },
+                  "CourseTypeLevel": {
+                    "Code": "SSv3bk1",
+                    "Name": "v3bk1"
+                  },
+                  "School": {
+                    "Code": "DCNTES01",
+                    "Name": "CN Omni Test"
+                  },
+                  "CustomerProductionStatus": {
+                    "Code": "TO",
+                    "Name": "Trans Out"
+                  },
+                  "GroupStatus": {
+                    "Code": "A",
+                    "Name": "Activated"
+                  },
+                  "MainTeacher": {
+                    "Id": 0,
+                    "Name": null
+                  },
+                  "CoTeacher": {
+                    "Id": 0,
+                    "Name": null
+                  },
+                  "AssignTo": {
+                    "Id": 30929,
+                    "Name": "Connie Gu"
+                  },
+                  "IsCurrentGroup": true,
+                  "CountryCode": "CN",
+                  "SessionACH": 1.5,
+                  "TotalACH": 96
+                }
+        ]
+    },
+    {
         "id": "9000035",
         "data": [
             {
