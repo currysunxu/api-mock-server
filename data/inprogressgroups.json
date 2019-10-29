@@ -2828,7 +2828,7 @@
                     "Id": 261035,
                     "Name": "Mia Zhu"
                 },
-                "IsCurrentGroup": false,
+                "IsCurrentGroup": true,
                 "CountryCode": "CN",
                 "SessionACH": 1.5,
                 "TotalACH": 96
@@ -6563,8 +6563,8 @@
                     "Name": "Studying"
                 },
                 "GroupStatus": {
-                    "Code": "C",
-                    "Name": "Cancelled"
+                    "Code": "A",
+                    "Name": "Activated"
                 },
                 "MainTeacher": {
                     "Id": 145719,
