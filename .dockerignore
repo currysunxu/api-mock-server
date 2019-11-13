@@ -1,10 +1,12 @@
 .idea/
 .vscode/
-node_modules/
+cd/
+python/
 .dockerignore
 .editorconfig
 .gitignore
 docker-compose.yml
 Dockerfile
+Dockerfile.tc
 Jenkinsfile
 readme.md
