@@ -1,12 +1,12 @@
 #!groovy
-library identifier: 'jenkinssharedlib@tencentcloud', retriever: modernSCM(
+library identifier: 'jenkinssharedlib@tc/v2', retriever: modernSCM(
   [$class       : 'GitSCMSource',
    remote       : 'ssh://git@bitbucket.eflabs.cn:7999/elab/jenkinssharedlib.git',
    credentialsId: '6eb8497e-6687-41e7-8a3c-1856eb98116e'])
 
 config = [
   service           : 'omni-gateway-mock',                   // docker-compose service for building image.
-  imageRepo         : 'test4kids/omni-gateway-mock',
+  imageRepo         : 'edtech-kt/omni-gateway-mock',
   teamsConnectorName: 'QA-Notification',
   teamsConnectorUrl : 'https://outlook.office.com/webhook/a7f32c1d-faf5-4e70-9b87-c1553ce93d97@f0d1c6fd-dff0-486a-8e91-cfefefc7d98d/JenkinsCI/01e4043cc1d647e781964c31f1bc39bb/6034223b-343c-4dc8-8cd6-f71f41659b6c'
 ]
