@@ -9,7 +9,7 @@ services:
       dockerfile: ./Dockerfile
 
   omni-gateway-mock:
-    image: test4kids/omni-gateway-mock:${IMAGE_TAG}
+    image: edtech-kt/omni-gateway-mock:${IMAGE_TAG}
     build:
       context: .
       dockerfile: ./Dockerfile.tc
