@@ -1726,5 +1726,87 @@
                 "TotalACH": 96
             }
         ]
+    },
+    {
+        "id": "9000040",
+        "data": [
+            {
+                "GroupId": 10023,
+                "GroupName": "High Fly 2.0 C HF MT",
+                "GroupCode": "FMT21-1-120-A-03",
+                "GroupSFId": "a0B0I0dwsf5a8UUAQ",
+                "Program": "HFV2",
+                "ProgramLevel": "F",
+                "School": {
+                    "Code": "DCNTES01",
+                    "Name": "HF Mock Test"
+                },
+                "CustomerProductionStatus": {
+                    "Code": "STU",
+                    "Name": "Studying"
+                },
+                "GroupStatus": {
+                    "Code": "A",
+                    "Name": "Activated"
+                },
+                "MainTeacher": {
+                    "Id": 145719,
+                    "Name": "CN PD Teacher"
+                },
+                "CoTeacher": {
+                    "Id": 145719,
+                    "Name": "CN PD Teacher"
+                },
+                "AssignTo": {
+                    "Id": 0,
+                    "Name": "GZ11Shirley"
+                },
+                "IsCurrentGroup": true,
+                "CountryCode": "CN",
+                "SessionACH": 3,
+                "TotalACH": 72
+            }
+        ]
+    },
+    {
+        "id": "9000041",
+        "data": [
+            {
+                "GroupId": 10024,
+                "GroupName": "High Fly 2.0 C GZ MT",
+                "GroupCode": "FMGZ3-1-120-A-03",
+                "GroupSFId": "a0B0I0dwsf5sf43AQ",
+                "Program": "HFV2",
+                "ProgramLevel": "F",
+                "School": {
+                    "Code": "DCNTES01",
+                    "Name": "HF Mock Test"
+                },
+                "CustomerProductionStatus": {
+                    "Code": "STU",
+                    "Name": "Studying"
+                },
+                "GroupStatus": {
+                    "Code": "A",
+                    "Name": "Activated"
+                },
+                "MainTeacher": {
+                    "Id": 145719,
+                    "Name": "CN PD Teacher"
+                },
+                "CoTeacher": {
+                    "Id": 145719,
+                    "Name": "CN PD Teacher"
+                },
+                "AssignTo": {
+                    "Id": 0,
+                    "Name": "GZ11Shirley"
+                },
+                "IsCurrentGroup": true,
+                "CountryCode": "CN",
+                "SessionACH": 3,
+                "TotalACH": 72
+            }
+        ]
     }
-]
+  ]

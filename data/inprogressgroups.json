@@ -6676,5 +6676,97 @@
                 "TotalACH": 72
             }
         ]
+    },
+    {
+        "id": 9000040,
+        "data": [
+            {
+                "GroupId": null,
+                "GroupName": "High Fly 2.0 C MT",
+                "GroupCode": "FMT21-1-120-A-03",
+                "CourseType": {
+                    "Code": "FR",
+                    "Name": "FR"
+                },
+                "CourseTypeLevel": {
+                    "Code": "FRa2.1",
+                    "Name": "a2.1"
+                },
+               "School": {
+                    "Code": "DCNTES01",
+                    "Name": "HF Mock Test"
+                },
+                "CustomerProductionStatus": {
+                    "Code": "STU",
+                    "Name": "Studying"
+                },
+                "GroupStatus": {
+                    "Code": "A",
+                    "Name": "Activated"
+                },
+                "MainTeacher": {
+                    "Id": 145719,
+                    "Name": "CN PD Teacher"
+                },
+                "CoTeacher": {
+                    "Id": 145719,
+                    "Name": "CN PD Teacher"
+                },
+                "AssignTo": {
+                    "Id": 145719,
+                    "Name": "CN PD Teacher"
+                },
+                "IsCurrentGroup": true,
+                "CountryCode": "CN",
+                "SessionACH": 3,
+                "TotalACH": 72
+            }
+        ]
+    },
+    {
+        "id": 9000041,
+        "data": [
+            {
+                "GroupId": null,
+                "GroupName": "High Fly 2.0 C GZ MT",
+                "GroupCode": "FMGZ3-1-120-A-03",
+                "CourseType": {
+                    "Code": "FR",
+                    "Name": "FR"
+                },
+                "CourseTypeLevel": {
+                    "Code": "FRa2.1",
+                    "Name": "a2.1"
+                },
+               "School": {
+                    "Code": "DCNTES01",
+                    "Name": "HF Mock Test"
+                },
+                "CustomerProductionStatus": {
+                    "Code": "STU",
+                    "Name": "Studying"
+                },
+                "GroupStatus": {
+                    "Code": "A",
+                    "Name": "Activated"
+                },
+                "MainTeacher": {
+                    "Id": 145719,
+                    "Name": "CN PD Teacher"
+                },
+                "CoTeacher": {
+                    "Id": 145719,
+                    "Name": "CN PD Teacher"
+                },
+                "AssignTo": {
+                    "Id": 145719,
+                    "Name": "CN PD Teacher"
+                },
+                "IsCurrentGroup": true,
+                "CountryCode": "CN",
+                "SessionACH": 3,
+                "TotalACH": 72
+            }
+        ]
     }
 ]

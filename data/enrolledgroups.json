@@ -865,5 +865,29 @@
             "RemainingACH": 0
             }
         ]
+    },
+    {
+        "id": 9000040,
+        "data": [
+            {
+            "CourseTypeCode": "HF",
+            "CourseLevelCodes": [
+                "C"
+        ],
+            "RemainingACH": 0
+            }
+        ]
+    },
+    {
+        "id": 9000041,
+        "data": [
+            {
+            "CourseTypeCode": "HF",
+            "CourseLevelCodes": [
+                "C"
+        ],
+            "RemainingACH": 0
+            }
+        ]
     }
 ]
