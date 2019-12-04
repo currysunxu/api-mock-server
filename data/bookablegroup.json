@@ -1731,7 +1731,7 @@
         "id": "9000040",
         "data": [
             {
-                "GroupId": 10023,
+                "GroupId": 10001,
                 "GroupName": "High Fly 2.0 C HF MT",
                 "GroupCode": "FMT21-1-120-A-03",
                 "GroupSFId": "a0B0I0dwsf5a8UUAQ",
@@ -1772,7 +1772,7 @@
         "id": "9000041",
         "data": [
             {
-                "GroupId": 10024,
+                "GroupId": 10001,
                 "GroupName": "High Fly 2.0 C GZ MT",
                 "GroupCode": "FMGZ3-1-120-A-03",
                 "GroupSFId": "a0B0I0dwsf5sf43AQ",

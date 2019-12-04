@@ -1699,7 +1699,7 @@
         {
           "usedACH": 36,
           "totalACH": 60,
-          "timezone": "Asia/Hefei",
+          "timezone": "Asia/Shanghai",
           "status": "current",
           "programLevelId": "100544",
           "programLevel": "C",
@@ -1722,7 +1722,7 @@
             {
               "usedACH": 36,
               "totalACH": 60,
-              "timezone": "Asia/Hefei",
+              "timezone": "Asia/Shanghai",
               "status": "current",
               "programLevelId": "100544",
               "programLevel": "C",
