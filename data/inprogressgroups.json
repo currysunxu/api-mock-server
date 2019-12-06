@@ -6377,6 +6377,52 @@
         ]
     },
     {
+        "id": 1114,
+        "data": [
+            {
+                "GroupId": 10114,
+                "GroupName": "Trailblazers Book1",
+                "GroupCode": "TBV31-1-120-A-01",
+                "School": {
+                    "Code": "ID1",
+                    "Name": "ID Omni Test"
+                },
+                "CustomerProductionStatus": {
+                    "Code": "TO",
+                    "Name": "Trans Out"
+                },
+                "GroupStatus": {
+                    "Code": "A",
+                    "Name": "Activated"
+                },
+                "MainTeacher": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "CoTeacher": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "AssignTo": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "IsCurrentGroup": true,
+                "CountryCode": "ID",
+                "SessionACH": 3,
+                "TotalACH": 60,
+                "CourseType": {
+                    "Code": "TB",
+                    "Name": "TB"
+                },
+                "CourseTypeLevel": {
+                    "Code": "TBv3Bk1",
+                    "Name": "v3Bk1"
+                }
+            }
+        ]
+    },
+    {
         "id": 9000031,
         "data": [
             {
