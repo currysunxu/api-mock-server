@@ -1010,7 +1010,7 @@
     {
         "data": {
             "DateOfBirth": "2008-01-04T00:00:00",
-            "WechatOpenIds": [],
+            "WechatOpenIds": ["test1", "test2", "test3"],
             "Status": "Student",
             "EnglishFirstName": "ptReview06",
             "CountryCode": "CN",
@@ -1020,11 +1020,11 @@
             "PreferredLanguageCode": "CN",
             "JoinedDate": "2010-04-04T00:00:00",
             "CustomerId": "9000022",
-            "LastName": null,
-            "MobilePhoneNumber": null,
-            "HomePhoneNumber": null,
+            "LastName": "ptReview06LastName",
+            "MobilePhoneNumber": 1234567,
+            "HomePhoneNumber": 12345678,
             "Gender": "M",
-            "Address": null,
+            "Address": "ptReview06 Test Address",
             "AvatarURL": "https:///e1-avatorservices.s3.cn-north-1.amazonaws.com.cn/4e58333f-15ea-4dac-8626-41cc964f0572",
             "Email": "xhlzcy@yahoo.com.cn",
             "StatusUpdatedUtcDateTime": "2018-10-10T17:12:01"
