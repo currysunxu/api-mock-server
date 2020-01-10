@@ -344,7 +344,7 @@
                     "isCurrentGroup": false,
                     "usedACH": 36,
                     "status": "past",
-                    "id": "null"
+                    "id": null
                 },
                 {
                     "program": "High Flyers",
@@ -358,7 +358,7 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "current",
-                    "id": "null"
+                    "id": null
                 },
                 {
                     "program": "High Flyers",
@@ -386,7 +386,7 @@
                     "isCurrentGroup": null,
                     "usedACH": 34.5,
                     "status": "future",
-                    "id": "null"
+                    "id": null
                 }
             ],
             "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
@@ -1333,12 +1333,12 @@
                     "program": "Frontrunner",
                     "allSessions": [],
                     "totalACH": 0,
-                    "name": null,
+                    "name": "name",
                     "leftACH": null,
                     "timezone": "Asia/Shanghai",
                     "programLevel": "2",
                     "programLevelId": "100583",
-                    "isCurrentGroup": null,
+                    "isCurrentGroup": true,
                     "usedACH": 0,
                     "status": "current",
                     "id": null,
