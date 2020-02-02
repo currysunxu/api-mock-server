@@ -1,0 +1,70 @@
+[
+  {
+    "id": 39981176,
+    "data": [
+      {
+        "studentId": "39981176",
+        "sessionId": "111676096",
+        "sessionStatus": "Completed",
+        "reservationId": "a0G6D000000cjw0UAA",
+        "program": "High Flyers 3.0Plus",
+        "programVersionCode": "HFV3Plus",
+        "programLevel": "C",
+        "unitNumber": "1",
+        "lessonNumber": "1",
+        "groupId": "a0B6D0000059TISUA2",
+        "groupStatus": "Activated",
+        "teacherName": "Frederick",
+        "teacherPhoto": null,
+        "startDateTimeUtc": "2019-02-01T02:00:00.000Z",
+        "endDateTimeUtc": "2019-02-01T04:15:00.000Z",
+        "attendanceResult": "Present",
+        "entryLink": "http://global.talk-cloud.net/WebAPI/entry/domain/cloudclass/serial/2113669790/username/Tam+Sam/usertype/0/ts/1580563276/auth/99eb65d35bd9c2c789440009dd33fd1e/userpassword/51288266bc432722e7c8265ce8226071",
+        "recordingLink": "http://global.talk-cloud.net/replay/2113669790/100550/1580293792628/",
+        "acr": null
+      },
+      {
+        "studentId": "39981176",
+        "sessionId": "111676097",
+        "sessionStatus": "Activated",
+        "reservationId": "a0G6D000000cjw0UAB",
+        "program": "High Flyers 3.0Plus",
+        "programVersionCode": "HFV3Plus",
+        "programLevel": "C",
+        "unitNumber": "1",
+        "lessonNumber": "1",
+        "groupId": "a0B6D0000059TISUA2",
+        "groupStatus": "Activated",
+        "teacherName": "Frederick",
+        "teacherPhoto": null,
+        "startDateTimeUtc": "2019-02-08T02:00:00.000Z",
+        "endDateTimeUtc": "2019-02-08T04:15:00.000Z",
+        "attendanceResult": null,
+        "entryLink": "http://global.talk-cloud.net/WebAPI/entry/domain/cloudclass/serial/2113669790/username/Tam+Sam/usertype/0/ts/1580563276/auth/99eb65d35bd9c2c789440009dd33fd1e/userpassword/51288266bc432722e7c8265ce8226071",
+        "recordingLink": null,
+        "acr": null
+      },
+      {
+        "studentId": "39981176",
+        "sessionId": "111676098",
+        "sessionStatus": "Activated",
+        "reservationId": "a0G6D000000cjw0UAC",
+        "program": "High Flyers 3.0Plus",
+        "programVersionCode": "HFV3Plus",
+        "programLevel": "C",
+        "unitNumber": "1",
+        "lessonNumber": "1",
+        "groupId": "a0B6D0000059TISUA2",
+        "groupStatus": "Activated",
+        "teacherName": "Frederick",
+        "teacherPhoto": null,
+        "startDateTimeUtc": "2019-02-08T02:00:00.000Z",
+        "endDateTimeUtc": "2019-02-08T04:15:00.000Z",
+        "attendanceResult": null,
+        "entryLink": "http://global.talk-cloud.net/WebAPI/entry/domain/cloudclass/serial/2113669790/username/Tam+Sam/usertype/0/ts/1580563276/auth/99eb65d35bd9c2c789440009dd33fd1e/userpassword/51288266bc432722e7c8265ce8226071",
+        "recordingLink": null,
+        "acr": null
+      }
+    ]
+  }
+]
