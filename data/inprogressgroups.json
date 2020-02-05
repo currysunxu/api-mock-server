@@ -1793,7 +1793,8 @@
     },
     {
         "data": [
-            {
+
+          {
                 "CoTeacher": {
                     "Id": 0,
                     "Name": null
@@ -6902,6 +6903,47 @@
                 "CourseTypeLevel": {
                     "Name": "C",
                     "Code": "HFC"
+                }
+            },
+          {
+                "CoTeacher": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "CustomerProductionStatus": {
+                    "Name": "Trans Out",
+                    "Code": "TO"
+                },
+                "School": {
+                    "Name": "CN Omni Test",
+                    "Code": "DCNTES01"
+                },
+                "IsCurrentGroup": true,
+                "MainTeacher": {
+                    "Id": 0,
+                    "Name": null
+                },
+                "CourseTypeLevel": {
+                    "Name": "v3bk1",
+                    "Code": "SSv3bk1"
+                },
+                "GroupName": "Small stars 3.0 Book1",
+                "GroupStatus": {
+                    "Name": "Activated",
+                    "Code": "A"
+                },
+                "AssignTo": {
+                    "Id": 30929,
+                    "Name": "Connie Gu"
+                },
+                "SessionACH": 1.5,
+                "TotalACH": 96,
+                "GroupId": 10022,
+                "GroupCode": "SSV31-1-120-A-01",
+                "CountryCode": "CN",
+                "CourseType": {
+                    "Name": "SS",
+                    "Code": "SS"
                 }
             }
         ],
