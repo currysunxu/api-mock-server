@@ -910,6 +910,13 @@
                 "CourseLevelCodes": [
                     "C"
                 ]
+            },
+          {
+                "CourseTypeCode": "SS",
+                "RemainingACH": 0,
+                "CourseLevelCodes": [
+                    "v3bk1"
+                ]
             }
         ],
         "id": 9000044
