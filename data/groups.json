@@ -1867,7 +1867,7 @@
                     "programLevelId": "100546",
                     "isCurrentGroup": false,
                     "usedACH": 0,
-                    "status": "past",
+                    "status": "current",
                     "id": null
                 },
                 {
@@ -1881,7 +1881,7 @@
                     "programLevelId": "100547",
                     "isCurrentGroup": false,
                     "usedACH": 34.5,
-                    "status": "past",
+                    "status": "current",
                     "id": "100082298"
                 },
                 {
@@ -1909,7 +1909,7 @@
                     "programLevelId": "100507",
                     "isCurrentGroup": false,
                     "usedACH": 62.5,
-                    "status": "future",
+                    "status": "past",
                     "id": "100082210"
                 },
                 {
@@ -1923,7 +1923,7 @@
                     "programLevelId": "100508",
                     "isCurrentGroup": false,
                     "usedACH": 62.5,
-                    "status": "future",
+                    "status": "current",
                     "id": "100082211"
                 },
                 {
@@ -1951,7 +1951,7 @@
                     "programLevelId": "100582",
                     "isCurrentGroup": false,
                     "usedACH": 0,
-                    "status": "future",
+                    "status": "past",
                     "id": "100084687",
                     "cefrLevel": "A1"
                 },
@@ -1966,7 +1966,7 @@
                     "programLevelId": "100583",
                     "isCurrentGroup": false,
                     "usedACH": 0,
-                    "status": "future",
+                    "status": "current",
                     "id": null,
                     "cefrLevel": null
                 },
@@ -1987,8 +1987,8 @@
                 }
             ],
             "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "7000006"
+            "customerId": "7000007"
         },
-        "id": 7000006
+        "id": 7000007
     }
 ]
