@@ -1824,7 +1824,7 @@
                     "timezone": "Asia/Shanghai",
                     "programLevel": "Blue",
                     "programLevelId": "100362",
-                    "isCurrentGroup": false,
+                    "isCurrentGroup": true,
                     "usedACH": 94.5,
                     "status": "current",
                     "id": "100020868"
@@ -1852,7 +1852,7 @@
                     "timezone": "Asia/Shanghai",
                     "programLevel": "C",
                     "programLevelId": "100544",
-                    "isCurrentGroup": false,
+                    "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "past",
                     "id": "100082182"
@@ -1866,7 +1866,7 @@
                     "timezone": "Asia/Shanghai",
                     "programLevel": "D",
                     "programLevelId": "100545",
-                    "isCurrentGroup": false,
+                    "isCurrentGroup": true,
                     "usedACH": 0,
                     "status": "past",
                     "id": "100084835"
@@ -1922,7 +1922,7 @@
                     "timezone": "Asia/Baghdad",
                     "programLevel": "1",
                     "programLevelId": "100507",
-                    "isCurrentGroup": false,
+                    "isCurrentGroup": true,
                     "usedACH": 62.5,
                     "status": "past",
                     "id": "100082210"
@@ -1964,9 +1964,9 @@
                     "timezone": "Asia/Shanghai",
                     "programLevel": "1",
                     "programLevelId": "100582",
-                    "isCurrentGroup": false,
+                    "isCurrentGroup": true,
                     "usedACH": 0,
-                    "status": "current",
+                    "status": "past",
                     "id": "100084687",
                     "cefrLevel": "A1"
                 },
