@@ -460,5 +460,11 @@
             "CustomerId": "7000001"
         },
         "id": "auth2.exstd"
+    },
+  {
+        "data": {
+            "CustomerId": "7000002"
+        },
+        "id": "auth2.mix.program"
     }
 ]
