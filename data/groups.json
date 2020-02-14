@@ -1810,7 +1810,7 @@
                     "timezone": "Asia/Shanghai",
                     "programLevel": "1",
                     "programLevelId": "100369",
-                    "isCurrentGroup": false,
+                    "isCurrentGroup": true,
                     "usedACH": 102,
                     "status": "past",
                     "id": "100082370"
@@ -1824,7 +1824,7 @@
                     "timezone": "Asia/Shanghai",
                     "programLevel": "Blue",
                     "programLevelId": "100362",
-                    "isCurrentGroup": true,
+                    "isCurrentGroup": false,
                     "usedACH": 94.5,
                     "status": "current",
                     "id": "100020868"
@@ -1894,7 +1894,7 @@
                     "timezone": "Asia/Shanghai",
                     "programLevel": "F",
                     "programLevelId": "100547",
-                    "isCurrentGroup": true,
+                    "isCurrentGroup": false,
                     "usedACH": 34.5,
                     "status": "current",
                     "id": "100082298"
@@ -1936,7 +1936,7 @@
                     "timezone": "Asia/Baghdad",
                     "programLevel": "2",
                     "programLevelId": "100508",
-                    "isCurrentGroup": true,
+                    "isCurrentGroup": false,
                     "usedACH": 62.5,
                     "status": "current",
                     "id": "100082211"
@@ -1964,7 +1964,7 @@
                     "timezone": "Asia/Shanghai",
                     "programLevel": "1",
                     "programLevelId": "100582",
-                    "isCurrentGroup": false,
+                    "isCurrentGroup": true,
                     "usedACH": 0,
                     "status": "past",
                     "id": "100084687",
@@ -2002,8 +2002,8 @@
                 }
             ],
             "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "7000003"
+            "customerId": "7000004"
         },
-        "id": 7000003
+        "id": 7000004
     }
 ]
