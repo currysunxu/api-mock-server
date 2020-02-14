@@ -1894,7 +1894,7 @@
                     "timezone": "Asia/Shanghai",
                     "programLevel": "F",
                     "programLevelId": "100547",
-                    "isCurrentGroup": false,
+                    "isCurrentGroup": true,
                     "usedACH": 34.5,
                     "status": "current",
                     "id": "100082298"
@@ -1936,7 +1936,7 @@
                     "timezone": "Asia/Baghdad",
                     "programLevel": "2",
                     "programLevelId": "100508",
-                    "isCurrentGroup": false,
+                    "isCurrentGroup": true,
                     "usedACH": 62.5,
                     "status": "current",
                     "id": "100082211"
@@ -1964,7 +1964,7 @@
                     "timezone": "Asia/Shanghai",
                     "programLevel": "1",
                     "programLevelId": "100582",
-                    "isCurrentGroup": true,
+                    "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "past",
                     "id": "100084687",
