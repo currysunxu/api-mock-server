@@ -1810,7 +1810,7 @@
                     "timezone": "Asia/Shanghai",
                     "programLevel": "1",
                     "programLevelId": "100369",
-                    "isCurrentGroup": true,
+                    "isCurrentGroup": false,
                     "usedACH": 102,
                     "status": "past",
                     "id": "100082370"
@@ -1852,7 +1852,7 @@
                     "timezone": "Asia/Shanghai",
                     "programLevel": "C",
                     "programLevelId": "100544",
-                    "isCurrentGroup": true,
+                    "isCurrentGroup": false,
                     "usedACH": 36,
                     "status": "past",
                     "id": "100082182"
@@ -1866,7 +1866,7 @@
                     "timezone": "Asia/Shanghai",
                     "programLevel": "D",
                     "programLevelId": "100545",
-                    "isCurrentGroup": true,
+                    "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "past",
                     "id": "100084835"
@@ -1908,7 +1908,7 @@
                     "timezone": "Asia/Shanghai",
                     "programLevel": "G",
                     "programLevelId": "100547",
-                    "isCurrentGroup": true,
+                    "isCurrentGroup": false,
                     "usedACH": 34.5,
                     "status": "future",
                     "id": "100082298"
@@ -1922,9 +1922,9 @@
                     "timezone": "Asia/Baghdad",
                     "programLevel": "1",
                     "programLevelId": "100507",
-                    "isCurrentGroup": true,
+                    "isCurrentGroup": false,
                     "usedACH": 62.5,
-                    "status": "past",
+                    "status": "future",
                     "id": "100082210"
                 },
                 {
@@ -1938,7 +1938,7 @@
                     "programLevelId": "100508",
                     "isCurrentGroup": false,
                     "usedACH": 62.5,
-                    "status": "current",
+                    "status": "future",
                     "id": "100082211"
                 },
                 {
@@ -1964,9 +1964,9 @@
                     "timezone": "Asia/Shanghai",
                     "programLevel": "1",
                     "programLevelId": "100582",
-                    "isCurrentGroup": true,
+                    "isCurrentGroup": false,
                     "usedACH": 0,
-                    "status": "past",
+                    "status": "future",
                     "id": "100084687",
                     "cefrLevel": "A1"
                 },
@@ -1981,7 +1981,7 @@
                     "programLevelId": "100583",
                     "isCurrentGroup": false,
                     "usedACH": 0,
-                    "status": "current",
+                    "status": "future",
                     "id": null,
                     "cefrLevel": null
                 },
@@ -2002,8 +2002,8 @@
                 }
             ],
             "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "7000004"
+            "customerId": "7000005"
         },
-        "id": 7000004
+        "id": 7000005
     }
 ]
