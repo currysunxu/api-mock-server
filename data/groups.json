@@ -2027,5 +2027,79 @@
             "customerId": "1002"
         },
         "id": 1002
+    },
+    {
+        "data": {
+            "groups": [
+                {
+                    "program": "High Flyers",
+                    "allSessions": [],
+                    "totalACH": 60,
+                    "name": "GroupTestCreateManyStudent04",
+                    "leftACH": 0,
+                    "timezone": "Asia/Shanghai",
+                    "programLevel": "C",
+                    "programLevelId": "100544",
+                    "isCurrentGroup": false,
+                    "usedACH": 36,
+                    "status": "past",
+                    "id": null
+                },
+                {
+                    "program": "High Flyers",
+                    "allSessions": [],
+                    "totalACH": 0,
+                    "name": null,
+                    "leftACH": null,
+                    "timezone": "Asia/Shanghai",
+                    "programLevel": "E",
+                    "programLevelId": "100546",
+                    "isCurrentGroup": true,
+                    "usedACH": 0,
+                    "status": "current",
+                    "id": null
+                }
+            ],
+            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+            "customerId": "39981176"
+        },
+        "id": 39981176
+    },
+    {
+        "data": {
+            "groups": [
+                {
+                    "program": "High Flyers",
+                    "allSessions": [],
+                    "totalACH": 60,
+                    "name": "GroupTestCreateManyStudent04",
+                    "leftACH": 0,
+                    "timezone": "Asia/Shanghai",
+                    "programLevel": "C",
+                    "programLevelId": "100544",
+                    "isCurrentGroup": false,
+                    "usedACH": 36,
+                    "status": "past",
+                    "id": null
+                },
+                {
+                    "program": "High Flyers",
+                    "allSessions": [],
+                    "totalACH": 0,
+                    "name": null,
+                    "leftACH": null,
+                    "timezone": "Asia/Shanghai",
+                    "programLevel": "E",
+                    "programLevelId": "100546",
+                    "isCurrentGroup": true,
+                    "usedACH": 0,
+                    "status": "current",
+                    "id": null
+                }
+            ],
+            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+            "customerId": "1070"
+        },
+        "id": 1070
     }
 ]
