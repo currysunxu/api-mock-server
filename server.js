@@ -24,6 +24,12 @@ server.get('/omni/apigateway/health', (req, res) => {
   res.status(200).jsonp('ok')
 })
 
+// Add special case for 'restapi'
+const restapiController = require('./restapiController')
+server.post('/omni/apigateway/api/v1/sf/restapi', (req, res) => {
+  restapiController.handle(req, res)
+})
+
 // Set mock data source
 const dbGen = require('./data')
 const router = jsonServer.router(dbGen())
@@ -33,6 +39,7 @@ server.use(router)
 router.render = function(req, res) {
   res.jsonp(res.locals.data.data)
 }
+
 
 // Start server
 const port = process.env.PORT || 80
