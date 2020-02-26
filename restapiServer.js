@@ -10,12 +10,13 @@ var initRestapiServer = function(expressApp) {
 
 var urlRewriteMiddleware = function(req, res, next) {
     console.log(req.body.url);
-    var url =req.body.url;
+    var url = req.body.url;
     var query = url.substring(url.indexOf("?"));
 
     req.url = url;
     req.method = req.body.http_method;
     req.query = queryString.parse(query);
+    req.body = req.body.body;
 
     next();
 };
