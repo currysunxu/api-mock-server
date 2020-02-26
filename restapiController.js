@@ -5,17 +5,25 @@ const dbGen = require("./data");
 var handle = function(req, res) {
   var r = getReqFromBody(req);
   console.log(r);
+  var list = dbGen()[r.resourceName];
+
 
   switch (r.method) {
     case "GET":
-      var list = dbGen()[r.resourceName];
-      list = list.map(i => {
+      list = list.filter(i => i.id == r.body.CustomerID).map(i => {
         return i.data;
       });
       res.status(200).json(constructResponse(list, true, null));
       break;
     case "POST":
-      res.status(200).json(constructResponse(null, true, null));
+      if (r.resourceName == ('grouplesson')) {
+        console.log("body=")
+        console.log(r.body)
+        list = list.filter(i => i.id == r.id)
+         res.status(200).json(list[0].data)
+      }
+      else {
+          res.status(200).json(constructResponse(null, true, null));}
       break;
     default:
       res.status(500).text("not supported http verb");
@@ -29,7 +37,6 @@ var getReqFromBody = function(req) {
   var match = /\/services\/apexrest\/(?<resourceName>[\w\.\_-]+)\/v1/.exec(
     req.body.url
   );
-
   var body =
     req.body &&
     req.body.body &&
@@ -39,7 +46,8 @@ var getReqFromBody = function(req) {
   return {
     method: req.body.http_method,
     resourceName: match[1],
-    body: body
+    body: body,
+    id: req.body.body.studentId
   };
 };
 
