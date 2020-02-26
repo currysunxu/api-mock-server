@@ -7,7 +7,7 @@ module.exports = function(req, res) {
   console.log(req.query);
   console.log(req.body);
 
-  var list = dbGen()[req.params.resourceName];
+  let list = dbGen()[req.params.resourceName];
 
   switch (req.method) {
     case "POST":
