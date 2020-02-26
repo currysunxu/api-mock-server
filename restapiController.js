@@ -10,7 +10,9 @@ var handle = function(req, res) {
 
   switch (r.method) {
     case "GET":
-      list = list.filter(i => i.id == r.body.CustomerID)
+      list = list.filter(i => i.id == r.body.CustomerID).map(i => {
+        return i.data;
+      });
       res.status(200).json(constructResponse(list, true, null));
       break;
     case "POST":
