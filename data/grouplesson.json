@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1070,
+    "data": [
+      {
+        "unitNumber": null,
+        "teacherPhoto": null,
+        "teacherName": "CN Live Teacher",
+        "studentPassword": "805721",
+        "studentId": "101395839",
+        "startDateTimeUtc": "2020-07-01T10:40:00.000Z",
+        "sessionStatus": "Activated",
+        "sessionId": "115614546",
+        "reservationId": "115375639",
+        "recordingLink": null,
+        "programVersionCode": "SSV3",
+        "programLevel": "3",
+        "program": "Small Stars 3.0",
+        "lessonNumber": null,
+        "groupStatus": "Activated",
+        "groupId": "a0B0I00000qvjpnUAA",
+        "entryLink": "https://global.talk-cloud.net/WebAPI/entry/domain/ef/serial/755142833/pid/101395839/username/Student4+Test/usertype/2/ts/1582688764/auth/d300408484d611edc7ca6b807ed78f22",
+        "endDateTimeUtc": "2020-07-01T11:20:00.000Z",
+        "attendanceResult": null,
+        "acr": null
+      },
+      {
+        "unitNumber": null,
+        "teacherPhoto": null,
+        "teacherName": "CN Live Teacher",
+        "studentPassword": "902528",
+        "studentId": "101395839",
+        "startDateTimeUtc": "2020-10-07T10:40:00.000Z",
+        "sessionStatus": "Activated",
+        "sessionId": "115438166",
+        "reservationId": "115375667",
+        "recordingLink": null,
+        "programVersionCode": "SSV3",
+        "programLevel": "3",
+        "program": "Small Stars 3.0",
+        "lessonNumber": null,
+        "groupStatus": "Activated",
+        "groupId": "a0B0I00000qvjpnUAA",
+        "entryLink": "https://global.talk-cloud.net/WebAPI/entry/domain/ef/serial/94303867/pid/101395839/username/Student4+Test/usertype/2/ts/1582688764/auth/fc279c441603d6282996cbf18b5f5fbf",
+        "endDateTimeUtc": "2020-10-07T11:20:00.000Z",
+        "attendanceResult": null,
+        "acr": null
+      }
+    ]
+  },
+  {
+    "id": 1071,
+    "data": [
+      {
+        "unitNumber": null,
+        "teacherPhoto": null,
+        "teacherName": "CN Live Teacher",
+        "studentPassword": "805721",
+        "studentId": "101395839",
+        "startDateTimeUtc": "2020-07-01T10:40:00.000Z",
+        "sessionStatus": "Activated",
+        "sessionId": "115614546",
+        "reservationId": "115375639",
+        "recordingLink": null,
+        "programVersionCode": "SSV3",
+        "programLevel": "3",
+        "program": "Small Stars 3.0",
+        "lessonNumber": null,
+        "groupStatus": "Activated",
+        "groupId": "a0B0I00000qvjpnUAA",
+        "entryLink": "https://global.talk-cloud.net/WebAPI/entry/domain/ef/serial/755142833/pid/101395839/username/Student4+Test/usertype/2/ts/1582688764/auth/d300408484d611edc7ca6b807ed78f22",
+        "endDateTimeUtc": "2020-07-01T11:20:00.000Z",
+        "attendanceResult": null,
+        "acr": null
+      }
+    ]
+  }
+]
