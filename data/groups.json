@@ -84,7 +84,7 @@
                     "isCurrentGroup": null,
                     "usedACH": 34.5,
                     "status": "invalidStatus",
-                    "id": "null"
+                    "id": null
                 }
             ],
             "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
@@ -107,7 +107,7 @@
                     "isCurrentGroup": false,
                     "usedACH": 36,
                     "status": "past",
-                    "id": "null"
+                    "id": null
                 },
                 {
                     "program": "High Flyers",
@@ -121,7 +121,7 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "past",
-                    "id": "null"
+                    "id": null
                 },
                 {
                     "program": "High Flyers",
@@ -149,7 +149,7 @@
                     "isCurrentGroup": null,
                     "usedACH": 34.5,
                     "status": "future",
-                    "id": "null"
+                    "id": null
                 },
                 {
                     "program": "High Flyers",
@@ -163,7 +163,7 @@
                     "isCurrentGroup": null,
                     "usedACH": 34.5,
                     "status": "invalidStatus",
-                    "id": "null"
+                    "id": null
                 }
             ],
             "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
@@ -200,7 +200,7 @@
                     "isCurrentGroup": null,
                     "usedACH": 34.5,
                     "status": "future",
-                    "id": "null"
+                    "id": null
                 },
                 {
                     "program": "High Flyers",
@@ -214,7 +214,7 @@
                     "isCurrentGroup": null,
                     "usedACH": 34.5,
                     "status": "invalidStatus",
-                    "id": "null"
+                    "id": null
                 }
             ],
             "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
@@ -511,7 +511,7 @@
                     "isCurrentGroup": false,
                     "usedACH": 36,
                     "status": "past",
-                    "id": "null"
+                    "id": null
                 },
                 {
                     "program": "High Flyers",
@@ -525,7 +525,7 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "past",
-                    "id": "null"
+                    "id": null
                 },
                 {
                     "program": "High Flyers",
@@ -553,7 +553,7 @@
                     "isCurrentGroup": null,
                     "usedACH": 34.5,
                     "status": "past",
-                    "id": "null"
+                    "id": null
                 },
                 {
                     "program": "High Flyers",
@@ -567,7 +567,7 @@
                     "isCurrentGroup": null,
                     "usedACH": 34.5,
                     "status": "past",
-                    "id": "null"
+                    "id": null
                 },
                 {
                     "program": "High Flyers",
@@ -581,7 +581,7 @@
                     "isCurrentGroup": null,
                     "usedACH": 34.5,
                     "status": "past",
-                    "id": "null"
+                    "id": null
                 },
                 {
                     "program": "High Flyers",
@@ -595,7 +595,7 @@
                     "isCurrentGroup": null,
                     "usedACH": 34.5,
                     "status": "past",
-                    "id": "null"
+                    "id": null
                 },
                 {
                     "program": "High Flyers",
@@ -609,7 +609,7 @@
                     "isCurrentGroup": null,
                     "usedACH": 34.5,
                     "status": "past",
-                    "id": "null"
+                    "id": null
                 }
             ],
             "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
@@ -632,7 +632,7 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "past",
-                    "id": "null"
+                    "id": null
                 },
                 {
                     "program": "High Flyers",
@@ -669,7 +669,7 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "current",
-                    "id": "null"
+                    "id": null
                 }
             ],
             "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
@@ -692,7 +692,7 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "current",
-                    "id": "null"
+                    "id": null
                 }
             ],
             "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
@@ -715,7 +715,7 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "past",
-                    "id": "null"
+                    "id": null
                 },
                 {
                     "program": "High Flyers",
@@ -752,7 +752,7 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "past",
-                    "id": "null"
+                    "id": null
                 },
                 {
                     "program": "High Flyers",
@@ -789,7 +789,7 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "past",
-                    "id": "null"
+                    "id": null
                 },
                 {
                     "program": "High Flyers",
@@ -826,7 +826,7 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "past",
-                    "id": "null"
+                    "id": null
                 },
                 {
                     "program": "High Flyers",
@@ -863,7 +863,7 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "past",
-                    "id": "null"
+                    "id": null
                 },
                 {
                     "program": "High Flyers",
@@ -915,7 +915,7 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "current",
-                    "id": "null"
+                    "id": null
                 },
                 {
                     "program": "High Flyers",
@@ -929,7 +929,7 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "current",
-                    "id": "null"
+                    "id": null
                 },
                 {
                     "program": "High Flyers",
@@ -956,8 +956,8 @@
                     "programLevelId": "100547",
                     "isCurrentGroup": null,
                     "usedACH": 34.5,
-                    "status": "post",
-                    "id": "null"
+                    "status": "past",
+                    "id": null
                 },
                 {
                     "program": "Frontrunner",
@@ -995,7 +995,7 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "current",
-                    "id": "null"
+                    "id": null
                 },
                 {
                     "program": "High Flyers",
@@ -1009,7 +1009,7 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "current",
-                    "id": "null"
+                    "id": null
                 },
                 {
                     "program": "High Flyers",
@@ -1037,7 +1037,7 @@
                     "isCurrentGroup": null,
                     "usedACH": 34.5,
                     "status": "current",
-                    "id": "null"
+                    "id": null
                 }
             ],
             "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
@@ -1060,7 +1060,7 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "current",
-                    "id": "null"
+                    "id": null
                 }
             ],
             "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
@@ -1083,7 +1083,7 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "current",
-                    "id": "null"
+                    "id": null
                 }
             ],
             "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
@@ -1106,7 +1106,7 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "current",
-                    "id": "null"
+                    "id": null
                 }
             ],
             "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
@@ -1129,7 +1129,7 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "past",
-                    "id": "null"
+                    "id": null
                 },
                 {
                     "program": "High Flyers",
@@ -1143,7 +1143,7 @@
                     "isCurrentGroup": true,
                     "usedACH": 2,
                     "status": "current",
-                    "id": "null"
+                    "id": null
                 },
                 {
                     "program": "High Flyers",
@@ -1157,7 +1157,7 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "past",
-                    "id": "null"
+                    "id": null
                 }
             ],
             "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
@@ -1180,7 +1180,7 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "current",
-                    "id": "null"
+                    "id": null
                 },
                 {
                     "program": "High Flyers",
@@ -1194,7 +1194,7 @@
                     "isCurrentGroup": true,
                     "usedACH": 1,
                     "status": "current",
-                    "id": "null"
+                    "id": null
                 }
             ],
             "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
@@ -1217,7 +1217,7 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "current",
-                    "id": "null"
+                    "id": null
                 }
             ],
             "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
@@ -1240,7 +1240,7 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "current",
-                    "id": "null"
+                    "id": null
                 }
             ],
             "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
@@ -1263,7 +1263,7 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "current",
-                    "id": "null"
+                    "id": null
                 }
             ],
             "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
@@ -1286,7 +1286,7 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "current",
-                    "id": "null"
+                    "id": null
                 }
             ],
             "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
@@ -1662,7 +1662,7 @@
                     "isCurrentGroup": true,
                     "usedACH": 3,
                     "status": "current",
-                    "id": "null"
+                    "id": null
                 }
             ]
         },
@@ -1685,7 +1685,7 @@
                     "isCurrentGroup": true,
                     "usedACH": 3,
                     "status": "current",
-                    "id": "null"
+                    "id": null
                 }
             ]
         },
@@ -1706,7 +1706,7 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "current",
-                    "id": "null"
+                    "id": null
                 }
             ],
             "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
@@ -1729,7 +1729,7 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "current",
-                    "id": "null"
+                    "id": null
                 }
             ],
             "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
@@ -1752,7 +1752,7 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "current",
-                    "id": "null"
+                    "id": null
                 }
             ],
             "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonddsss.com.cn/Account/456dsfdf70366_mqyhgw.jpg",
@@ -1775,12 +1775,331 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "current",
-                    "id": "null"
+                    "id": null
                 }
             ],
             "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonddsss.com.cn/Account/456dsfdf70366_mqyhgw.jpg",
             "customerId": "9000044"
         },
         "id": 9000044
+    },
+    {
+        "data": {
+            "groups": [
+                {
+                    "program": "Small Stars",
+                    "allSessions": [],
+                    "totalACH": 103.5,
+                    "name": "SSV3 Sang Testing",
+                    "leftACH": 0,
+                    "timezone": "Asia/Shanghai",
+                    "programLevel": "1",
+                    "programLevelId": "100369",
+                    "isCurrentGroup": false,
+                    "usedACH": 102,
+                    "status": "past",
+                    "id": "100082370"
+                },
+                {
+                    "program": "Small Stars",
+                    "allSessions": [],
+                    "totalACH": 106.5,
+                    "name": "SSblue-Vivian-\u00e5\u00bc\u20ac\u00e5\u00bf\u0192\u00e6\u017e\u0153",
+                    "leftACH": 0,
+                    "timezone": "Asia/Shanghai",
+                    "programLevel": "Blue",
+                    "programLevelId": "100362",
+                    "isCurrentGroup": false,
+                    "usedACH": 94.5,
+                    "status": "current",
+                    "id": "100020868"
+                },
+                {
+                    "program": "Small Stars",
+                    "allSessions": [],
+                    "totalACH": 106.5,
+                    "name": "SSblue-Vivian-\u00e5\u00bc\u20ac\u00e5\u00bf\u0192\u00e6\u017e\u0153",
+                    "leftACH": 0,
+                    "timezone": "Asia/Shanghai",
+                    "programLevel": "Red",
+                    "programLevelId": "100362",
+                    "isCurrentGroup": true,
+                    "usedACH": 94.5,
+                    "status": "future",
+                    "id": "100020869"
+                },
+                {
+                    "program": "High Flyers",
+                    "allSessions": [],
+                    "totalACH": 60,
+                    "name": "GroupTestCreateManyStudent04",
+                    "leftACH": 0,
+                    "timezone": "Asia/Shanghai",
+                    "programLevel": "C",
+                    "programLevelId": "100544",
+                    "isCurrentGroup": false,
+                    "usedACH": 36,
+                    "status": "past",
+                    "id": "100082182"
+                },
+                {
+                    "program": "High Flyers",
+                    "allSessions": [],
+                    "totalACH": 60,
+                    "name": "testgroup05",
+                    "leftACH": 40,
+                    "timezone": "Asia/Shanghai",
+                    "programLevel": "D",
+                    "programLevelId": "100545",
+                    "isCurrentGroup": false,
+                    "usedACH": 0,
+                    "status": "past",
+                    "id": "100084835"
+                },
+                {
+                    "program": "High Flyers",
+                    "allSessions": [],
+                    "totalACH": 0,
+                    "name": null,
+                    "leftACH": null,
+                    "timezone": "Asia/Shanghai",
+                    "programLevel": "E",
+                    "programLevelId": "100546",
+                    "isCurrentGroup": false,
+                    "usedACH": 0,
+                    "status": "current",
+                    "id": null
+                },
+                {
+                    "program": "High Flyers",
+                    "allSessions": [],
+                    "totalACH": 76.5,
+                    "name": "smoke pt HF 05",
+                    "leftACH": 0,
+                    "timezone": "Asia/Shanghai",
+                    "programLevel": "F",
+                    "programLevelId": "100547",
+                    "isCurrentGroup": false,
+                    "usedACH": 34.5,
+                    "status": "current",
+                    "id": "100082298"
+                },
+                {
+                    "program": "High Flyers",
+                    "allSessions": [],
+                    "totalACH": 76.5,
+                    "name": "smoke pt HF 05",
+                    "leftACH": 0,
+                    "timezone": "Asia/Shanghai",
+                    "programLevel": "G",
+                    "programLevelId": "100547",
+                    "isCurrentGroup": false,
+                    "usedACH": 34.5,
+                    "status": "future",
+                    "id": "100082298"
+                },
+                {
+                    "program": "Trailblazers",
+                    "allSessions": [],
+                    "totalACH": 62.5,
+                    "name": "TBv3-sang-test",
+                    "leftACH": 0,
+                    "timezone": "Asia/Baghdad",
+                    "programLevel": "1",
+                    "programLevelId": "100507",
+                    "isCurrentGroup": false,
+                    "usedACH": 62.5,
+                    "status": "past",
+                    "id": "100082210"
+                },
+                {
+                    "program": "Trailblazers",
+                    "allSessions": [],
+                    "totalACH": 62.5,
+                    "name": "TBv3-sang-test",
+                    "leftACH": 0,
+                    "timezone": "Asia/Baghdad",
+                    "programLevel": "2",
+                    "programLevelId": "100508",
+                    "isCurrentGroup": false,
+                    "usedACH": 62.5,
+                    "status": "current",
+                    "id": "100082211"
+                },
+                {
+                    "program": "Trailblazers",
+                    "allSessions": [],
+                    "totalACH": 62.5,
+                    "name": "TBv3-sang-test",
+                    "leftACH": 0,
+                    "timezone": "Asia/Baghdad",
+                    "programLevel": "3",
+                    "programLevelId": "100509",
+                    "isCurrentGroup": false,
+                    "usedACH": 62.5,
+                    "status": "future",
+                    "id": "100082212"
+                },
+                {
+                    "program": "Frontrunner",
+                    "allSessions": [],
+                    "totalACH": 72,
+                    "name": "FRBK1",
+                    "leftACH": 144,
+                    "timezone": "Asia/Shanghai",
+                    "programLevel": "1",
+                    "programLevelId": "100582",
+                    "isCurrentGroup": false,
+                    "usedACH": 0,
+                    "status": "past",
+                    "id": "100084687",
+                    "cefrLevel": "A1"
+                },
+                {
+                    "program": "Frontrunner",
+                    "allSessions": [],
+                    "totalACH": 0,
+                    "name": "nametest",
+                    "leftACH": null,
+                    "timezone": "Asia/Shanghai",
+                    "programLevel": "2",
+                    "programLevelId": "100583",
+                    "isCurrentGroup": false,
+                    "usedACH": 0,
+                    "status": "current",
+                    "id": null,
+                    "cefrLevel": null
+                },
+                {
+                    "program": "Frontrunner",
+                    "allSessions": [],
+                    "totalACH": 72,
+                    "name": "FRBK5",
+                    "leftACH": 144,
+                    "timezone": "Asia/Shanghai",
+                    "programLevel": "5",
+                    "programLevelId": "100561",
+                    "isCurrentGroup": false,
+                    "usedACH": 0,
+                    "status": "future",
+                    "id": "100084663",
+                    "cefrLevel": "B1.1"
+                }
+            ],
+            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+            "customerId": "7000007"
+        },
+        "id": 7000007
+    },
+    {
+        "data": {
+            "groups": [
+                {
+                    "program": "High Flyers",
+                    "allSessions": [],
+                    "totalACH": 60,
+                    "name": "GroupTestCreateManyStudent04",
+                    "leftACH": 0,
+                    "timezone": "Asia/Shanghai",
+                    "programLevel": "C",
+                    "programLevelId": "100544",
+                    "isCurrentGroup": false,
+                    "usedACH": 36,
+                    "status": "past",
+                    "id": null
+                },
+                {
+                    "program": "High Flyers",
+                    "allSessions": [],
+                    "totalACH": 0,
+                    "name": null,
+                    "leftACH": null,
+                    "timezone": "Asia/Shanghai",
+                    "programLevel": "E",
+                    "programLevelId": "100546",
+                    "isCurrentGroup": true,
+                    "usedACH": 0,
+                    "status": "current",
+                    "id": null
+                }
+            ],
+            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+            "customerId": "1002"
+        },
+        "id": 1002
+    },
+    {
+        "data": {
+            "groups": [
+                {
+                    "program": "High Flyers",
+                    "allSessions": [],
+                    "totalACH": 60,
+                    "name": "GroupTestCreateManyStudent04",
+                    "leftACH": 0,
+                    "timezone": "Asia/Shanghai",
+                    "programLevel": "C",
+                    "programLevelId": "100544",
+                    "isCurrentGroup": false,
+                    "usedACH": 36,
+                    "status": "past",
+                    "id": null
+                },
+                {
+                    "program": "High Flyers",
+                    "allSessions": [],
+                    "totalACH": 0,
+                    "name": null,
+                    "leftACH": null,
+                    "timezone": "Asia/Shanghai",
+                    "programLevel": "E",
+                    "programLevelId": "100546",
+                    "isCurrentGroup": true,
+                    "usedACH": 0,
+                    "status": "current",
+                    "id": null
+                }
+            ],
+            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+            "customerId": "39981176"
+        },
+        "id": 39981176
+    },
+    {
+        "data": {
+            "groups": [
+                {
+                    "program": "High Flyers",
+                    "allSessions": [],
+                    "totalACH": 60,
+                    "name": "GroupTestCreateManyStudent04",
+                    "leftACH": 0,
+                    "timezone": "Asia/Shanghai",
+                    "programLevel": "C",
+                    "programLevelId": "100544",
+                    "isCurrentGroup": false,
+                    "usedACH": 36,
+                    "status": "past",
+                    "id": null
+                },
+                {
+                    "program": "High Flyers",
+                    "allSessions": [],
+                    "totalACH": 0,
+                    "name": null,
+                    "leftACH": null,
+                    "timezone": "Asia/Shanghai",
+                    "programLevel": "E",
+                    "programLevelId": "100546",
+                    "isCurrentGroup": true,
+                    "usedACH": 0,
+                    "status": "current",
+                    "id": null
+                }
+            ],
+            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+            "customerId": "1070"
+        },
+        "id": 1070
     }
 ]
