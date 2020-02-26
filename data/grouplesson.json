@@ -3,7 +3,7 @@
     "id": 1070,
     "data": [
       {
-        "unitNumber": null,
+        "unitNumber": "1",
         "teacherPhoto": null,
         "teacherName": "CN Live Teacher",
         "studentPassword": "805721",
@@ -16,7 +16,7 @@
         "programVersionCode": "SSV3",
         "programLevel": "3",
         "program": "Small Stars 3.0",
-        "lessonNumber": null,
+        "lessonNumber": "1",
         "groupStatus": "Activated",
         "groupId": "a0B0I00000qvjpnUAA",
         "entryLink": "https://global.talk-cloud.net/WebAPI/entry/domain/ef/serial/755142833/pid/101395839/username/Student4+Test/usertype/2/ts/1582688764/auth/d300408484d611edc7ca6b807ed78f22",
@@ -25,7 +25,7 @@
         "acr": null
       },
       {
-        "unitNumber": null,
+        "unitNumber": "1",
         "teacherPhoto": null,
         "teacherName": "CN Live Teacher",
         "studentPassword": "902528",
@@ -38,7 +38,7 @@
         "programVersionCode": "SSV3",
         "programLevel": "3",
         "program": "Small Stars 3.0",
-        "lessonNumber": null,
+        "lessonNumber": "2",
         "groupStatus": "Activated",
         "groupId": "a0B0I00000qvjpnUAA",
         "entryLink": "https://global.talk-cloud.net/WebAPI/entry/domain/ef/serial/94303867/pid/101395839/username/Student4+Test/usertype/2/ts/1582688764/auth/fc279c441603d6282996cbf18b5f5fbf",
@@ -52,7 +52,7 @@
     "id": 1071,
     "data": [
       {
-        "unitNumber": null,
+        "unitNumber": "1",
         "teacherPhoto": null,
         "teacherName": "CN Live Teacher",
         "studentPassword": "805721",
@@ -65,7 +65,7 @@
         "programVersionCode": "SSV3",
         "programLevel": "3",
         "program": "Small Stars 3.0",
-        "lessonNumber": null,
+        "lessonNumber": "1",
         "groupStatus": "Activated",
         "groupId": "a0B0I00000qvjpnUAA",
         "entryLink": "https://global.talk-cloud.net/WebAPI/entry/domain/ef/serial/755142833/pid/101395839/username/Student4+Test/usertype/2/ts/1582688764/auth/d300408484d611edc7ca6b807ed78f22",
