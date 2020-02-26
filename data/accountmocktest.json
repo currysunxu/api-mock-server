@@ -1,7 +1,7 @@
 [
   {
     "id": 9000043,
-    "data": {
+    "data": [{
       "CustomerID": 9000043,
       "firstName": "gz.mt02",
       "lastName": "test",
@@ -10,11 +10,11 @@
       "center_codes": "GZA",
       "Birthday": "",
       "AccountName": "YoYo GZ"
-    }
+    }]
   },
   {
     "id": 1022,
-    "data": {
+    "data": [{
       "CustomerID": 1022,
       "firstName": "Test Account 22",
       "lastName": "test",
@@ -23,11 +23,11 @@
       "center_codes": "GZB",
       "Birthday": "2017-02-03",
       "AccountName": "Account Guangzhouwu"
-    }
+    }]
   },
   {
     "id": 1071,
-    "data": {
+    "data": [{
       "CustomerID": 1071,
       "firstName": "Test Account 71",
       "lastName": "Liang",
@@ -36,11 +36,11 @@
       "center_codes": "C0033",
       "Birthday": "2016-12-03",
       "AccountName": "Account Chongqing"
-    }
+    }]
   },
   {
     "id": 1023,
-    "data": {
+    "data": [{
       "CustomerID": 1023,
       "firstName": "Test Account 23",
       "lastName": "Yuki",
@@ -49,11 +49,11 @@
       "center_codes": "HEC",
       "Birthday": "2018-01-12",
       "AccountName": "Account Hefei"
-    }
+    }]
   },
   {
     "id": 1024,
-    "data": {
+    "data": [{
       "CustomerID": 1024,
       "firstName": "Test Account 24",
       "lastName": "",
@@ -62,6 +62,6 @@
       "center_codes": "HEG",
       "Birthday": "",
       "AccountName": "Account Hefei"
-    }
+    }]
   }
 ]
