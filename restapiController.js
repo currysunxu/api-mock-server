@@ -31,6 +31,7 @@ var handle = function(req, res) {
 
 var getReqFromBody = function(req) {
   console.log(req.body);
+
   var match = /\/services\/apexrest\/(?<resourceName>[\w\.\_-]+)\/v1/.exec(
     req.body.url
   );
