@@ -24,11 +24,10 @@ server.get('/omni/apigateway/health', (req, res) => {
   res.status(200).jsonp('ok')
 })
 
-// Add special case for 'restapi'
-const restapiController = require('./restapiController')
-server.post('/omni/apigateway/api/v1/sf/restapi', (req, res) => {
-  restapiController.handle(req, res)
-})
+// This is used to mock omni style restapi. There is no overlap between restapiServer and jsonServer
+const restapiServer = require('./restapiServer')
+restapiServer.init(server)
+
 
 // Set mock data source
 const dbGen = require('./data')
