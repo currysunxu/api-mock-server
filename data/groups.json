@@ -2029,7 +2029,7 @@
                     "timezone": "Asia/Shanghai",
                     "programLevel": "Red",
                     "programLevelId": "100362",
-                    "isCurrentGroup": false,
+                    "isCurrentGroup": null,
                     "usedACH": 94.5,
                     "status": "future",
                     "programVersionCode": "SSV3",
@@ -2048,7 +2048,7 @@
                     "isCurrentGroup": false,
                     "usedACH": 36,
                     "status": "past",
-                    "programVersionCode": "HFV2",
+                    "programVersionCode": "HFV1",
                     "achPerLesson": 3,
                     "id": "100082182"
                 },
@@ -2080,7 +2080,7 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "past",
-                    "programVersionCode": "HFV3Plus",
+                    "programVersionCode": "HFV2",
                     "achPerLesson": 3,
                     "id": null
                 },
@@ -2093,7 +2093,7 @@
                     "timezone": "Asia/Shanghai",
                     "programLevel": "F",
                     "programLevelId": "100547",
-                    "isCurrentGroup": false,
+                    "isCurrentGroup": null,
                     "usedACH": 34.5,
                     "status": "past",
                     "programVersionCode": "HFV3Plus",
@@ -2112,7 +2112,7 @@
                     "isCurrentGroup": false,
                     "usedACH": 34.5,
                     "status": "future",
-                    "programVersionCode": "HFV3Plus",
+                    "programVersionCode": "HFV3PlusTest",
                     "achPerLesson": 3,
                     "id": "100082298"
                 },
@@ -2125,7 +2125,7 @@
                     "timezone": "Asia/Baghdad",
                     "programLevel": "1",
                     "programLevelId": "100507",
-                    "isCurrentGroup": false,
+                    "isCurrentGroup": null,
                     "usedACH": 62.5,
                     "status": "past",
                     "programVersionCode": "TBV3",
@@ -2141,7 +2141,7 @@
                     "timezone": "Asia/Baghdad",
                     "programLevel": "2",
                     "programLevelId": "100508",
-                    "isCurrentGroup": false,
+                    "isCurrentGroup": null,
                     "usedACH": 62.5,
                     "status": "future",
                     "programVersionCode": "TBV1",
@@ -2160,7 +2160,7 @@
                     "isCurrentGroup": false,
                     "usedACH": 62.5,
                     "status": "future",
-                    "programVersionCode": "TBV2",
+                    "programVersionCode": "TBV2test",
                     "achPerLesson": 3,
                     "id": "100082212"
                 },
@@ -2173,7 +2173,7 @@
                     "timezone": "Asia/Baghdad",
                     "programLevel": "4",
                     "programLevelId": "100509",
-                    "isCurrentGroup": false,
+                    "isCurrentGroup": null,
                     "usedACH": 62.5,
                     "status": "past",
                     "programVersionCode": "TBV2",
@@ -2189,7 +2189,7 @@
                     "timezone": "Asia/Shanghai",
                     "programLevel": "1",
                     "programLevelId": "100582",
-                    "isCurrentGroup": false,
+                    "isCurrentGroup": null,
                     "usedACH": 0,
                     "status": "past",
                     "programVersionCode": "FRV1",
@@ -2233,9 +2233,9 @@
                 }
             ],
             "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "7000006"
+            "customerId": "7000008"
         },
-        "id": 7000006
+        "id": 7000008
     },
     {
         "data": {
