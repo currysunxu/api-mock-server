@@ -19,8 +19,8 @@ module.exports = function(req, res) {
 
   switch (req.method) {
     case "GET":
-      list = list.filter(i => i.id == req.query.customer_id).map(i => i.data);
-      res.status(200).json(constructResponse(list, true, null));
+      let filteredlist = list.filter(i => i.id == req.query.customer_id).map(i => i.data);
+      res.status(200).json(constructResponse(filteredlist.length?filteredlist : list.map(i => i.data), true, null));
       break;
     case "POST":
       res.status(200).json(constructResponse(null, true, null));
