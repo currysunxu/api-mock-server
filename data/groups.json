@@ -2015,7 +2015,7 @@
                     "programLevelId": "100362",
                     "isCurrentGroup": false,
                     "usedACH": 94.5,
-                    "status": "current",
+                    "status": "past",
                     "programVersionCode": "SSV3",
                     "achPerLesson": 3,
                     "id": "100020868"
@@ -2095,7 +2095,7 @@
                     "programLevelId": "100547",
                     "isCurrentGroup": false,
                     "usedACH": 34.5,
-                    "status": "current",
+                    "status": "past",
                     "programVersionCode": "HFV3Plus",
                     "achPerLesson": 3,
                     "id": "100082298"
@@ -2143,8 +2143,8 @@
                     "programLevelId": "100508",
                     "isCurrentGroup": false,
                     "usedACH": 62.5,
-                    "status": "current",
-                    "programVersionCode": "TBV3",
+                    "status": "future",
+                    "programVersionCode": "TBV1",
                     "achPerLesson": 3,
                     "id": "100082211"
                 },
@@ -2209,7 +2209,7 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "current",
-                    "programVersionCode": "FRV1",
+                    "programVersionCode": null,
                     "achPerLesson": 3,
                     "id": null,
                     "cefrLevel": null
@@ -2226,16 +2226,16 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "future",
-                    "programVersionCode": "FRV1",
+                    "programVersionCode": "FRV1Test",
                     "achPerLesson": null,
                     "id": "100084663",
                     "cefrLevel": "B1.1"
                 }
             ],
             "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "7000005"
+            "customerId": "7000006"
         },
-        "id": 7000005
+        "id": 7000006
     },
     {
         "data": {
