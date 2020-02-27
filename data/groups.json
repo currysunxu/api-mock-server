@@ -14,6 +14,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 34.5,
                     "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": "100082298"
                 },
                 {
@@ -28,6 +30,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 36,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": "100082182"
                 },
                 {
@@ -42,6 +46,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": "100084835"
                 },
                 {
@@ -56,6 +62,8 @@
                     "isCurrentGroup": null,
                     "usedACH": 0,
                     "status": "future",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -70,6 +78,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 36,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": "100082182"
                 },
                 {
@@ -84,6 +94,8 @@
                     "isCurrentGroup": null,
                     "usedACH": 34.5,
                     "status": "invalidStatus",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 }
             ],
@@ -107,6 +119,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 36,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -121,6 +135,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -135,6 +151,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -149,6 +167,8 @@
                     "isCurrentGroup": null,
                     "usedACH": 34.5,
                     "status": "future",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -163,6 +183,8 @@
                     "isCurrentGroup": null,
                     "usedACH": 34.5,
                     "status": "invalidStatus",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 }
             ],
@@ -186,6 +208,8 @@
                     "isCurrentGroup": null,
                     "usedACH": 0,
                     "status": "future",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -200,6 +224,8 @@
                     "isCurrentGroup": null,
                     "usedACH": 34.5,
                     "status": "future",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -214,6 +240,8 @@
                     "isCurrentGroup": null,
                     "usedACH": 34.5,
                     "status": "invalidStatus",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 }
             ],
@@ -237,6 +265,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 62.5,
                     "status": "past",
+                    "programVersionCode": "TBV3",
+                    "achPerLesson": 3,
                     "id": "100082210"
                 },
                 {
@@ -251,6 +281,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 102,
                     "status": "current",
+                    "programVersionCode": "SSV3",
+                    "achPerLesson": 3,
                     "id": "100082370"
                 },
                 {
@@ -265,6 +297,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 94.5,
                     "status": "current",
+                    "programVersionCode": "SSV3",
+                    "achPerLesson": 3,
                     "id": "100020868"
                 },
                 {
@@ -279,6 +313,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 36,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": "100082182"
                 },
                 {
@@ -293,6 +329,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": "100084835"
                 },
                 {
@@ -307,6 +345,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -321,6 +361,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 34.5,
                     "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": "100082298"
                 }
             ],
@@ -344,6 +386,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 36,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -358,6 +402,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -372,6 +418,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -386,6 +434,8 @@
                     "isCurrentGroup": null,
                     "usedACH": 34.5,
                     "status": "future",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 }
             ],
@@ -409,6 +459,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 94.5,
                     "status": "current",
+                    "programVersionCode": "SSV2",
+                    "achPerLesson": 3,
                     "id": "10009"
                 }
             ],
@@ -432,6 +484,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 94.5,
                     "status": "current",
+                    "programVersionCode": "SSV3",
+                    "achPerLesson": 3,
                     "id": "100020868"
                 },
                 {
@@ -446,6 +500,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 36,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": "100082182"
                 },
                 {
@@ -460,6 +516,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": "100084835"
                 },
                 {
@@ -474,6 +532,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -488,6 +548,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 34.5,
                     "status": "future",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": "100082298"
                 }
             ],
@@ -511,6 +573,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 36,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -525,6 +589,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -539,6 +605,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -553,6 +621,8 @@
                     "isCurrentGroup": null,
                     "usedACH": 34.5,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -567,6 +637,8 @@
                     "isCurrentGroup": null,
                     "usedACH": 34.5,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -581,6 +653,8 @@
                     "isCurrentGroup": null,
                     "usedACH": 34.5,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -595,6 +669,8 @@
                     "isCurrentGroup": null,
                     "usedACH": 34.5,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -609,6 +685,8 @@
                     "isCurrentGroup": null,
                     "usedACH": 34.5,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 }
             ],
@@ -632,6 +710,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -646,6 +726,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 }
             ],
@@ -669,6 +751,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 }
             ],
@@ -692,6 +776,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 }
             ],
@@ -715,6 +801,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -729,6 +817,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 }
             ],
@@ -752,6 +842,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -766,6 +858,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 }
             ],
@@ -789,6 +883,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -803,6 +899,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 }
             ],
@@ -826,6 +924,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -840,6 +940,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 }
             ],
@@ -863,6 +965,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -877,6 +981,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -891,6 +997,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 0,
                     "status": "current",
+                    "programVersionCode": "FRV1",
+                    "achPerLesson": 3,
                     "id": "100084687",
                     "cefrLevel": "A1"
                 }
@@ -915,6 +1023,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -929,6 +1039,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -943,6 +1055,8 @@
                     "isCurrentGroup": null,
                     "usedACH": 0,
                     "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -957,6 +1071,8 @@
                     "isCurrentGroup": null,
                     "usedACH": 34.5,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -971,6 +1087,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 0,
                     "status": "current",
+                    "programVersionCode": "FRV1",
+                    "achPerLesson": 3,
                     "id": "100084687",
                     "cefrLevel": "A1"
                 }
@@ -995,6 +1113,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -1009,6 +1129,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -1023,6 +1145,8 @@
                     "isCurrentGroup": null,
                     "usedACH": 0,
                     "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -1037,6 +1161,8 @@
                     "isCurrentGroup": null,
                     "usedACH": 34.5,
                     "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 }
             ],
@@ -1060,6 +1186,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "current",
+                    "programVersionCode": "HFV2",
+                    "achPerLesson": 3,
                     "id": null
                 }
             ],
@@ -1083,6 +1211,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "current",
+                    "programVersionCode": "HFV2",
+                    "achPerLesson": 3,
                     "id": null
                 }
             ],
@@ -1106,6 +1236,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "current",
+                    "programVersionCode": "HFV2",
+                    "achPerLesson": 3,
                     "id": null
                 }
             ],
@@ -1129,6 +1261,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -1143,6 +1277,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 2,
                     "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -1157,6 +1293,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 }
             ],
@@ -1180,6 +1318,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -1194,6 +1334,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 1,
                     "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 }
             ],
@@ -1217,6 +1359,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 }
             ],
@@ -1240,6 +1384,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "current",
+                    "programVersionCode": "SSV3",
+                    "achPerLesson": 3,
                     "id": null
                 }
             ],
@@ -1263,6 +1409,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "current",
+                    "programVersionCode": "TBV3",
+                    "achPerLesson": 3,
                     "id": null
                 }
             ],
@@ -1286,6 +1434,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "current",
+                    "programVersionCode": "TBV3",
+                    "achPerLesson": 3,
                     "id": null
                 }
             ],
@@ -1311,6 +1461,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "current",
+                    "programVersionCode": "FRV1",
+                    "achPerLesson": 3,
                     "id": "100084663",
                     "cefrLevel": "B1.1"
                 },
@@ -1326,6 +1478,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 0,
                     "status": "current",
+                    "programVersionCode": "FRV1",
+                    "achPerLesson": 3,
                     "id": "100084687",
                     "cefrLevel": "A1"
                 },
@@ -1341,6 +1495,8 @@
                     "isCurrentGroup": null,
                     "usedACH": 0,
                     "status": "current",
+                    "programVersionCode": "FRV1",
+                    "achPerLesson": 3,
                     "id": null,
                     "cefrLevel": null
                 },
@@ -1356,6 +1512,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "current",
+                    "programVersionCode": "FRV1",
+                    "achPerLesson": 3,
                     "id": "10035"
                 },
                 {
@@ -1370,6 +1528,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "current",
+                    "programVersionCode": "FRV1",
+                    "achPerLesson": 3,
                     "id": "10034"
                 },
                 {
@@ -1384,6 +1544,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "current",
+                    "programVersionCode": "FRV1",
+                    "achPerLesson": 3,
                     "id": "10041"
                 }
             ]
@@ -1407,6 +1569,8 @@
                     "isCurrentGroup": null,
                     "usedACH": 0,
                     "status": "past",
+                    "programVersionCode": "FRV1",
+                    "achPerLesson": 3,
                     "id": null,
                     "cefrLevel": null
                 },
@@ -1422,6 +1586,8 @@
                     "isCurrentGroup": null,
                     "usedACH": 0,
                     "status": "past",
+                    "programVersionCode": "FRV1",
+                    "achPerLesson": 3,
                     "id": null,
                     "cefrLevel": null
                 }
@@ -1446,6 +1612,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 72,
                     "status": "past",
+                    "programVersionCode": "TBV3",
+                    "achPerLesson": 3,
                     "id": "661202"
                 },
                 {
@@ -1460,6 +1628,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 72,
                     "status": "past",
+                    "programVersionCode": "TBV3",
+                    "achPerLesson": 3,
                     "id": "699744"
                 },
                 {
@@ -1474,6 +1644,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 3,
                     "status": "past",
+                    "programVersionCode": "TBV3",
+                    "achPerLesson": 3,
                     "id": "699664"
                 },
                 {
@@ -1488,6 +1660,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 30,
                     "status": "current",
+                    "programVersionCode": "TBV3",
+                    "achPerLesson": 3,
                     "id": "100113553"
                 }
             ]
@@ -1511,6 +1685,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "current",
+                    "programVersionCode": "FRV1",
+                    "achPerLesson": 3,
                     "id": "100084663",
                     "cefrLevel": "B1.1"
                 }
@@ -1535,6 +1711,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 72,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": ""
                 }
             ]
@@ -1558,6 +1736,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "current",
+                    "programVersionCode": "FRV1",
+                    "achPerLesson": 3,
                     "id": "100084663",
                     "cefrLevel": "B1.1"
                 },
@@ -1573,6 +1753,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "past",
+                    "programVersionCode": "FRV1",
+                    "achPerLesson": 3,
                     "id": "",
                     "cefrLevel": "B1.1"
                 }
@@ -1597,6 +1779,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 72,
                     "status": "past",
+                    "programVersionCode": "TBV3",
+                    "achPerLesson": 3,
                     "id": "661202"
                 },
                 {
@@ -1611,6 +1795,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 72,
                     "status": "past",
+                    "programVersionCode": "TBV3",
+                    "achPerLesson": 3,
                     "id": "699744"
                 },
                 {
@@ -1625,6 +1811,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 3,
                     "status": "past",
+                    "programVersionCode": "TBV3",
+                    "achPerLesson": 3,
                     "id": "699664"
                 },
                 {
@@ -1639,6 +1827,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 30,
                     "status": "current",
+                    "programVersionCode": "TBV3",
+                    "achPerLesson": 3,
                     "id": "100113553"
                 }
             ]
@@ -1662,6 +1852,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 3,
                     "status": "current",
+                    "programVersionCode": "SSV2",
+                    "achPerLesson": 3,
                     "id": null
                 }
             ]
@@ -1685,6 +1877,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 3,
                     "status": "current",
+                    "programVersionCode": "SSV3",
+                    "achPerLesson": 3,
                     "id": null
                 }
             ]
@@ -1706,6 +1900,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 }
             ],
@@ -1729,6 +1925,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 }
             ],
@@ -1752,6 +1950,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 }
             ],
@@ -1775,6 +1975,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 }
             ],
@@ -1798,6 +2000,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 102,
                     "status": "past",
+                    "programVersionCode": "SSV3",
+                    "achPerLesson": 3,
                     "id": "100082370"
                 },
                 {
@@ -1812,6 +2016,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 94.5,
                     "status": "current",
+                    "programVersionCode": "SSV3",
+                    "achPerLesson": 3,
                     "id": "100020868"
                 },
                 {
@@ -1826,6 +2032,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 94.5,
                     "status": "future",
+                    "programVersionCode": "SSV3",
+                    "achPerLesson": 3,
                     "id": "100020869"
                 },
                 {
@@ -1840,6 +2048,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 36,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": "100082182"
                 },
                 {
@@ -1854,6 +2064,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": "100084835"
                 },
                 {
@@ -1868,6 +2080,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -1882,6 +2096,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 34.5,
                     "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": "100082298"
                 },
                 {
@@ -1896,6 +2112,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 34.5,
                     "status": "future",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": "100082298"
                 },
                 {
@@ -1910,6 +2128,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 62.5,
                     "status": "past",
+                    "programVersionCode": "TBV3",
+                    "achPerLesson": 3,
                     "id": "100082210"
                 },
                 {
@@ -1924,6 +2144,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 62.5,
                     "status": "current",
+                    "programVersionCode": "TBV3",
+                    "achPerLesson": 3,
                     "id": "100082211"
                 },
                 {
@@ -1938,6 +2160,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 62.5,
                     "status": "future",
+                    "programVersionCode": "TBV3",
+                    "achPerLesson": 3,
                     "id": "100082212"
                 },
                 {
@@ -1952,6 +2176,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "past",
+                    "programVersionCode": "FRV1",
+                    "achPerLesson": 3,
                     "id": "100084687",
                     "cefrLevel": "A1"
                 },
@@ -1967,6 +2193,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "current",
+                    "programVersionCode": "FRV1",
+                    "achPerLesson": 3,
                     "id": null,
                     "cefrLevel": null
                 },
@@ -1982,6 +2210,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "future",
+                    "programVersionCode": "FRV1",
+                    "achPerLesson": 3,
                     "id": "100084663",
                     "cefrLevel": "B1.1"
                 }
@@ -2006,6 +2236,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 36,
                     "status": "past",
+                    "programVersionCode": "HFV2",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -2020,6 +2252,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 0,
                     "status": "current",
+                    "programVersionCode": "HFV2",
+                    "achPerLesson": 3,
                     "id": null
                 }
             ],
@@ -2043,6 +2277,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 36,
                     "status": "past",
+                    "programVersionCode": "HFV2",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -2057,6 +2293,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 0,
                     "status": "current",
+                    "programVersionCode": "HFV2",
+                    "achPerLesson": 3,
                     "id": null
                 }
             ],
@@ -2080,6 +2318,8 @@
                     "isCurrentGroup": false,
                     "usedACH": 36,
                     "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 },
                 {
@@ -2094,6 +2334,8 @@
                     "isCurrentGroup": true,
                     "usedACH": 0,
                     "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
                     "id": null
                 }
             ],
@@ -2101,5 +2343,128 @@
             "customerId": "1070"
         },
         "id": 1070
+    },
+    {
+        "data": {
+            "groups": [
+                {
+                    "program": "High Flyers",
+                    "allSessions": [],
+                    "totalACH": 60,
+                    "name": "GroupTestCreateManyStudent04",
+                    "leftACH": 0,
+                    "timezone": "Asia/Shanghai",
+                    "programLevel": "C",
+                    "programLevelId": "100544",
+                    "isCurrentGroup": false,
+                    "usedACH": 36,
+                    "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
+                    "id": null
+                },
+                {
+                    "program": "High Flyers",
+                    "allSessions": [],
+                    "totalACH": 0,
+                    "name": null,
+                    "leftACH": null,
+                    "timezone": "Asia/Shanghai",
+                    "programLevel": "E",
+                    "programLevelId": "100546",
+                    "isCurrentGroup": true,
+                    "usedACH": 0,
+                    "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
+                    "id": null
+                }
+            ],
+            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+            "customerId": "1071"
+        },
+        "id": 1071
+    },
+    {
+        "data": {
+            "groups": [
+                {
+                    "program": "High Flyers",
+                    "allSessions": [],
+                    "totalACH": 60,
+                    "name": "GroupTestCreateManyStudent04",
+                    "leftACH": 0,
+                    "timezone": "Asia/Shanghai",
+                    "programLevel": "C",
+                    "programLevelId": "100544",
+                    "isCurrentGroup": false,
+                    "usedACH": 36,
+                    "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
+                    "id": null
+                },
+                {
+                    "program": "High Flyers",
+                    "allSessions": [],
+                    "totalACH": 0,
+                    "name": null,
+                    "leftACH": null,
+                    "timezone": "Asia/Shanghai",
+                    "programLevel": "E",
+                    "programLevelId": "100546",
+                    "isCurrentGroup": true,
+                    "usedACH": 0,
+                    "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
+                    "id": null
+                }
+            ],
+            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+            "customerId": "10750000"
+        },
+        "id": 10750000
+    },
+    {
+        "data": {
+            "groups": [
+                {
+                    "program": "High Flyers",
+                    "allSessions": [],
+                    "totalACH": 60,
+                    "name": "GroupTestCreateManyStudent04",
+                    "leftACH": 0,
+                    "timezone": "Asia/Shanghai",
+                    "programLevel": "C",
+                    "programLevelId": "100544",
+                    "isCurrentGroup": false,
+                    "usedACH": 36,
+                    "status": "past",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
+                    "id": null
+                },
+                {
+                    "program": "High Flyers",
+                    "allSessions": [],
+                    "totalACH": 0,
+                    "name": null,
+                    "leftACH": null,
+                    "timezone": "Asia/Shanghai",
+                    "programLevel": "E",
+                    "programLevelId": "100546",
+                    "isCurrentGroup": true,
+                    "usedACH": 0,
+                    "status": "current",
+                    "programVersionCode": "HFV3Plus",
+                    "achPerLesson": 3,
+                    "id": null
+                }
+            ],
+            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+            "customerId": "1076"
+        },
+        "id": 1076
     }
 ]
