@@ -2063,7 +2063,7 @@
                     "programLevelId": "100545",
                     "isCurrentGroup": true,
                     "usedACH": 0,
-                    "status": "current",
+                    "status": "past",
                     "programVersionCode": "HFV2",
                     "achPerLesson": 3,
                     "id": "100084835"
@@ -2079,7 +2079,7 @@
                     "programLevelId": "100546",
                     "isCurrentGroup": true,
                     "usedACH": 0,
-                    "status": "current",
+                    "status": "past",
                     "programVersionCode": "HFV3Plus",
                     "achPerLesson": 3,
                     "id": null
@@ -2157,10 +2157,26 @@
                     "timezone": "Asia/Baghdad",
                     "programLevel": "3",
                     "programLevelId": "100509",
-                    "isCurrentGroup": false,
+                    "isCurrentGroup": true,
                     "usedACH": 62.5,
                     "status": "future",
-                    "programVersionCode": "TBV3",
+                    "programVersionCode": "TBV2",
+                    "achPerLesson": 3,
+                    "id": "100082212"
+                },
+                {
+                    "program": "Trailblazers",
+                    "allSessions": [],
+                    "totalACH": 62.5,
+                    "name": "TBv3-sang-test",
+                    "leftACH": 0,
+                    "timezone": "Asia/Baghdad",
+                    "programLevel": "4",
+                    "programLevelId": "100509",
+                    "isCurrentGroup": true,
+                    "usedACH": 62.5,
+                    "status": "past",
+                    "programVersionCode": "TBV2",
                     "achPerLesson": 3,
                     "id": "100082212"
                 },
@@ -2173,7 +2189,7 @@
                     "timezone": "Asia/Shanghai",
                     "programLevel": "1",
                     "programLevelId": "100582",
-                    "isCurrentGroup": false,
+                    "isCurrentGroup": true,
                     "usedACH": 0,
                     "status": "past",
                     "programVersionCode": "FRV1",
@@ -2217,9 +2233,9 @@
                 }
             ],
             "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "7000002"
+            "customerId": "7000003"
         },
-        "id": 7000002
+        "id": 7000003
     },
     {
         "data": {
