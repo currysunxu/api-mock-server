@@ -2048,7 +2048,7 @@
                     "isCurrentGroup": false,
                     "usedACH": 36,
                     "status": "past",
-                    "programVersionCode": "HFV1t",
+                    "programVersionCode": "HFV1",
                     "achPerLesson": 3,
                     "id": "100082182"
                 },
@@ -2064,7 +2064,7 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "past",
-                    "programVersionCode": "HFV2t",
+                    "programVersionCode": "HFV2",
                     "achPerLesson": 3,
                     "id": "100084835"
                 },
@@ -2080,7 +2080,7 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "past",
-                    "programVersionCode": "HFV2t",
+                    "programVersionCode": "HFV2",
                     "achPerLesson": 3,
                     "id": null
                 },
@@ -2093,10 +2093,10 @@
                     "timezone": "Asia/Shanghai",
                     "programLevel": "F",
                     "programLevelId": "100547",
-                    "isCurrentGroup": false,
+                    "isCurrentGroup": true,
                     "usedACH": 34.5,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plust",
+                    "status": "current",
+                    "programVersionCode": "HFV3Plus",
                     "achPerLesson": 3,
                     "id": "100082298"
                 },
@@ -2112,7 +2112,7 @@
                     "isCurrentGroup": false,
                     "usedACH": 34.5,
                     "status": "future",
-                    "programVersionCode": "HFV3PlusTest",
+                    "programVersionCode": "HFV3Plus",
                     "achPerLesson": 3,
                     "id": "100082298"
                 },
@@ -2128,7 +2128,7 @@
                     "isCurrentGroup": false,
                     "usedACH": 62.5,
                     "status": "past",
-                    "programVersionCode": "TBV3T",
+                    "programVersionCode": "TBV3",
                     "achPerLesson": 3,
                     "id": "100082210"
                 },
@@ -2144,7 +2144,7 @@
                     "isCurrentGroup": false,
                     "usedACH": 62.5,
                     "status": "future",
-                    "programVersionCode": "TBV1T",
+                    "programVersionCode": "TBV1",
                     "achPerLesson": 3,
                     "id": "100082211"
                 },
@@ -2160,7 +2160,7 @@
                     "isCurrentGroup": false,
                     "usedACH": 62.5,
                     "status": "future",
-                    "programVersionCode": "TBV2test",
+                    "programVersionCode": "TBV2",
                     "achPerLesson": 3,
                     "id": "100082212"
                 },
@@ -2176,7 +2176,7 @@
                     "isCurrentGroup": false,
                     "usedACH": 62.5,
                     "status": "past",
-                    "programVersionCode": "TBV2Test",
+                    "programVersionCode": "TBV2",
                     "achPerLesson": 3,
                     "id": "100082212"
                 },
@@ -2192,7 +2192,7 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "past",
-                    "programVersionCode": "FRV1Test",
+                    "programVersionCode": "FRV1",
                     "achPerLesson": 5.6,
                     "id": "100084687",
                     "cefrLevel": "A1"
@@ -2226,16 +2226,16 @@
                     "isCurrentGroup": false,
                     "usedACH": 0,
                     "status": "future",
-                    "programVersionCode": "FRV1Test",
+                    "programVersionCode": "FRV1",
                     "achPerLesson": null,
                     "id": "100084663",
                     "cefrLevel": "B1.1"
                 }
             ],
             "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "7000009"
+            "customerId": "7000010"
         },
-        "id": 7000009
+        "id": 7000010
     },
     {
         "data": {
