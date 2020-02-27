@@ -2045,10 +2045,10 @@
                     "timezone": "Asia/Shanghai",
                     "programLevel": "C",
                     "programLevelId": "100544",
-                    "isCurrentGroup": false,
+                    "isCurrentGroup": true,
                     "usedACH": 36,
                     "status": "past",
-                    "programVersionCode": "HFV3Plus",
+                    "programVersionCode": "HFV2",
                     "achPerLesson": 3,
                     "id": "100082182"
                 },
@@ -2061,10 +2061,10 @@
                     "timezone": "Asia/Shanghai",
                     "programLevel": "D",
                     "programLevelId": "100545",
-                    "isCurrentGroup": false,
+                    "isCurrentGroup": true,
                     "usedACH": 0,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
+                    "status": "current",
+                    "programVersionCode": "HFV2",
                     "achPerLesson": 3,
                     "id": "100084835"
                 },
@@ -2077,7 +2077,7 @@
                     "timezone": "Asia/Shanghai",
                     "programLevel": "E",
                     "programLevelId": "100546",
-                    "isCurrentGroup": false,
+                    "isCurrentGroup": true,
                     "usedACH": 0,
                     "status": "current",
                     "programVersionCode": "HFV3Plus",
@@ -2217,9 +2217,9 @@
                 }
             ],
             "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "7000007"
+            "customerId": "7000002"
         },
-        "id": 7000007
+        "id": 7000002
     },
     {
         "data": {
