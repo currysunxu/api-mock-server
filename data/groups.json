@@ -2468,7 +2468,7 @@
                     "name": null,
                     "leftACH": null,
                     "timezone": "Asia/Shanghai",
-                    "programLevel": "D",
+                    "programLevel": "A",
                     "programLevelId": "100546",
                     "isCurrentGroup": true,
                     "usedACH": 0,
