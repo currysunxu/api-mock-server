@@ -2482,5 +2482,94 @@
             "customerId": "1076"
         },
         "id": 1076
+    },
+    {
+    "data": {
+        "groups": [
+            {
+                "usedACH": 0,
+                "totalACH": 102,
+                "timezone": "Asia/Shanghai",
+                "status": "current",
+                "programVersionCode": "SSV3",
+                "programLevelId": "100372",
+                "programLevel": "4",
+                "program": "Small Stars",
+                "name": "Holiday Postpone Fridays BJ10",
+                "leftACH": 102,
+                "isCurrentGroup": false,
+                "id": "100147576",
+                "allSessions": null,
+                "achPerLesson": 1.5
+            },
+            {
+                "usedACH": 0,
+                "totalACH": 102,
+                "timezone": "Asia/Shanghai",
+                "status": "current",
+                "programVersionCode": "SSV3",
+                "programLevelId": "100372",
+                "programLevel": "4",
+                "program": "Small Stars",
+                "name": "Holiday New Postpone Fridays BJ10",
+                "leftACH": 102,
+                "isCurrentGroup": false,
+                "id": "100147577",
+                "allSessions": null,
+                "achPerLesson": 1.5
+            },
+            {
+                "usedACH": 0,
+                "totalACH": 102,
+                "timezone": "Asia/Shanghai",
+                "status": "current",
+                "programVersionCode": "SSV3",
+                "programLevelId": "100372",
+                "programLevel": "4",
+                "program": "Small Stars",
+                "name": "New Holiday Postpone Fridays BJ10",
+                "leftACH": 102,
+                "isCurrentGroup": false,
+                "id": "100147578",
+                "allSessions": null,
+                "achPerLesson": 1.5
+            },
+            {
+                "usedACH": 0,
+                "totalACH": 102,
+                "timezone": "Asia/Shanghai",
+                "status": "current",
+                "programVersionCode": "SSV3",
+                "programLevelId": "100372",
+                "programLevel": "4",
+                "program": "Small Stars",
+                "name": "Holiday Postpone Fridays BJ10 test",
+                "leftACH": 102,
+                "isCurrentGroup": true,
+                "id": "100148160",
+                "allSessions": null,
+                "achPerLesson": 1.5
+            },
+            {
+                "usedACH": 0,
+                "totalACH": 7.5,
+                "timezone": "Asia/Shanghai",
+                "status": "future",
+                "programVersionCode": "SSV3",
+                "programLevelId": "100372",
+                "programLevel": "4",
+                "program": "Small Stars",
+                "name": "ssv3bk4_1",
+                "leftACH": 102,
+                "isCurrentGroup": false,
+                "id": "100147939",
+                "allSessions": null,
+                "achPerLesson": 1.5
+            }
+        ],
+        "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+        "customerId": "1047"
+      },
+      "id": 1047
     }
 ]
