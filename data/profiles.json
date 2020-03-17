@@ -1841,7 +1841,7 @@
             "KidsILabUserName": "auth2.mix.program",
             "PreferredLanguageCode": null,
             "grade": "primary school 4",
-            "CustomerId": "7000010",
+            "CustomerId": "7000009",
             "Gender": null,
             "HomePhoneNumber": "13372267499",
             "Address": null,
@@ -1857,6 +1857,6 @@
             "Email": "auth2.mix.program@ef.com",
             "StatusUpdatedUtcDateTime": "2019-12-11T06:25:03"
         },
-        "id": 7000010
+        "id": 7000009
     }
 ]
