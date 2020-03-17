@@ -1,0 +1,31 @@
+### Login
+
+POST {{baseUrl}}/api/v1/customer
+Content-Type: application/json
+X-ODIN-AppId: grammarpro
+X-ODIN-AppSecret: U2FsdGVkX19SgIpGnlaC1bhAza7MSywQ4DDTcvlWmJ0=
+
+{
+  "UserName": "CN_kidsilab.eng1",
+  "Password": "SuperAccount@E1"
+}
+
+### Get Inprogress Groups
+GET {{baseUrl}}/api/v1/customer/2/inprogressgroups
+Content-Type: application/json
+X-ODIN-AppId: grammarpro
+X-ODIN-AppSecret: U2FsdGVkX19SgIpGnlaC1bhAza7MSywQ4DDTcvlWmJ0=
+
+### Get enrolled groups
+GET {{baseUrl}}/api/v1/customer/2/enrolledgroups
+Content-Type: application/json
+X-ODIN-AppId: grammarpro
+X-ODIN-AppSecret: U2FsdGVkX19SgIpGnlaC1bhAza7MSywQ4DDTcvlWmJ0=
+
+### Get groups
+GET {{baseUrl}}/api/v1/customer/2/groups
+Content-Type: application/json
+X-ODIN-AppId: grammarpro
+X-ODIN-AppSecret: U2FsdGVkX19SgIpGnlaC1bhAza7MSywQ4DDTcvlWmJ0=
+
+###
