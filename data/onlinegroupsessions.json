@@ -66,5 +66,52 @@
         "acr": null
       }
     ]
+  },
+    {
+    "id": 1070,
+    "data": [
+      {
+        "studentId": "1070",
+        "sessionId": "112712309",
+        "sessionStatus": "Activated",
+        "reservationId": "112710803",
+        "program": "High Flyers 3.0Plus",
+        "programVersionCode": "HFV3Plus",
+        "programLevel": "C",
+        "unitNumber": "1",
+        "lessonNumber": "1",
+        "groupId": "a0B6D000005BNELUA4",
+        "groupStatus": "Activated",
+        "teacherName": "Frederick",
+        "teacherPhoto": null,
+        "startDateTimeUtc": "2020-02-18T07:30:00.000Z",
+        "endDateTimeUtc": "2020-02-18T09:00:00.000Z",
+        "attendanceResult": "Present",
+        "entryLink": "https://global.talk-cloud.net/WebAPI/entry/domain/cloudclass/serial/883953022/pid/101071971/username/Student2+Corona/usertype/2/ts/1584513774/auth/bcfde96d6ff680c0b5cac5b718a8f055",
+        "recordingLink": "http://global.talk-cloud.net/replay/2113669790/100550/1580293792628/",
+        "acr": null
+      },
+      {
+        "studentId": "1070",
+        "sessionId": "112712540",
+        "sessionStatus": "Activated",
+        "reservationId": "a0G6D000000cjw0UAB",
+        "program": "High Flyers 3.0Plus",
+        "programVersionCode": "HFV3Plus",
+        "programLevel": "C",
+        "unitNumber": "1",
+        "lessonNumber": "1",
+        "groupId": "a0B6D000005BNELUA4",
+        "groupStatus": "Activated",
+        "teacherName": "Frederick",
+        "teacherPhoto": null,
+        "startDateTimeUtc": "2020-02-18T09:00:00.000Z",
+        "endDateTimeUtc": "2019-05-08T10:30:00.000Z",
+        "attendanceResult": null,
+        "entryLink": "https://global.talk-cloud.net/WebAPI/entry/domain/cloudclass/serial/1372551205/pid/101071971/username/Student2+Corona/usertype/2/ts/1584513774/auth/907bb28d767ce05ea541bea994ecd5a1",
+        "recordingLink": null,
+        "acr": null
+      }
+    ]
   }
 ]
