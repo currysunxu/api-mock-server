@@ -31,10 +31,10 @@
       "CustomerID": 1071,
       "firstName": "Test Account 71",
       "lastName": "Liang",
-      "Grade": "",
+      "Grade": "primary school 5",
       "country_code": "CN",
       "center_codes": "CQ10WXC",
-      "Birthday": "",
+      "Birthday": "2016-12-03",
       "AccountName": "Account Chongqing"
     }
   },
@@ -44,7 +44,7 @@
       "CustomerID": 1023,
       "firstName": "Test Account 23",
       "lastName": "Yuki",
-      "Grade": "primary school 1",
+      "Grade": "primary school 5",
       "country_code": "CN",
       "center_codes": "Hefei3",
       "Birthday": "2018-01-12",
@@ -83,7 +83,7 @@
       "CustomerID": 1002,
       "firstName": "hf2cn02",
       "lastName": "Guangzhou",
-      "Grade": "primary school 4",
+      "Grade": "primary school 5",
       "country_code": "CN",
       "center_codes": "GZ2HZ1",
       "Birthday": "2017-02-03",
@@ -160,12 +160,12 @@
     "data": {
       "CustomerID": 1047,
       "firstName": "ss3.cn.01",
-      "lastName": "kindergaten",
-      "Grade": "Pre-Kindergarten",
+      "lastName": "test",
+      "Grade": "Primary School5",
       "country_code": "CN",
-      "center_codes": "CQ10WXC",
+      "center_codes": "Hefei7",
       "Birthday": "2017-12-13",
-      "AccountName": "Account Chongqing"
+      "AccountName": "Account Hefei"
     }
   },
   {
@@ -174,7 +174,7 @@
       "CustomerID": 1076,
       "firstName": "hf3.cn.auto2",
       "lastName": "Bob",
-      "Grade": "Primary School 8",
+      "Grade": "Pre-Kindergarten",
       "country_code": "CN",
       "center_codes": "CQ10WXC",
       "Birthday": "2017-12-13",
@@ -187,10 +187,10 @@
       "CustomerID": 1106,
       "firstName": "hfv3.1",
       "lastName": "Lucy",
-      "Grade": "Primary School 8",
+      "Grade": "",
       "country_code": "CN",
       "center_codes": "CQ10WXC",
-      "Birthday": "2017-12-13",
+      "Birthday": "",
       "AccountName": "Account Chongqing"
     }
   },
@@ -231,6 +231,32 @@
       "center_codes": "Qingdao4",
       "Birthday": "2012-12-13",
       "AccountName": "Account Shanghai"
+    }
+  },
+  {
+    "id": 9000006,
+    "data": {
+      "CustomerID": 9000006,
+      "firstName": "hf.cn.fra.test01",
+      "lastName": "Test",
+      "Grade": "Primary School 5",
+      "country_code": "CN",
+      "center_codes": "",
+      "Birthday": "2012-12-13",
+      "AccountName": "Account No Center"
+    }
+  },
+  {
+    "id": 9000008,
+    "data": {
+      "CustomerID": 9000008,
+      "firstName": "hf.id.fra.test01",
+      "lastName": "Test",
+      "Grade": "Primary School 1",
+      "country_code": "CN",
+      "center_codes": "GZ2HZ1",
+      "Birthday": "2012-12-13",
+      "AccountName": "Account No Center"
     }
   }
 ]
