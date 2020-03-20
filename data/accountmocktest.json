@@ -31,10 +31,10 @@
       "CustomerID": 1071,
       "firstName": "Test Account 71",
       "lastName": "Liang",
-      "Grade": "primary school 4",
+      "Grade": "",
       "country_code": "CN",
       "center_codes": "CQ10WXC",
-      "Birthday": "2016-12-03",
+      "Birthday": "",
       "AccountName": "Account Chongqing"
     }
   },
@@ -44,7 +44,7 @@
       "CustomerID": 1023,
       "firstName": "Test Account 23",
       "lastName": "Yuki",
-      "Grade": "primary school 5",
+      "Grade": "primary school 1",
       "country_code": "CN",
       "center_codes": "Hefei3",
       "Birthday": "2018-01-12",
@@ -153,6 +153,84 @@
       "center_codes": "CQ10WXC",
       "Birthday": "2017-12-13",
       "AccountName": "Account Chongqing"
+    }
+  },
+  {
+    "id": 1047,
+    "data": {
+      "CustomerID": 1047,
+      "firstName": "ss3.cn.01",
+      "lastName": "kindergaten",
+      "Grade": "Pre-Kindergarten",
+      "country_code": "CN",
+      "center_codes": "CQ10WXC",
+      "Birthday": "2017-12-13",
+      "AccountName": "Account Chongqing"
+    }
+  },
+  {
+    "id": 1076,
+    "data": {
+      "CustomerID": 1076,
+      "firstName": "hf3.cn.auto2",
+      "lastName": "Bob",
+      "Grade": "Primary School 8",
+      "country_code": "CN",
+      "center_codes": "CQ10WXC",
+      "Birthday": "2017-12-13",
+      "AccountName": "Account Chongqing"
+    }
+  },
+  {
+    "id": 1106,
+    "data": {
+      "CustomerID": 1106,
+      "firstName": "hfv3.1",
+      "lastName": "Lucy",
+      "Grade": "Primary School 8",
+      "country_code": "CN",
+      "center_codes": "CQ10WXC",
+      "Birthday": "2017-12-13",
+      "AccountName": "Account Chongqing"
+    }
+  },
+  {
+    "id": 9000039,
+    "data": {
+      "CustomerID": 9000039,
+      "firstName": "hf.test1025",
+      "lastName": "Shanghai Test",
+      "Grade": "Primary School 4",
+      "country_code": "CN",
+      "center_codes": "SH26JD1",
+      "Birthday": "2012-12-13",
+      "AccountName": "Account Shanghai"
+    }
+  },
+  {
+    "id": 9000025,
+    "data": {
+      "CustomerID": 9000025,
+      "firstName": "ptReviewTest09",
+      "lastName": "Shanghai Test",
+      "Grade": "Primary School 5",
+      "country_code": "CN",
+      "center_codes": "SH19BS1",
+      "Birthday": "2012-12-13",
+      "AccountName": "Account Shanghai"
+    }
+  },
+  {
+    "id": 10750000,
+    "data": {
+      "CustomerID": 10750000,
+      "firstName": "hf3.cn.auto1",
+      "lastName": "Test",
+      "Grade": "",
+      "country_code": "CN",
+      "center_codes": "Qingdao4",
+      "Birthday": "2012-12-13",
+      "AccountName": "Account Shanghai"
     }
   }
 ]
