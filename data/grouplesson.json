@@ -84,7 +84,7 @@
         "teacherName": "CN Live Teacher",
         "studentPassword": "805721",
         "studentId": "101395839",
-        "startDateTimeUtc": "2020-03-27T04:20:00.000Z",
+        "startDateTimeUtc": "2020-03-27T02:40:00.000Z",
         "sessionStatus": "Activated",
         "sessionId": "115614546",
         "reservationId": "115375639",
@@ -96,7 +96,7 @@
         "groupStatus": "Activated",
         "groupId": "a0B0I00000qvjpnUAA",
         "entryLink": "https://global.talk-cloud.net/WebAPI/entry/domain/cloudclass/serial/1943392179/pid/101071971/username/Student2+Corona/usertype/2/ts/1584513774/auth/e7c21da79b91018806261204460fb99d",
-        "endDateTimeUtc": "2020-03-27T06:20:00.000Z",
+        "endDateTimeUtc": "2020-03-27T09:20:00.000Z",
         "attendanceResult": null,
         "acr": null
       }
