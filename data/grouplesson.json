@@ -8,7 +8,7 @@
         "teacherName": "CN Live Teacher",
         "studentPassword": "805721",
         "studentId": "101395839",
-        "startDateTimeUtc": "2020-03-26T07:00:00.000Z",
+        "startDateTimeUtc": "2020-03-30T07:00:00.000Z",
         "sessionStatus": "Activated",
         "sessionId": "115614546",
         "reservationId": "115375639",
@@ -20,7 +20,7 @@
         "groupStatus": "Activated",
         "groupId": "a0B0I00000qvjpnUAA",
         "entryLink": "https://global.talk-cloud.net/WebAPI/entry/domain/ef/serial/755142833/pid/101395839/username/Student4+Test/usertype/2/ts/1582688764/auth/d300408484d611edc7ca6b807ed78f22",
-        "endDateTimeUtc": "2020-03-26T08:30:00.000Z",
+        "endDateTimeUtc": "2020-03-30T12:30:00.000Z",
         "attendanceResult": null,
         "acr": null
       },
@@ -30,7 +30,7 @@
         "teacherName": "CN Live Teacher",
         "studentPassword": "902528",
         "studentId": "101395839",
-        "startDateTimeUtc": "2020-03-26T10:00:00.000Z",
+        "startDateTimeUtc": "2020-03-31T01:00:00.000Z",
         "sessionStatus": "Activated",
         "sessionId": "115438166",
         "reservationId": "115375667",
@@ -42,7 +42,7 @@
         "groupStatus": "Activated",
         "groupId": "a0B0I00000qvjpnUAA",
         "entryLink": "https://global.talk-cloud.net/WebAPI/entry/domain/ef/serial/94303867/pid/101395839/username/Student4+Test/usertype/2/ts/1582688764/auth/fc279c441603d6282996cbf18b5f5fbf",
-        "endDateTimeUtc": "2020-03-26T11:20:00.000Z",
+        "endDateTimeUtc": "2020-03-31T12:20:00.000Z",
         "attendanceResult": null,
         "acr": null
       }
@@ -57,7 +57,7 @@
         "teacherName": "CN Live Teacher",
         "studentPassword": "805721",
         "studentId": "101395839",
-        "startDateTimeUtc": "2020-03-27T02:40:00.000Z",
+        "startDateTimeUtc": "2020-04-01T01:00:00.000Z",
         "sessionStatus": "Activated",
         "sessionId": "115614546",
         "reservationId": "115375639",
@@ -69,7 +69,7 @@
         "groupStatus": "Activated",
         "groupId": "a0B0I00000qvjpnUAA",
         "entryLink": "https://global.talk-cloud.net/WebAPI/entry/domain/ef/serial/755142833/pid/101395839/username/Student4+Test/usertype/2/ts/1582688764/auth/d300408484d611edc7ca6b807ed78f22",
-        "endDateTimeUtc": "2020-03-27T04:20:00.000Z",
+        "endDateTimeUtc": "2020-04-01T12:20:00.000Z",
         "attendanceResult": null,
         "acr": null
       }
@@ -84,7 +84,7 @@
         "teacherName": "CN Live Teacher",
         "studentPassword": "805721",
         "studentId": "101395839",
-        "startDateTimeUtc": "2020-03-27T02:40:00.000Z",
+        "startDateTimeUtc": "2020-04-02T02:00:00.000Z",
         "sessionStatus": "Activated",
         "sessionId": "115614546",
         "reservationId": "115375639",
@@ -96,7 +96,7 @@
         "groupStatus": "Activated",
         "groupId": "a0B0I00000qvjpnUAA",
         "entryLink": "https://global.talk-cloud.net/WebAPI/entry/domain/cloudclass/serial/1943392179/pid/101071971/username/Student2+Corona/usertype/2/ts/1584513774/auth/e7c21da79b91018806261204460fb99d",
-        "endDateTimeUtc": "2020-03-27T09:20:00.000Z",
+        "endDateTimeUtc": "2020-04-02T11:40:00.000Z",
         "attendanceResult": null,
         "acr": null
       }
