@@ -45,6 +45,29 @@
         "endDateTimeUtc": "2020-03-31T12:20:00.000Z",
         "attendanceResult": null,
         "acr": null
+      },
+      {
+        "//": "please don't modify this item date, it's used for HF35 online GL testing",
+        "unitNumber": "1",
+        "teacherPhoto": null,
+        "teacherName": "CN Live Teacher",
+        "studentPassword": "902528",
+        "studentId": "101395839",
+        "startDateTimeUtc": "2020-12-31T01:30:00.000Z",
+        "sessionStatus": "Activated",
+        "sessionId": "115438166",
+        "reservationId": "115375667",
+        "recordingLink": null,
+        "programVersionCode": "SSV3",
+        "programLevel": "3",
+        "program": "Small Stars 3.0",
+        "lessonNumber": "2",
+        "groupStatus": "Activated",
+        "groupId": "a0B0I00000qvjpnUAA",
+        "entryLink": "https://global.talk-cloud.net/WebAPI/entry/domain/ef/serial/94303867/pid/101395839/username/Student4+Test/usertype/2/ts/1582688764/auth/fc279c441603d6282996cbf18b5f5fbf",
+        "endDateTimeUtc": "2020-12-31T12:20:00.000Z",
+        "attendanceResult": null,
+        "acr": null
       }
     ]
   },
