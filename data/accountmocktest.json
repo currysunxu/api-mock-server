@@ -258,5 +258,18 @@
       "Birthday": "2012-12-13",
       "AccountName": "Account No Center"
     }
+  },
+    {
+    "id": 12224120,
+    "data": {
+      "CustomerID": 12224120,
+      "firstName": "hf2.cn.auto1",
+      "lastName": "Test",
+      "Grade": "Primary School 1",
+      "country_code": "CN",
+      "center_codes": "GZ2HZ1",
+      "Birthday": "2012-12-13",
+      "AccountName": "Account No Center"
+    }
   }
 ]
