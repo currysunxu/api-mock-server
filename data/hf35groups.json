@@ -1,0 +1,308 @@
+[
+  {
+    "id": "1070",
+    "data": {
+      "groups": [
+        {
+          "usedACH": 0,
+          "totalACH": 40,
+          "timezone": "Asia/Shanghai",
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "programLevelId": "100545",
+          "programLevel": "D",
+          "program": "High Flyers",
+          "name": "hf-3.5-test-new-course-map",
+          "leftACH": null,
+          "isCurrentGroup": false,
+          "id": "100190950",
+          "allSessions": [
+            {
+              "startTime": "2020-09-15T02:05:00.000Z",
+              "sessionType": "Online Classroom",
+              "sessionID": "117810315",
+              "sessionACH": 2,
+              "lessons": [
+                {
+                  "unit": 6,
+                  "lesson": 4
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-09-08T02:05:00.000Z",
+              "sessionType": "Online Classroom",
+              "sessionID": "117810314",
+              "sessionACH": 2,
+              "lessons": [
+                {
+                  "unit": 6,
+                  "lesson": 3
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-09-01T02:05:00.000Z",
+              "sessionType": "Online Classroom",
+              "sessionID": "117810313",
+              "sessionACH": 2,
+              "lessons": [
+                {
+                  "unit": 6,
+                  "lesson": 2
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-08-25T02:05:00.000Z",
+              "sessionType": "Online Classroom",
+              "sessionID": "117810312",
+              "sessionACH": 2,
+              "lessons": [
+                {
+                  "unit": 6,
+                  "lesson": 1
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-08-18T02:05:00.000Z",
+              "sessionType": "Online Classroom",
+              "sessionID": "117810311",
+              "sessionACH": 2,
+              "lessons": [
+                {
+                  "unit": 5,
+                  "lesson": 3
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-08-11T02:05:00.000Z",
+              "sessionType": "Online Classroom",
+              "sessionID": "117810310",
+              "sessionACH": 2,
+              "lessons": [
+                {
+                  "unit": 5,
+                  "lesson": 2
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-08-04T02:05:00.000Z",
+              "sessionType": "Online Classroom",
+              "sessionID": "117810309",
+              "sessionACH": 2,
+              "lessons": [
+                {
+                  "unit": 5,
+                  "lesson": 1
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-07-28T02:05:00.000Z",
+              "sessionType": "Online Classroom",
+              "sessionID": "117810308",
+              "sessionACH": 2,
+              "lessons": [
+                {
+                  "unit": 4,
+                  "lesson": 3
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-07-21T02:05:00.000Z",
+              "sessionType": "Online Classroom",
+              "sessionID": "117810307",
+              "sessionACH": 2,
+              "lessons": [
+                {
+                  "unit": 4,
+                  "lesson": 2
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-07-14T02:05:00.000Z",
+              "sessionType": "Online Classroom",
+              "sessionID": "117810306",
+              "sessionACH": 2,
+              "lessons": [
+                {
+                  "unit": 4,
+                  "lesson": 1
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-07-07T02:05:00.000Z",
+              "sessionType": "Online Classroom",
+              "sessionID": "117810305",
+              "sessionACH": 2,
+              "lessons": [
+                {
+                  "unit": 3,
+                  "lesson": 4
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-06-30T02:05:00.000Z",
+              "sessionType": "Online Classroom",
+              "sessionID": "117810304",
+              "sessionACH": 2,
+              "lessons": [
+                {
+                  "unit": 3,
+                  "lesson": 3
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-06-23T02:05:00.000Z",
+              "sessionType": "Online Classroom",
+              "sessionID": "117810303",
+              "sessionACH": 2,
+              "lessons": [
+                {
+                  "unit": 3,
+                  "lesson": 2
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-06-16T02:05:00.000Z",
+              "sessionType": "Online Classroom",
+              "sessionID": "117810302",
+              "sessionACH": 2,
+              "lessons": [
+                {
+                  "unit": 3,
+                  "lesson": 1
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-06-09T02:05:00.000Z",
+              "sessionType": "Online Classroom",
+              "sessionID": "117810301",
+              "sessionACH": 2,
+              "lessons": [
+                {
+                  "unit": 2,
+                  "lesson": 3
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-06-02T02:05:00.000Z",
+              "sessionType": "Online Classroom",
+              "sessionID": "117810300",
+              "sessionACH": 2,
+              "lessons": [
+                {
+                  "unit": 2,
+                  "lesson": 2
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-05-26T02:05:00.000Z",
+              "sessionType": "Online Classroom",
+              "sessionID": "117810299",
+              "sessionACH": 2,
+              "lessons": [
+                {
+                  "unit": 2,
+                  "lesson": 1
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-05-19T02:05:00.000Z",
+              "sessionType": "Online Classroom",
+              "sessionID": "117810298",
+              "sessionACH": 2,
+              "lessons": [
+                {
+                  "unit": 1,
+                  "lesson": 3
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-04-29T12:58:00.000Z",
+              "sessionType": "Online Classroom",
+              "sessionID": "117810297",
+              "sessionACH": 2,
+              "lessons": [
+                {
+                  "unit": 1,
+                  "lesson": 2
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-04-29T02:40:00.000Z",
+              "sessionType": "Online Classroom",
+              "sessionID": "117810296",
+              "sessionACH": 2,
+              "lessons": [
+                {
+                  "unit": 1,
+                  "lesson": 1
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            }
+          ],
+          "achPerLesson": 3
+        }
+      ],
+      "customerPhotoUrl": null,
+      "customerId": "1070"
+    }
+  }
+]
