@@ -1,2673 +1,2817 @@
 [
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 76.5,
-                    "name": "smoke pt HF 05",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "F",
-                    "programLevelId": "100547",
-                    "isCurrentGroup": true,
-                    "usedACH": 34.5,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": "100082298"
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "GroupTestCreateManyStudent04",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": false,
-                    "usedACH": 36,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": "100082182"
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "testgroup05",
-                    "leftACH": 40,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "D",
-                    "programLevelId": "100545",
-                    "isCurrentGroup": false,
-                    "usedACH": 0,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": "100084835"
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 0,
-                    "name": null,
-                    "leftACH": null,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "E",
-                    "programLevelId": "100546",
-                    "isCurrentGroup": null,
-                    "usedACH": 0,
-                    "status": "future",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "GroupTestCreateManyStudent04",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "G",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": false,
-                    "usedACH": 36,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": "100082182"
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 76.5,
-                    "name": "smoke pt HF 05",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "H",
-                    "programLevelId": "100547",
-                    "isCurrentGroup": null,
-                    "usedACH": 34.5,
-                    "status": "invalidStatus",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "9000001"
-        },
-        "id": 9000001
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "GroupTestCreateManyStudent04",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": false,
-                    "usedACH": 36,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "testgroup05",
-                    "leftACH": 40,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "D",
-                    "programLevelId": "100545",
-                    "isCurrentGroup": false,
-                    "usedACH": 0,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 0,
-                    "name": null,
-                    "leftACH": null,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "E",
-                    "programLevelId": "100546",
-                    "isCurrentGroup": false,
-                    "usedACH": 0,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 76.5,
-                    "name": "smoke pt HF 05",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "F",
-                    "programLevelId": "100547",
-                    "isCurrentGroup": null,
-                    "usedACH": 34.5,
-                    "status": "future",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 76.5,
-                    "name": "smoke pt HF 05",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "G",
-                    "programLevelId": "100547",
-                    "isCurrentGroup": null,
-                    "usedACH": 34.5,
-                    "status": "invalidStatus",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "9000002"
-        },
-        "id": 9000002
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 0,
-                    "name": null,
-                    "leftACH": null,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "E",
-                    "programLevelId": "100546",
-                    "isCurrentGroup": null,
-                    "usedACH": 0,
-                    "status": "future",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 76.5,
-                    "name": "smoke pt HF 05",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "F",
-                    "programLevelId": "100547",
-                    "isCurrentGroup": null,
-                    "usedACH": 34.5,
-                    "status": "future",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 76.5,
-                    "name": "smoke pt HF 05",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "G",
-                    "programLevelId": "100547",
-                    "isCurrentGroup": null,
-                    "usedACH": 34.5,
-                    "status": "invalidStatus",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "9000003"
-        },
-        "id": 9000003
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "Trailblazers",
-                    "allSessions": [],
-                    "totalACH": 62.5,
-                    "name": "TBv3-sang-test",
-                    "leftACH": 0,
-                    "timezone": "Asia/Baghdad",
-                    "programLevel": "1",
-                    "programLevelId": "100507",
-                    "isCurrentGroup": false,
-                    "usedACH": 62.5,
-                    "status": "past",
-                    "programVersionCode": "TBV3",
-                    "achPerLesson": 3,
-                    "id": "100082210"
-                },
-                {
-                    "program": "Small Stars",
-                    "allSessions": [],
-                    "totalACH": 103.5,
-                    "name": "SSV3 Sang Testing",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "1",
-                    "programLevelId": "100369",
-                    "isCurrentGroup": false,
-                    "usedACH": 102,
-                    "status": "current",
-                    "programVersionCode": "SSV3",
-                    "achPerLesson": 3,
-                    "id": "100082370"
-                },
-                {
-                    "program": "Small Stars",
-                    "allSessions": [],
-                    "totalACH": 106.5,
-                    "name": "SSblue-Vivian-\u00e5\u00bc\u20ac\u00e5\u00bf\u0192\u00e6\u017e\u0153",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "Blue",
-                    "programLevelId": "100362",
-                    "isCurrentGroup": false,
-                    "usedACH": 94.5,
-                    "status": "current",
-                    "programVersionCode": "SSV3",
-                    "achPerLesson": 3,
-                    "id": "100020868"
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "GroupTestCreateManyStudent04",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": false,
-                    "usedACH": 36,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": "100082182"
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "testgroup05",
-                    "leftACH": 40,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "D",
-                    "programLevelId": "100545",
-                    "isCurrentGroup": false,
-                    "usedACH": 0,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": "100084835"
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 0,
-                    "name": null,
-                    "leftACH": null,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "E",
-                    "programLevelId": "100546",
-                    "isCurrentGroup": false,
-                    "usedACH": 0,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 76.5,
-                    "name": "smoke pt HF 05",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "F",
-                    "programLevelId": "100547",
-                    "isCurrentGroup": true,
-                    "usedACH": 34.5,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": "100082298"
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "9000004"
-        },
-        "id": 9000004
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "GroupTestCreateManyStudent04",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": false,
-                    "usedACH": 36,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "testgroup05",
-                    "leftACH": 40,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "D",
-                    "programLevelId": "100545",
-                    "isCurrentGroup": false,
-                    "usedACH": 0,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 0,
-                    "name": null,
-                    "leftACH": null,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "E",
-                    "programLevelId": "100546",
-                    "isCurrentGroup": false,
-                    "usedACH": 0,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 76.5,
-                    "name": "smoke pt HF 05",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "F",
-                    "programLevelId": "100547",
-                    "isCurrentGroup": null,
-                    "usedACH": 34.5,
-                    "status": "future",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "12221442"
-        },
-        "id": 12221442
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "Small Stars",
-                    "allSessions": [],
-                    "totalACH": 106.5,
-                    "name": "SSblue-Vivian-\u00e5\u00bc\u20ac\u00e5\u00bf\u0192\u00e6\u017e\u0153",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "Blue",
-                    "programLevelId": "100362",
-                    "isCurrentGroup": true,
-                    "usedACH": 94.5,
-                    "status": "current",
-                    "programVersionCode": "SSV2",
-                    "achPerLesson": 3,
-                    "id": "10009"
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "12071306"
-        },
-        "id": 1018
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "Small Stars",
-                    "allSessions": [],
-                    "totalACH": 106.5,
-                    "name": "SSblue-Vivian-\u00e5\u00bc\u20ac\u00e5\u00bf\u0192\u00e6\u017e\u0153",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "Blue",
-                    "programLevelId": "100362",
-                    "isCurrentGroup": false,
-                    "usedACH": 94.5,
-                    "status": "current",
-                    "programVersionCode": "SSV3",
-                    "achPerLesson": 3,
-                    "id": "100020868"
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "GroupTestCreateManyStudent04",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": false,
-                    "usedACH": 36,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": "100082182"
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "testgroup05",
-                    "leftACH": 40,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "D",
-                    "programLevelId": "100545",
-                    "isCurrentGroup": false,
-                    "usedACH": 0,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": "100084835"
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 0,
-                    "name": null,
-                    "leftACH": null,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "H",
-                    "programLevelId": "100546",
-                    "isCurrentGroup": false,
-                    "usedACH": 0,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 76.5,
-                    "name": "smoke pt HF 05",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "I",
-                    "programLevelId": "100547",
-                    "isCurrentGroup": true,
-                    "usedACH": 34.5,
-                    "status": "future",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": "100082298"
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "12071306"
-        },
-        "id": 12071306
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "GroupTestCreateManyStudent04",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": false,
-                    "usedACH": 36,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "testgroup05",
-                    "leftACH": 40,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "D",
-                    "programLevelId": "100545",
-                    "isCurrentGroup": false,
-                    "usedACH": 0,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 0,
-                    "name": null,
-                    "leftACH": null,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "E",
-                    "programLevelId": "100546",
-                    "isCurrentGroup": false,
-                    "usedACH": 0,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 76.5,
-                    "name": "smoke pt HF 05",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "F",
-                    "programLevelId": "100547",
-                    "isCurrentGroup": null,
-                    "usedACH": 34.5,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 76.5,
-                    "name": "smoke pt HF 05",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "G",
-                    "programLevelId": "100547",
-                    "isCurrentGroup": null,
-                    "usedACH": 34.5,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 76.5,
-                    "name": "smoke pt HF 05",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "H",
-                    "programLevelId": "100547",
-                    "isCurrentGroup": null,
-                    "usedACH": 34.5,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 76.5,
-                    "name": "smoke pt HF 05",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "I",
-                    "programLevelId": "100547",
-                    "isCurrentGroup": null,
-                    "usedACH": 34.5,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 76.5,
-                    "name": "smoke pt HF 05",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "J",
-                    "programLevelId": "100547",
-                    "isCurrentGroup": null,
-                    "usedACH": 34.5,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "12224132"
-        },
-        "id": 12224132
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "GroupTestCreateManyStudent04",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": false,
-                    "usedACH": 36,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 0,
-                    "name": null,
-                    "leftACH": null,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "I",
-                    "programLevelId": "100546",
-                    "isCurrentGroup": true,
-                    "usedACH": 0,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "9000020"
-        },
-        "id": 9000020
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "GroupTestCreateManyStudent04",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": true,
-                    "usedACH": 36,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "12226032"
-        },
-        "id": 12226032
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "GroupTestCreateManyStudent04",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": true,
-                    "usedACH": 36,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "9000039"
-        },
-        "id": 9000039
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "GroupTestCreateManyStudent04",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": false,
-                    "usedACH": 36,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 0,
-                    "name": null,
-                    "leftACH": null,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "I",
-                    "programLevelId": "100546",
-                    "isCurrentGroup": true,
-                    "usedACH": 0,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "9000021"
-        },
-        "id": 9000021
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "GroupTestCreateManyStudent04",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": false,
-                    "usedACH": 36,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 0,
-                    "name": null,
-                    "leftACH": null,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "I",
-                    "programLevelId": "100546",
-                    "isCurrentGroup": true,
-                    "usedACH": 0,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "9000022"
-        },
-        "id": 9000022
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "GroupTestCreateManyStudent04",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": true,
-                    "usedACH": 36,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 0,
-                    "name": null,
-                    "leftACH": null,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "D",
-                    "programLevelId": "100546",
-                    "isCurrentGroup": false,
-                    "usedACH": 0,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "9000023"
-        },
-        "id": 9000023
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "GroupTestCreateManyStudent04",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": true,
-                    "usedACH": 36,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 0,
-                    "name": null,
-                    "leftACH": null,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "D",
-                    "programLevelId": "100546",
-                    "isCurrentGroup": false,
-                    "usedACH": 0,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "9000024"
-        },
-        "id": 9000024
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "GroupTestCreateManyStudent04",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": true,
-                    "usedACH": 36,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 0,
-                    "name": null,
-                    "leftACH": null,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "E",
-                    "programLevelId": "100546",
-                    "isCurrentGroup": false,
-                    "usedACH": 0,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "Frontrunner",
-                    "allSessions": [],
-                    "totalACH": 72,
-                    "name": "FRBK1",
-                    "leftACH": 144,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "1",
-                    "programLevelId": "100582",
-                    "isCurrentGroup": true,
-                    "usedACH": 0,
-                    "status": "current",
-                    "programVersionCode": "FRV1",
-                    "achPerLesson": 3,
-                    "id": "100084687",
-                    "cefrLevel": "A1"
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "9000025"
-        },
-        "id": 9000025
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "High Fly 3.0 C",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": true,
-                    "usedACH": 36,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "testgroup05",
-                    "leftACH": 40,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "D",
-                    "programLevelId": "100545",
-                    "isCurrentGroup": false,
-                    "usedACH": 0,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 0,
-                    "name": null,
-                    "leftACH": null,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "E",
-                    "programLevelId": "100546",
-                    "isCurrentGroup": null,
-                    "usedACH": 0,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 76.5,
-                    "name": "smoke pt HF 05",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "F",
-                    "programLevelId": "100547",
-                    "isCurrentGroup": null,
-                    "usedACH": 34.5,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "Frontrunner",
-                    "allSessions": [],
-                    "totalACH": 72,
-                    "name": "FRBK1",
-                    "leftACH": 144,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "1",
-                    "programLevelId": "100582",
-                    "isCurrentGroup": true,
-                    "usedACH": 0,
-                    "status": "current",
-                    "programVersionCode": "FRV1",
-                    "achPerLesson": 3,
-                    "id": "100084687",
-                    "cefrLevel": "A1"
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "9000026"
-        },
-        "id": 9000026
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "High Fly 3.0 C",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": true,
-                    "usedACH": 36,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "testgroup05",
-                    "leftACH": 40,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "D",
-                    "programLevelId": "100545",
-                    "isCurrentGroup": false,
-                    "usedACH": 0,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 0,
-                    "name": null,
-                    "leftACH": null,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "E",
-                    "programLevelId": "100546",
-                    "isCurrentGroup": null,
-                    "usedACH": 0,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 76.5,
-                    "name": "smoke pt HF 05",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "F",
-                    "programLevelId": "100547",
-                    "isCurrentGroup": null,
-                    "usedACH": 34.5,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "9000027"
-        },
-        "id": 9000027
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "High Fly 2.0 C",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": true,
-                    "usedACH": 36,
-                    "status": "current",
-                    "programVersionCode": "HFV2",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "1108"
-        },
-        "id": 1108
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "High Fly 2.0 C",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": true,
-                    "usedACH": 36,
-                    "status": "current",
-                    "programVersionCode": "HFV2",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "1109"
-        },
-        "id": 1109
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "High Fly 2.0 C",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": true,
-                    "usedACH": 36,
-                    "status": "current",
-                    "programVersionCode": "HFV2",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "1110"
-        },
-        "id": 1110
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "High Fly 2.0 C",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": true,
-                    "usedACH": 36,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 2,
-                    "name": "High Fly ccccc",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": true,
-                    "usedACH": 2,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "High Flywewewewewe",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": true,
-                    "usedACH": 36,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "9000028"
-        },
-        "id": 9000028
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "High Fly 2.0 C",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": true,
-                    "usedACH": 36,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 1,
-                    "name": "HFC",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": true,
-                    "usedACH": 1,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "9000029"
-        },
-        "id": 9000029
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "High Fly 2.0 C",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": true,
-                    "usedACH": 36,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "9000039"
-        },
-        "id": 9000039
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "Small Stars",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "Small stars 3.0 Book1",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "v3bk1",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": true,
-                    "usedACH": 36,
-                    "status": "current",
-                    "programVersionCode": "SSV3",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "1111"
-        },
-        "id": 1111
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "Traiblazers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "Trailblazers Book1",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "v3Bk1",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": true,
-                    "usedACH": 36,
-                    "status": "current",
-                    "programVersionCode": "TBV3",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "1112"
-        },
-        "id": 1112
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "Traiblazers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "Trailblazers Book1",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "v3Bk1",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": true,
-                    "usedACH": 36,
-                    "status": "current",
-                    "programVersionCode": "TBV3",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "1113"
-        },
-        "id": 1113
-    },
-    {
-        "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-        "customerId": "1064",
-        "data": {
-            "groups": [
-                {
-                    "program": "Frontrunner",
-                    "allSessions": [],
-                    "totalACH": 72,
-                    "name": "FRBK5",
-                    "leftACH": 144,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "5",
-                    "programLevelId": "100561",
-                    "isCurrentGroup": false,
-                    "usedACH": 0,
-                    "status": "current",
-                    "programVersionCode": "FRV1",
-                    "achPerLesson": 3,
-                    "id": "100084663",
-                    "cefrLevel": "B1.1"
-                },
-                {
-                    "program": "Frontrunner",
-                    "allSessions": [],
-                    "totalACH": 72,
-                    "name": "FRBK1",
-                    "leftACH": 144,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "1",
-                    "programLevelId": "100582",
-                    "isCurrentGroup": true,
-                    "usedACH": 0,
-                    "status": "current",
-                    "programVersionCode": "FRV1",
-                    "achPerLesson": 3,
-                    "id": "100084687",
-                    "cefrLevel": "A1"
-                },
-                {
-                    "program": "Frontrunner",
-                    "allSessions": [],
-                    "totalACH": 0,
-                    "name": "nametest",
-                    "leftACH": null,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "2",
-                    "programLevelId": "100583",
-                    "isCurrentGroup": null,
-                    "usedACH": 0,
-                    "status": "current",
-                    "programVersionCode": "FRV1",
-                    "achPerLesson": 3,
-                    "id": null,
-                    "cefrLevel": null
-                },
-                {
-                    "program": "Frontrunner",
-                    "allSessions": [],
-                    "totalACH": 75,
-                    "name": "Frontrunner 1.0 Book10",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "10",
-                    "programLevelId": "100566",
-                    "isCurrentGroup": false,
-                    "usedACH": 0,
-                    "status": "current",
-                    "programVersionCode": "FRV1",
-                    "achPerLesson": 3,
-                    "id": "10035"
-                },
-                {
-                    "program": "Frontrunner",
-                    "allSessions": [],
-                    "totalACH": 75,
-                    "name": "Frontrunner 1.0 Book9",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "9",
-                    "programLevelId": "100565",
-                    "isCurrentGroup": false,
-                    "usedACH": 0,
-                    "status": "current",
-                    "programVersionCode": "FRV1",
-                    "achPerLesson": 3,
-                    "id": "10034"
-                },
-                {
-                    "program": "Frontrunner",
-                    "allSessions": [],
-                    "totalACH": 75,
-                    "name": "Frontrunner 1.0 Book16",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "16",
-                    "programLevelId": "100572",
-                    "isCurrentGroup": false,
-                    "usedACH": 0,
-                    "status": "current",
-                    "programVersionCode": "FRV1",
-                    "achPerLesson": 3,
-                    "id": "10041"
-                }
-            ]
-        },
-        "id": 1064
-    },
-    {
-        "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-        "customerId": "9000031",
-        "data": {
-            "groups": [
-                {
-                    "program": "Frontrunner",
-                    "allSessions": [],
-                    "totalACH": 0,
-                    "name": null,
-                    "leftACH": null,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "2",
-                    "programLevelId": "100583",
-                    "isCurrentGroup": null,
-                    "usedACH": 0,
-                    "status": "past",
-                    "programVersionCode": "FRV1",
-                    "achPerLesson": 3,
-                    "id": null,
-                    "cefrLevel": null
-                },
-                {
-                    "program": "Frontrunner1111",
-                    "allSessions": [],
-                    "totalACH": 0,
-                    "name": null,
-                    "leftACH": null,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "2",
-                    "programLevelId": "100583",
-                    "isCurrentGroup": null,
-                    "usedACH": 0,
-                    "status": "past",
-                    "programVersionCode": "FRV1",
-                    "achPerLesson": 3,
-                    "id": null,
-                    "cefrLevel": null
-                }
-            ]
-        },
-        "id": 9000031
-    },
-    {
-        "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-        "customerId": "9000030",
-        "data": {
-            "groups": [
-                {
-                    "program": "Trailblazers",
-                    "allSessions": [],
-                    "totalACH": 78,
-                    "name": "TBBK1",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "1",
-                    "programLevelId": "100507",
-                    "isCurrentGroup": false,
-                    "usedACH": 72,
-                    "status": "past",
-                    "programVersionCode": "TBV3",
-                    "achPerLesson": 3,
-                    "id": "661202"
-                },
-                {
-                    "program": "Trailblazers",
-                    "allSessions": [],
-                    "totalACH": 81,
-                    "name": "TBBK3",
-                    "leftACH": 111,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "3",
-                    "programLevelId": "100509",
-                    "isCurrentGroup": false,
-                    "usedACH": 72,
-                    "status": "past",
-                    "programVersionCode": "TBV3",
-                    "achPerLesson": 3,
-                    "id": "699744"
-                },
-                {
-                    "program": "Trailblazers",
-                    "allSessions": [],
-                    "totalACH": 78,
-                    "name": "TBBK5",
-                    "leftACH": 111,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "2",
-                    "programLevelId": "100508",
-                    "isCurrentGroup": false,
-                    "usedACH": 3,
-                    "status": "past",
-                    "programVersionCode": "TBV3",
-                    "achPerLesson": 3,
-                    "id": "699664"
-                },
-                {
-                    "program": "Trailblazers",
-                    "allSessions": [],
-                    "totalACH": 72,
-                    "name": "TBBK5",
-                    "leftACH": 111,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "5",
-                    "programLevelId": "100511",
-                    "isCurrentGroup": true,
-                    "usedACH": 30,
-                    "status": "current",
-                    "programVersionCode": "TBV3",
-                    "achPerLesson": 3,
-                    "id": "100113553"
-                }
-            ]
-        },
-        "id": 9000030
-    },
-    {
-        "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-        "customerId": "9000032",
-        "data": {
-            "groups": [
-                {
-                    "program": "Frontrunner",
-                    "allSessions": [],
-                    "totalACH": 72,
-                    "name": "FRBK5",
-                    "leftACH": 144,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "5",
-                    "programLevelId": "100561",
-                    "isCurrentGroup": false,
-                    "usedACH": 0,
-                    "status": "current",
-                    "programVersionCode": "FRV1",
-                    "achPerLesson": 3,
-                    "id": "100084663",
-                    "cefrLevel": "B1.1"
-                }
-            ]
-        },
-        "id": 9000032
-    },
-    {
-        "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-        "customerId": "9000033",
-        "data": {
-            "groups": [
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 78,
-                    "name": "HFC2",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": true,
-                    "usedACH": 72,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": ""
-                }
-            ]
-        },
-        "id": 9000033
-    },
-    {
-        "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-        "customerId": "9000035",
-        "data": {
-            "groups": [
-                {
-                    "program": "Frontrunner",
-                    "allSessions": [],
-                    "totalACH": 72,
-                    "name": "FRBK5",
-                    "leftACH": 144,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "5",
-                    "programLevelId": "100561",
-                    "isCurrentGroup": false,
-                    "usedACH": 0,
-                    "status": "current",
-                    "programVersionCode": "FRV1",
-                    "achPerLesson": 3,
-                    "id": "100084663",
-                    "cefrLevel": "B1.1"
-                },
-                {
-                    "program": "Frontrunner",
-                    "allSessions": [],
-                    "totalACH": 72,
-                    "name": "FRBK5-ewewew-current",
-                    "leftACH": 144,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "5",
-                    "programLevelId": "100561",
-                    "isCurrentGroup": false,
-                    "usedACH": 0,
-                    "status": "past",
-                    "programVersionCode": "FRV1",
-                    "achPerLesson": 3,
-                    "id": "",
-                    "cefrLevel": "B1.1"
-                }
-            ]
-        },
-        "id": 9000035
-    },
-    {
-        "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-        "customerId": "9000034",
-        "data": {
-            "groups": [
-                {
-                    "program": "Trailblazers",
-                    "allSessions": [],
-                    "totalACH": 78,
-                    "name": "TBBK1",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "1",
-                    "programLevelId": "100507",
-                    "isCurrentGroup": false,
-                    "usedACH": 72,
-                    "status": "past",
-                    "programVersionCode": "TBV3",
-                    "achPerLesson": 3,
-                    "id": "661202"
-                },
-                {
-                    "program": "Trailblazers",
-                    "allSessions": [],
-                    "totalACH": 81,
-                    "name": "TBBK3",
-                    "leftACH": 111,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "3",
-                    "programLevelId": "100509",
-                    "isCurrentGroup": false,
-                    "usedACH": 72,
-                    "status": "past",
-                    "programVersionCode": "TBV3",
-                    "achPerLesson": 3,
-                    "id": "699744"
-                },
-                {
-                    "program": "Trailblazers",
-                    "allSessions": [],
-                    "totalACH": 78,
-                    "name": "TBBK5",
-                    "leftACH": 111,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "2",
-                    "programLevelId": "100508",
-                    "isCurrentGroup": false,
-                    "usedACH": 3,
-                    "status": "past",
-                    "programVersionCode": "TBV3",
-                    "achPerLesson": 3,
-                    "id": "699664"
-                },
-                {
-                    "program": "Trailblazers",
-                    "allSessions": [],
-                    "totalACH": 72,
-                    "name": "TBBK5",
-                    "leftACH": 111,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "5",
-                    "programLevelId": "100511",
-                    "isCurrentGroup": true,
-                    "usedACH": 30,
-                    "status": "current",
-                    "programVersionCode": "TBV3",
-                    "achPerLesson": 3,
-                    "id": "100113553"
-                }
-            ]
-        },
-        "id": 9000034
-    },
-    {
-        "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-        "customerId": "2001",
-        "data": {
-            "groups": [
-                {
-                    "program": "Small Stars",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "Small stars 3.0 Book1",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "v3bk1",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": true,
-                    "usedACH": 3,
-                    "status": "current",
-                    "programVersionCode": "SSV2",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ]
-        },
-        "id": 2001
-    },
-    {
-        "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-        "customerId": "1048",
-        "data": {
-            "groups": [
-                {
-                    "program": "Small Stars",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "Small stars 3.0 Book1",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "v3bk1",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": true,
-                    "usedACH": 3,
-                    "status": "current",
-                    "programVersionCode": "SSV3",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ]
-        },
-        "id": 1048
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "High Fly 2.0 C",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": true,
-                    "usedACH": 36,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "9000040"
-        },
-        "id": 9000040
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "High Fly 2.0 C",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": true,
-                    "usedACH": 36,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "9000041"
-        },
-        "id": 9000041
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "High Fly 3.0 C",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": true,
-                    "usedACH": 36,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonddsss.com.cn/Account/456dsfdf70366_mqyhgw.jpg",
-            "customerId": "9000043"
-        },
-        "id": 9000043
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "allSessions": [],
-                    "program": "High Flyers",
-                    "totalACH": 60,
-                    "name": "High Fly 3.0 C",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": true,
-                    "usedACH": 36,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonddsss.com.cn/Account/456dsfdf70366_mqyhgw.jpg",
-            "customerId": "9000044"
-        },
-        "id": 9000044
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "Small Stars",
-                    "allSessions": [],
-                    "totalACH": 103.5,
-                    "name": "SSV3 Sang Testing",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "1",
-                    "programLevelId": "100369",
-                    "isCurrentGroup": false,
-                    "usedACH": 102,
-                    "status": "past",
-                    "programVersionCode": "SSV3",
-                    "achPerLesson": 3,
-                    "id": "100082370"
-                },
-                {
-                    "program": "Small Stars",
-                    "allSessions": [],
-                    "totalACH": 106.5,
-                    "name": "SSblue-Vivian-\u00e5\u00bc\u20ac\u00e5\u00bf\u0192\u00e6\u017e\u0153",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "Blue",
-                    "programLevelId": "100362",
-                    "isCurrentGroup": false,
-                    "usedACH": 94.5,
-                    "status": "past",
-                    "programVersionCode": "SSV2",
-                    "achPerLesson": 3,
-                    "id": "100020868"
-                },
-                {
-                    "program": "Small Stars",
-                    "allSessions": [],
-                    "totalACH": 106.5,
-                    "name": "SSblue-Vivian-\u00e5\u00bc\u20ac\u00e5\u00bf\u0192\u00e6\u017e\u0153",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "Red",
-                    "programLevelId": "100362",
-                    "isCurrentGroup": false,
-                    "usedACH": 94.5,
-                    "status": "past",
-                    "programVersionCode": "SSV3",
-                    "achPerLesson": 3.5,
-                    "id": "100020869"
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "GroupTestCreateManyStudent04",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": false,
-                    "usedACH": 36,
-                    "status": "past",
-                    "programVersionCode": "HFV1",
-                    "achPerLesson": 3,
-                    "id": "100082182"
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "testgroup05",
-                    "leftACH": 40,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "I",
-                    "programLevelId": "100545",
-                    "isCurrentGroup": false,
-                    "usedACH": 0,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": "100084835"
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 0,
-                    "name": null,
-                    "leftACH": null,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "E",
-                    "programLevelId": "100546",
-                    "isCurrentGroup": false,
-                    "usedACH": 0,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 76.5,
-                    "name": "smoke pt HF 05",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "D",
-                    "programLevelId": "100547",
-                    "isCurrentGroup": true,
-                    "usedACH": 34.5,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": "100082298"
-                },
-                {
-                    "program": "Trailblazers",
-                    "allSessions": [],
-                    "totalACH": 62.5,
-                    "name": "TBv3-sang-test",
-                    "leftACH": 0,
-                    "timezone": "Asia/Baghdad",
-                    "programLevel": "1",
-                    "programLevelId": "100507",
-                    "isCurrentGroup": false,
-                    "usedACH": 62.5,
-                    "status": "past",
-                    "programVersionCode": "TBV3",
-                    "achPerLesson": 3,
-                    "id": "100082210"
-                },
-                {
-                    "program": "Trailblazers",
-                    "allSessions": [],
-                    "totalACH": 62.5,
-                    "name": "TBv3-sang-test",
-                    "leftACH": 0,
-                    "timezone": "Asia/Baghdad",
-                    "programLevel": "2",
-                    "programLevelId": "100508",
-                    "isCurrentGroup": false,
-                    "usedACH": 62.5,
-                    "status": "current",
-                    "programVersionCode": "TBV1",
-                    "achPerLesson": 3,
-                    "id": "100082211"
-                },
-                {
-                    "program": "Trailblazers",
-                    "allSessions": [],
-                    "totalACH": 62.5,
-                    "name": "TBv3-sang-test",
-                    "leftACH": 0,
-                    "timezone": "Asia/Baghdad",
-                    "programLevel": "3",
-                    "programLevelId": "100509",
-                    "isCurrentGroup": false,
-                    "usedACH": 62.5,
-                    "status": "future",
-                    "programVersionCode": "TBV2",
-                    "achPerLesson": 3,
-                    "id": "100082212"
-                },
-                {
-                    "program": "Trailblazers",
-                    "allSessions": [],
-                    "totalACH": 62.5,
-                    "name": "TBv3-sang-test",
-                    "leftACH": 0,
-                    "timezone": "Asia/Baghdad",
-                    "programLevel": "4",
-                    "programLevelId": "100509",
-                    "isCurrentGroup": false,
-                    "usedACH": 62.5,
-                    "status": "past",
-                    "programVersionCode": "TBV2",
-                    "achPerLesson": 3,
-                    "id": "100082212"
-                },
-                {
-                    "program": "Frontrunner",
-                    "allSessions": [],
-                    "totalACH": 72,
-                    "name": "FRBK1",
-                    "leftACH": 144,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "1",
-                    "programLevelId": "100582",
-                    "isCurrentGroup": false,
-                    "usedACH": 0,
-                    "status": "past",
-                    "programVersionCode": "FRV1",
-                    "achPerLesson": 5.6,
-                    "id": "100084687",
-                    "cefrLevel": "A1"
-                },
-                {
-                    "program": "Frontrunner",
-                    "allSessions": [],
-                    "totalACH": 0,
-                    "name": "nametest",
-                    "leftACH": null,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "2",
-                    "programLevelId": "100583",
-                    "isCurrentGroup": false,
-                    "usedACH": 0,
-                    "status": "current",
-                    "programVersionCode": null,
-                    "achPerLesson": 3,
-                    "id": null,
-                    "cefrLevel": null
-                },
-                {
-                    "program": "Frontrunner",
-                    "allSessions": [],
-                    "totalACH": 72,
-                    "name": "FRBK5",
-                    "leftACH": 144,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "5",
-                    "programLevelId": "100561",
-                    "isCurrentGroup": false,
-                    "usedACH": 0,
-                    "status": "future",
-                    "programVersionCode": "FRV1",
-                    "achPerLesson": null,
-                    "id": "100084663",
-                    "cefrLevel": "B1.1"
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "7000007"
-        },
-        "id": 7000007
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "GroupTestCreateManyStudent04",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": false,
-                    "usedACH": 36,
-                    "status": "past",
-                    "programVersionCode": "HFV2",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 0,
-                    "name": null,
-                    "leftACH": null,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "E",
-                    "programLevelId": "100546",
-                    "isCurrentGroup": true,
-                    "usedACH": 0,
-                    "status": "current",
-                    "programVersionCode": "HFV2",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "1002"
-        },
-        "id": 1002
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 60,
-                    "name": "GroupTestCreateManyStudent04",
-                    "leftACH": 0,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100544",
-                    "isCurrentGroup": false,
-                    "usedACH": 36,
-                    "status": "past",
-                    "programVersionCode": "HFV2",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 0,
-                    "name": null,
-                    "leftACH": null,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "E",
-                    "programLevelId": "100546",
-                    "isCurrentGroup": true,
-                    "usedACH": 0,
-                    "status": "current",
-                    "programVersionCode": "HFV2",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "39981176"
-        },
-        "id": 39981176
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 0,
-                    "name": null,
-                    "leftACH": null,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "C",
-                    "programLevelId": "100546",
-                    "isCurrentGroup": false,
-                    "usedACH": 0,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 0,
-                    "name": null,
-                    "leftACH": null,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "D",
-                    "programLevelId": "100546",
-                    "isCurrentGroup": false,
-                    "usedACH": 0,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 0,
-                    "name": null,
-                    "leftACH": null,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "G",
-                    "programLevelId": "100546",
-                    "isCurrentGroup": false,
-                    "usedACH": 0,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 0,
-                    "name": null,
-                    "leftACH": null,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "I",
-                    "programLevelId": "100546",
-                    "isCurrentGroup": true,
-                    "usedACH": 0,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "1070"
-        },
-        "id": 1070
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 0,
-                    "name": null,
-                    "leftACH": null,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "I",
-                    "programLevelId": "100546",
-                    "isCurrentGroup": true,
-                    "usedACH": 0,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "1071"
-        },
-        "id": 1071
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 0,
-                    "name": null,
-                    "leftACH": null,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "I",
-                    "programLevelId": "100546",
-                    "isCurrentGroup": true,
-                    "usedACH": 0,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "10750000"
-        },
-        "id": 10750000
-    },
-    {
-        "data": {
-            "groups": [
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 0,
-                    "name": null,
-                    "leftACH": null,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "I",
-                    "programLevelId": "100546",
-                    "isCurrentGroup": true,
-                    "usedACH": 0,
-                    "status": "current",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                },
-                {
-                    "program": "High Flyers",
-                    "allSessions": [],
-                    "totalACH": 0,
-                    "name": null,
-                    "leftACH": null,
-                    "timezone": "Asia/Shanghai",
-                    "programLevel": "D",
-                    "programLevelId": "100546",
-                    "isCurrentGroup": false,
-                    "usedACH": 0,
-                    "status": "past",
-                    "programVersionCode": "HFV3Plus",
-                    "achPerLesson": 3,
-                    "id": null
-                }
-            ],
-            "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-            "customerId": "1076"
-        },
-        "id": 1076
-    },
-    {
-    "data": {
-        "groups": [
-            {
-                "usedACH": 0,
-                "totalACH": 102,
-                "timezone": "Asia/Shanghai",
-                "status": "current",
-                "programVersionCode": "SSV3",
-                "programLevelId": "100372",
-                "programLevel": "4",
-                "program": "Small Stars",
-                "name": "Holiday Postpone Fridays BJ10",
-                "leftACH": 102,
-                "isCurrentGroup": false,
-                "id": "100147576",
-                "allSessions": null,
-                "achPerLesson": 1.5
-            },
-            {
-                "usedACH": 0,
-                "totalACH": 102,
-                "timezone": "Asia/Shanghai",
-                "status": "current",
-                "programVersionCode": "SSV3",
-                "programLevelId": "100372",
-                "programLevel": "4",
-                "program": "Small Stars",
-                "name": "Holiday New Postpone Fridays BJ10",
-                "leftACH": 102,
-                "isCurrentGroup": false,
-                "id": "100147577",
-                "allSessions": null,
-                "achPerLesson": 1.5
-            },
-            {
-                "usedACH": 0,
-                "totalACH": 102,
-                "timezone": "Asia/Shanghai",
-                "status": "current",
-                "programVersionCode": "SSV3",
-                "programLevelId": "100372",
-                "programLevel": "4",
-                "program": "Small Stars",
-                "name": "New Holiday Postpone Fridays BJ10",
-                "leftACH": 102,
-                "isCurrentGroup": false,
-                "id": "100147578",
-                "allSessions": null,
-                "achPerLesson": 1.5
-            },
-            {
-                "usedACH": 0,
-                "totalACH": 102,
-                "timezone": "Asia/Shanghai",
-                "status": "current",
-                "programVersionCode": "SSV3",
-                "programLevelId": "100372",
-                "programLevel": "4",
-                "program": "Small Stars",
-                "name": "Holiday Postpone Fridays BJ10 test",
-                "leftACH": 102,
-                "isCurrentGroup": true,
-                "id": "100148160",
-                "allSessions": null,
-                "achPerLesson": 1.5
-            },
-            {
-                "usedACH": 0,
-                "totalACH": 7.5,
-                "timezone": "Asia/Shanghai",
-                "status": "future",
-                "programVersionCode": "SSV3",
-                "programLevelId": "100372",
-                "programLevel": "4",
-                "program": "Small Stars",
-                "name": "ssv3bk4_1",
-                "leftACH": 102,
-                "isCurrentGroup": false,
-                "id": "100147939",
-                "allSessions": null,
-                "achPerLesson": 1.5
-            }
-        ],
-        "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-        "customerId": "1047"
-      },
-      "id": 1047
-    },
   {
     "data": {
-        "groups": [
-            {
-                "usedACH": 0,
-                "totalACH": 60,
-                "timezone": "Asia/Shanghai",
-                "status": "current",
-                "programVersionCode": "TBV3",
-                "programLevelId": "100508",
-                "programLevel": "2",
-                "program": "Trailblazers",
-                "name": "TBBK2-0302",
-                "leftACH": 457,
-                "isCurrentGroup": true,
-                "id": "100148116",
-                "allSessions": null,
-                "achPerLesson": 3
-            },
-            {
-                "usedACH": 0,
-                "totalACH": 60,
-                "timezone": "Asia/Shanghai",
-                "status": "future",
-                "programVersionCode": "TBV3",
-                "programLevelId": "100508",
-                "programLevel": "2",
-                "program": "Trailblazers",
-                "name": "TBBK2-0302",
-                "leftACH": 457,
-                "isCurrentGroup": false,
-                "id": "100148167",
-                "allSessions": null,
-                "achPerLesson": 3
-            },
-            {
-                "usedACH": 0,
-                "totalACH": 60,
-                "timezone": "Asia/Shanghai",
-                "status": "current",
-                "programVersionCode": "TBV3",
-                "programLevelId": "100508",
-                "programLevel": "2",
-                "program": "Trailblazers",
-                "name": "TBBK2-0302",
-                "leftACH": 457,
-                "isCurrentGroup": false,
-                "id": "100148168",
-                "allSessions": null,
-                "achPerLesson": 3
-            }
-        ],
-        "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-        "customerId": "1022"
-      },
-      "id": 1022
+      "groups": [
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 76.5,
+          "name": "smoke pt HF 05",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "F",
+          "programLevelId": "100547",
+          "isCurrentGroup": true,
+          "usedACH": 34.5,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": "100082298"
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "GroupTestCreateManyStudent04",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": false,
+          "usedACH": 36,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": "100082182"
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "testgroup05",
+          "leftACH": 40,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "D",
+          "programLevelId": "100545",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": "100084835"
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "E",
+          "programLevelId": "100546",
+          "isCurrentGroup": null,
+          "usedACH": 0,
+          "status": "future",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "GroupTestCreateManyStudent04",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "G",
+          "programLevelId": "100544",
+          "isCurrentGroup": false,
+          "usedACH": 36,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": "100082182"
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 76.5,
+          "name": "smoke pt HF 05",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "H",
+          "programLevelId": "100547",
+          "isCurrentGroup": null,
+          "usedACH": 34.5,
+          "status": "invalidStatus",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "9000001"
     },
-    {
+    "id": 9000001
+  },
+  {
     "data": {
-        "groups": [
-            {
-                "usedACH": 0,
-                "totalACH": 60,
-                "timezone": "Asia/Shanghai",
-                "status": "current",
-                "programVersionCode": "TBV3",
-                "programLevelId": "100508",
-                "programLevel": "2",
-                "program": "Trailblazers",
-                "name": "TBBK2-0302",
-                "leftACH": 457,
-                "isCurrentGroup": true,
-                "id": "100148116",
-                "allSessions": null,
-                "achPerLesson": 3
-            },
-            {
-                "usedACH": 0,
-                "totalACH": 60,
-                "timezone": "Asia/Shanghai",
-                "status": "future",
-                "programVersionCode": "TBV3",
-                "programLevelId": "100508",
-                "programLevel": "2",
-                "program": "Trailblazers",
-                "name": "TBBK2-0302",
-                "leftACH": 457,
-                "isCurrentGroup": false,
-                "id": "100148167",
-                "allSessions": null,
-                "achPerLesson": 3
-            },
-            {
-                "usedACH": 0,
-                "totalACH": 60,
-                "timezone": "Asia/Shanghai",
-                "status": "current",
-                "programVersionCode": "TBV3",
-                "programLevelId": "100508",
-                "programLevel": "2",
-                "program": "Trailblazers",
-                "name": "TBBK2-0302",
-                "leftACH": 457,
-                "isCurrentGroup": false,
-                "id": "100148168",
-                "allSessions": null,
-                "achPerLesson": 3
-            }
-        ],
-        "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
-        "customerId": "1023"
-      },
-      "id": 1023
-    }
+      "groups": [
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "GroupTestCreateManyStudent04",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": false,
+          "usedACH": 36,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "testgroup05",
+          "leftACH": 40,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "D",
+          "programLevelId": "100545",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "E",
+          "programLevelId": "100546",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 76.5,
+          "name": "smoke pt HF 05",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "F",
+          "programLevelId": "100547",
+          "isCurrentGroup": null,
+          "usedACH": 34.5,
+          "status": "future",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 76.5,
+          "name": "smoke pt HF 05",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "G",
+          "programLevelId": "100547",
+          "isCurrentGroup": null,
+          "usedACH": 34.5,
+          "status": "invalidStatus",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "9000002"
+    },
+    "id": 9000002
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "E",
+          "programLevelId": "100546",
+          "isCurrentGroup": null,
+          "usedACH": 0,
+          "status": "future",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 76.5,
+          "name": "smoke pt HF 05",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "F",
+          "programLevelId": "100547",
+          "isCurrentGroup": null,
+          "usedACH": 34.5,
+          "status": "future",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 76.5,
+          "name": "smoke pt HF 05",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "G",
+          "programLevelId": "100547",
+          "isCurrentGroup": null,
+          "usedACH": 34.5,
+          "status": "invalidStatus",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "9000003"
+    },
+    "id": 9000003
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "Trailblazers",
+          "allSessions": [],
+          "totalACH": 62.5,
+          "name": "TBv3-sang-test",
+          "leftACH": 0,
+          "timezone": "Asia/Baghdad",
+          "programLevel": "1",
+          "programLevelId": "100507",
+          "isCurrentGroup": false,
+          "usedACH": 62.5,
+          "status": "past",
+          "programVersionCode": "TBV3",
+          "achPerLesson": 3,
+          "id": "100082210"
+        },
+        {
+          "program": "Small Stars",
+          "allSessions": [],
+          "totalACH": 103.5,
+          "name": "SSV3 Sang Testing",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "1",
+          "programLevelId": "100369",
+          "isCurrentGroup": false,
+          "usedACH": 102,
+          "status": "current",
+          "programVersionCode": "SSV3",
+          "achPerLesson": 3,
+          "id": "100082370"
+        },
+        {
+          "program": "Small Stars",
+          "allSessions": [],
+          "totalACH": 106.5,
+          "name": "SSblue-Vivian-\u00e5\u00bc\u20ac\u00e5\u00bf\u0192\u00e6\u017e\u0153",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "Blue",
+          "programLevelId": "100362",
+          "isCurrentGroup": false,
+          "usedACH": 94.5,
+          "status": "current",
+          "programVersionCode": "SSV3",
+          "achPerLesson": 3,
+          "id": "100020868"
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "GroupTestCreateManyStudent04",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": false,
+          "usedACH": 36,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": "100082182"
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "testgroup05",
+          "leftACH": 40,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "D",
+          "programLevelId": "100545",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": "100084835"
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "E",
+          "programLevelId": "100546",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 76.5,
+          "name": "smoke pt HF 05",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "F",
+          "programLevelId": "100547",
+          "isCurrentGroup": true,
+          "usedACH": 34.5,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": "100082298"
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "9000004"
+    },
+    "id": 9000004
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "GroupTestCreateManyStudent04",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": false,
+          "usedACH": 36,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "testgroup05",
+          "leftACH": 40,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "D",
+          "programLevelId": "100545",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "E",
+          "programLevelId": "100546",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 76.5,
+          "name": "smoke pt HF 05",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "F",
+          "programLevelId": "100547",
+          "isCurrentGroup": null,
+          "usedACH": 34.5,
+          "status": "future",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "12221442"
+    },
+    "id": 12221442
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "Small Stars",
+          "allSessions": [],
+          "totalACH": 106.5,
+          "name": "SSblue-Vivian-\u00e5\u00bc\u20ac\u00e5\u00bf\u0192\u00e6\u017e\u0153",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "Blue",
+          "programLevelId": "100362",
+          "isCurrentGroup": true,
+          "usedACH": 94.5,
+          "status": "current",
+          "programVersionCode": "SSV2",
+          "achPerLesson": 3,
+          "id": "10009"
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "12071306"
+    },
+    "id": 1018
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "Small Stars",
+          "allSessions": [],
+          "totalACH": 106.5,
+          "name": "SSblue-Vivian-\u00e5\u00bc\u20ac\u00e5\u00bf\u0192\u00e6\u017e\u0153",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "Blue",
+          "programLevelId": "100362",
+          "isCurrentGroup": false,
+          "usedACH": 94.5,
+          "status": "current",
+          "programVersionCode": "SSV3",
+          "achPerLesson": 3,
+          "id": "100020868"
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "GroupTestCreateManyStudent04",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": false,
+          "usedACH": 36,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": "100082182"
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "testgroup05",
+          "leftACH": 40,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "D",
+          "programLevelId": "100545",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": "100084835"
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "H",
+          "programLevelId": "100546",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 76.5,
+          "name": "smoke pt HF 05",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "I",
+          "programLevelId": "100547",
+          "isCurrentGroup": true,
+          "usedACH": 34.5,
+          "status": "future",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": "100082298"
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "12071306"
+    },
+    "id": 12071306
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "GroupTestCreateManyStudent04",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": false,
+          "usedACH": 36,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "testgroup05",
+          "leftACH": 40,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "D",
+          "programLevelId": "100545",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "E",
+          "programLevelId": "100546",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 76.5,
+          "name": "smoke pt HF 05",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "F",
+          "programLevelId": "100547",
+          "isCurrentGroup": null,
+          "usedACH": 34.5,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 76.5,
+          "name": "smoke pt HF 05",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "G",
+          "programLevelId": "100547",
+          "isCurrentGroup": null,
+          "usedACH": 34.5,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 76.5,
+          "name": "smoke pt HF 05",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "H",
+          "programLevelId": "100547",
+          "isCurrentGroup": null,
+          "usedACH": 34.5,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 76.5,
+          "name": "smoke pt HF 05",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "I",
+          "programLevelId": "100547",
+          "isCurrentGroup": null,
+          "usedACH": 34.5,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 76.5,
+          "name": "smoke pt HF 05",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "J",
+          "programLevelId": "100547",
+          "isCurrentGroup": null,
+          "usedACH": 34.5,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "12224132"
+    },
+    "id": 12224132
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "GroupTestCreateManyStudent04",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": false,
+          "usedACH": 36,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "I",
+          "programLevelId": "100546",
+          "isCurrentGroup": true,
+          "usedACH": 0,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "9000020"
+    },
+    "id": 9000020
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "GroupTestCreateManyStudent04",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": true,
+          "usedACH": 36,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "12226032"
+    },
+    "id": 12226032
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "GroupTestCreateManyStudent04",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": true,
+          "usedACH": 36,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "9000039"
+    },
+    "id": 9000039
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "GroupTestCreateManyStudent04",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": false,
+          "usedACH": 36,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "I",
+          "programLevelId": "100546",
+          "isCurrentGroup": true,
+          "usedACH": 0,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "9000021"
+    },
+    "id": 9000021
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "GroupTestCreateManyStudent04",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": false,
+          "usedACH": 36,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "I",
+          "programLevelId": "100546",
+          "isCurrentGroup": true,
+          "usedACH": 0,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "9000022"
+    },
+    "id": 9000022
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "GroupTestCreateManyStudent04",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": true,
+          "usedACH": 36,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "D",
+          "programLevelId": "100546",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "9000023"
+    },
+    "id": 9000023
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "GroupTestCreateManyStudent04",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": true,
+          "usedACH": 36,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "D",
+          "programLevelId": "100546",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "9000024"
+    },
+    "id": 9000024
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "GroupTestCreateManyStudent04",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": true,
+          "usedACH": 36,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "E",
+          "programLevelId": "100546",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "Frontrunner",
+          "allSessions": [],
+          "totalACH": 72,
+          "name": "FRBK1",
+          "leftACH": 144,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "1",
+          "programLevelId": "100582",
+          "isCurrentGroup": true,
+          "usedACH": 0,
+          "status": "current",
+          "programVersionCode": "FRV1",
+          "achPerLesson": 3,
+          "id": "100084687",
+          "cefrLevel": "A1"
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "9000025"
+    },
+    "id": 9000025
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "High Fly 3.0 C",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": true,
+          "usedACH": 36,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "testgroup05",
+          "leftACH": 40,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "D",
+          "programLevelId": "100545",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "E",
+          "programLevelId": "100546",
+          "isCurrentGroup": null,
+          "usedACH": 0,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 76.5,
+          "name": "smoke pt HF 05",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "F",
+          "programLevelId": "100547",
+          "isCurrentGroup": null,
+          "usedACH": 34.5,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "Frontrunner",
+          "allSessions": [],
+          "totalACH": 72,
+          "name": "FRBK1",
+          "leftACH": 144,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "1",
+          "programLevelId": "100582",
+          "isCurrentGroup": true,
+          "usedACH": 0,
+          "status": "current",
+          "programVersionCode": "FRV1",
+          "achPerLesson": 3,
+          "id": "100084687",
+          "cefrLevel": "A1"
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "9000026"
+    },
+    "id": 9000026
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "High Fly 3.0 C",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": true,
+          "usedACH": 36,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "testgroup05",
+          "leftACH": 40,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "D",
+          "programLevelId": "100545",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "E",
+          "programLevelId": "100546",
+          "isCurrentGroup": null,
+          "usedACH": 0,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 76.5,
+          "name": "smoke pt HF 05",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "F",
+          "programLevelId": "100547",
+          "isCurrentGroup": null,
+          "usedACH": 34.5,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "9000027"
+    },
+    "id": 9000027
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "High Fly 2.0 C",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": true,
+          "usedACH": 36,
+          "status": "current",
+          "programVersionCode": "HFV2",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "1108"
+    },
+    "id": 1108
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "High Fly 2.0 C",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": true,
+          "usedACH": 36,
+          "status": "current",
+          "programVersionCode": "HFV2",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "1109"
+    },
+    "id": 1109
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "High Fly 2.0 C",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": true,
+          "usedACH": 36,
+          "status": "current",
+          "programVersionCode": "HFV2",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "1110"
+    },
+    "id": 1110
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "High Fly 2.0 C",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": true,
+          "usedACH": 36,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 2,
+          "name": "High Fly ccccc",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": true,
+          "usedACH": 2,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "High Flywewewewewe",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": true,
+          "usedACH": 36,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "9000028"
+    },
+    "id": 9000028
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "High Fly 2.0 C",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": true,
+          "usedACH": 36,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 1,
+          "name": "HFC",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": true,
+          "usedACH": 1,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "9000029"
+    },
+    "id": 9000029
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "High Fly 2.0 C",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": true,
+          "usedACH": 36,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "9000039"
+    },
+    "id": 9000039
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "Small Stars",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "Small stars 3.0 Book1",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "v3bk1",
+          "programLevelId": "100544",
+          "isCurrentGroup": true,
+          "usedACH": 36,
+          "status": "current",
+          "programVersionCode": "SSV3",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "1111"
+    },
+    "id": 1111
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "Traiblazers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "Trailblazers Book1",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "v3Bk1",
+          "programLevelId": "100544",
+          "isCurrentGroup": true,
+          "usedACH": 36,
+          "status": "current",
+          "programVersionCode": "TBV3",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "1112"
+    },
+    "id": 1112
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "Traiblazers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "Trailblazers Book1",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "v3Bk1",
+          "programLevelId": "100544",
+          "isCurrentGroup": true,
+          "usedACH": 36,
+          "status": "current",
+          "programVersionCode": "TBV3",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "1113"
+    },
+    "id": 1113
+  },
+  {
+    "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+    "customerId": "1064",
+    "data": {
+      "groups": [
+        {
+          "program": "Frontrunner",
+          "allSessions": [],
+          "totalACH": 72,
+          "name": "FRBK5",
+          "leftACH": 144,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "5",
+          "programLevelId": "100561",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "current",
+          "programVersionCode": "FRV1",
+          "achPerLesson": 3,
+          "id": "100084663",
+          "cefrLevel": "B1.1"
+        },
+        {
+          "program": "Frontrunner",
+          "allSessions": [],
+          "totalACH": 72,
+          "name": "FRBK1",
+          "leftACH": 144,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "1",
+          "programLevelId": "100582",
+          "isCurrentGroup": true,
+          "usedACH": 0,
+          "status": "current",
+          "programVersionCode": "FRV1",
+          "achPerLesson": 3,
+          "id": "100084687",
+          "cefrLevel": "A1"
+        },
+        {
+          "program": "Frontrunner",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": "nametest",
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "2",
+          "programLevelId": "100583",
+          "isCurrentGroup": null,
+          "usedACH": 0,
+          "status": "current",
+          "programVersionCode": "FRV1",
+          "achPerLesson": 3,
+          "id": null,
+          "cefrLevel": null
+        },
+        {
+          "program": "Frontrunner",
+          "allSessions": [],
+          "totalACH": 75,
+          "name": "Frontrunner 1.0 Book10",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "10",
+          "programLevelId": "100566",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "current",
+          "programVersionCode": "FRV1",
+          "achPerLesson": 3,
+          "id": "10035"
+        },
+        {
+          "program": "Frontrunner",
+          "allSessions": [],
+          "totalACH": 75,
+          "name": "Frontrunner 1.0 Book9",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "9",
+          "programLevelId": "100565",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "current",
+          "programVersionCode": "FRV1",
+          "achPerLesson": 3,
+          "id": "10034"
+        },
+        {
+          "program": "Frontrunner",
+          "allSessions": [],
+          "totalACH": 75,
+          "name": "Frontrunner 1.0 Book16",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "16",
+          "programLevelId": "100572",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "current",
+          "programVersionCode": "FRV1",
+          "achPerLesson": 3,
+          "id": "10041"
+        }
+      ]
+    },
+    "id": 1064
+  },
+  {
+    "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+    "customerId": "9000031",
+    "data": {
+      "groups": [
+        {
+          "program": "Frontrunner",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "2",
+          "programLevelId": "100583",
+          "isCurrentGroup": null,
+          "usedACH": 0,
+          "status": "past",
+          "programVersionCode": "FRV1",
+          "achPerLesson": 3,
+          "id": null,
+          "cefrLevel": null
+        },
+        {
+          "program": "Frontrunner1111",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "2",
+          "programLevelId": "100583",
+          "isCurrentGroup": null,
+          "usedACH": 0,
+          "status": "past",
+          "programVersionCode": "FRV1",
+          "achPerLesson": 3,
+          "id": null,
+          "cefrLevel": null
+        }
+      ]
+    },
+    "id": 9000031
+  },
+  {
+    "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+    "customerId": "9000030",
+    "data": {
+      "groups": [
+        {
+          "program": "Trailblazers",
+          "allSessions": [],
+          "totalACH": 78,
+          "name": "TBBK1",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "1",
+          "programLevelId": "100507",
+          "isCurrentGroup": false,
+          "usedACH": 72,
+          "status": "past",
+          "programVersionCode": "TBV3",
+          "achPerLesson": 3,
+          "id": "661202"
+        },
+        {
+          "program": "Trailblazers",
+          "allSessions": [],
+          "totalACH": 81,
+          "name": "TBBK3",
+          "leftACH": 111,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "3",
+          "programLevelId": "100509",
+          "isCurrentGroup": false,
+          "usedACH": 72,
+          "status": "past",
+          "programVersionCode": "TBV3",
+          "achPerLesson": 3,
+          "id": "699744"
+        },
+        {
+          "program": "Trailblazers",
+          "allSessions": [],
+          "totalACH": 78,
+          "name": "TBBK5",
+          "leftACH": 111,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "2",
+          "programLevelId": "100508",
+          "isCurrentGroup": false,
+          "usedACH": 3,
+          "status": "past",
+          "programVersionCode": "TBV3",
+          "achPerLesson": 3,
+          "id": "699664"
+        },
+        {
+          "program": "Trailblazers",
+          "allSessions": [],
+          "totalACH": 72,
+          "name": "TBBK5",
+          "leftACH": 111,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "5",
+          "programLevelId": "100511",
+          "isCurrentGroup": true,
+          "usedACH": 30,
+          "status": "current",
+          "programVersionCode": "TBV3",
+          "achPerLesson": 3,
+          "id": "100113553"
+        }
+      ]
+    },
+    "id": 9000030
+  },
+  {
+    "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+    "customerId": "9000032",
+    "data": {
+      "groups": [
+        {
+          "program": "Frontrunner",
+          "allSessions": [],
+          "totalACH": 72,
+          "name": "FRBK5",
+          "leftACH": 144,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "5",
+          "programLevelId": "100561",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "current",
+          "programVersionCode": "FRV1",
+          "achPerLesson": 3,
+          "id": "100084663",
+          "cefrLevel": "B1.1"
+        }
+      ]
+    },
+    "id": 9000032
+  },
+  {
+    "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+    "customerId": "9000033",
+    "data": {
+      "groups": [
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 78,
+          "name": "HFC2",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": true,
+          "usedACH": 72,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": ""
+        }
+      ]
+    },
+    "id": 9000033
+  },
+  {
+    "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+    "customerId": "9000035",
+    "data": {
+      "groups": [
+        {
+          "program": "Frontrunner",
+          "allSessions": [],
+          "totalACH": 72,
+          "name": "FRBK5",
+          "leftACH": 144,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "5",
+          "programLevelId": "100561",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "current",
+          "programVersionCode": "FRV1",
+          "achPerLesson": 3,
+          "id": "100084663",
+          "cefrLevel": "B1.1"
+        },
+        {
+          "program": "Frontrunner",
+          "allSessions": [],
+          "totalACH": 72,
+          "name": "FRBK5-ewewew-current",
+          "leftACH": 144,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "5",
+          "programLevelId": "100561",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "past",
+          "programVersionCode": "FRV1",
+          "achPerLesson": 3,
+          "id": "",
+          "cefrLevel": "B1.1"
+        }
+      ]
+    },
+    "id": 9000035
+  },
+  {
+    "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+    "customerId": "9000034",
+    "data": {
+      "groups": [
+        {
+          "program": "Trailblazers",
+          "allSessions": [],
+          "totalACH": 78,
+          "name": "TBBK1",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "1",
+          "programLevelId": "100507",
+          "isCurrentGroup": false,
+          "usedACH": 72,
+          "status": "past",
+          "programVersionCode": "TBV3",
+          "achPerLesson": 3,
+          "id": "661202"
+        },
+        {
+          "program": "Trailblazers",
+          "allSessions": [],
+          "totalACH": 81,
+          "name": "TBBK3",
+          "leftACH": 111,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "3",
+          "programLevelId": "100509",
+          "isCurrentGroup": false,
+          "usedACH": 72,
+          "status": "past",
+          "programVersionCode": "TBV3",
+          "achPerLesson": 3,
+          "id": "699744"
+        },
+        {
+          "program": "Trailblazers",
+          "allSessions": [],
+          "totalACH": 78,
+          "name": "TBBK5",
+          "leftACH": 111,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "2",
+          "programLevelId": "100508",
+          "isCurrentGroup": false,
+          "usedACH": 3,
+          "status": "past",
+          "programVersionCode": "TBV3",
+          "achPerLesson": 3,
+          "id": "699664"
+        },
+        {
+          "program": "Trailblazers",
+          "allSessions": [],
+          "totalACH": 72,
+          "name": "TBBK5",
+          "leftACH": 111,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "5",
+          "programLevelId": "100511",
+          "isCurrentGroup": true,
+          "usedACH": 30,
+          "status": "current",
+          "programVersionCode": "TBV3",
+          "achPerLesson": 3,
+          "id": "100113553"
+        }
+      ]
+    },
+    "id": 9000034
+  },
+  {
+    "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+    "customerId": "2001",
+    "data": {
+      "groups": [
+        {
+          "program": "Small Stars",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "Small stars 3.0 Book1",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "v3bk1",
+          "programLevelId": "100544",
+          "isCurrentGroup": true,
+          "usedACH": 3,
+          "status": "current",
+          "programVersionCode": "SSV2",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ]
+    },
+    "id": 2001
+  },
+  {
+    "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+    "customerId": "1048",
+    "data": {
+      "groups": [
+        {
+          "program": "Small Stars",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "Small stars 3.0 Book1",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "v3bk1",
+          "programLevelId": "100544",
+          "isCurrentGroup": true,
+          "usedACH": 3,
+          "status": "current",
+          "programVersionCode": "SSV3",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ]
+    },
+    "id": 1048
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "High Fly 2.0 C",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": true,
+          "usedACH": 36,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "9000040"
+    },
+    "id": 9000040
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "High Fly 2.0 C",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": true,
+          "usedACH": 36,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "9000041"
+    },
+    "id": 9000041
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "High Fly 3.0 C",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": true,
+          "usedACH": 36,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonddsss.com.cn/Account/456dsfdf70366_mqyhgw.jpg",
+      "customerId": "9000043"
+    },
+    "id": 9000043
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "allSessions": [],
+          "program": "High Flyers",
+          "totalACH": 60,
+          "name": "High Fly 3.0 C",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": true,
+          "usedACH": 36,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonddsss.com.cn/Account/456dsfdf70366_mqyhgw.jpg",
+      "customerId": "9000044"
+    },
+    "id": 9000044
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "Small Stars",
+          "allSessions": [],
+          "totalACH": 103.5,
+          "name": "SSV3 Sang Testing",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "1",
+          "programLevelId": "100369",
+          "isCurrentGroup": false,
+          "usedACH": 102,
+          "status": "past",
+          "programVersionCode": "SSV3",
+          "achPerLesson": 3,
+          "id": "100082370"
+        },
+        {
+          "program": "Small Stars",
+          "allSessions": [],
+          "totalACH": 106.5,
+          "name": "SSblue-Vivian-\u00e5\u00bc\u20ac\u00e5\u00bf\u0192\u00e6\u017e\u0153",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "Blue",
+          "programLevelId": "100362",
+          "isCurrentGroup": false,
+          "usedACH": 94.5,
+          "status": "past",
+          "programVersionCode": "SSV2",
+          "achPerLesson": 3,
+          "id": "100020868"
+        },
+        {
+          "program": "Small Stars",
+          "allSessions": [],
+          "totalACH": 106.5,
+          "name": "SSblue-Vivian-\u00e5\u00bc\u20ac\u00e5\u00bf\u0192\u00e6\u017e\u0153",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "Red",
+          "programLevelId": "100362",
+          "isCurrentGroup": false,
+          "usedACH": 94.5,
+          "status": "past",
+          "programVersionCode": "SSV3",
+          "achPerLesson": 3.5,
+          "id": "100020869"
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "GroupTestCreateManyStudent04",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": false,
+          "usedACH": 36,
+          "status": "past",
+          "programVersionCode": "HFV1",
+          "achPerLesson": 3,
+          "id": "100082182"
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "testgroup05",
+          "leftACH": 40,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "I",
+          "programLevelId": "100545",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": "100084835"
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "E",
+          "programLevelId": "100546",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 76.5,
+          "name": "smoke pt HF 05",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "D",
+          "programLevelId": "100547",
+          "isCurrentGroup": true,
+          "usedACH": 34.5,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": "100082298"
+        },
+        {
+          "program": "Trailblazers",
+          "allSessions": [],
+          "totalACH": 62.5,
+          "name": "TBv3-sang-test",
+          "leftACH": 0,
+          "timezone": "Asia/Baghdad",
+          "programLevel": "1",
+          "programLevelId": "100507",
+          "isCurrentGroup": false,
+          "usedACH": 62.5,
+          "status": "past",
+          "programVersionCode": "TBV3",
+          "achPerLesson": 3,
+          "id": "100082210"
+        },
+        {
+          "program": "Trailblazers",
+          "allSessions": [],
+          "totalACH": 62.5,
+          "name": "TBv3-sang-test",
+          "leftACH": 0,
+          "timezone": "Asia/Baghdad",
+          "programLevel": "2",
+          "programLevelId": "100508",
+          "isCurrentGroup": false,
+          "usedACH": 62.5,
+          "status": "current",
+          "programVersionCode": "TBV1",
+          "achPerLesson": 3,
+          "id": "100082211"
+        },
+        {
+          "program": "Trailblazers",
+          "allSessions": [],
+          "totalACH": 62.5,
+          "name": "TBv3-sang-test",
+          "leftACH": 0,
+          "timezone": "Asia/Baghdad",
+          "programLevel": "3",
+          "programLevelId": "100509",
+          "isCurrentGroup": false,
+          "usedACH": 62.5,
+          "status": "future",
+          "programVersionCode": "TBV2",
+          "achPerLesson": 3,
+          "id": "100082212"
+        },
+        {
+          "program": "Trailblazers",
+          "allSessions": [],
+          "totalACH": 62.5,
+          "name": "TBv3-sang-test",
+          "leftACH": 0,
+          "timezone": "Asia/Baghdad",
+          "programLevel": "4",
+          "programLevelId": "100509",
+          "isCurrentGroup": false,
+          "usedACH": 62.5,
+          "status": "past",
+          "programVersionCode": "TBV2",
+          "achPerLesson": 3,
+          "id": "100082212"
+        },
+        {
+          "program": "Frontrunner",
+          "allSessions": [],
+          "totalACH": 72,
+          "name": "FRBK1",
+          "leftACH": 144,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "1",
+          "programLevelId": "100582",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "past",
+          "programVersionCode": "FRV1",
+          "achPerLesson": 5.6,
+          "id": "100084687",
+          "cefrLevel": "A1"
+        },
+        {
+          "program": "Frontrunner",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": "nametest",
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "2",
+          "programLevelId": "100583",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "current",
+          "programVersionCode": null,
+          "achPerLesson": 3,
+          "id": null,
+          "cefrLevel": null
+        },
+        {
+          "program": "Frontrunner",
+          "allSessions": [],
+          "totalACH": 72,
+          "name": "FRBK5",
+          "leftACH": 144,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "5",
+          "programLevelId": "100561",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "future",
+          "programVersionCode": "FRV1",
+          "achPerLesson": null,
+          "id": "100084663",
+          "cefrLevel": "B1.1"
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "7000007"
+    },
+    "id": 7000007
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "GroupTestCreateManyStudent04",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": false,
+          "usedACH": 36,
+          "status": "past",
+          "programVersionCode": "HFV2",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "E",
+          "programLevelId": "100546",
+          "isCurrentGroup": true,
+          "usedACH": 0,
+          "status": "current",
+          "programVersionCode": "HFV2",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "1002"
+    },
+    "id": 1002
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 60,
+          "name": "GroupTestCreateManyStudent04",
+          "leftACH": 0,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100544",
+          "isCurrentGroup": false,
+          "usedACH": 36,
+          "status": "past",
+          "programVersionCode": "HFV2",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "E",
+          "programLevelId": "100546",
+          "isCurrentGroup": true,
+          "usedACH": 0,
+          "status": "current",
+          "programVersionCode": "HFV2",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "39981176"
+    },
+    "id": 39981176
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100546",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "D",
+          "programLevelId": "100546",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "E",
+          "programLevelId": "100546",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "F",
+          "programLevelId": "100546",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "G",
+          "programLevelId": "100546",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "H",
+          "programLevelId": "100546",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "I",
+          "programLevelId": "100546",
+          "isCurrentGroup": true,
+          "usedACH": 0,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "1070"
+    },
+    "id": 1070
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "C",
+          "programLevelId": "100546",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "D",
+          "programLevelId": "100546",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "E",
+          "programLevelId": "100546",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "F",
+          "programLevelId": "100546",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "G",
+          "programLevelId": "100546",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "H",
+          "programLevelId": "100546",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "I",
+          "programLevelId": "100546",
+          "isCurrentGroup": true,
+          "usedACH": 0,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "1071"
+    },
+    "id": 1071
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "I",
+          "programLevelId": "100546",
+          "isCurrentGroup": true,
+          "usedACH": 0,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "10750000"
+    },
+    "id": 10750000
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "I",
+          "programLevelId": "100546",
+          "isCurrentGroup": true,
+          "usedACH": 0,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "D",
+          "programLevelId": "100546",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "past",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "1076"
+    },
+    "id": 1076
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "usedACH": 0,
+          "totalACH": 102,
+          "timezone": "Asia/Shanghai",
+          "status": "current",
+          "programVersionCode": "SSV3",
+          "programLevelId": "100372",
+          "programLevel": "4",
+          "program": "Small Stars",
+          "name": "Holiday Postpone Fridays BJ10",
+          "leftACH": 102,
+          "isCurrentGroup": false,
+          "id": "100147576",
+          "allSessions": null,
+          "achPerLesson": 1.5
+        },
+        {
+          "usedACH": 0,
+          "totalACH": 102,
+          "timezone": "Asia/Shanghai",
+          "status": "current",
+          "programVersionCode": "SSV3",
+          "programLevelId": "100372",
+          "programLevel": "4",
+          "program": "Small Stars",
+          "name": "Holiday New Postpone Fridays BJ10",
+          "leftACH": 102,
+          "isCurrentGroup": false,
+          "id": "100147577",
+          "allSessions": null,
+          "achPerLesson": 1.5
+        },
+        {
+          "usedACH": 0,
+          "totalACH": 102,
+          "timezone": "Asia/Shanghai",
+          "status": "current",
+          "programVersionCode": "SSV3",
+          "programLevelId": "100372",
+          "programLevel": "4",
+          "program": "Small Stars",
+          "name": "New Holiday Postpone Fridays BJ10",
+          "leftACH": 102,
+          "isCurrentGroup": false,
+          "id": "100147578",
+          "allSessions": null,
+          "achPerLesson": 1.5
+        },
+        {
+          "usedACH": 0,
+          "totalACH": 102,
+          "timezone": "Asia/Shanghai",
+          "status": "current",
+          "programVersionCode": "SSV3",
+          "programLevelId": "100372",
+          "programLevel": "4",
+          "program": "Small Stars",
+          "name": "Holiday Postpone Fridays BJ10 test",
+          "leftACH": 102,
+          "isCurrentGroup": true,
+          "id": "100148160",
+          "allSessions": null,
+          "achPerLesson": 1.5
+        },
+        {
+          "usedACH": 0,
+          "totalACH": 7.5,
+          "timezone": "Asia/Shanghai",
+          "status": "future",
+          "programVersionCode": "SSV3",
+          "programLevelId": "100372",
+          "programLevel": "4",
+          "program": "Small Stars",
+          "name": "ssv3bk4_1",
+          "leftACH": 102,
+          "isCurrentGroup": false,
+          "id": "100147939",
+          "allSessions": null,
+          "achPerLesson": 1.5
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "1047"
+    },
+    "id": 1047
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "usedACH": 0,
+          "totalACH": 60,
+          "timezone": "Asia/Shanghai",
+          "status": "current",
+          "programVersionCode": "TBV3",
+          "programLevelId": "100508",
+          "programLevel": "2",
+          "program": "Trailblazers",
+          "name": "TBBK2-0302",
+          "leftACH": 457,
+          "isCurrentGroup": true,
+          "id": "100148116",
+          "allSessions": null,
+          "achPerLesson": 3
+        },
+        {
+          "usedACH": 0,
+          "totalACH": 60,
+          "timezone": "Asia/Shanghai",
+          "status": "future",
+          "programVersionCode": "TBV3",
+          "programLevelId": "100508",
+          "programLevel": "2",
+          "program": "Trailblazers",
+          "name": "TBBK2-0302",
+          "leftACH": 457,
+          "isCurrentGroup": false,
+          "id": "100148167",
+          "allSessions": null,
+          "achPerLesson": 3
+        },
+        {
+          "usedACH": 0,
+          "totalACH": 60,
+          "timezone": "Asia/Shanghai",
+          "status": "current",
+          "programVersionCode": "TBV3",
+          "programLevelId": "100508",
+          "programLevel": "2",
+          "program": "Trailblazers",
+          "name": "TBBK2-0302",
+          "leftACH": 457,
+          "isCurrentGroup": false,
+          "id": "100148168",
+          "allSessions": null,
+          "achPerLesson": 3
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "1022"
+    },
+    "id": 1022
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "usedACH": 0,
+          "totalACH": 60,
+          "timezone": "Asia/Shanghai",
+          "status": "current",
+          "programVersionCode": "TBV3",
+          "programLevelId": "100508",
+          "programLevel": "2",
+          "program": "Trailblazers",
+          "name": "TBBK2-0302",
+          "leftACH": 457,
+          "isCurrentGroup": true,
+          "id": "100148116",
+          "allSessions": null,
+          "achPerLesson": 3
+        },
+        {
+          "usedACH": 0,
+          "totalACH": 60,
+          "timezone": "Asia/Shanghai",
+          "status": "future",
+          "programVersionCode": "TBV3",
+          "programLevelId": "100508",
+          "programLevel": "2",
+          "program": "Trailblazers",
+          "name": "TBBK2-0302",
+          "leftACH": 457,
+          "isCurrentGroup": false,
+          "id": "100148167",
+          "allSessions": null,
+          "achPerLesson": 3
+        },
+        {
+          "usedACH": 0,
+          "totalACH": 60,
+          "timezone": "Asia/Shanghai",
+          "status": "current",
+          "programVersionCode": "TBV3",
+          "programLevelId": "100508",
+          "programLevel": "2",
+          "program": "Trailblazers",
+          "name": "TBBK2-0302",
+          "leftACH": 457,
+          "isCurrentGroup": false,
+          "id": "100148168",
+          "allSessions": null,
+          "achPerLesson": 3
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "1023"
+    },
+    "id": 1023
+  }
 ]
