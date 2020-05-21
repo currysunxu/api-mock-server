@@ -5,9 +5,9 @@ const queryString = require("query-string");
 const initRestapiServer = function(expressApp) {
   expressApp.post("/omni/apigateway/api/v1/sf/restapi", urlRewriteMiddleware);
   expressApp.use("/services/apexrest/v2/customer/:resourceName", router);
+  expressApp.use("/services/apexrest/customer/:resourceName", router);
   expressApp.use("/services/apexrest/:resourceName/:apiVersion", router);
   expressApp.use("/services/apexrest/:resourceName/:apiVersion/:subResourceName", router);
-
 };
 
 const urlRewriteMiddleware = function(req, res, next) {
