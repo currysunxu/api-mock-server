@@ -1,0 +1,47 @@
+[
+  {
+    "id": 101072214,
+    "data": {
+      "School": {
+        "Name": "SH9YP1",
+        "Code": "SHQ"
+      },
+      "ProgramLevel": "Storyteller",
+      "Program": "STV1",
+      "MainTeacher": {
+        "Name": "Toni Flake",
+        "Id": "18888888"
+      },
+      "IsCurrentGroup": false,
+      "GroupType": "City-Wide Classroom",
+      "GroupStatus": {
+        "Name": "Activated",
+        "Code": "A"
+      },
+      "GroupName": "Test Storyteller Online 001",
+      "GroupId": "100148105",
+      "GroupCode": "STV1Storyteller-1-60-A-290220-01",
+      "CustomerProductionStatus": {
+        "Name": "Activated",
+        "Code": "Activated"
+      },
+      "CourseTypeLevel": {
+        "Name": "Low",
+        "Code": "Low"
+      },
+      "CourseType": {
+        "Name": "SS",
+        "Code": "SS"
+      },
+      "CountryCode": "CN",
+      "CoTeacher": {
+        "Name": "Matthew Hobbs",
+        "Id": "10072471"
+      },
+      "AssignTo": {
+        "Name": "SH9Vincent ChenPA",
+        "Id": "256338"
+      }
+    }
+  }
+]
