@@ -2813,5 +2813,62 @@
       "customerId": "1023"
     },
     "id": 1023
+  },
+  {
+    "data": {
+      "groups": [
+        {
+          "program": "Trailblazers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "2",
+          "programLevelId": "100508",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "past",
+          "programVersionCode": "TBV3",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "Trailblazers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "3",
+          "programLevelId": "100508",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "past",
+          "programVersionCode": "TBV3",
+          "achPerLesson": 3,
+          "id": null
+        },
+        {
+          "program": "Trailblazers",
+          "allSessions": [],
+          "totalACH": 0,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "16",
+          "programLevelId": "100508",
+          "isCurrentGroup": false,
+          "usedACH": 0,
+          "status": "current",
+          "programVersionCode": "TBV3",
+          "achPerLesson": 3,
+          "id": null
+        }
+      ],
+      "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
+      "customerId": "1023"
+    },
+    "id": 1023
   }
 ]
