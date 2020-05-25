@@ -103,7 +103,7 @@
       "AccountName": "Account Guangzhouwu"
     }
   },
-    {
+  {
     "id": 1003,
     "data": {
       "CustomerID": 1003,
@@ -259,7 +259,7 @@
       "AccountName": "Account No Center"
     }
   },
-    {
+  {
     "id": 12224120,
     "data": {
       "CustomerID": 12224120,
@@ -272,8 +272,7 @@
       "AccountName": "Account No Center"
     }
   },
- ,
-    {
+  {
     "id": 9000005,
     "data": {
       "CustomerID": 9000005,
