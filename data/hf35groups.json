@@ -773,5 +773,45 @@
       "customerPhotoUrl": null,
       "customerId": "1064"
     }
+  },
+  {
+    "id": "7000007",
+    "data": {
+      "groups": [
+        {
+          "usedACH": 0,
+          "totalACH": 40,
+          "timezone": "Asia/Shanghai",
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "programLevelId": "100545",
+          "programLevel": "I",
+          "program": "High Flyers",
+          "name": "hf-3.5-test-new-course-map",
+          "leftACH": null,
+          "isCurrentGroup": false,
+          "id": "100190951",
+          "allSessions": [
+            {
+              "startTime": "2020-09-15T02:05:00.000Z",
+              "sessionType": "Online Classroom",
+              "sessionID": "117810315",
+              "sessionACH": 2,
+              "lessons": [
+                {
+                  "unit": 6,
+                  "lesson": 4
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            }
+          ],
+          "achPerLesson": 3
+        }
+      ],
+      "customerPhotoUrl": null,
+      "customerId": "7000007"
+    }
   }
 ]
