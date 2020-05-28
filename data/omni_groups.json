@@ -1,47 +1,175 @@
 [
   {
     "id": 39981176,
-    "data": {
-      "School": {
-        "Name": "SH9YP1",
-        "Code": "SHQ"
+    "data": [
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "Storyteller",
+        "Program": "STV1",
+        "MainTeacher": {
+          "Name": "Toni Flake",
+          "Id": "18888888"
+        },
+        "IsCurrentGroup": false,
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": {
+          "Name": "Activated",
+          "Code": "A"
+        },
+        "GroupName": "Test Storyteller Online 001",
+        "GroupId": "100148105",
+        "GroupCode": "STV1Storyteller-1-60-A-290220-01",
+        "CustomerProductionStatus": {
+          "Name": "Activated",
+          "Code": "Activated"
+        },
+        "CourseTypeLevel": {
+          "Name": "Low",
+          "Code": "Low"
+        },
+        "CourseType": {
+          "Name": "SS",
+          "Code": "SS"
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "Matthew Hobbs",
+          "Id": "10072471"
+        },
+        "AssignTo": {
+          "Name": "SH9Vincent ChenPA",
+          "Id": "256338"
+        }
       },
-      "ProgramLevel": "Storyteller",
-      "Program": "STV1",
-      "MainTeacher": {
-        "Name": "Toni Flake",
-        "Id": "18888888"
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "3",
+        "Program": "PHV1",
+        "MainTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "IsCurrentGroup": false,
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": {
+          "Name": "Pending",
+          "Code": "F"
+        },
+        "GroupName": "pho5_ss3",
+        "GroupId": "100148988",
+        "GroupCode": "PHV13-1-50-P-020520-02",
+        "CustomerProductionStatus": {
+          "Name": "Pending",
+          "Code": "Pending"
+        },
+        "CourseTypeLevel": {
+          "Name": null,
+          "Code": null
+        },
+        "CourseType": {
+          "Name": "SS",
+          "Code": "SS"
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "Erik Ogle",
+          "Id": "10072329"
+        },
+        "AssignTo": {
+          "Name": "Konnor Kenneweg",
+          "Id": "262931"
+        }
       },
-      "IsCurrentGroup": false,
-      "GroupType": "City-Wide Classroom",
-      "GroupStatus": {
-        "Name": "Activated",
-        "Code": "A"
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "2",
+        "Program": "PHV1",
+        "MainTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "IsCurrentGroup": false,
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": {
+          "Name": "Activated",
+          "Code": "A"
+        },
+        "GroupName": "pho4_ss3",
+        "GroupId": "100148987",
+        "GroupCode": "PHV12-1-50-A-060520-07",
+        "CustomerProductionStatus": {
+          "Name": "Activated",
+          "Code": "Activated"
+        },
+        "CourseTypeLevel": {
+          "Name": null,
+          "Code": null
+        },
+        "CourseType": {
+          "Name": "SS",
+          "Code": "SS"
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "Erik Ogle",
+          "Id": "10072329"
+        },
+        "AssignTo": {
+          "Name": "Priscilla Yang",
+          "Id": "10071044"
+        }
       },
-      "GroupName": "Test Storyteller Online 001",
-      "GroupId": "100148105",
-      "GroupCode": "STV1Storyteller-1-60-A-290220-01",
-      "CustomerProductionStatus": {
-        "Name": "Activated",
-        "Code": "Activated"
-      },
-      "CourseTypeLevel": {
-        "Name": "Low",
-        "Code": "Low"
-      },
-      "CourseType": {
-        "Name": "SS",
-        "Code": "SS"
-      },
-      "CountryCode": "CN",
-      "CoTeacher": {
-        "Name": "Matthew Hobbs",
-        "Id": "10072471"
-      },
-      "AssignTo": {
-        "Name": "SH9Vincent ChenPA",
-        "Id": "256338"
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "1",
+        "Program": "PHV1",
+        "MainTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "IsCurrentGroup": false,
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": {
+          "Name": "Completed",
+          "Code": "C"
+        },
+        "GroupName": "pho3_ss3",
+        "GroupId": "100148986",
+        "GroupCode": "PHV11-1-50-F-200520-07",
+        "CustomerProductionStatus": {
+          "Name": "Pending",
+          "Code": "Pending"
+        },
+        "CourseTypeLevel": {
+          "Name": null,
+          "Code": null
+        },
+        "CourseType": {
+          "Name": "SS",
+          "Code": "SS"
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "Erik Ogle",
+          "Id": "10072329"
+        },
+        "AssignTo": {
+          "Name": "Kortney Edwards",
+          "Id": "262428"
+        }
       }
-    }
+    ]
   }
 ]
