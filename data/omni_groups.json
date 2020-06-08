@@ -1,7 +1,49 @@
 [
   {
-    "id": 39981176,
+    "id": 1047,
     "data": [
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "1",
+        "Program": "SSV3",
+        "MainTeacher": {
+          "Name": "Erik Ogle",
+          "Id": "10072329"
+        },
+        "IsCurrentGroup": true,
+        "GroupType": "Classroom",
+        "GroupStatus": {
+          "Name": "Pending",
+          "Code": "F"
+        },
+        "GroupName": "ss1group",
+        "GroupId": "100148990",
+        "GroupCode": "SSV31-1-60-P-270520-01",
+        "CustomerProductionStatus": {
+          "Name": "Pending",
+          "Code": "Pending"
+        },
+        "CourseTypeLevel": {
+          "Name": "v3bk1",
+          "Code": "v3bk1"
+        },
+        "CourseType": {
+          "Name": "SS",
+          "Code": "SS"
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "Erik Ogle",
+          "Id": "10072329"
+        },
+        "AssignTo": {
+          "Name": "SZ2Ida ChenPA",
+          "Id": "8000006"
+        }
+      },
       {
         "School": {
           "Name": "SZ2FT2",
@@ -42,6 +84,90 @@
         "AssignTo": {
           "Name": "SH9Vincent ChenPA",
           "Id": "256338"
+        }
+      },
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "Storyteller 1",
+        "Program": "STV1",
+        "MainTeacher": {
+          "Name": "Jason Chen",
+          "Id": "10071797"
+        },
+        "IsCurrentGroup": false,
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": {
+          "Name": "Pending",
+          "Code": "F"
+        },
+        "GroupName": "storyteller_hf_04214",
+        "GroupId": "100148599",
+        "GroupCode": "STV1Storyteller 1-1-50-P-210420-08",
+        "CustomerProductionStatus": {
+          "Name": "Activated",
+          "Code": "Activated"
+        },
+        "CourseTypeLevel": {
+          "Name": "Low",
+          "Code": "Low"
+        },
+        "CourseType": {
+          "Name": "SS",
+          "Code": "SS"
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "Nicole",
+          "Id": "10073481"
+        },
+        "AssignTo": {
+          "Name": "LuoPA SH1Fino",
+          "Id": "10072060"
+        }
+      },
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "Storyteller 2",
+        "Program": "STV1",
+        "MainTeacher": {
+          "Name": "Jason Chen",
+          "Id": "10071797"
+        },
+        "IsCurrentGroup": false,
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": {
+          "Name": "Activated",
+          "Code": "A"
+        },
+        "GroupName": "storyteller_hf_0422",
+        "GroupId": "100148625",
+        "GroupCode": "STV1Storyteller 2-1-50-A-220420-01",
+        "CustomerProductionStatus": {
+          "Name": "Activated",
+          "Code": "Activated"
+        },
+        "CourseTypeLevel": {
+          "Name": "Intermediate",
+          "Code": "Intermediate"
+        },
+        "CourseType": {
+          "Name": "SS",
+          "Code": "SS"
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "Nicole",
+          "Id": "10073481"
+        },
+        "AssignTo": {
+          "Name": "LuoPA SH1Fino",
+          "Id": "10072060"
         }
       },
       {
@@ -168,6 +294,1170 @@
         "AssignTo": {
           "Name": "Kortney Edwards",
           "Id": "262428"
+        }
+      },
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "Grade6",
+        "Program": "GRTV1",
+        "MainTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "IsCurrentGroup": false,
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": {
+          "Name": "Pending",
+          "Code": "F"
+        },
+        "GroupName": "Grammar Tutor Grade6",
+        "GroupId": "100149002",
+        "GroupCode": "GRTV1Grade6-1-60-P-120520-04",
+        "CustomerProductionStatus": {
+          "Name": "Pending",
+          "Code": "Pending"
+        },
+        "CourseTypeLevel": {
+          "Name": null,
+          "Code": null
+        },
+        "CourseType": {
+          "Name": null,
+          "Code": null
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "AssignTo": {
+          "Name": "Benjamin Homer",
+          "Id": "134892"
+        }
+      },
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "Grade5",
+        "Program": "GRTV1",
+        "MainTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "IsCurrentGroup": false,
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": {
+          "Name": "Pending",
+          "Code": "F"
+        },
+        "GroupName": "Grammar Tutor Grade5",
+        "GroupId": "100149001",
+        "GroupCode": "GRTV1Grade5-1-60-P-120520-04",
+        "CustomerProductionStatus": {
+          "Name": "Pending",
+          "Code": "Pending"
+        },
+        "CourseTypeLevel": {
+          "Name": null,
+          "Code": null
+        },
+        "CourseType": {
+          "Name": null,
+          "Code": null
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "AssignTo": {
+          "Name": "Benjamin Homer",
+          "Id": "134892"
+        }
+      },
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "Grade4",
+        "Program": "GRTV1",
+        "MainTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "IsCurrentGroup": false,
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": {
+          "Name": "Pending",
+          "Code": "F"
+        },
+        "GroupName": "Grammar Tutor Grade4",
+        "GroupId": "100149053",
+        "GroupCode": "GRTV1Grade4-1-60-P-120520-04",
+        "CustomerProductionStatus": {
+          "Name": "Pending",
+          "Code": "Pending"
+        },
+        "CourseTypeLevel": {
+          "Name": null,
+          "Code": null
+        },
+        "CourseType": {
+          "Name": null,
+          "Code": null
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "AssignTo": {
+          "Name": "Benjamin Homer",
+          "Id": "134892"
+        }
+      },
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "Grade3",
+        "Program": "GRTV1",
+        "MainTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "IsCurrentGroup": false,
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": {
+          "Name": "Activated",
+          "Code": "F"
+        },
+        "GroupName": "Grammar Tutor Grade3",
+        "GroupId": "100149051",
+        "GroupCode": "GRTV1Grade3-1-60-P-020620-08",
+        "CustomerProductionStatus": {
+          "Name": "Activated",
+          "Code": "Activated"
+        },
+        "CourseTypeLevel": {
+          "Name": null,
+          "Code": null
+        },
+        "CourseType": {
+          "Name": null,
+          "Code": null
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "AssignTo": {
+          "Name": "Benjamin Kuipers",
+          "Id": "40051"
+        }
+      }
+    ]
+  },
+  {
+    "id": 9000043,
+    "data": [
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "C",
+        "Program": "HFV3Plus",
+        "MainTeacher": {
+          "Name": "Erik Ogle",
+          "Id": "10072329"
+        },
+        "IsCurrentGroup": true,
+        "GroupType": "Classroom",
+        "GroupStatus": {
+          "Name": "Pending",
+          "Code": "F"
+        },
+        "GroupName": "hf1group",
+        "GroupId": "100148995",
+        "GroupCode": "HFV3PlusC-1-120-P-200520-11",
+        "CustomerProductionStatus": {
+          "Name": "Pending",
+          "Code": "Pending"
+        },
+        "CourseTypeLevel": {
+          "Name": "C",
+          "Code": "C"
+        },
+        "CourseType": {
+          "Name": "HF",
+          "Code": "HF"
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "AssignTo": {
+          "Name": "SZ2Ida ChenPA",
+          "Id": "8000006"
+        }
+      },
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "2",
+        "Program": "PHV1",
+        "MainTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "IsCurrentGroup": false,
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": {
+          "Name": "Activated",
+          "Code": "A"
+        },
+        "GroupName": "pho2_ss3",
+        "GroupId": "100148980",
+        "GroupCode": "PHV12-1-50-A-130420-02",
+        "CustomerProductionStatus": {
+          "Name": "Activated",
+          "Code": "Activated"
+        },
+        "CourseTypeLevel": {
+          "Name": null,
+          "Code": null
+        },
+        "CourseType": {
+          "Name": "SS",
+          "Code": "SS"
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "Erik Ogle",
+          "Id": "10072329"
+        },
+        "AssignTo": {
+          "Name": "Iris Wei",
+          "Id": "10071945"
+        }
+      },
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "1",
+        "Program": "PHV1",
+        "MainTeacher": {
+          "Name": "Erik Ogle",
+          "Id": "10072329"
+        },
+        "IsCurrentGroup": false,
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": {
+          "Name": "Completed",
+          "Code": "C"
+        },
+        "GroupName": "pho1_ss1",
+        "GroupId": "100148976",
+        "GroupCode": "PHV11-1-50-F-010520-05",
+        "CustomerProductionStatus": {
+          "Name": "Pending",
+          "Code": "Pending"
+        },
+        "CourseTypeLevel": {
+          "Name": null,
+          "Code": null
+        },
+        "CourseType": {
+          "Name": "SS",
+          "Code": "SS"
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "AssignTo": {
+          "Name": "Konnor Kenneweg",
+          "Id": "262931"
+        }
+      },
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "Grade6",
+        "Program": "GRTV1",
+        "MainTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "IsCurrentGroup": false,
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": {
+          "Name": "Pending",
+          "Code": "F"
+        },
+        "GroupName": "Grammar Tutor Grade6",
+        "GroupId": "100149002",
+        "GroupCode": "GRTV1Grade6-1-60-P-120520-04",
+        "CustomerProductionStatus": {
+          "Name": "Pending",
+          "Code": "Pending"
+        },
+        "CourseTypeLevel": {
+          "Name": null,
+          "Code": null
+        },
+        "CourseType": {
+          "Name": null,
+          "Code": null
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "AssignTo": {
+          "Name": "Benjamin Homer",
+          "Id": "134892"
+        }
+      },
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "Grade5",
+        "Program": "GRTV1",
+        "MainTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "IsCurrentGroup": false,
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": {
+          "Name": "Pending",
+          "Code": "F"
+        },
+        "GroupName": "Grammar Tutor Grade5",
+        "GroupId": "100149001",
+        "GroupCode": "GRTV1Grade5-1-60-P-120520-04",
+        "CustomerProductionStatus": {
+          "Name": "Pending",
+          "Code": "Pending"
+        },
+        "CourseTypeLevel": {
+          "Name": null,
+          "Code": null
+        },
+        "CourseType": {
+          "Name": null,
+          "Code": null
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "AssignTo": {
+          "Name": "Benjamin Homer",
+          "Id": "134892"
+        }
+      },
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "Grade4",
+        "Program": "GRTV1",
+        "MainTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "IsCurrentGroup": false,
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": {
+          "Name": "Pending",
+          "Code": "F"
+        },
+        "GroupName": "Grammar Tutor Grade4",
+        "GroupId": "100149053",
+        "GroupCode": "GRTV1Grade4-1-60-P-120520-04",
+        "CustomerProductionStatus": {
+          "Name": "Pending",
+          "Code": "Pending"
+        },
+        "CourseTypeLevel": {
+          "Name": null,
+          "Code": null
+        },
+        "CourseType": {
+          "Name": null,
+          "Code": null
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "AssignTo": {
+          "Name": "Benjamin Homer",
+          "Id": "134892"
+        }
+      }
+    ]
+  },
+  {
+    "id": 1022,
+    "data": [
+      {
+        "School": {
+          "Name": "CN Omni Test",
+          "Code": "DCNTES01"
+        },
+        "ProgramLevel": "5",
+        "Program": "TBV3",
+        "MainTeacher": {
+          "Name": "Jasmine Xie",
+          "Id": "10000048"
+        },
+        "IsCurrentGroup": true,
+        "GroupType": "Classroom",
+        "GroupStatus": {
+          "Name": "Activated",
+          "Code": "A"
+        },
+        "GroupName": "Hell Classroom",
+        "GroupId": "100147814",
+        "GroupCode": "TBV35-3-0-A-311219-01",
+        "CustomerProductionStatus": {
+          "Name": "Activated",
+          "Code": "Activated"
+        },
+        "CourseTypeLevel": {
+          "Name": "v3Bk5",
+          "Code": "v3Bk5"
+        },
+        "CourseType": {
+          "Name": "TB",
+          "Code": "TB"
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "Chris Chan",
+          "Id": null
+        },
+        "AssignTo": {
+          "Name": "BJ10Cece YangPA",
+          "Id": "265866"
+        }
+      },
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "3",
+        "Program": "PHV1",
+        "MainTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "IsCurrentGroup": false,
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": {
+          "Name": "Pending",
+          "Code": "F"
+        },
+        "GroupName": "pho4_ss2",
+        "GroupId": "100148985",
+        "GroupCode": "PHV13-1-50-P-240520-01",
+        "CustomerProductionStatus": {
+          "Name": "Pending",
+          "Code": "Pending"
+        },
+        "CourseTypeLevel": {
+          "Name": null,
+          "Code": null
+        },
+        "CourseType": {
+          "Name": "SS",
+          "Code": "SS"
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "Erik Ogle",
+          "Id": "10072329"
+        },
+        "AssignTo": {
+          "Name": "Gareth Powell",
+          "Id": "44613"
+        }
+      },
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "2",
+        "Program": "PHV1",
+        "MainTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "IsCurrentGroup": false,
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": {
+          "Name": "Activated",
+          "Code": "A"
+        },
+        "GroupName": "pho3_ss2",
+        "GroupId": "100148984",
+        "GroupCode": "PHV12-1-50-A-120520-06",
+        "CustomerProductionStatus": {
+          "Name": "Activated",
+          "Code": "Activated"
+        },
+        "CourseTypeLevel": {
+          "Name": null,
+          "Code": null
+        },
+        "CourseType": {
+          "Name": "SS",
+          "Code": "SS"
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "Erik Ogle",
+          "Id": "10072329"
+        },
+        "AssignTo": {
+          "Name": "Iris Wei",
+          "Id": "10071945"
+        }
+      }
+    ]
+  },
+  {
+    "id": 1023,
+    "data": [
+      {
+        "School": {
+          "Name": "CN Omni Test",
+          "Code": "DCNTES01"
+        },
+        "ProgramLevel": "5",
+        "Program": "TBV3",
+        "MainTeacher": {
+          "Name": "Jasmine Xie",
+          "Id": "10000048"
+        },
+        "IsCurrentGroup": true,
+        "GroupType": "Classroom",
+        "GroupStatus": {
+          "Name": "Activated",
+          "Code": "A"
+        },
+        "GroupName": "Hell Classroom",
+        "GroupId": "100147814",
+        "GroupCode": "TBV35-3-0-A-311219-01",
+        "CustomerProductionStatus": {
+          "Name": "Activated",
+          "Code": "Activated"
+        },
+        "CourseTypeLevel": {
+          "Name": "v3Bk5",
+          "Code": "v3Bk5"
+        },
+        "CourseType": {
+          "Name": "TB",
+          "Code": "TB"
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "Chris Chan",
+          "Id": null
+        },
+        "AssignTo": {
+          "Name": "BJ10Cece YangPA",
+          "Id": "265866"
+        }
+      },
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "2",
+        "Program": "PHV1",
+        "MainTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "IsCurrentGroup": false,
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": {
+          "Name": "Pending",
+          "Code": "F"
+        },
+        "GroupName": "pho2_ss2",
+        "GroupId": "100148979",
+        "GroupCode": "PHV12-1-50-P-270420-01",
+        "CustomerProductionStatus": {
+          "Name": "Pending",
+          "Code": "Pending"
+        },
+        "CourseTypeLevel": {
+          "Name": null,
+          "Code": null
+        },
+        "CourseType": {
+          "Name": "SS",
+          "Code": "SS"
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "Erik Ogle",
+          "Id": "10072329"
+        },
+        "AssignTo": {
+          "Name": "Antonio Hodder",
+          "Id": "256564"
+        }
+      },
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "1",
+        "Program": "PHV1",
+        "MainTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "IsCurrentGroup": false,
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": {
+          "Name": "Completed",
+          "Code": "C"
+        },
+        "GroupName": "pho1_ss2",
+        "GroupId": "100148978",
+        "GroupCode": "PHV11-1-50-F-050220-06",
+        "CustomerProductionStatus": {
+          "Name": "Pending",
+          "Code": "Pending"
+        },
+        "CourseTypeLevel": {
+          "Name": null,
+          "Code": null
+        },
+        "CourseType": {
+          "Name": "SS",
+          "Code": "SS"
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "Erik Ogle",
+          "Id": "10072329"
+        },
+        "AssignTo": {
+          "Name": "Iris Wei",
+          "Id": "10071945"
+        }
+      }
+    ]
+  },
+  {
+    "id": 1024,
+    "data": [
+      {
+        "School": {
+          "Name": "CN Omni Test",
+          "Code": "DCNTES01"
+        },
+        "ProgramLevel": "5",
+        "Program": "TBV3",
+        "MainTeacher": {
+          "Name": "Jasmine Xie",
+          "Id": "10000048"
+        },
+        "IsCurrentGroup": true,
+        "GroupType": "Classroom",
+        "GroupStatus": {
+          "Name": "Activated",
+          "Code": "A"
+        },
+        "GroupName": "Hell Classroom",
+        "GroupId": "100147814",
+        "GroupCode": "TBV35-3-0-A-311219-01",
+        "CustomerProductionStatus": {
+          "Name": "Activated",
+          "Code": "Activated"
+        },
+        "CourseTypeLevel": {
+          "Name": "v3Bk5",
+          "Code": "v3Bk5"
+        },
+        "CourseType": {
+          "Name": "TB",
+          "Code": "TB"
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "Chris Chan",
+          "Id": null
+        },
+        "AssignTo": {
+          "Name": "BJ10Cece YangPA",
+          "Id": "265866"
+        }
+      },
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "2",
+        "Program": "PHV1",
+        "MainTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "IsCurrentGroup": false,
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": {
+          "Name": "Pending",
+          "Code": "F"
+        },
+        "GroupName": "pho2_hf01",
+        "GroupId": "100148981",
+        "GroupCode": "PHV12-1-50-P-170520-03",
+        "CustomerProductionStatus": {
+          "Name": "Pending",
+          "Code": "Pending"
+        },
+        "CourseTypeLevel": {
+          "Name": null,
+          "Code": null
+        },
+        "CourseType": {
+          "Name": "SS",
+          "Code": "SS"
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "Erik Ogle",
+          "Id": "10072329"
+        },
+        "AssignTo": {
+          "Name": "Konnor Kenneweg",
+          "Id": "262931"
+        }
+      },
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "1",
+        "Program": "PHV1",
+        "MainTeacher": {
+          "Name": "Erik Ogle",
+          "Id": "10072329"
+        },
+        "IsCurrentGroup": false,
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": {
+          "Name": "Pending",
+          "Code": "F"
+        },
+        "GroupName": "pho1_hf01",
+        "GroupId": "100148964",
+        "GroupCode": "PHV11-1-50-P-260515-03",
+        "CustomerProductionStatus": {
+          "Name": "Pending",
+          "Code": "Pending"
+        },
+        "CourseTypeLevel": {
+          "Name": null,
+          "Code": null
+        },
+        "CourseType": {
+          "Name": "SS",
+          "Code": "SS"
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "AssignTo": {
+          "Name": "Jerome Reyes",
+          "Id": "34655"
+        }
+      }
+    ]
+  },
+  {
+    "id": 1070,
+    "data": [
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "C",
+        "Program": "HFV3Plus",
+        "MainTeacher": {
+          "Name": "Erik Ogle",
+          "Id": "10072329"
+        },
+        "IsCurrentGroup": true,
+        "GroupType": "Classroom",
+        "GroupStatus": {
+          "Name": "Pending",
+          "Code": "F"
+        },
+        "GroupName": "hf1group",
+        "GroupId": "100148995",
+        "GroupCode": "HFV3PlusC-1-120-P-200520-11",
+        "CustomerProductionStatus": {
+          "Name": "Pending",
+          "Code": "Pending"
+        },
+        "CourseTypeLevel": {
+          "Name": "C",
+          "Code": "C"
+        },
+        "CourseType": {
+          "Name": "HF",
+          "Code": "HF"
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "AssignTo": {
+          "Name": "SZ2Ida ChenPA",
+          "Id": "8000006"
+        }
+      },
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "2",
+        "Program": "PHV1",
+        "MainTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "IsCurrentGroup": false,
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": {
+          "Name": "Completed",
+          "Code": "C"
+        },
+        "GroupName": "pho2_hf02",
+        "GroupId": "100148982",
+        "GroupCode": "PHV12-1-50-F-230520-04",
+        "CustomerProductionStatus": {
+          "Name": "Pending",
+          "Code": "Pending"
+        },
+        "CourseTypeLevel": {
+          "Name": null,
+          "Code": null
+        },
+        "CourseType": {
+          "Name": "SS",
+          "Code": "SS"
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "Erik Ogle",
+          "Id": "10072329"
+        },
+        "AssignTo": {
+          "Name": "Iris Wei",
+          "Id": "10071945"
+        }
+      },
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "1",
+        "Program": "PHV1",
+        "MainTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "IsCurrentGroup": false,
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": {
+          "Name": "Completed",
+          "Code": "C"
+        },
+        "GroupName": "pho1_hf02",
+        "GroupId": "100148965",
+        "GroupCode": "PHV11-1-50-F-260516-01",
+        "CustomerProductionStatus": {
+          "Name": "Pending",
+          "Code": "Pending"
+        },
+        "CourseTypeLevel": {
+          "Name": null,
+          "Code": null
+        },
+        "CourseType": {
+          "Name": "SS",
+          "Code": "SS"
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "Erik Ogle",
+          "Id": "10072329"
+        },
+        "AssignTo": {
+          "Name": "Christopher",
+          "Id": "135563"
+        }
+      }
+    ]
+  },
+  {
+    "id": 1002,
+    "data": [
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "C",
+        "Program": "HFV3Plus",
+        "MainTeacher": {
+          "Name": "Erik Ogle",
+          "Id": "10072329"
+        },
+        "IsCurrentGroup": true,
+        "GroupType": "Classroom",
+        "GroupStatus": {
+          "Name": "Pending",
+          "Code": "F"
+        },
+        "GroupName": "hf1group",
+        "GroupId": "100148995",
+        "GroupCode": "HFV3PlusC-1-120-P-200520-11",
+        "CustomerProductionStatus": {
+          "Name": "Pending",
+          "Code": "Pending"
+        },
+        "CourseTypeLevel": {
+          "Name": "C",
+          "Code": "C"
+        },
+        "CourseType": {
+          "Name": "HF",
+          "Code": "HF"
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "AssignTo": {
+          "Name": "SZ2Ida ChenPA",
+          "Id": "8000006"
+        }
+      },
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "2",
+        "Program": "PHV1",
+        "MainTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "IsCurrentGroup": false,
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": {
+          "Name": "Activated",
+          "Code": "A"
+        },
+        "GroupName": "pho2_hf03",
+        "GroupId": "100148983",
+        "GroupCode": "PHV12-1-50-A-220520-05",
+        "CustomerProductionStatus": {
+          "Name": "Activated",
+          "Code": "Activated"
+        },
+        "CourseTypeLevel": {
+          "Name": null,
+          "Code": null
+        },
+        "CourseType": {
+          "Name": "SS",
+          "Code": "SS"
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "Erik Ogle",
+          "Id": "10072329"
+        },
+        "AssignTo": {
+          "Name": "Gareth Powell",
+          "Id": "44613"
+        }
+      },
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "1",
+        "Program": "PHV1",
+        "MainTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "IsCurrentGroup": false,
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": {
+          "Name": "Activated",
+          "Code": "A"
+        },
+        "GroupName": "pho1_hf03",
+        "GroupId": "100148966",
+        "GroupCode": "PHV11-1-50-A-260515-04",
+        "CustomerProductionStatus": {
+          "Name": "Activated",
+          "Code": "Activated"
+        },
+        "CourseTypeLevel": {
+          "Name": null,
+          "Code": null
+        },
+        "CourseType": {
+          "Name": "SS",
+          "Code": "SS"
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "Erik Ogle",
+          "Id": "10072329"
+        },
+        "AssignTo": {
+          "Name": "Caitlin Rodger",
+          "Id": "10073679"
+        }
+      },
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "Grade4",
+        "Program": "GRTV1",
+        "MainTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "IsCurrentGroup": false,
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": {
+          "Name": "Pending",
+          "Code": "F"
+        },
+        "GroupName": "Grammar Tutor Grade4",
+        "GroupId": "100149053",
+        "GroupCode": "GRTV1Grade4-1-60-P-120520-04",
+        "CustomerProductionStatus": {
+          "Name": "Pending",
+          "Code": "Pending"
+        },
+        "CourseTypeLevel": {
+          "Name": null,
+          "Code": null
+        },
+        "CourseType": {
+          "Name": null,
+          "Code": null
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "AssignTo": {
+          "Name": "Benjamin Homer",
+          "Id": "134892"
+        }
+      },
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "Grade3",
+        "Program": "GRTV1",
+        "MainTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "IsCurrentGroup": false,
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": {
+          "Name": "Pending",
+          "Code": "F"
+        },
+        "GroupName": "Grammar Tutor Grade3",
+        "GroupId": "100149051",
+        "GroupCode": "GRTV1Grade3-1-60-P-020620-08",
+        "CustomerProductionStatus": {
+          "Name": "Pending",
+          "Code": "Pending"
+        },
+        "CourseTypeLevel": {
+          "Name": null,
+          "Code": null
+        },
+        "CourseType": {
+          "Name": null,
+          "Code": null
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "AssignTo": {
+          "Name": "Benjamin Kuipers",
+          "Id": "40051"
         }
       }
     ]
