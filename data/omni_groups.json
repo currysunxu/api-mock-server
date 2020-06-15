@@ -1459,6 +1459,174 @@
           "Name": "Benjamin Kuipers",
           "Id": "40051"
         }
+      },
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "Grade6",
+        "Program": "GRTV1",
+        "MainTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "IsCurrentGroup": false,
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": {
+          "Name": "Pending",
+          "Code": "F"
+        },
+        "GroupName": "Grammar Tutor Grade6",
+        "GroupId": "100149060",
+        "GroupCode": "GRTV1Grade6-1-60-P-120520-04",
+        "CustomerProductionStatus": {
+          "Name": "Pending",
+          "Code": "Pending"
+        },
+        "CourseTypeLevel": {
+          "Name": null,
+          "Code": null
+        },
+        "CourseType": {
+          "Name": null,
+          "Code": null
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "AssignTo": {
+          "Name": "Benjamin Homer",
+          "Id": "134892"
+        }
+      },
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "Grade5",
+        "Program": "GRTV1",
+        "MainTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "IsCurrentGroup": false,
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": {
+          "Name": "Pending",
+          "Code": "F"
+        },
+        "GroupName": "Grammar Tutor Grade5",
+        "GroupId": "100149060",
+        "GroupCode": "GRTV1Grade5-1-60-P-120520-04",
+        "CustomerProductionStatus": {
+          "Name": "Pending",
+          "Code": "Pending"
+        },
+        "CourseTypeLevel": {
+          "Name": null,
+          "Code": null
+        },
+        "CourseType": {
+          "Name": null,
+          "Code": null
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "AssignTo": {
+          "Name": "Benjamin Homer",
+          "Id": "134892"
+        }
+      },
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "Grade4",
+        "Program": "GRTV1",
+        "MainTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "IsCurrentGroup": false,
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": {
+          "Name": "Pending",
+          "Code": "F"
+        },
+        "GroupName": "Grammar Tutor Grade4",
+        "GroupId": "100149053",
+        "GroupCode": "GRTV1Grade4-1-60-P-120520-04",
+        "CustomerProductionStatus": {
+          "Name": "Pending",
+          "Code": "Pending"
+        },
+        "CourseTypeLevel": {
+          "Name": null,
+          "Code": null
+        },
+        "CourseType": {
+          "Name": null,
+          "Code": null
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "AssignTo": {
+          "Name": "Benjamin Homer",
+          "Id": "134892"
+        }
+      },
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "Grade3",
+        "Program": "GRTV1",
+        "MainTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "IsCurrentGroup": false,
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": {
+          "Name": "Pending",
+          "Code": "F"
+        },
+        "GroupName": "Grammar Tutor Grade3",
+        "GroupId": "100149051",
+        "GroupCode": "GRTV1Grade3-1-60-P-020620-08",
+        "CustomerProductionStatus": {
+          "Name": "Pending",
+          "Code": "Pending"
+        },
+        "CourseTypeLevel": {
+          "Name": null,
+          "Code": null
+        },
+        "CourseType": {
+          "Name": null,
+          "Code": null
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "AssignTo": {
+          "Name": "Benjamin Kuipers",
+          "Id": "40051"
+        }
       }
     ]
   }
