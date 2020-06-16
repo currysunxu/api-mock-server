@@ -1339,48 +1339,6 @@
           "Name": "SZ2FT2",
           "Code": "SZH"
         },
-        "ProgramLevel": "1",
-        "Program": "PHV1",
-        "MainTeacher": {
-          "Name": "David Telfer",
-          "Id": "10073631"
-        },
-        "IsCurrentGroup": false,
-        "GroupType": "City-Wide Classroom",
-        "GroupStatus": {
-          "Name": "Activated",
-          "Code": "A"
-        },
-        "GroupName": "pho1_hf03",
-        "GroupId": "100148966",
-        "GroupCode": "PHV11-1-50-A-260515-04",
-        "CustomerProductionStatus": {
-          "Name": "Activated",
-          "Code": "Activated"
-        },
-        "CourseTypeLevel": {
-          "Name": null,
-          "Code": null
-        },
-        "CourseType": {
-          "Name": "SS",
-          "Code": "SS"
-        },
-        "CountryCode": "CN",
-        "CoTeacher": {
-          "Name": "Erik Ogle",
-          "Id": "10072329"
-        },
-        "AssignTo": {
-          "Name": "Caitlin Rodger",
-          "Id": "10073679"
-        }
-      },
-      {
-        "School": {
-          "Name": "SZ2FT2",
-          "Code": "SZH"
-        },
         "ProgramLevel": "Grade4",
         "Program": "GRTV1",
         "MainTeacher": {
