@@ -1,6 +1,7 @@
 'use strict'
 
 const utils = require('./utils')
+const jwt_decode = require('jwt-decode');
 
 module.exports = {
   supportAuth: function(req, res, next) {
@@ -38,7 +39,17 @@ module.exports = {
       console.log(req.url)
     }
 
-    // Contiue to JSON server router
+    // Get omni user group sessions
+    if (req.method == 'GET' && req.url == ('/groupsessions')) {
+      // console.log("headers = " + JSON.stringify(req.headers))
+      var idToken = req.headers['x-ef-token']
+      var userInfo = jwt_decode(idToken);
+      // Replace req.method to GET and req.url
+      req.url = '/groupsessions/' + userInfo.sub
+      console.log(req.url)
+    }
+
+    // Continue to JSON server router
     next()
   }
 }

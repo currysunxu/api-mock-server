@@ -18,4 +18,5 @@ module.exports = {
   "/omni/apigateway/api/v1/customer/:id/onlinegroupsessions": "/onlinegroupsessions/:id",
   "/omni/apigateway/api/v1.1/customer/:id": "/student-businessline/:id",
   "/omni/apigateway/api/v1/ksd/customer/:id/bookablegroup": "/bookablegroup/:id",
+  "/omni/apigateway/api/v1/customer/group/sessions": "/groupsessions"
 }
