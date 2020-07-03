@@ -42,6 +42,7 @@ POST /api/v1/ilab/checkphone | data/phones.json
 POST /api/v1/ilab/register | data/registeredphones.json
 GET /api/v1/customer/{customerId}/groups | data/groups.json
 GET /api/v1.1/customer/{customerId} | student-businessline.json
+GET /api/v1/customer/group/sessions | groupsessions.json
 
 ## Deployment
 
