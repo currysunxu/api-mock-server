@@ -26,6 +26,19 @@
     }
   },
   {
+    "id": 1018,
+    "data": {
+      "CustomerID": 1018,
+      "firstName": "ss2.cn.02",
+      "lastName": "test",
+      "Grade": "Pre-Kindergarten",
+      "country_code": "CN",
+      "center_codes": "GZ1YX1",
+      "Birthday": "2018-01-12",
+      "AccountName": "ss2.cn02"
+    }
+  },
+  {
     "id": 1022,
     "data": {
       "CustomerID": 1022,
