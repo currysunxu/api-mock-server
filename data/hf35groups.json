@@ -342,6 +342,21 @@
       "groups": [
         {
           "usedACH": 0,
+          "totalACH": 75,
+          "timezone": "(GMT+08:00) China Standard Time (Asia/Shanghai)",
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "programLevelId": "100545",
+          "programLevel": "D",
+          "program": "High Flyers",
+          "name": "hf-3.5-test-new-course-map",
+          "leftACH": 0,
+          "isCurrentGroup": false,
+          "id": "10002",
+          "achPerLesson": 3
+        },
+        {
+          "usedACH": 0,
           "totalACH": 40,
           "timezone": "Asia/Shanghai",
           "status": "current",
@@ -382,6 +397,21 @@
       "groups": [
         {
           "usedACH": 0,
+          "totalACH": 75,
+          "timezone": "(GMT+08:00) China Standard Time (Asia/Shanghai)",
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "programLevelId": "100545",
+          "programLevel": "D",
+          "program": "High Flyers",
+          "name": "hf-3.5-test-new-course-map",
+          "leftACH": 0,
+          "isCurrentGroup": false,
+          "id": "10002",
+          "achPerLesson": 3
+        },
+        {
+          "usedACH": 0,
           "totalACH": 40,
           "timezone": "Asia/Shanghai",
           "status": "current",
@@ -420,6 +450,21 @@
     "id": "1076",
     "data": {
       "groups": [
+        {
+          "usedACH": 0,
+          "totalACH": 75,
+          "timezone": "(GMT+08:00) China Standard Time (Asia/Shanghai)",
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "programLevelId": "100545",
+          "programLevel": "D",
+          "program": "High Flyers",
+          "name": "hf-3.5-test-new-course-map",
+          "leftACH": 0,
+          "isCurrentGroup": false,
+          "id": "10002",
+          "achPerLesson": 3
+        },
         {
           "usedACH": 0,
           "totalACH": 40,
@@ -778,6 +823,21 @@
     "id": "7000007",
     "data": {
       "groups": [
+        {
+          "usedACH": 0,
+          "totalACH": 75,
+          "timezone": "(GMT+08:00) China Standard Time (Asia/Shanghai)",
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "programLevelId": "100545",
+          "programLevel": "D",
+          "program": "High Flyers",
+          "name": "hf-3.5-test-new-course-map",
+          "leftACH": 0,
+          "isCurrentGroup": false,
+          "id": "10002",
+          "achPerLesson": 3
+        },
         {
           "usedACH": 0,
           "totalACH": 40,
