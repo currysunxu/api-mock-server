@@ -22,9 +22,6 @@ module.exports = function(req, res) {
       list = list.filter(i => i.id == req.query.customerId).map(i => i.data);
       res.status(200).json(constructResponse(list, true, null));
       break;
-    case "POST":
-      res.status(200).json(constructResponse(null, true, null));
-      break;
     default:
       res.status(500).text("not supported http verb");
       break;
