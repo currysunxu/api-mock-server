@@ -12,7 +12,7 @@ module.exports = function(req, res) {
   switch (req.method) {
     case "GET":
       list = list.filter(i => i.id == req.query.customerId).map(i => i.data);
-      res.status(200).json(list);
+      res.status(200).json(list.length?list[0]:[]);
       break;
     default:
       res.status(500).text("not supported http verb");
