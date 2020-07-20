@@ -2,14 +2,6 @@
 
 const dbGen = require("./../data");
 
-const constructResponse = function(entityList, success, errorMsg) {
-  return {
-    isSuccess: success,
-    ResponseDatas: entityList,
-    errorMsg: errorMsg
-  };
-};
-
 module.exports = function(req, res) {
   console.log(req.params)
   console.log(req.query)
@@ -20,7 +12,7 @@ module.exports = function(req, res) {
   switch (req.method) {
     case "GET":
       list = list.filter(i => i.id == req.query.customerId).map(i => i.data);
-      res.status(200).json(constructResponse(list, true, null));
+      res.status(200).json(list);
       break;
     default:
       res.status(500).text("not supported http verb");
