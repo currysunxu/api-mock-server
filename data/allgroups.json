@@ -455,5 +455,76 @@
                 "ContentPath":null
             }
         ]
+    },
+    {
+        "id":1071,
+        "data":[
+          {
+                "StartDate":"2019-01-07",
+                "ProgramLevel":"4",
+                "Program":"SSV3",
+                "GroupType":"Classroom",
+                "GroupStatus":"Activated",
+                "GroupNumber":"100148729",
+                "GroupId":"a0B6D000005CKWSUA5",
+                "EndDate":"2019-09-06",
+                "CustomerProductionStatus":"Activated",
+                "CountryCode":"CN",
+                "ContentPath":"SmallStars/cn-3/book-1"
+            },
+            {
+                "StartDate":"2020-09-07",
+                "ProgramLevel":"C",
+                "Program":"HFV3Plus",
+                "GroupType":"Classroom",
+                "GroupStatus":"Pending",
+                "GroupNumber":"100148729",
+                "GroupId":"a0B6D000005CKWSUA4",
+                "EndDate":"2021-05-08",
+                "CustomerProductionStatus":"Activated",
+                "CountryCode":"CN",
+                "ContentPath":"highflyers/cn-3/book-1"
+            },
+            {
+                "StartDate":null,
+                "ProgramLevel":"C",
+                "Program":"HFV3Plus",
+                "GroupType":"Online Classroom",
+                "GroupStatus":"Activated",
+                "GroupNumber":null,
+                "GroupId":"a0B6D000005CKEWUA4",
+                "EndDate":null,
+                "CustomerProductionStatus":"Activated",
+                "CountryCode":"CN",
+                "ContentPath":"highflyers/cn-3/book-1"
+            },
+
+            {
+                "StartDate":"2020-07-19",
+                "ProgramLevel":"Grade4",
+                "Program":"GRTV1",
+                "GroupType":"Classroom",
+                "GroupStatus":"Activated",
+                "GroupNumber":"100148156",
+                "GroupId":"a0B6D000005BxT3UAK",
+                "EndDate":"2020-08-14",
+                "CustomerProductionStatus":"Activated",
+                "CountryCode":"CN",
+                "ContentPath":"GT/cn-3/book-1"
+            },
+            {
+                "StartDate":"2020-08-15",
+                "ProgramLevel":"Grade5",
+                "Program":"GRTV1",
+                "GroupType":"Classroom",
+                "GroupStatus":"Pending",
+                "GroupNumber":"100148156",
+                "GroupId":"a0B6D000005BxT3UAK",
+                "EndDate":"2020-09-14",
+                "CustomerProductionStatus":"Activated",
+                "CountryCode":"CN",
+                "ContentPath":"GT/cn-3/book-2"
+            }
+        ]
     }
 ]
