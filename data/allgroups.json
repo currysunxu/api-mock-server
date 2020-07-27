@@ -508,7 +508,7 @@
                 "ProgramLevel":"C",
                 "Program":"HFV3Plus",
                 "GroupType":"Classroom",
-                "GroupStatus":"Pending",
+                "GroupStatus":"Activated",
                 "GroupNumber":"100148729",
                 "GroupId":"a0B6D000005CKWSUA4",
                 "EndDate":"2021-05-08",
@@ -616,6 +616,38 @@
     }
         ]
     },
+  {
+        "id":9000004,
+        "data":[
+               {
+                "StartDate":"2020-01-07",
+                "ProgramLevel":"4",
+                "Program":"SSV3",
+                "GroupType":"Classroom",
+                "GroupStatus":"Completed",
+                "GroupNumber":"100148729",
+                "GroupId":"a0B6D000005CKWSUA5",
+                "EndDate":"2020-07-06",
+                "CustomerProductionStatus":"Completed",
+                "CountryCode":"CN",
+                "ContentPath":"SmallStars/cn-3/book-4"
+            },
+           {
+                "StartDate":"2020-08-08",
+                "ProgramLevel":"D",
+                "Program":"HFV3Plus",
+                "GroupType":"City-Wide Classroom",
+                "GroupStatus":"Pending",
+                "GroupNumber":"100148735",
+                "GroupId":"a0B6D000005CLTHUA4",
+                "EndDate":"2021-10-05",
+                "CustomerProductionStatus":"Activated",
+                "CountryCode":"CN",
+                "ContentPath":null
+            }
+        ]
+    },
+
    {
         "id":1064,
         "data":[
