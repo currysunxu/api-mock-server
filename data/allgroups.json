@@ -202,7 +202,7 @@
     "data": [
       {
         "StartDate": "2020-07-06",
-        "Season": "Regular",
+        "Season": "Summer",
         "ProgramLevel": "Grade5",
         "Program": "GRTV1",
         "GroupType": "City-Wide Classroom",
@@ -229,6 +229,7 @@
       },
       {
         "StartDate": "2020-11-09",
+        "Season": "Summer",
         "ProgramLevel": "Grade6",
         "Program": "GRTV1",
         "GroupType": "City-Wide Classroom",
@@ -274,7 +275,7 @@
       },
       {
         "StartDate": "2020-11-09",
-        "Season": null,
+        "Season": "Regular",
         "ProgramLevel": "Grade3",
         "Program": "GRTV1",
         "GroupType": "City-Wide Classroom",
@@ -288,7 +289,7 @@
       },
       {
         "StartDate": "2020-03-14",
-        "Season": null,
+        "Season": "Regular",
         "ProgramLevel": "Grade4",
         "Program": "GRTV1",
         "GroupType": "Classroom",
