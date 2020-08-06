@@ -4,6 +4,7 @@
     "data": [
       {
         "StartDate": "2020-07-06",
+        "Season": "Regular",
         "ProgramLevel": "Grade5",
         "Program": "GRTV1",
         "GroupType": "City-Wide Classroom",
@@ -17,6 +18,7 @@
       },
       {
         "StartDate": "2020-06-09",
+        "Season": "Summer",
         "ProgramLevel": "Storyteller 2",
         "Program": "STV1",
         "GroupType": "City-Wide Classroom",
@@ -30,7 +32,9 @@
       },
       {
         "StartDate": "2020-06-05",
+        "Season": "Summer",
         "ProgramLevel": "Storyteller 1",
+        "Season": null,
         "Program": "STV1",
         "GroupType": "City-Wide Classroom",
         "GroupStatus": "Activated",
@@ -43,6 +47,7 @@
       },
       {
         "StartDate": "2020-04-22",
+        "Season": "Summer",
         "ProgramLevel": "Storyteller",
         "Program": "STV1",
         "GroupType": "City-Wide Classroom",
@@ -56,6 +61,7 @@
       },
       {
         "StartDate": "2020-04-22",
+        "Season": "Summer",
         "ProgramLevel": "Storyteller",
         "Program": "STV1",
         "GroupType": "City-Wide Classroom",
@@ -69,6 +75,7 @@
       },
       {
         "StartDate": "2020-04-22",
+        "Season": "Summer",
         "ProgramLevel": "Storyteller",
         "Program": "STV1",
         "GroupType": "City-Wide Classroom",
@@ -82,6 +89,7 @@
       },
       {
         "StartDate": "2020-04-22",
+        "Season": "Summer",
         "ProgramLevel": "Storyteller 2",
         "Program": "STV1",
         "GroupType": "City-Wide Classroom",
@@ -134,6 +142,7 @@
       },
       {
         "StartDate": "2020-03-09",
+        "Season": "Regular",
         "ProgramLevel": "Grade6",
         "Program": "GRTV1",
         "GroupType": "City-Wide Classroom",
@@ -147,6 +156,7 @@
       },
       {
         "StartDate": "2020-11-09",
+        "Season": "Regular",
         "ProgramLevel": "Grade3",
         "Program": "GRTV1",
         "GroupType": "Classroom",
@@ -160,6 +170,7 @@
       },
       {
         "StartDate": "2020-03-14",
+        "Season": "Summer",
         "ProgramLevel": "Grade4",
         "Program": "GRTV1",
         "GroupType": "Classroom",
@@ -191,6 +202,7 @@
     "data": [
       {
         "StartDate": "2020-07-06",
+        "Season": "Regular",
         "ProgramLevel": "Grade5",
         "Program": "GRTV1",
         "GroupType": "City-Wide Classroom",
@@ -230,6 +242,7 @@
       },
       {
         "StartDate": "2020-03-14",
+        "Season": "Summer",
         "ProgramLevel": "Grade4",
         "Program": "GRTV1",
         "GroupType": "Classroom",
@@ -261,6 +274,7 @@
       },
       {
         "StartDate": "2020-11-09",
+        "Season": null,
         "ProgramLevel": "Grade3",
         "Program": "GRTV1",
         "GroupType": "City-Wide Classroom",
@@ -274,6 +288,7 @@
       },
       {
         "StartDate": "2020-03-14",
+        "Season": null,
         "ProgramLevel": "Grade4",
         "Program": "GRTV1",
         "GroupType": "Classroom",
@@ -530,6 +545,7 @@
       },
       {
         "StartDate": "2020-09-06",
+        "Season": "Regular",
         "ProgramLevel": "Grade3",
         "Program": "GRTV1",
         "GroupType": "City-Wide Classroom",
@@ -652,6 +668,7 @@
       },
       {
         "StartDate": "2020-07-29",
+        "Season": "Regular",
         "ProgramLevel": "Grade5",
         "Program": "GRTV1",
         "GroupType": "Classroom",
@@ -665,6 +682,7 @@
       },
       {
         "StartDate": "2020-08-15",
+        "Season": "Regular",
         "ProgramLevel": "Grade4",
         "Program": "GRTV1",
         "GroupType": "Classroom",
@@ -678,6 +696,7 @@
       },
       {
         "StartDate": "2020-09-20",
+        "Season": "Regular",
         "ProgramLevel": "Grade6",
         "Program": "GRTV1",
         "GroupType": "Classroom",
@@ -818,6 +837,7 @@
       },
       {
         "StartDate": "2020-07-19",
+        "Season": "Regular",
         "ProgramLevel": "Grade4",
         "Program": "GRTV1",
         "GroupType": "Classroom",
@@ -831,6 +851,7 @@
       },
       {
         "StartDate": "2020-08-15",
+        "Season": "Regular",
         "ProgramLevel": "Grade5",
         "Program": "GRTV1",
         "GroupType": "Classroom",
@@ -888,6 +909,7 @@
       },
       {
         "StartDate": "2020-07-19",
+        "Season": "Regular",
         "ProgramLevel": "Grade4",
         "Program": "GRTV1",
         "GroupType": "Classroom",
@@ -901,6 +923,7 @@
       },
       {
         "StartDate": "2020-08-15",
+        "Season": "Regular",
         "ProgramLevel": "Grade5",
         "Program": "GRTV1",
         "GroupType": "Classroom",
@@ -915,6 +938,7 @@
       {
         "StartDate": "2020-06-09",
         "ProgramLevel": "Storyteller",
+        "Season": null,
         "Program": "STV1",
         "GroupType": "City-Wide Classroom",
         "GroupStatus": "Activated",
@@ -927,6 +951,7 @@
       },
       {
         "StartDate": "2020-09-09",
+        "Season": null,
         "ProgramLevel": "Storyteller 1",
         "Program": "STV1",
         "GroupType": "City-Wide Classroom",
@@ -940,6 +965,7 @@
       },
       {
         "StartDate": "2020-11-20",
+        "Season": null,
         "ProgramLevel": "Storyteller 2",
         "Program": "STV1",
         "GroupType": "City-Wide Classroom",
