@@ -258,6 +258,67 @@
     ]
   },
   {
+    "id": 9000044,
+    "data": [
+      {
+        "StartDate": "2020-07-06",
+        "Season": "Summer",
+        "ProgramLevel": "Grade5",
+        "Program": "GRTV1",
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100149381",
+        "GroupId": "a0B6D000003PxaDUAS",
+        "EndDate": "2020-09-22",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": null
+      },
+      {
+        "StartDate": "2020-11-09",
+        "Season": "Summer",
+        "ProgramLevel": "Grade6",
+        "Program": "GRTV1",
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": "Finished",
+        "GroupNumber": "100148159",
+        "GroupId": "a0B6D000005BxUQUA0",
+        "EndDate": "2021-01-14",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": null
+      },
+      {
+        "StartDate": "2020-03-14",
+        "Season": "Summer",
+        "ProgramLevel": "Grade4",
+        "Program": "GRTV1",
+        "GroupType": "Classroom",
+        "GroupStatus": "Finished",
+        "GroupNumber": "100148156",
+        "GroupId": "a0B6D000005BxT3UAK",
+        "EndDate": "2020-05-14",
+        "CustomerProductionStatus": "Completed",
+        "CountryCode": "CN",
+        "ContentPath": null
+      },
+      {
+        "StartDate": "2020-06-09",
+        "Season": "Summer",
+        "ProgramLevel": "Storyteller 2",
+        "Program": "STV1",
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": "Completed",
+        "GroupNumber": "100148631",
+        "GroupId": "a0B6D000005CJNvUAO",
+        "EndDate": "2020-07-19",
+        "CustomerProductionStatus": "Completed",
+        "CountryCode": "CN",
+        "ContentPath": null
+      }
+    ]
+  },
+  {
     "id": 1002,
     "data": [
       {
@@ -571,7 +632,7 @@
         "CustomerProductionStatus": "Completed",
         "CountryCode": "CN",
         "ContentPath": null
-    }
+      }
     ]
   },
   {
