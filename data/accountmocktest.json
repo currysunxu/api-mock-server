@@ -13,6 +13,19 @@
     }
   },
   {
+    "id": 9000045,
+    "data": {
+      "CustomerID": 9000045,
+      "firstName": "gz.mt03",
+      "lastName": "test",
+      "Grade": "Primary school 4",
+      "country_code": "CN",
+      "center_codes": "GZ1YX1",
+      "Birthday": "",
+      "AccountName": "YoYo GZ"
+    }
+  },
+  {
     "id": 1075,
     "data": {
       "CustomerID": 1075,
