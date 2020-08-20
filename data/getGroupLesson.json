@@ -22,10 +22,10 @@
       "lessons": [
         {
           "UnitNumber": "5",
-          "OnlineLessonTopicId": "10278",
-          "OnlineLessonTopic": "Try Your Best Lesson 1",
+          "OnlineLessonTopicId": null,
+          "OnlineLessonTopic": null,
           "LessonNumber": "1",
-          "ContentPath": "highflyers/cn-3/book-1/unit-5/assignment-1"
+          "ContentPath": null
         },
         {
           "UnitNumber": null,
@@ -51,12 +51,11 @@
   {
     "id": 1070,
     "reservationId": "a0G6D000001ZbCaUAK",
-    "data":
-      {
+    "data": {
       "teacherName": "Curry",
       "teacherId": "a5R0I0000022bRQUAY",
       "teacherAvatarUrl": null,
-      "teacherAccent": "British",
+      "teacherAccent": "American",
       "studentpwd": "384823",
       "startTime": "2020-08-24T11:30:00.000Z",
       "skillFocus": null,
@@ -71,11 +70,11 @@
       "offlineSessionId": "a0G6D000001ZbCaUAK",
       "lessons": [
         {
-          "UnitNumber": "4",
-          "OnlineLessonTopicId": "10278",
-          "OnlineLessonTopic": "Try Your Best Lesson 3",
-          "LessonNumber": "3",
-          "ContentPath": "highflyers/cn-3/book-2/unit-4/assignment-3"
+          "UnitNumber": "5",
+          "OnlineLessonTopicId": null,
+          "OnlineLessonTopic": null,
+          "LessonNumber": "1",
+          "ContentPath": null
         },
         {
           "UnitNumber": null,
@@ -101,12 +100,11 @@
   {
     "id": 1071,
     "reservationId": "a0G6D000001ZbCaUAK",
-    "data":
-      {
+    "data": {
       "teacherName": "Curry",
       "teacherId": "a5R0I0000022bRQUAY",
       "teacherAvatarUrl": null,
-      "teacherAccent": "British",
+      "teacherAccent": null,
       "studentpwd": "384824",
       "startTime": "2020-07-30T11:30:00.000Z",
       "skillFocus": null,
@@ -116,16 +114,16 @@
       "sequenceNumber": 15,
       "roomId": "1209200384",
       "reservationId": "a0G6D000001ZbCaUAK",
-      "programLevel": "C",
+      "programLevel": "D",
       "program": "HFV3Plus",
       "offlineSessionId": "a0G6D000001ZbCaUAK",
       "lessons": [
-                {
-          "UnitNumber": "5",
-          "OnlineLessonTopicId": "10299",
-          "OnlineLessonTopic": "Try Your Best Lesson 1",
-          "LessonNumber": "1",
-          "ContentPath": "highflyers/cn-3/book-1/unit-5/assignment-1"
+        {
+          "UnitNumber": "3",
+          "OnlineLessonTopicId": null,
+          "OnlineLessonTopic": null,
+          "LessonNumber": "2",
+          "ContentPath": null
         },
         {
           "UnitNumber": null,
