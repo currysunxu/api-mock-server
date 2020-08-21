@@ -1,94 +1,149 @@
 [
   {
+    "id": 101071985,
+    "reservationId": "a0G6D000001ZbCaUAK",
+    "data": {
+      "teacherName": "Thom",
+      "teacherId": "a5R0I0000022bRQUAY",
+      "teacherAvatarUrl": null,
+      "teacherAccent": "British",
+      "studentpwd": "384822",
+      "startTime": "2020-08-24T11:30:00.000Z",
+      "skillFocus": null,
+      "sessionType": "Online Class",
+      "sessionStatus": "Activated",
+      "sessionId": "112743328",
+      "sequenceNumber": 15,
+      "roomId": "1209200384",
+      "reservationId": "a0G6D000001ZbCaUAK",
+      "programLevel": "C",
+      "program": "HFV3Plus",
+      "offlineSessionId": "a0G6D000001ZbCaUAK",
+      "lessons": [
+        {
+          "UnitNumber": "5",
+          "OnlineLessonTopicId": null,
+          "OnlineLessonTopic": null,
+          "LessonNumber": "1",
+          "ContentPath": null
+        },
+        {
+          "UnitNumber": null,
+          "OnlineLessonTopicId": "10279",
+          "OnlineLessonTopic": "Try Your Best Lesson 2",
+          "LessonNumber": null,
+          "ContentPath": null
+        }
+      ],
+      "isRemoved": false,
+      "groupType": "Classroom",
+      "groupNumber": "100148369",
+      "groupId": "a0B6D000005CDzHUAW",
+      "evcToken": null,
+      "entryLink": "https://global.talk-cloud.net/WebAPI/entry/domain/efdemo/serial/1209200384/pid/101071985/username/Student12_Corona/usertype/2/ts/1597913183/auth/42885041bf3a9bf6c51bdebc8e566c99",
+      "endTime": "2020-08-24T13:00:00.000Z",
+      "customerId": "101071985",
+      "centerCode": "DCNSHA33",
+      "attendanceStatus": "Pending",
+      "attendanceResult": null
+    }
+  },
+  {
     "id": 1070,
     "reservationId": "a0G6D000001ZbCaUAK",
-    "data":
-      {
-        "teacherName": "Thom",
-        "teacherId": "a5R0I0000022bRQUAY",
-        "teacherAvatarUrl": null,
-        "teacherAccent": null,
-        "startTime": "2020-07-24T11:30:00.000Z",
-        "skillFocus": null,
-        "sessionType": "Online Class",
-        "sequenceNumber": 15,
-        "roomId": "1209200384",
-        "reservationId": "a0G6D000001ZbCaUAK",
-        "programLevel": "C",
-        "program": "HFV3Plus",
-        "offlineSessionId": "a0G6D000001ZbCaUAK",
-        "lessons": [
-          {
-            "UnitNumber": "5",
-            "OnlineLessonTopicId": null,
-            "OnlineLessonTopic": null,
-            "LessonNumber": "1",
-            "ContentPath": "highflyers/cn-3/book-1/unit-5/assignment-1"
-          },
-          {
-            "UnitNumber": null,
-            "OnlineLessonTopicId": "10278",
-            "OnlineLessonTopic": "Try Your Best Lesson 1",
-            "LessonNumber": null,
-            "ContentPath": null
-          }
-        ],
-        "isRemoved": false,
-        "groupType": "Classroom",
-        "groupNumber": "100148369",
-        "groupId": "a0B6D000005CDzHUAW",
-        "entryLink": "https://global.talk-cloud.net/WebAPI/entry/domain/efdemo/serial/1209200384/pid/101071985/username/Student12_Corona/usertype/2/ts/1597826913/auth/3d3657d28836903e337f496e8bded723",
-        "endTime": "2020-07-24T13:00:00.000Z",
-        "customerId": "1070",
-        "centerCode": "DCNSHA33",
-        "attendanceStatus": "Pending",
-        "attendanceResult": null
-      }
+    "data": {
+      "teacherName": "Curry",
+      "teacherId": "a5R0I0000022bRQUAY",
+      "teacherAvatarUrl": null,
+      "teacherAccent": "American",
+      "studentpwd": "384823",
+      "startTime": "2020-08-24T11:30:00.000Z",
+      "skillFocus": null,
+      "sessionType": "Online",
+      "sessionStatus": "Activated",
+      "sessionId": "112743328",
+      "sequenceNumber": 15,
+      "roomId": "1209200384",
+      "reservationId": "a0G6D000001ZbCaUAK",
+      "programLevel": "D",
+      "program": "HFV3Plus",
+      "offlineSessionId": "a0G6D000001ZbCaUAK",
+      "lessons": [
+        {
+          "UnitNumber": "5",
+          "OnlineLessonTopicId": null,
+          "OnlineLessonTopic": null,
+          "LessonNumber": "1",
+          "ContentPath": null
+        },
+        {
+          "UnitNumber": null,
+          "OnlineLessonTopicId": "10278",
+          "OnlineLessonTopic": "Try Your Best Lesson 1",
+          "LessonNumber": null,
+          "ContentPath": null
+        }
+      ],
+      "isRemoved": false,
+      "groupType": "Online Classroom",
+      "groupNumber": "100148369",
+      "groupId": "a0B6D000005CDzHUAW",
+      "evcToken": null,
+      "entryLink": "https://global.talk-cloud.net/WebAPI/entry/domain/efdemo/serial/1209200384/pid/101071985/username/Student12_Corona/usertype/2/ts/1597913183/auth/42885041bf3a9bf6c51bdebc8e566c99",
+      "endTime": "2020-08-24T13:00:00.000Z",
+      "customerId": "1070",
+      "centerCode": "DCNSHA33",
+      "attendanceStatus": "Pending",
+      "attendanceResult": null
+    }
   },
-    {
+  {
     "id": 1071,
-    "reservationId": "b0G6D000001ZbCaUAK",
-    "data":
-      {
-        "teacherName": "Curry",
-        "teacherId": "a5R0I0000022bRQUAY",
-        "teacherAvatarUrl": null,
-        "teacherAccent": null,
-        "startTime": "2020-07-24T11:30:00.000Z",
-        "skillFocus": null,
-        "sessionType": "Classroom",
-        "sequenceNumber": 15,
-        "roomId": "1209200384",
-        "reservationId": "a0G6D000001ZbCaUAK",
-        "programLevel": "C",
-        "program": "HFV3Plus",
-        "offlineSessionId": "a0G6D000001ZbCaUAK",
-        "lessons": [
-          {
-            "UnitNumber": "5",
-            "OnlineLessonTopicId": null,
-            "OnlineLessonTopic": null,
-            "LessonNumber": "1",
-            "ContentPath": "highflyers/cn-3/book-1/unit-5/assignment-1"
-          },
-          {
-            "UnitNumber": null,
-            "OnlineLessonTopicId": "10278",
-            "OnlineLessonTopic": "Try Your Best Lesson 1",
-            "LessonNumber": null,
-            "ContentPath": null
-          }
-        ],
-        "isRemoved": false,
-        "groupType": "Classroom",
-        "groupNumber": "100148369",
-        "groupId": "a0B6D000005CDzHUAW",
-        "entryLink": "https://global.talk-cloud.net/WebAPI/entry/domain/efdemo/serial/1209200384/pid/101071985/username/Student12_Corona/usertype/2/ts/1597826913/auth/3d3657d28836903e337f496e8bded723",
-        "endTime": "2020-07-24T13:00:00.000Z",
-        "customerId": "1070",
-        "centerCode": "DCNSHA33",
-        "attendanceStatus": "Pending",
-        "attendanceResult": null
-      }
+    "reservationId": "a0G6D000001ZbCaUAK",
+    "data": {
+      "teacherName": "Curry",
+      "teacherId": "a5R0I0000022bRQUAY",
+      "teacherAvatarUrl": null,
+      "teacherAccent": null,
+      "studentpwd": "384824",
+      "startTime": "2020-07-30T11:30:00.000Z",
+      "skillFocus": null,
+      "sessionType": "CLASSROOM",
+      "sessionStatus": "Activated",
+      "sessionId": "112743328",
+      "sequenceNumber": 15,
+      "roomId": "1209200384",
+      "reservationId": "a0G6D000001ZbCaUAK",
+      "programLevel": "D",
+      "program": "HFV3Plus",
+      "offlineSessionId": "a0G6D000001ZbCaUAK",
+      "lessons": [
+        {
+          "UnitNumber": "3",
+          "OnlineLessonTopicId": null,
+          "OnlineLessonTopic": null,
+          "LessonNumber": "2",
+          "ContentPath": null
+        },
+        {
+          "UnitNumber": null,
+          "OnlineLessonTopicId": "10278",
+          "OnlineLessonTopic": "Try Your Best Lesson 1",
+          "LessonNumber": null,
+          "ContentPath": null
+        }
+      ],
+      "isRemoved": false,
+      "groupType": "City-Wide Classroom",
+      "groupNumber": "100148369",
+      "groupId": "a0B6D000005CDzHUAW",
+      "evcToken": null,
+      "entryLink": "https://global.talk-cloud.net/WebAPI/entry/domain/efdemo/serial/1209200384/pid/101071985/username/Student12_Corona/usertype/2/ts/1597913183/auth/42885041bf3a9bf6c51bdebc8e566c99",
+      "endTime": "2020-08-24T13:00:00.000Z",
+      "customerId": "1071",
+      "centerCode": "DCNSHA33",
+      "attendanceStatus": "Pending",
+      "attendanceResult": null
+    }
   }
 ]
