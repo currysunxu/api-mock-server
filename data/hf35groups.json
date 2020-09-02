@@ -1623,6 +1623,21 @@
     "data": {
       "groups": [
         {
+          "usedACH": 0,
+          "totalACH": 75,
+          "timezone": "(GMT+08:00) China Standard Time (Asia/Shanghai)",
+          "status": "current",
+          "programVersionCode": "HFV2",
+          "programLevelId": "100550",
+          "programLevel": "I",
+          "program": "High Flyers",
+          "name": "High Fly 2.0 I",
+          "leftACH": 0,
+          "isCurrentGroup": false,
+          "id": "10007",
+          "achPerLesson": 3
+        },
+        {
           "usedACH": 72,
           "totalACH": 75,
           "timezone": "(GMT+08:00) China Standard Time (Asia/Shanghai)",
