@@ -1617,5 +1617,59 @@
       "customerPhotoUrl": "https://test-center-test.picture.pictureavatar.hf2.cn.02.ef.com.cn",
       "customerId": "1002"
     }
+  },
+  {
+    "id": "1004",
+    "data": {
+      "groups": [
+        {
+          "usedACH": 72,
+          "totalACH": 75,
+          "timezone": "(GMT+08:00) China Standard Time (Asia/Shanghai)",
+          "status": "current",
+          "programVersionCode": "HFV2",
+          "programLevelId": "100546",
+          "programLevel": "E",
+          "program": "High Flyers",
+          "name": "High Fly 2.0 E",
+          "leftACH": 0,
+          "isCurrentGroup": false,
+          "id": "10003",
+          "achPerLesson": 3
+        },
+        {
+          "usedACH": 0,
+          "totalACH": 75,
+          "timezone": "(GMT+08:00) China Standard Time (Asia/Shanghai)",
+          "status": "current",
+          "programVersionCode": "HFV2",
+          "programLevelId": "100545",
+          "programLevel": "D",
+          "program": "High Flyers",
+          "name": "High Fly 2.0 D",
+          "leftACH": 0,
+          "isCurrentGroup": false,
+          "id": "10002",
+          "achPerLesson": 3
+        },
+        {
+          "usedACH": 72,
+          "totalACH": 72,
+          "timezone": "(GMT+08:00) China Standard Time (Asia/Shanghai)",
+          "status": "current",
+          "programVersionCode": "HFV2",
+          "programLevelId": "100544",
+          "programLevel": "C",
+          "program": "High Flyers",
+          "name": "High Fly 2.0 C",
+          "leftACH": 0,
+          "isCurrentGroup": true,
+          "id": "10001",
+          "achPerLesson": 3
+        }
+      ],
+      "customerPhotoUrl": "https://test-center-test.picture.pictureavatar.hf2.cn.02.ef.com.cn",
+      "customerId": "1004"
+    }
   }
 ]
