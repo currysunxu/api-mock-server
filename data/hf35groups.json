@@ -1686,5 +1686,60 @@
       "customerPhotoUrl": "https://test-center-test.picture.pictureavatar.hf2.cn.02.ef.com.cn",
       "customerId": "1004"
     }
+  },
+  {
+    "id": "9000005",
+    "data": {
+      "groups": [
+        {
+          "usedACH": 0,
+          "totalACH": 75,
+          "timezone": "(GMT+08:00) China Standard Time (Asia/Shanghai)",
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "programLevelId": "100545",
+          "programLevel": "D",
+          "program": "High Flyers",
+          "name": "hf-3.5-test-new-course-map",
+          "leftACH": 0,
+          "isCurrentGroup": false,
+          "id": "10002",
+          "achPerLesson": 3
+        },
+        {
+          "usedACH": 0,
+          "totalACH": 40,
+          "timezone": "Asia/Shanghai",
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "programLevelId": "100545",
+          "programLevel": "I",
+          "program": "High Flyers",
+          "name": "hf-3.5-test-new-course-map",
+          "leftACH": null,
+          "isCurrentGroup": false,
+          "id": "100190951",
+          "allSessions": [
+            {
+              "startTime": "2020-09-15T02:05:00.000Z",
+              "sessionType": "Online Classroom",
+              "sessionID": "117810315",
+              "sessionACH": 2,
+              "lessons": [
+                {
+                  "unit": 6,
+                  "lesson": 4
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            }
+          ],
+          "achPerLesson": 3
+        }
+      ],
+      "customerPhotoUrl": null,
+      "customerId": "9000005"
+    }
   }
 ]
