@@ -998,15 +998,15 @@
         "ContentPath": "GT/cn-3/book-1"
       },
       {
-        "StartDate": "2020-08-15",
-        "Season": "Regular",
-        "ProgramLevel": "Grade5",
+        "StartDate": "2020-09-25",
+        "Season": "Summer",
+        "ProgramLevel": "Grade4",
         "Program": "GRTV1",
         "GroupType": "Classroom",
         "GroupStatus": "Pending",
         "GroupNumber": "100148156",
         "GroupId": "a0B6D000005BxT3UAK",
-        "EndDate": "2020-09-14",
+        "EndDate": "2020-11-01",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
         "ContentPath": "GT/cn-3/book-2"
