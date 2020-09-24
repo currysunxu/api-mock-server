@@ -1,327 +1,252 @@
 [
   {
-    "id": 9000043,
-    "data": {
-      "CustomerID": 9000043,
-      "firstName": "gz.mt02",
-      "lastName": "test",
-      "Grade": "Primary school 4",
-      "country_code": "CN",
-      "center_codes": "GZ1YX1",
-      "Birthday": "",
-      "AccountName": "YoYo GZ"
-    }
+    "CustomerID": 9000043,
+    "firstName": "gz.mt02",
+    "lastName": "test",
+    "Grade": "Primary school 4",
+    "country_code": "CN",
+    "center_codes": "GZ1YX1",
+    "Birthday": "",
+    "AccountName": "YoYo GZ"
   },
   {
-    "id": 9000045,
-    "data": {
-      "CustomerID": 9000045,
-      "firstName": "gz.mt03",
-      "lastName": "test",
-      "Grade": "Primary school 4",
-      "country_code": "CN",
-      "center_codes": "GZ1YX1",
-      "Birthday": "2016-10-10",
-      "AccountName": "YoYo GZ"
-    }
+    "CustomerID": 9000045,
+    "firstName": "gz.mt03",
+    "lastName": "test",
+    "Grade": "Primary school 4",
+    "country_code": "CN",
+    "center_codes": "GZ1YX1",
+    "Birthday": "2016-10-10",
+    "AccountName": "YoYo GZ"
   },
   {
-    "id": 1075,
-    "data": {
-      "CustomerID": 1075,
-      "firstName": "ss2.cn.01",
-      "lastName": "test",
-      "Grade": "Pre-Kindergarten",
-      "country_code": "CN",
-      "center_codes": "GZ1YX1",
-      "Birthday": "2018-01-12",
-      "AccountName": "ss2.cn01"
-    }
+    "CustomerID": 1075,
+    "firstName": "ss2.cn.01",
+    "lastName": "test",
+    "Grade": "Pre-Kindergarten",
+    "country_code": "CN",
+    "center_codes": "GZ1YX1",
+    "Birthday": "2018-01-12",
+    "AccountName": "ss2.cn01"
   },
   {
-    "id": 1018,
-    "data": {
-      "CustomerID": 1018,
-      "firstName": "ss2.cn.02",
-      "lastName": "test",
-      "Grade": "Pre-Kindergarten",
-      "country_code": "CN",
-      "center_codes": "GZ1YX1",
-      "Birthday": "2018-01-12",
-      "AccountName": "ss2.cn02"
-    }
+    "CustomerID": 1018,
+    "firstName": "ss2.cn.02",
+    "lastName": "test",
+    "Grade": "Pre-Kindergarten",
+    "country_code": "CN",
+    "center_codes": "GZ1YX1",
+    "Birthday": "2018-01-12",
+    "AccountName": "ss2.cn02"
   },
   {
-    "id": 1022,
-    "data": {
-      "CustomerID": 1022,
-      "firstName": "Test Account 22",
-      "lastName": "test",
-      "Grade": "Primary school 5",
-      "country_code": "CN",
-      "center_codes": "GZ2HZ1",
-      "Birthday": "2017-02-03",
-      "AccountName": "Account Guangzhouwu"
-    }
+    "CustomerID": 1022,
+    "firstName": "Test Account 22",
+    "lastName": "test",
+    "Grade": "Primary school 5",
+    "country_code": "CN",
+    "center_codes": "GZ2HZ1",
+    "Birthday": "2017-02-03",
+    "AccountName": "Account Guangzhouwu"
   },
   {
-    "id": 1071,
-    "data": {
-      "CustomerID": 1071,
-      "firstName": "Test Account 71",
-      "lastName": "Liang",
-      "Grade": "Primary school 5",
-      "country_code": "CN",
-      "center_codes": "CQ10WXC",
-      "Birthday": "2016-12-03",
-      "AccountName": "Account Chongqing"
-    }
+    "CustomerID": 1071,
+    "firstName": "Test Account 71",
+    "lastName": "Liang",
+    "Grade": "Primary school 5",
+    "country_code": "CN",
+    "center_codes": "CQ10WXC",
+    "Birthday": "2016-12-03",
+    "AccountName": "Account Chongqing"
   },
   {
-    "id": 1023,
-    "data": {
-      "CustomerID": 1023,
-      "firstName": "Test Account 23",
-      "lastName": "Yuki",
-      "Grade": "Primary school 5",
-      "country_code": "CN",
-      "center_codes": "Hefei3",
-      "Birthday": "2018-01-12",
-      "AccountName": "Account Hefei"
-    }
+    "CustomerID": 1023,
+    "firstName": "Test Account 23",
+    "lastName": "Yuki",
+    "Grade": "Primary school 5",
+    "country_code": "CN",
+    "center_codes": "Hefei3",
+    "Birthday": "2018-01-12",
+    "AccountName": "Account Hefei"
   },
   {
-    "id": 1024,
-    "data": {
-      "CustomerID": 1024,
-      "firstName": "Test Account 24",
-      "lastName": "",
-      "Grade": "Primary school 5",
-      "country_code": "CN",
-      "center_codes": "Hefei3",
-      "Birthday": "2018-01-01",
-      "AccountName": "Account Hefei"
-    }
+    "CustomerID": 1024,
+    "firstName": "Test Account 24",
+    "lastName": "",
+    "Grade": "Primary school 5",
+    "country_code": "CN",
+    "center_codes": "Hefei3",
+    "Birthday": "2018-01-01",
+    "AccountName": "Account Hefei"
   },
   {
-    "id": 1070,
-    "data": {
-      "CustomerID": 1070,
-      "firstName": "hf3cn01",
-      "lastName": "four",
-      "Grade": "Primary school 4",
-      "country_code": "CN",
-      "center_codes": "CQ10WXC",
-      "Birthday": "",
-      "AccountName": "Account Chongqing"
-    }
+    "CustomerID": 1070,
+    "firstName": "hf3cn01",
+    "lastName": "four",
+    "Grade": "Primary school 4",
+    "country_code": "CN",
+    "center_codes": "CQ10WXC",
+    "Birthday": "",
+    "AccountName": "Account Chongqing"
   },
   {
-    "id": 1002,
-    "data": {
-      "CustomerID": 1002,
-      "firstName": "hf2cn02",
-      "lastName": "Guangzhou",
-      "Grade": "Primary school 5",
-      "country_code": "CN",
-      "center_codes": "GZ2HZ1",
-      "Birthday": "2017-02-03",
-      "AccountName": "Account Guangzhouwu"
-    }
+    "CustomerID": 1002,
+    "firstName": "hf2cn02",
+    "lastName": "Guangzhou",
+    "Grade": "Primary school 5",
+    "country_code": "CN",
+    "center_codes": "GZ2HZ1",
+    "Birthday": "2017-02-03",
+    "AccountName": "Account Guangzhouwu"
   },
   {
-    "id": 39981176,
-    "data": {
-      "CustomerID": 39981176,
-      "firstName": "hf2cn01",
-      "lastName": "MoMo",
-      "Grade": "Primary school 4",
-      "country_code": "CN",
-      "center_codes": "GZ2HZ1",
-      "Birthday": "2017-02-03",
-      "AccountName": "Account Guangzhouwu"
-    }
+    "CustomerID": 39981176,
+    "firstName": "hf2cn01",
+    "lastName": "MoMo",
+    "Grade": "Primary school 4",
+    "country_code": "CN",
+    "center_codes": "GZ2HZ1",
+    "Birthday": "2017-02-03",
+    "AccountName": "Account Guangzhouwu"
   },
   {
-    "id": 1003,
-    "data": {
-      "CustomerID": 1003,
-      "firstName": "hf2cn03",
-      "lastName": "hefei",
-      "Grade": "Primary school 4",
-      "country_code": "CN",
-      "center_codes": "Hefei3",
-      "Birthday": "2018-01-12",
-      "AccountName": "Account Hefei"
-    }
+    "CustomerID": 1003,
+    "firstName": "hf2cn03",
+    "lastName": "hefei",
+    "Grade": "Primary school 4",
+    "country_code": "CN",
+    "center_codes": "Hefei3",
+    "Birthday": "2018-01-12",
+    "AccountName": "Account Hefei"
   },
   {
-    "id": 1004,
-    "data": {
-      "CustomerID": 1004,
-      "firstName": "hf2cn04",
-      "lastName": "hefeifour",
-      "Grade": "Primary school 4",
-      "country_code": "CN",
-      "center_codes": "Hefei7",
-      "Birthday": "2015-02-03",
-      "AccountName": "Account Hefei"
-    }
+    "CustomerID": 1004,
+    "firstName": "hf2cn04",
+    "lastName": "hefeifour",
+    "Grade": "Primary school 4",
+    "country_code": "CN",
+    "center_codes": "Hefei7",
+    "Birthday": "2015-02-03",
+    "AccountName": "Account Hefei"
   },
   {
-    "id": 1063,
-    "data": {
-      "CustomerID": 1063,
-      "firstName": "frcn01",
-      "lastName": "four",
-      "Grade": "Primary school 4",
-      "country_code": "CN",
-      "center_codes": "CQ10WXC",
-      "Birthday": "2018-03-31",
-      "AccountName": "frcn01Chongqing"
-    }
+    "CustomerID": 1063,
+    "firstName": "frcn01",
+    "lastName": "four",
+    "Grade": "Primary school 4",
+    "country_code": "CN",
+    "center_codes": "CQ10WXC",
+    "Birthday": "2018-03-31",
+    "AccountName": "frcn01Chongqing"
   },
   {
-    "id": 1064,
-    "data": {
-      "CustomerID": 1064,
-      "firstName": "hfcn02",
-      "lastName": "four",
-      "Grade": "Primary school 4",
-      "country_code": "CN",
-      "center_codes": "CQ10WXC",
-      "Birthday": "2017-12-13",
-      "AccountName": "Account Chongqing"
-    }
+    "CustomerID": 1064,
+    "firstName": "hfcn02",
+    "lastName": "four",
+    "Grade": "Primary school 4",
+    "country_code": "CN",
+    "center_codes": "CQ10WXC",
+    "Birthday": "2017-12-13",
+    "AccountName": "Account Chongqing"
   },
   {
-    "id": 1047,
-    "data": {
-      "CustomerID": 1047,
-      "firstName": "ss3.cn.01",
-      "lastName": "test",
-      "Grade": "Primary school 5",
-      "country_code": "CN",
-      "center_codes": "Hefei7",
-      "Birthday": "2017-12-13",
-      "AccountName": "Account Hefei"
-    }
+    "CustomerID": 1047,
+    "firstName": "ss3.cn.01",
+    "lastName": "test",
+    "Grade": "Primary school 5",
+    "country_code": "CN",
+    "center_codes": "Hefei7",
+    "Birthday": "2017-12-13",
+    "AccountName": "Account Hefei"
   },
   {
-    "id": 1076,
-    "data": {
-      "CustomerID": 1076,
-      "firstName": "hf3.cn.auto2",
-      "lastName": "Bob",
-      "Grade": "Pre-Kindergarten",
-      "country_code": "CN",
-      "center_codes": "CQ10WXC",
-      "Birthday": "2017-12-13",
-      "AccountName": "Account Chongqing"
-    }
+    "CustomerID": 1076,
+    "firstName": "hf3.cn.auto2",
+    "lastName": "Bob",
+    "Grade": "Pre-Kindergarten",
+    "country_code": "CN",
+    "center_codes": "CQ10WXC",
+    "Birthday": "2017-12-13",
+    "AccountName": "Account Chongqing"
   },
   {
-    "id": 1106,
-    "data": {
-      "CustomerID": 1106,
-      "firstName": "hfv3.1",
-      "lastName": "Lucy",
-      "Grade": "",
-      "country_code": "CN",
-      "center_codes": "CQ10WXC",
-      "Birthday": "",
-      "AccountName": "Account Chongqing"
-    }
+    "CustomerID": 1106,
+    "firstName": "hfv3.1",
+    "lastName": "Lucy",
+    "Grade": "",
+    "country_code": "CN",
+    "center_codes": "CQ10WXC",
+    "Birthday": "",
+    "AccountName": "Account Chongqing"
   },
   {
-    "id": 9000039,
-    "data": {
-      "CustomerID": 9000039,
-      "firstName": "hf.test1025",
-      "lastName": "Shanghai Test",
-      "Grade": "Primary school 4",
-      "country_code": "CN",
-      "center_codes": "SH26JD1",
-      "Birthday": "2012-12-13",
-      "AccountName": "Account Shanghai"
-    }
+    "CustomerID": 9000039,
+    "firstName": "hf.test1025",
+    "lastName": "Shanghai Test",
+    "Grade": "Primary school 4",
+    "country_code": "CN",
+    "center_codes": "SH26JD1",
+    "Birthday": "2012-12-13",
+    "AccountName": "Account Shanghai"
   },
   {
-    "id": 9000025,
-    "data": {
-      "CustomerID": 9000025,
-      "firstName": "ptReviewTest09",
-      "lastName": "Shanghai Test",
-      "Grade": "Primary school 5",
-      "country_code": "CN",
-      "center_codes": "SH19BS1",
-      "Birthday": "2012-12-13",
-      "AccountName": "Account Shanghai"
-    }
+    "CustomerID": 9000025,
+    "firstName": "ptReviewTest09",
+    "lastName": "Shanghai Test",
+    "Grade": "Primary school 5",
+    "country_code": "CN",
+    "center_codes": "SH19BS1",
+    "Birthday": "2012-12-13",
+    "AccountName": "Account Shanghai"
   },
   {
-    "id": 10750000,
-    "data": {
-      "CustomerID": 10750000,
-      "firstName": "hf3.cn.auto1",
-      "lastName": "Test",
-      "Grade": "",
-      "country_code": "CN",
-      "center_codes": "Qingdao4",
-      "Birthday": "2012-12-13",
-      "AccountName": "Account Shanghai"
-    }
+    "CustomerID": 10750000,
+    "firstName": "hf3.cn.auto1",
+    "lastName": "Test",
+    "Grade": "",
+    "country_code": "CN",
+    "center_codes": "Qingdao4",
+    "Birthday": "2012-12-13",
+    "AccountName": "Account Shanghai"
   },
   {
-    "id": 9000006,
-    "data": {
-      "CustomerID": 9000006,
-      "firstName": "hf.cn.fra.test01",
-      "lastName": "Test",
-      "Grade": "Primary school 5",
-      "country_code": "CN",
-      "center_codes": "",
-      "Birthday": "2012-12-13",
-      "AccountName": "Account No Center"
-    }
+    "CustomerID": 9000006,
+    "firstName": "hf.cn.fra.test01",
+    "lastName": "Test",
+    "Grade": "Primary school 5",
+    "country_code": "CN",
+    "center_codes": "",
+    "Birthday": "2012-12-13",
+    "AccountName": "Account No Center"
   },
   {
-    "id": 9000008,
-    "data": {
-      "CustomerID": 9000008,
-      "firstName": "hf.id.fra.test01",
-      "lastName": "Test",
-      "Grade": "Primary school 1",
-      "country_code": "CN",
-      "center_codes": "GZ2HZ1",
-      "Birthday": "2012-12-13",
-      "AccountName": "Account No Center"
-    }
+    "CustomerID": 9000008,
+    "firstName": "hf.id.fra.test01",
+    "lastName": "Test",
+    "Grade": "Primary school 1",
+    "country_code": "CN",
+    "center_codes": "GZ2HZ1",
+    "Birthday": "2012-12-13",
+    "AccountName": "Account No Center"
   },
   {
-    "id": 12224120,
-    "data": {
-      "CustomerID": 12224120,
-      "firstName": "hf2.cn.auto1",
-      "lastName": "Test",
-      "Grade": "Primary school 1",
-      "country_code": "CN",
-      "center_codes": "GZ2HZ1",
-      "Birthday": "2012-12-13",
-      "AccountName": "Account No Center"
-    }
+    "CustomerID": 12224120,
+    "firstName": "hf2.cn.auto1",
+    "lastName": "Test",
+    "Grade": "Primary school 1",
+    "country_code": "CN",
+    "center_codes": "GZ2HZ1",
+    "Birthday": "2012-12-13",
+    "AccountName": "Account No Center"
   },
   {
-    "id": 9000005,
-    "data": {
-      "CustomerID": 9000005,
-      "firstName": "hf.cn.own.test01",
-      "lastName": "Test",
-      "Grade": "Primary school 5",
-      "country_code": "CN",
-      "center_codes": "GZ2HZ1",
-      "Birthday": "2012-12-13",
-      "AccountName": "hf.cn.own.test01"
-    }
+    "CustomerID": 9000005,
+    "firstName": "hf.cn.own.test01",
+    "lastName": "Test",
+    "Grade": "Primary school 5",
+    "country_code": "CN",
+    "center_codes": "GZ2HZ1",
+    "Birthday": "2012-12-13",
+    "AccountName": "hf.cn.own.test01"
   }
 ]
