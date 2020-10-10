@@ -825,6 +825,7 @@
         "ProgramLevel": "D",
         "Program": "HFV3Plus",
         "GroupType": "Online Classroom",
+
         "GroupStatus": "Activated",
         "GroupNumber": null,
         "GroupId": "a0B6D000005CLTOUA4",
@@ -848,14 +849,14 @@
       },
       {
         "StartDate": "2020-11-06",
-        "ProgramLevel": "E",
+        "ProgramLevel": "F",
         "Program": "HFV3Plus",
-        "GroupType": "City-Wide Classroom",
-        "GroupStatus": "Activated",
+        "GroupType": "Classroom",
+        "GroupStatus": "Pending",
         "GroupNumber": null,
         "GroupId": "a0B6D000005CKWXUA7",
         "EndDate": "2021-10-05",
-        "CustomerProductionStatus": "Activated",
+        "CustomerProductionStatus": "Created",
         "CountryCode": "CN",
         "ContentPath": null
       },
@@ -886,14 +887,14 @@
         "ContentPath": null
       },
       {
-        "StartDate": null,
+        "StartDate": "2019-10-07",
         "ProgramLevel": "C",
         "Program": "HFV3Plus",
-        "GroupType": "Online Classroom",
+        "GroupType": "City-Wide Classroom",
         "GroupStatus": "Activated",
         "GroupNumber": null,
         "GroupId": "a0B6D000005CKEWUA4",
-        "EndDate": null,
+        "EndDate": "2020-06-07",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
         "ContentPath": null
@@ -908,6 +909,34 @@
         "GroupId": "a0B6D000005CKEWUA4",
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": null
+      },
+       {
+        "StartDate": "2020-07-19",
+        "Season": "Regular",
+        "ProgramLevel": "Grade1",
+        "Program": "STV1",
+        "GroupType": "Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148156",
+        "GroupId": "a0B6D000005BxT3UAK",
+        "EndDate": "2020-08-14",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": null
+      },
+      {
+        "StartDate": "2020-08-15",
+        "Season": "Regular",
+        "ProgramLevel": "Grade2",
+        "Program": "PHV1",
+        "GroupType": "Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148156",
+        "GroupId": "a0B6D000005BxT3UAK",
+        "EndDate": "2020-09-14",
+        "CustomerProductionStatus": "Completed",
         "CountryCode": "CN",
         "ContentPath": null
       },
@@ -935,7 +964,7 @@
         "GroupNumber": "100148156",
         "GroupId": "a0B6D000005BxT3UAK",
         "EndDate": "2020-09-14",
-        "CustomerProductionStatus": "Activated",
+        "CustomerProductionStatus": "Completed",
         "CountryCode": "CN",
         "ContentPath": null
       }
