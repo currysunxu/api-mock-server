@@ -915,7 +915,7 @@
        {
         "StartDate": "2020-07-19",
         "Season": "Regular",
-        "ProgramLevel": "Grade1",
+        "ProgramLevel": "Storyteller 1",
         "Program": "STV1",
         "GroupType": "Classroom",
         "GroupStatus": "Activated",
@@ -923,20 +923,6 @@
         "GroupId": "a0B6D000005BxT3UAK",
         "EndDate": "2020-08-14",
         "CustomerProductionStatus": "Activated",
-        "CountryCode": "CN",
-        "ContentPath": null
-      },
-      {
-        "StartDate": "2020-08-15",
-        "Season": "Regular",
-        "ProgramLevel": "Grade2",
-        "Program": "PHV1",
-        "GroupType": "Classroom",
-        "GroupStatus": "Activated",
-        "GroupNumber": "100148156",
-        "GroupId": "a0B6D000005BxT3UAK",
-        "EndDate": "2020-09-14",
-        "CustomerProductionStatus": "Completed",
         "CountryCode": "CN",
         "ContentPath": null
       },
