@@ -821,20 +821,20 @@
     "id": 1070,
     "data": [
       {
-      "StartDate": "2020-11-15",
-      "Season": "Regular",
-      "ProgramLevel": "Grade4",
-      "Program": "GRTV1",
-      "GroupType": "Classroom",
-      "GroupStatus": "Activated",
-      "GroupNumber": "100148156",
-      "GroupId": "a0B6D000005BxT3UAK",
-      "EndDate": "2021-09-14",
-      "CustomerProductionStatus": "Activated",
-      "CountryCode": "CN",
-      "ContentPath": null
-    },
-    {
+        "StartDate": "2020-11-15",
+        "Season": "Regular",
+        "ProgramLevel": "Grade4",
+        "Program": "GRTV1",
+        "GroupType": "Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148156",
+        "GroupId": "a0B6D000005BxT3UAK",
+        "EndDate": "2021-09-14",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": null
+      },
+      {
         "StartDate": "2020-10-01",
         "Season": null,
         "ProgramLevel": "Storyteller 1",
@@ -848,7 +848,7 @@
         "CustomerProductionStatus": "Swapped",
         "CountryCode": "CN",
         "ContentPath": null
-    },
+      },
       {
         "StartDate": "2019-08-05",
         "Season": null,
@@ -863,8 +863,8 @@
         "CustomerProductionStatus": "Completed",
         "CountryCode": "CN",
         "ContentPath": null
-    },
-    {
+      },
+      {
         "StartDate": "2019-02-18",
         "Season": null,
         "ProgramLevel": "C",
@@ -878,23 +878,68 @@
         "CustomerProductionStatus": "Cancelled",
         "CountryCode": "CN",
         "ContentPath": null
-    },
+      },
       {
-    "StartDate": "2020-10-15",
-    "Season": null,
-    "ProgramLevel": "D",
-    "Program": "HFV3Plus",
-    "PDDesignation": null,
-    "GroupType": "Classroom",
-    "GroupStatus": "Pending",
-    "GroupNumber": "100139837",
-    "GroupId": "a0B0I00000oDZaFUAW",
-    "EndDate": "2021-10-29",
-    "CustomerProductionStatus": "Created",
-    "CountryCode": "CN",
-    "ContentPath": null
-   },
-    {
+        "StartDate": "2020-10-01",
+        "Season": null,
+        "ProgramLevel": "D",
+        "Program": "HFV3Plus",
+        "PDDesignation": null,
+        "GroupType": "Classroom",
+        "GroupStatus": "Pending",
+        "GroupNumber": "100139837",
+        "GroupId": "a0B0I00000oDZaFUAW",
+        "EndDate": "2021-10-12",
+        "CustomerProductionStatus": "Created",
+        "CountryCode": "CN",
+        "ContentPath": null
+      },
+      {
+        "StartDate": null,
+        "Season": null,
+        "ProgramLevel": "E",
+        "Program": "HFV3Plus",
+        "PDDesignation": null,
+        "GroupType": "Online Classroom",
+        "GroupStatus": "Cancelled",
+        "GroupNumber": null,
+        "GroupId": "a0B0I00000pHhtcUAC",
+        "EndDate": "2020-08-01",
+        "CustomerProductionStatus": "Suspended",
+        "CountryCode": "CN",
+        "ContentPath": null
+      },
+      {
+        "StartDate": "2020-11-07",
+        "Season": null,
+        "ProgramLevel": "E",
+        "Program": "HFV3Plus",
+        "PDDesignation": null,
+        "GroupType": "Classroom",
+        "GroupStatus": "Cancelled",
+        "GroupNumber": "100180787",
+        "GroupId": "a0B0I00000qzHwIUAU",
+        "EndDate": "2020-11-21",
+        "CustomerProductionStatus": "Cancelled",
+        "CountryCode": "CN",
+        "ContentPath": null
+      },
+      {
+        "StartDate": "2020-12-12",
+        "Season": null,
+        "ProgramLevel": "F",
+        "Program": "HFV3Plus",
+        "PDDesignation": null,
+        "GroupType": "Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100204311",
+        "GroupId": "a0B2x0000006q2AEAQ",
+        "EndDate": "2021-01-16",
+        "CustomerProductionStatus": "Swapped",
+        "CountryCode": "CN",
+        "ContentPath": null
+      },
+      {
         "StartDate": "2018-04-20",
         "Season": null,
         "ProgramLevel": "C",
@@ -908,8 +953,8 @@
         "CustomerProductionStatus": "Completed",
         "CountryCode": "CN",
         "ContentPath": null
-    },
-    {
+      },
+      {
         "StartDate": "2017-06-30",
         "Season": null,
         "ProgramLevel": "B",
@@ -923,8 +968,8 @@
         "CustomerProductionStatus": "Completed",
         "CountryCode": "CN",
         "ContentPath": null
-    },
-    {
+      },
+      {
         "StartDate": "2016-10-10",
         "Season": null,
         "ProgramLevel": "A",
@@ -938,7 +983,7 @@
         "CustomerProductionStatus": "Completed",
         "CountryCode": "CN",
         "ContentPath": null
-    }
+      }
     ]
   },
   {
