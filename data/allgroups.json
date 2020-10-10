@@ -821,17 +821,17 @@
     "id": 1070,
     "data": [
       {
-        "StartDate": "2020-05-08",
-        "ProgramLevel": "D",
+        "StartDate": "2020-10-18",
+        "ProgramLevel": "E",
         "Program": "HFV3Plus",
         "GroupType": "City-Wide Classroom",
         "GroupStatus": "Activated",
         "GroupNumber": "100148735",
         "GroupId": "a0B6D000005CLTHUA4",
-        "EndDate": "2020-10-25",
+        "EndDate": "2020-11-25",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "highflyers/cn-3/book-2"
+        "ContentPath": "highflyers/cn-3/book-3"
       },
       {
         "StartDate": "2019-01-07",
@@ -863,7 +863,7 @@
       {
         "StartDate": "2020-07-19",
         "Season": "Regular",
-        "ProgramLevel": "Grade2",
+        "ProgramLevel": "Grade6",
         "Program": "GRTV1",
         "GroupType": "Classroom",
         "GroupStatus": "Activated",
@@ -877,7 +877,7 @@
       {
         "StartDate": "2020-08-15",
         "Season": "Regular",
-        "ProgramLevel": "Grade3",
+        "ProgramLevel": "Grade7",
         "Program": "GRTV1",
         "GroupType": "Classroom",
         "GroupStatus": "Activated",
