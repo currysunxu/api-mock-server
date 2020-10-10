@@ -821,20 +821,6 @@
     "id": 1070,
     "data": [
       {
-        "StartDate": null,
-        "ProgramLevel": "D",
-        "Program": "HFV3Plus",
-        "GroupType": "Online Classroom",
-
-        "GroupStatus": "Activated",
-        "GroupNumber": null,
-        "GroupId": "a0B6D000005CLTOUA4",
-        "EndDate": null,
-        "CustomerProductionStatus": "Activated",
-        "CountryCode": "CN",
-        "ContentPath": "highflyers/cn-3/book-2"
-      },
-      {
         "StartDate": "2020-05-08",
         "ProgramLevel": "D",
         "Program": "HFV3Plus",
@@ -858,7 +844,7 @@
         "EndDate": "2021-10-05",
         "CustomerProductionStatus": "Created",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "highflyers/cn-3/book-4"
       },
       {
         "StartDate": "2019-01-07",
@@ -878,7 +864,7 @@
         "ProgramLevel": "C",
         "Program": "HFV3Plus",
         "GroupType": "Classroom",
-        "GroupStatus": "Activated",
+        "GroupStatus": "Completed",
         "GroupNumber": "100148729",
         "GroupId": "a0B6D000005CKWSUA4",
         "EndDate": "2020-05-08",
@@ -891,7 +877,7 @@
         "ProgramLevel": "C",
         "Program": "HFV3Plus",
         "GroupType": "City-Wide Classroom",
-        "GroupStatus": "Activated",
+        "GroupStatus": "Completed",
         "GroupNumber": null,
         "GroupId": "a0B6D000005CKEWUA4",
         "EndDate": "2020-06-07",
