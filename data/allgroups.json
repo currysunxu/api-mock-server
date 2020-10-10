@@ -880,17 +880,17 @@
         "ContentPath": null
     },
       {
-    "StartDate": "2019-09-15",
+    "StartDate": "2020-10-15",
     "Season": null,
     "ProgramLevel": "D",
     "Program": "HFV3Plus",
     "PDDesignation": null,
     "GroupType": "Classroom",
-    "GroupStatus": "Activated",
+    "GroupStatus": "Pending",
     "GroupNumber": "100139837",
     "GroupId": "a0B0I00000oDZaFUAW",
-    "EndDate": "2020-10-29",
-    "CustomerProductionStatus": "Swapped",
+    "EndDate": "2021-10-29",
+    "CustomerProductionStatus": "Created",
     "CountryCode": "CN",
     "ContentPath": null
    },
