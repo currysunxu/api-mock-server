@@ -190,7 +190,7 @@
         "GroupStatus": "Activated",
         "GroupNumber": "100148048",
         "GroupId": "a0B6D000005BgBPUA0",
-        "EndDate": "2020-05-27",
+        "EndDate": "2022-05-27",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
         "ContentPath": null
@@ -1105,7 +1105,7 @@
         "GroupStatus": "Activated",
         "GroupNumber": "100148729",
         "GroupId": "a0B6D000005CKWSUA5",
-        "EndDate": "2020-09-06",
+        "EndDate": "2022-09-06",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
         "ContentPath": "SmallStars/cn-3/book-1"
