@@ -949,8 +949,8 @@
         "GroupStatus": "Pending",
         "GroupNumber": "100148156",
         "GroupId": "a0B6D000005BxT3UAK",
-        "EndDate": "2020-09-14",
-        "CustomerProductionStatus": "Completed",
+        "EndDate": "2021-09-14",
+        "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
         "ContentPath": null
       }
