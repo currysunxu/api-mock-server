@@ -821,7 +821,7 @@
     "id": 1070,
     "data": [
       {
-        "StartDate": "2020-05-18",
+        "StartDate": "2020-10-18",
         "ProgramLevel": "D",
         "Program": "HFV3Plus",
         "GroupType": "City-Wide Classroom",
@@ -833,19 +833,62 @@
         "CountryCode": "CN",
         "ContentPath": "highflyers/cn-3/book-2"
       },
-      {
-        "StartDate": "2020-02-11",
-        "ProgramLevel": "C",
-        "Program": "HFV3Plus",
-        "GroupType": "Classroom",
-        "GroupStatus": "Completed",
-        "GroupNumber": "100148735",
-        "GroupId": "a0B6D000009CLTHUA4",
-        "EndDate": "2020-05-16",
-        "CustomerProductionStatus": "Completed",
-        "CountryCode": "CN",
-        "ContentPath": "highflyers/cn-3/book-1"
-      }
+    {
+      "StartDate": "2019-01-07",
+      "ProgramLevel": "4",
+      "Program": "SSV3",
+      "GroupType": "Classroom",
+      "GroupStatus": "Activated",
+      "GroupNumber": "100148729",
+      "GroupId": "a0B6D000005CKWSUA5",
+      "EndDate": "2019-09-06",
+      "CustomerProductionStatus": "Completed",
+      "CountryCode": "CN",
+      "ContentPath": null
+    },
+     {
+      "StartDate": "2020-07-19",
+      "Season": "Regular",
+      "ProgramLevel": "Storyteller 1",
+      "Program": "STV1",
+      "GroupType": "Classroom",
+      "GroupStatus": "Activated",
+      "GroupNumber": "100148156",
+      "GroupId": "a0B6D000005BxT3UAK",
+      "EndDate": "2020-10-04",
+      "CustomerProductionStatus": "Completed",
+      "CountryCode": "CN",
+      "ContentPath": null
+    },
+    {
+      "StartDate": "2020-07-19",
+      "Season": "Regular",
+      "ProgramLevel": "Grade3",
+      "Program": "GRTV1",
+      "GroupType": "Classroom",
+      "GroupStatus": "Activated",
+      "GroupNumber": "100148156",
+      "GroupId": "a0B6D000005BxT3UAK",
+      "EndDate": "2020-08-14",
+      "CustomerProductionStatus": "Activated",
+      "CountryCode": "CN",
+      "ContentPath": null
+    },
+    {
+      "StartDate": "2020-11-15",
+      "Season": "Regular",
+      "ProgramLevel": "Grade4",
+      "Program": "GRTV1",
+      "GroupType": "Classroom",
+      "GroupStatus": "Activated",
+      "GroupNumber": "100148156",
+      "GroupId": "a0B6D000005BxT3UAK",
+      "EndDate": "2021-09-14",
+      "CustomerProductionStatus": "Activated",
+      "CountryCode": "CN",
+      "ContentPath": null
+    }
+
     ]
   },
   {
