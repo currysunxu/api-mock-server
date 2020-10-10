@@ -822,7 +822,7 @@
     "data": [
       {
         "StartDate": "2020-10-18",
-        "ProgramLevel": "E",
+        "ProgramLevel": "C",
         "Program": "HFV3Plus",
         "GroupType": "City-Wide Classroom",
         "GroupStatus": "Activated",
@@ -831,7 +831,7 @@
         "EndDate": "2020-11-25",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "highflyers/cn-3/book-3"
+        "ContentPath": "highflyers/cn-3/book-1"
       },
       {
         "StartDate": "2019-01-07",
@@ -875,7 +875,7 @@
         "ContentPath": null
       },
       {
-        "StartDate": "2020-08-15",
+        "StartDate": "2020-11-15",
         "Season": "Regular",
         "ProgramLevel": "Grade7",
         "Program": "GRTV1",
