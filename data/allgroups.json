@@ -879,6 +879,21 @@
         "CountryCode": "CN",
         "ContentPath": null
     },
+      {
+    "StartDate": "2019-09-15",
+    "Season": null,
+    "ProgramLevel": "D",
+    "Program": "HFV3Plus",
+    "PDDesignation": null,
+    "GroupType": "Classroom",
+    "GroupStatus": "Activated",
+    "GroupNumber": "100139837",
+    "GroupId": "a0B0I00000oDZaFUAW",
+    "EndDate": "2020-10-29",
+    "CustomerProductionStatus": "Swapped",
+    "CountryCode": "CN",
+    "ContentPath": null
+   },
     {
         "StartDate": "2018-04-20",
         "Season": null,
