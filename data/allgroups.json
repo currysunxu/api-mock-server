@@ -828,23 +828,10 @@
         "GroupStatus": "Activated",
         "GroupNumber": "100148735",
         "GroupId": "a0B6D000005CLTHUA4",
-        "EndDate": "2020-10-05",
+        "EndDate": "2020-10-25",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
         "ContentPath": "highflyers/cn-3/book-2"
-      },
-      {
-        "StartDate": "2020-11-06",
-        "ProgramLevel": "F",
-        "Program": "HFV3Plus",
-        "GroupType": "Classroom",
-        "GroupStatus": "Pending",
-        "GroupNumber": null,
-        "GroupId": "a0B6D000005CKWXUA7",
-        "EndDate": "2021-10-05",
-        "CustomerProductionStatus": "Created",
-        "CountryCode": "CN",
-        "ContentPath": "highflyers/cn-3/book-4"
       },
       {
         "StartDate": "2019-01-07",
@@ -873,19 +860,6 @@
         "ContentPath": null
       },
       {
-        "StartDate": "2019-10-07",
-        "ProgramLevel": "C",
-        "Program": "HFV3Plus",
-        "GroupType": "City-Wide Classroom",
-        "GroupStatus": "Completed",
-        "GroupNumber": null,
-        "GroupId": "a0B6D000005CKEWUA4",
-        "EndDate": "2020-06-07",
-        "CustomerProductionStatus": "Activated",
-        "CountryCode": "CN",
-        "ContentPath": null
-      },
-      {
         "StartDate": null,
         "ProgramLevel": "E",
         "Program": "HFV3Plus",
@@ -907,7 +881,7 @@
         "GroupStatus": "Activated",
         "GroupNumber": "100148156",
         "GroupId": "a0B6D000005BxT3UAK",
-        "EndDate": "2020-08-14",
+        "EndDate": "2020-11-14",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
         "ContentPath": null
@@ -932,7 +906,7 @@
         "ProgramLevel": "Grade5",
         "Program": "GRTV1",
         "GroupType": "Classroom",
-        "GroupStatus": "Pending",
+        "GroupStatus": "Activated",
         "GroupNumber": "100148156",
         "GroupId": "a0B6D000005BxT3UAK",
         "EndDate": "2021-09-14",
