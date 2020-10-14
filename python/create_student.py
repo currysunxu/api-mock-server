@@ -6,10 +6,10 @@ from python.libs.group_info import GroupDataMapping, InprogressGroup, BookableGr
 
 def create_student(group_id = None):
   # input the student info,only support 1 student with 1 group
-  student_course_type = ['TB', 'v3bk1'] # ss:['SS','v3bk1] tb['TB','v3bk1'] HF:['HF','C'],['HFV3','C']
+  student_course_type = ['HFV3', 'C'] # ss:['SS','v3bk1] tb['TB','v3bk1'] HF:['HF','C'],['HFV3','C']
   student_base_info = {
-    'student_id': '1113',
-    'ilab_user_name': 'tbv3.cn.2',
+    'student_id': '10701',
+    'ilab_user_name': 'hf3.cn.09',
     'student_english_name': 'Cherry',
     'studdent_last_name': 'Ye',
     'business_line_code':'OWN',
@@ -203,6 +203,27 @@ def create_student(group_id = None):
     }
     online_profile_json.update(new_online_profile)
 
+    # add all groups
+    all_group_json = JsonsData(os.path.abspath('../data/allgroups.json'))
+    new_all_group = {
+    "id": int(student_base_info['student_id']),
+    "data": [
+      {
+        "StartDate": "2020-05-08",
+        "ProgramLevel": student_course_type[1],
+        "Program": student_course_type[0],
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148735",
+        "GroupId": "a0B6D000005CLTHUA4",
+        "EndDate": "2029-10-05",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": "highflyers/cn-3/book-1"
+      }
+     ]
+    }
+    all_group_json.update(new_all_group)
 
 if __name__ == '__main__':
   create_student()
