@@ -1659,7 +1659,7 @@
             "BusinessLineCode": "OWN",
             "Gender": null,
             "HomePhoneNumber": null,
-            "Address": "上海市北京西路1000弄1000号101室",
+            "Address": "\u4e0a\u6d77\u5e02\u5317\u4eac\u897f\u8def1000\u5f041000\u53f7101\u5ba4",
             "city_name": "Guangzhou",
             "SchoolCode": "GZ2HZ1",
             "EnglishLastName": null,
@@ -1901,7 +1901,7 @@
         },
         "id": 10750000
     },
-  {
+    {
         "data": {
             "WechatOpenIds": [],
             "city_key": "HFE",
@@ -1932,5 +1932,34 @@
             "StatusUpdatedUtcDateTime": "2019-12-11T06:25:03"
         },
         "id": 12224120
+    },
+    {
+        "id": 10701,
+        "data": {
+            "CustomerId": "10701",
+            "CountryCode": "CN",
+            "EnglishFirstName": "Cherry",
+            "EnglishLastName": "Ye",
+            "Status": "Student",
+            "StatusUpdatedUtcDateTime": "2019-07-18T06:25:03",
+            "AvatarURL": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/0016D000002HSyJQAW_Avatar_URL__c",
+            "PreferredLanguageCode": null,
+            "Gender": null,
+            "Address": null,
+            "Email": "test@ef.com",
+            "HomePhoneNumber": "13671888379",
+            "MobilePhoneNumber": "13671888379",
+            "JoinedDate": null,
+            "DateOfBirth": null,
+            "WechatOpenIds": [],
+            "FirstName": "auto",
+            "LastName": "Test",
+            "KidsILabUserName": "hf3.cn.09",
+            "CurrentGroup": null,
+            "GroupsInProgress": [],
+            "BusinessLineCode": "OWN",
+            "DeepBlueSchoolCode": "China_Omni",
+            "SchoolCode": "SNA"
+        }
     }
 ]
