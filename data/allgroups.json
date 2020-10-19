@@ -185,7 +185,7 @@
         "StartDate": "2020-05-28",
         "ProgramLevel": "1",
         "Program": "SSV3",
-        "GroupType": "City-Wide Classroom",
+        "GroupType": "Classroom",
         "GroupStatus": "Activated",
         "GroupNumber": "100148048",
         "GroupId": "a0B6D000005BgBPUA0",
@@ -673,20 +673,6 @@
         "GroupId": "a0B6D000003PxaDUAS",
         "EndDate": "2020-11-22",
         "CustomerProductionStatus": "Activated",
-        "CountryCode": "CN",
-        "ContentPath": null
-      },
-      {
-        "StartDate": "2014-09-08",
-        "Season": null,
-        "ProgramLevel": "Starter",
-        "Program": "HFV1",
-        "GroupType": "Classroom",
-        "GroupStatus": "Completed",
-        "GroupNumber": "434180",
-        "GroupId": "a0B0I00000bwyQvUAI",
-        "EndDate": "2015-01-26",
-        "CustomerProductionStatus": "Completed",
         "CountryCode": "CN",
         "ContentPath": null
       }
