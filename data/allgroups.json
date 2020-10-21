@@ -1508,6 +1508,41 @@
     ]
   },
   {
+    "id": 39981176,
+    "data": [
+      {
+        "StartDate": null,
+        "Season": null,
+        "ProgramLevel": "D",
+        "Program": "HFV2",
+        "PDDesignation": null,
+        "GroupType": "Online Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": null,
+        "GroupId": "a0B0I00000kaQK3UAM",
+        "EndDate": "2019-05-17",
+        "CustomerProductionStatus": "Pending",
+        "CountryCode": "CN",
+        "ContentPath": null
+      },
+      {
+        "StartDate": null,
+        "Season": null,
+        "ProgramLevel": "C",
+        "Program": "HFV2",
+        "PDDesignation": null,
+        "GroupType": "Online Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": null,
+        "GroupId": "a0B0I00000kaAu2UAE",
+        "EndDate": "2019-11-21",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": null
+      }
+    ]
+  },
+  {
     "id": 10701,
     "data": [
       {
