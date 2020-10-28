@@ -971,7 +971,7 @@
         "GroupNumber": "100148156",
         "GroupId": "a0B6D000005BxT3UAK",
         "EndDate": "2020-09-14",
-        "CustomerProductionStatus": "Completed",
+        "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
         "ContentPath": null
       },
@@ -995,11 +995,11 @@
         "ProgramLevel": "Grade5",
         "Program": "GRTV1",
         "GroupType": "City-Wide Classroom",
-        "GroupStatus": "Pending",
+        "GroupStatus": "Activated",
         "GroupNumber": "100148156",
         "GroupId": "a0B6D000005BxT3UAK",
         "EndDate": "2020-09-14",
-        "CustomerProductionStatus": "Completed",
+        "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
         "ContentPath": null
       }
