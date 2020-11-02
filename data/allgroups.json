@@ -410,6 +410,20 @@
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
         "ContentPath": null
+      },
+      {
+        "StartDate": "2020-06-09",
+        "Season": "Regular",
+        "ProgramLevel": "Grade3",
+        "Program": "GRTV1",
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148159",
+        "GroupId": "a0B6D000005BxUQUA0",
+        "EndDate": "2020-10-14",
+        "CustomerProductionStatus": "Swapped",
+        "CountryCode": "CN",
+        "ContentPath": null
       }
     ]
   },
