@@ -424,6 +424,34 @@
         "CustomerProductionStatus": "Swapped",
         "CountryCode": "CN",
         "ContentPath": null
+      },
+      {
+        "StartDate": "2020-08-15",
+        "Season": "Regular",
+        "ProgramLevel": "2",
+        "Program": "PHV1",
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148156",
+        "GroupId": "a0B6D000005BxT3UAK",
+        "EndDate": "2020-09-14",
+        "CustomerProductionStatus": "Swapped",
+        "CountryCode": "CN",
+        "ContentPath": null
+      },
+      {
+        "StartDate": "2020-04-22",
+        "Season": "Summer",
+        "ProgramLevel": "Storyteller",
+        "Program": "STV1",
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148629",
+        "GroupId": "a0B6D000005CJKsUAO",
+        "EndDate": null,
+        "CustomerProductionStatus": "Swapped",
+        "CountryCode": "CN",
+        "ContentPath": null
       }
     ]
   },
