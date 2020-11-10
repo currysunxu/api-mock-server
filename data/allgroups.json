@@ -232,11 +232,11 @@
         "ProgramLevel": "E",
         "Program": "HFV3Plus",
         "GroupType": "Classroom",
-        "GroupStatus": "Completed",
+        "GroupStatus": "Activated",
         "GroupNumber": "100148119",
         "GroupId": "a0B6D000005BrEAUA0",
         "EndDate": "2020-07-26",
-        "CustomerProductionStatus": "Completed",
+        "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
         "ContentPath": null
       },
