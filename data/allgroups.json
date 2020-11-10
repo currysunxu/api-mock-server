@@ -214,20 +214,6 @@
         "ContentPath": null
       },
       {
-        "StartDate": null,
-        "ProgramLevel": "D",
-        "Program": "HFV3Plus",
-        "PDDesignation": "HF 3.5",
-        "GroupType": "City-Wide Classroom",
-        "GroupStatus": "Completed",
-        "GroupNumber": null,
-        "GroupId": "a0B6D000005CLTOUA4",
-        "EndDate": null,
-        "CustomerProductionStatus": "Completed",
-        "CountryCode": "CN",
-        "ContentPath": "highflyers/cn-3/book-2"
-      },
-      {
         "StartDate": "2020-03-02",
         "ProgramLevel": "E",
         "Program": "HFV3Plus",
