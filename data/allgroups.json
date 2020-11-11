@@ -111,7 +111,7 @@
         "EndDate": "2022-05-27",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "smallstars/cn-2/book-1/unit-1/assignment-1"
       },
       {
         "StartDate": "2020-04-21",
@@ -151,7 +151,7 @@
         "EndDate": "2020-04-14",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "grammar-tutor/level-6/noun-quantifiers/lesson-2"
       },
       {
         "StartDate": "2020-11-09",
@@ -165,7 +165,7 @@
         "EndDate": "2020-12-14",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "grammar-tutor/level-3/noun-quantifiers/lesson-2"
       },
       {
         "StartDate": "2020-03-14",
@@ -179,7 +179,7 @@
         "EndDate": "2020-05-14",
         "CustomerProductionStatus": "Completed",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "grammar-tutor/level-4/noun-quantifiers/lesson-2"
       },
       {
         "StartDate": "2020-05-28",
@@ -899,7 +899,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "trailblazers/cn-2/book-1"
       },
       {
         "StartDate": "2020-05-07",
@@ -912,7 +912,7 @@
         "EndDate": "2021-09-23",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "trailblazers/cn-2/book-2"
       }
     ]
   },
@@ -959,7 +959,7 @@
         "EndDate": "2021-10-05",
         "CustomerProductionStatus": "Created",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "highflyers/cn-3/book-4"
       },
       {
         "StartDate": "2019-09-07",
@@ -973,7 +973,7 @@
         "EndDate": "2020-05-08",
         "CustomerProductionStatus": "Completed",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "highflyers/cn-3/book-1"
       },
       {
         "StartDate": "2019-10-07",
@@ -1015,7 +1015,7 @@
         "EndDate": "2020-08-14",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "highflyers/cn-3/book-2"
       },
       {
         "StartDate": "2020-08-15",
@@ -1029,7 +1029,7 @@
         "EndDate": "2020-09-14",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "highflyers/cn-3/book-2/unit-1"
       },
       {
         "StartDate": "2020-07-19",
