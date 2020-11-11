@@ -987,7 +987,7 @@
         "EndDate": "2022-06-07",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "highflyers/cn-2/book-1"
       },
       {
         "StartDate": null,
@@ -1043,7 +1043,7 @@
         "EndDate": "2020-08-14",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "grammar-tutor/level-4/noun-quantifiers/lesson-2"
       },
       {
         "StartDate": "2020-08-15",
@@ -1057,7 +1057,7 @@
         "EndDate": "2020-09-14",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "grammar-tutor/level-5/noun-quantifiers/lesson-1"
       }
     ]
   },
