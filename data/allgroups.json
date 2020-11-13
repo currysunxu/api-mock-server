@@ -111,7 +111,7 @@
         "EndDate": "2022-05-27",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "smallstars/cn-2/book-1/unit-1/assignment-1"
+        "ContentPath": "small-stars-3-5/cn-3/book-1/unit-1/assignment-1"
       },
       {
         "StartDate": "2020-04-28",
@@ -124,7 +124,7 @@
         "EndDate": "2022-04-27",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "smallstars/cn-2/book-1/unit-1/assignment-2"
+        "ContentPath": "small-stars-3-5/cn-3/book-1/unit-1/assignment-2"
       },
             {
         "StartDate": "2020-05-28",
@@ -137,7 +137,7 @@
         "EndDate": "2020-05-27",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "smallstars/cn-2/book-1/unit-3/assignment-2"
+        "ContentPath": "small-stars-3-5/cn-3/book-1/unit-3/assignment-2"
       },
       {
         "StartDate": "2020-04-21",
@@ -957,7 +957,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "highflyers/cn-2/book-2/unit-1/assignment-1"
+        "ContentPath": "highflyers/cn-3/book-2/unit-1/assignment-1"
       },
       {
         "StartDate": "2020-05-08",
@@ -971,7 +971,7 @@
         "EndDate": "2022-10-05",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "highflyers/cn-2/book-2/unit-2/assignment-2"
+        "ContentPath": "highflyers/cn-3/book-2/unit-2/assignment-2"
       },
       {
         "StartDate": "2020-11-06",
@@ -985,7 +985,7 @@
         "EndDate": "2021-10-05",
         "CustomerProductionStatus": "Created",
         "CountryCode": "CN",
-        "ContentPath": "highflyers/cn-2/book-4/unit-4/assignment-1"
+        "ContentPath": "highflyers/cn-3/book-4/unit-4/assignment-1"
       },
       {
         "StartDate": "2019-09-07",
@@ -999,7 +999,7 @@
         "EndDate": "2020-05-08",
         "CustomerProductionStatus": "Completed",
         "CountryCode": "CN",
-        "ContentPath": "highflyers/cn-2/book-4/unit-1/assignment-1"
+        "ContentPath": "highflyers/cn-3/book-4/unit-1/assignment-1"
       },
       {
         "StartDate": "2019-10-07",
@@ -1013,7 +1013,7 @@
         "EndDate": "2022-06-07",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "highflyers/cn-2/book-1/unit-1/assignment-2"
+        "ContentPath": "highflyers/cn-3/book-1/unit-1/assignment-2"
       },
       {
         "StartDate": null,
