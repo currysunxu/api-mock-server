@@ -114,14 +114,14 @@
         "ContentPath": "smallstars/cn-2/book-1/unit-1/assignment-1"
       },
       {
-        "StartDate": "2020-05-28",
+        "StartDate": "2020-04-28",
         "ProgramLevel": "2",
         "Program": "SSV3",
         "GroupType": "City-Wide Classroom",
         "GroupStatus": "Activated",
-        "GroupNumber": "100148048",
-        "GroupId": "a0B6D000005BgBPUA0",
-        "EndDate": "2022-05-27",
+        "GroupNumber": "100148099",
+        "GroupId": "a0B6D000005BgBPUA1",
+        "EndDate": "2022-04-27",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
         "ContentPath": "smallstars/cn-2/book-1/unit-1/assignment-2"
@@ -132,9 +132,9 @@
         "Program": "SSV3",
         "GroupType": "City-Wide Classroom",
         "GroupStatus": "Activated",
-        "GroupNumber": "100148048",
-        "GroupId": "a0B6D000005BgBPUA0",
-        "EndDate": "2022-05-27",
+        "GroupNumber": "100148011",
+        "GroupId": "a0B6D000005BgBPUA5",
+        "EndDate": "2020-05-27",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
         "ContentPath": "smallstars/cn-2/book-1/unit-3/assignment-2"
