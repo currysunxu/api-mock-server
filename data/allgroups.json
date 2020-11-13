@@ -115,7 +115,7 @@
       },
       {
         "StartDate": "2020-05-28",
-        "ProgramLevel": "1",
+        "ProgramLevel": "2",
         "Program": "SSV3",
         "GroupType": "City-Wide Classroom",
         "GroupStatus": "Activated",
@@ -125,6 +125,19 @@
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
         "ContentPath": "smallstars/cn-2/book-1/unit-1/assignment-2"
+      },
+            {
+        "StartDate": "2020-05-28",
+        "ProgramLevel": "3",
+        "Program": "SSV3",
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148048",
+        "GroupId": "a0B6D000005BgBPUA0",
+        "EndDate": "2022-05-27",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": "smallstars/cn-2/book-1/unit-3/assignment-2"
       },
       {
         "StartDate": "2020-04-21",
