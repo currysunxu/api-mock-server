@@ -571,10 +571,10 @@
         "GroupStatus": "Activated",
         "GroupNumber": "10039",
         "GroupId": "a0B6D00000598ZKUAY",
-        "EndDate": null,
+        "EndDate": "2021-12-20",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "fr-test/cn3/book-2/unit-2/assignment-1"
       },
       {
         "StartDate": "2018-12-20",
@@ -585,10 +585,10 @@
         "GroupStatus": "Activated",
         "GroupNumber": "10038",
         "GroupId": "a0B6D00000598ZJUAY",
-        "EndDate": null,
+        "EndDate": "2021-12-20",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "fr-test/cn3/book-2/unit-2/assignment-1"
       },
       {
         "StartDate": "2018-12-20",
