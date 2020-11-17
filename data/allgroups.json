@@ -357,7 +357,7 @@
         "EndDate": "2021-07-26",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "highflyers/cn-3/book-2/unit-1/assignment-1"
       },
       {
         "StartDate": "2020-11-09",
@@ -1523,7 +1523,7 @@
       {
         "StartDate": "2020-05-08",
         "ProgramLevel": "C",
-        "Program": "HFV3",
+        "Program": "HFV3Plus",
         "GroupType": "City-Wide Classroom",
         "GroupStatus": "Activated",
         "GroupNumber": "100148735",
