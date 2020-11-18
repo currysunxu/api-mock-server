@@ -532,7 +532,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "frontrunner/cn-3/book-2/unit-2/assignment-4"
+        "ContentPath": "frontrunner/cn-3/book-4"
       },
       {
         "StartDate": "2018-12-20",
@@ -546,7 +546,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "frontrunner/cn-3/book-2/unit-2/assignment-16"
+        "ContentPath": "frontrunner/cn-3/book-16"
       },
       {
         "StartDate": "2018-12-20",
@@ -560,7 +560,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "frontrunner/cn-3/book-2/unit-2/assignment-15"
+        "ContentPath": "frontrunner/cn-3/book-15"
       },
       {
         "StartDate": "2018-12-20",
@@ -574,7 +574,7 @@
         "EndDate": "2021-12-20",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "frontrunner/cn-3/book-2/unit-2/assignment-14"
+        "ContentPath": "frontrunner/cn-3/book-14"
       },
       {
         "StartDate": "2018-12-20",
@@ -588,7 +588,7 @@
         "EndDate": "2021-12-20",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "frontrunner/cn-3/book-2/unit-2/assignment-13"
+        "ContentPath": "frontrunner/cn-3/book-13"
       },
       {
         "StartDate": "2018-12-20",
@@ -602,7 +602,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "frontrunner/cn-3/book-2/unit-2/assignment-12"
+        "ContentPath": "frontrunner/cn-3/book-12"
       },
       {
         "StartDate": "2018-12-20",
@@ -616,7 +616,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "frontrunner/cn-3/book-2/unit-2/assignment-11"
+        "ContentPath": "frontrunner/cn-3/book-11"
       },
       {
         "StartDate": "2018-12-20",
@@ -630,7 +630,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "frontrunner/cn-3/book-2/unit-2/assignment-10"
+        "ContentPath": "frontrunner/cn-3/book-10"
       },
       {
         "StartDate": "2018-12-20",
@@ -644,7 +644,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "frontrunner/cn-3/book-2/unit-2/assignment-9"
+        "ContentPath": "frontrunner/cn-3/book-9"
       },
       {
         "StartDate": "2018-12-20",
@@ -658,7 +658,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "frontrunner/cn-3/book-2/unit-2/assignment-8"
+        "ContentPath": "frontrunner/cn-3/book-8"
       },
       {
         "StartDate": "2018-12-20",
@@ -672,7 +672,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "frontrunner/cn-3/book-2/unit-2/assignment-7"
+        "ContentPath": "frontrunner/cn-3/book-7"
       },
       {
         "StartDate": "2018-12-20",
@@ -686,7 +686,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "frontrunner/cn-3/book-2/unit-2/assignment-6"
+        "ContentPath": "frontrunner/cn-3/book-6"
       },
       {
         "StartDate": "2018-12-20",
@@ -700,7 +700,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "frontrunner/cn-3/book-2/unit-2/assignment-5"
+        "ContentPath": "frontrunner/cn-3/book-5"
       },
       {
         "StartDate": "2018-12-20",
@@ -714,7 +714,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "frontrunner/cn-3/book-2/unit-2/assignment-1"
+        "ContentPath": "frontrunner/cn-3/book-1"
       },
       {
         "StartDate": "2018-12-20",
@@ -728,7 +728,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "frontrunner/cn-3/book-2/unit-2/assignment-2"
+        "ContentPath": "frontrunner/cn-3/book-2"
       },
       {
         "StartDate": "2018-12-20",
@@ -742,7 +742,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "frontrunner/cn-3/book-2/unit-2/assignment-3"
+        "ContentPath": "frontrunner/cn-3/book-3"
       },
       {
         "StartDate": "2020-09-06",
@@ -774,7 +774,7 @@
         "EndDate": "2021-09-23",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "trabilaizer/cn-4/book-1/unit-1/assginment-5"
+        "ContentPath": "trabilaizer/cn-4/book-5"
       },
       {
         "StartDate": "2020-05-07",
@@ -1233,7 +1233,7 @@
         "EndDate": "2021-08-20",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "frontrunner/cn-3/book-2/unit-2/assignment-14"
+        "ContentPath": "frontrunner/cn-3/book-14"
       }
     ]
   },
@@ -1531,12 +1531,12 @@
         "EndDate": "2029-10-05",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "highflyers/cn-3/book-1/unit-1/assginment-1"
+        "ContentPath": "highflyers/cn-3-144/book-1"
       },
-            {
+      {
         "StartDate": "2020-05-08",
-        "ProgramLevel": "C",
-        "Program": "HFV3",
+        "ProgramLevel": "D",
+        "Program": "HFV3Plus",
         "GroupType": "City-Wide Classroom",
         "GroupStatus": "Activated",
         "GroupNumber": "100148735",
@@ -1544,7 +1544,46 @@
         "EndDate": "2029-10-05",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "highflyers/cn-3/book-1/unit-1/assginment-2"
+        "ContentPath": "highflyers/cn-3-144/book-2"
+      },
+      {
+        "StartDate": "2020-05-08",
+        "ProgramLevel": "I",
+        "Program": "HFV3Plus",
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148735",
+        "GroupId": "a0B6D000005CLTHUA4",
+        "EndDate": "2029-10-05",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": "highflyers/cn-3-144/book-7"
+      },
+      {
+        "StartDate": "2020-05-28",
+        "ProgramLevel": "1",
+        "Program": "SSV3",
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148048",
+        "GroupId": "a0B6D000005BgBPUA0",
+        "EndDate": "2022-05-27",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": "small-stars-3-5/cn-3/book-1"
+      },
+      {
+        "StartDate": "2020-05-28",
+        "ProgramLevel": "2",
+        "Program": "SSV3",
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148048",
+        "GroupId": "a0B6D000005BgBPUA0",
+        "EndDate": "2022-05-27",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": "small-stars-3-5/cn-3/book-2"
       }
     ]
   },
