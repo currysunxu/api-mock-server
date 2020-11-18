@@ -868,7 +868,7 @@
       },
       {
         "StartDate": "2020-11-06",
-        "ProgramLevel": "F",
+        "ProgramLevel": "I",
         "Program": "HFV3Plus",
         "PDDesignation": "HF 3.5",
         "GroupType": "Classroom",
@@ -878,7 +878,7 @@
         "EndDate": "2021-10-05",
         "CustomerProductionStatus": "Created",
         "CountryCode": "CN",
-        "ContentPath": "highflyers/cn-3/book-4"
+        "ContentPath": "highflyers/cn-3/book-7"
       },
       {
         "StartDate": "2019-09-07",
@@ -896,7 +896,7 @@
       },
       {
         "StartDate": "2019-10-07",
-        "ProgramLevel": "C",
+        "ProgramLevel": "E",
         "Program": "HFV3Plus",
         "PDDesignation": "HF 3.5",
         "GroupType": "City-Wide Classroom",
@@ -906,7 +906,7 @@
         "EndDate": "2022-06-07",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "highflyers/cn-3/book-1"
+        "ContentPath": "highflyers/cn-3/book-3"
       },
       {
         "StartDate": null,
