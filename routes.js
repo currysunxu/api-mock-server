@@ -10,7 +10,7 @@ module.exports = {
   "/omni/apigateway/api/v1/customer/GetInfoListofGroup?groupId=:id": "/groupinfos/:id",
   "/omni/apigateway/api/v1/account/authenticate?loginName=:id&*": "/teachers/:id",
   "/omni/apigateway/api/v1/user/:id/profile": "/users/:id",
-  "/omni/apigateway/api/v1/teacher/:teacher/GetSessionsofDateandSchoolCode?year=:year&month=:month&date=:date&schoolCode=*": "/sessions/:teacher-:year-:month-:date",
+  "/omni/apigateway/api/v1/teacher/:teacher/GetSessionsofDateandSchoolCode?year=:year&schoolCode=*&month=:month&date=:date": "/sessions/:teacher-:year-:month-:date",
   "/omni/apigateway/api/v1/ilab/checkphone":"/phones",
   "/omni/apigateway/api/v1/ilab/register":"/registeredphones",
   "/omni/apigateway/api/v1/customer/:id/remaining-OCHs": "/creditsinfo/:id",
