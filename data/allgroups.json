@@ -111,7 +111,7 @@
         "EndDate": "2022-05-27",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "small-stars-3-5/cn-3/book-1/unit-1/assignment-1"
+        "ContentPath": "small-stars-3-5/cn-3/book-1"
       },
       {
         "StartDate": "2020-04-28",
@@ -124,7 +124,7 @@
         "EndDate": "2022-04-27",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "small-stars-3-5/cn-3/book-1/unit-1/assignment-2"
+        "ContentPath": "small-stars-3-5/cn-3/book-2"
       },
             {
         "StartDate": "2020-05-28",
@@ -137,7 +137,7 @@
         "EndDate": "2020-05-27",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "small-stars-3-5/cn-3/book-1/unit-3/assignment-2"
+        "ContentPath": "small-stars-3-5/cn-3/book-3"
       },
       {
         "StartDate": "2020-04-21",
