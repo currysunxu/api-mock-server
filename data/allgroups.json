@@ -806,19 +806,6 @@
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
         "ContentPath": "tb16/cn-3/book-1"
-      },
-      {
-        "StartDate": "2020-05-07",
-        "ProgramLevel": "2",
-        "Program": "TBV3Plus",
-        "GroupType": "Classroom",
-        "GroupStatus": "Activated",
-        "GroupNumber": "100148729",
-        "GroupId": "a0B6D000005CKWSUA4",
-        "EndDate": "2021-09-23",
-        "CustomerProductionStatus": "Activated",
-        "CountryCode": "CN",
-        "ContentPath": "tb16/cn-3/book-2"
       }
     ]
   },
