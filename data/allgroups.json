@@ -124,20 +124,7 @@
         "EndDate": "2022-04-27",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "small-stars-3-5/cn-3/book-2"
-      },
-            {
-        "StartDate": "2020-05-28",
-        "ProgramLevel": "3",
-        "Program": "SSV3",
-        "GroupType": "City-Wide Classroom",
-        "GroupStatus": "Activated",
-        "GroupNumber": "100148011",
-        "GroupId": "a0B6D000005BgBPUA5",
-        "EndDate": "2020-05-27",
-        "CustomerProductionStatus": "Activated",
-        "CountryCode": "CN",
-        "ContentPath": "small-stars-3-5/cn-3/book-3"
+        "ContentPath": "smallstar/cn-3/book-1"
       },
       {
         "StartDate": "2020-04-21",
@@ -818,7 +805,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "trailblazers/cn-2/book-1"
+        "ContentPath": "tb16/cn-3/book-1"
       },
       {
         "StartDate": "2020-05-07",
@@ -831,33 +818,7 @@
         "EndDate": "2021-09-23",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "trailblazers/cn-2/book-2"
-      },
-      {
-        "StartDate": "2020-05-07",
-        "ProgramLevel": "11",
-        "Program": "TBV3Plus",
-        "GroupType": "Classroom",
-        "GroupStatus": "Activated",
-        "GroupNumber": "100148729",
-        "GroupId": "a0B6D000005CKWSUA4",
-        "EndDate": "2021-09-23",
-        "CustomerProductionStatus": "Activated",
-        "CountryCode": "CN",
-        "ContentPath": "trailblazers/cn-2/book-11"
-      },
-            {
-        "StartDate": "2020-05-07",
-        "ProgramLevel": "14",
-        "Program": "TBV3Plus",
-        "GroupType": "Classroom",
-        "GroupStatus": "Activated",
-        "GroupNumber": "100148729",
-        "GroupId": "a0B6D000005CKWSUA4",
-        "EndDate": "2021-09-23",
-        "CustomerProductionStatus": "Activated",
-        "CountryCode": "CN",
-        "ContentPath": "trailblazers/cn-2/book-14"
+        "ContentPath": "tb16/cn-3/book-2"
       }
     ]
   },
@@ -1622,7 +1583,7 @@
         "EndDate": "2022-05-27",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "smallstar/cn-3/book-1/unit-1"
+        "ContentPath": "smallstar/cn-3/book-1"
       },
       {
         "StartDate": "2020-05-07",
