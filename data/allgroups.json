@@ -111,7 +111,20 @@
         "EndDate": "2022-05-27",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "small-stars-3-5/cn-3/book-1"
+      },
+      {
+        "StartDate": "2020-04-28",
+        "ProgramLevel": "2",
+        "Program": "SSV3",
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148099",
+        "GroupId": "a0B6D000005BgBPUA1",
+        "EndDate": "2022-04-27",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": "smallstar/cn-3/book-1"
       },
       {
         "StartDate": "2020-04-21",
@@ -151,7 +164,7 @@
         "EndDate": "2020-04-14",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "grammar-tutor/level-6/noun-quantifiers/lesson-2"
       },
       {
         "StartDate": "2020-11-09",
@@ -165,7 +178,7 @@
         "EndDate": "2020-12-14",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "grammar-tutor/level-3/noun-quantifiers/lesson-2"
       },
       {
         "StartDate": "2020-03-14",
@@ -179,7 +192,7 @@
         "EndDate": "2020-05-14",
         "CustomerProductionStatus": "Completed",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "grammar-tutor/level-4/noun-quantifiers/lesson-2"
       },
       {
         "StartDate": "2020-05-28",
@@ -331,7 +344,7 @@
         "EndDate": "2021-07-26",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "highflyers/cn-3/book-2/unit-1/assignment-1"
       },
       {
         "StartDate": "2020-11-09",
@@ -407,7 +420,7 @@
         "GroupNumber": "100148119",
         "GroupId": "a0B6D000005BrEAUA0",
         "EndDate": "2022-07-26",
-        "CustomerProductionStatus": "Swapped",
+        "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
         "ContentPath": null
       },
@@ -506,7 +519,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "frontrunner/cn-3/book-4"
       },
       {
         "StartDate": "2018-12-20",
@@ -520,7 +533,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "frontrunner/cn-3/book-16"
       },
       {
         "StartDate": "2018-12-20",
@@ -534,7 +547,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "frontrunner/cn-3/book-15"
       },
       {
         "StartDate": "2018-12-20",
@@ -545,10 +558,10 @@
         "GroupStatus": "Activated",
         "GroupNumber": "10039",
         "GroupId": "a0B6D00000598ZKUAY",
-        "EndDate": null,
+        "EndDate": "2021-12-20",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "frontrunner/cn-3/book-14"
       },
       {
         "StartDate": "2018-12-20",
@@ -559,10 +572,10 @@
         "GroupStatus": "Activated",
         "GroupNumber": "10038",
         "GroupId": "a0B6D00000598ZJUAY",
-        "EndDate": null,
+        "EndDate": "2021-12-20",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "frontrunner/cn-3/book-13"
       },
       {
         "StartDate": "2018-12-20",
@@ -576,7 +589,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "frontrunner/cn-3/book-12"
       },
       {
         "StartDate": "2018-12-20",
@@ -590,7 +603,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "frontrunner/cn-3/book-11"
       },
       {
         "StartDate": "2018-12-20",
@@ -604,7 +617,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "frontrunner/cn-3/book-10"
       },
       {
         "StartDate": "2018-12-20",
@@ -618,7 +631,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "frontrunner/cn-3/book-9"
       },
       {
         "StartDate": "2018-12-20",
@@ -632,7 +645,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "frontrunner/cn-3/book-8"
       },
       {
         "StartDate": "2018-12-20",
@@ -646,7 +659,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "frontrunner/cn-3/book-7"
       },
       {
         "StartDate": "2018-12-20",
@@ -660,7 +673,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "frontrunner/cn-3/book-6"
       },
       {
         "StartDate": "2018-12-20",
@@ -674,7 +687,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "frontrunner/cn-3/book-5"
       },
       {
         "StartDate": "2018-12-20",
@@ -688,7 +701,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "frontrunner/cn-3/book-1"
       },
       {
         "StartDate": "2018-12-20",
@@ -702,7 +715,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "frontrunner/cn-3/book-2"
       },
       {
         "StartDate": "2018-12-20",
@@ -716,7 +729,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "frontrunner/cn-3/book-3"
       },
       {
         "StartDate": "2020-09-06",
@@ -748,7 +761,7 @@
         "EndDate": "2021-09-23",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "tb16/cn-3/book-1"
       },
       {
         "StartDate": "2020-05-07",
@@ -775,113 +788,6 @@
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
         "ContentPath": null
-      },
-      {
-        "StartDate": "2020-05-07",
-        "ProgramLevel": "D",
-        "Program": "HFV3Plus",
-        "GroupType": "City-Wide Classroom",
-        "GroupStatus": "Activated",
-        "GroupNumber": "100148729",
-        "GroupId": "a0B6D000005CKWSUA4",
-        "EndDate": "2020-09-23",
-        "CustomerProductionStatus": "Activated",
-        "CountryCode": "CN",
-        "ContentPath": null
-      },
-      {
-        "StartDate": null,
-        "ProgramLevel": "D",
-        "Program": "HFV3Plus",
-        "GroupType": "Online Classroom",
-        "GroupStatus": "Activated",
-        "GroupNumber": null,
-        "GroupId": "a0B6D000005CKEWUA4",
-        "EndDate": "2020-05-16",
-        "CustomerProductionStatus": "Activated",
-        "CountryCode": "CN",
-        "ContentPath": null
-      },
-      {
-        "StartDate": "2020-04-29",
-        "ProgramLevel": "D",
-        "Program": "HFV3Plus",
-        "GroupType": "Classroom",
-        "GroupStatus": "Pending",
-        "GroupNumber": "100148698",
-        "GroupId": "a0B6D000005CK6fUAG",
-        "EndDate": "2020-09-14",
-        "CustomerProductionStatus": "Activated",
-        "CountryCode": "CN",
-        "ContentPath": null
-      },
-      {
-        "StartDate": null,
-        "ProgramLevel": "D",
-        "Program": "HFV3Plus",
-        "GroupType": "Online Classroom",
-        "GroupStatus": "Completed",
-        "GroupNumber": null,
-        "GroupId": "a0B6D000005CKEMUA4",
-        "EndDate": "2020-04-30",
-        "CustomerProductionStatus": "Completed",
-        "CountryCode": "CN",
-        "ContentPath": null
-      },
-      {
-        "StartDate": "2015-04-30",
-        "ProgramLevel": "D",
-        "Program": "HFV3Plus",
-        "GroupType": "City-Wide Classroom",
-        "GroupStatus": "Pending",
-        "GroupNumber": "100148706",
-        "GroupId": "a0B6D000005CKDxUAO",
-        "EndDate": "2015-09-16",
-        "CustomerProductionStatus": "Swapped",
-        "CountryCode": "CN",
-        "ContentPath": null
-      },
-      {
-        "StartDate": "2020-07-29",
-        "Season": "Regular",
-        "ProgramLevel": "Grade5",
-        "Program": "GRTV1",
-        "GroupType": "Classroom",
-        "GroupStatus": "Pending",
-        "GroupNumber": "100148156",
-        "GroupId": "a0B6D000005BxT3UAK",
-        "EndDate": "2020-08-14",
-        "CustomerProductionStatus": "Activated",
-        "CountryCode": "CN",
-        "ContentPath": null
-      },
-      {
-        "StartDate": "2020-08-15",
-        "Season": "Regular",
-        "ProgramLevel": "Grade4",
-        "Program": "GRTV1",
-        "GroupType": "City-Wide Classroom",
-        "GroupStatus": "Pending",
-        "GroupNumber": "100148156",
-        "GroupId": "a0B6D000005BxT3UAK",
-        "EndDate": "2020-09-14",
-        "CustomerProductionStatus": "Activated",
-        "CountryCode": "CN",
-        "ContentPath": null
-      },
-      {
-        "StartDate": "2020-09-20",
-        "Season": "Regular",
-        "ProgramLevel": "Grade6",
-        "Program": "GRTV1",
-        "GroupType": "Classroom",
-        "GroupStatus": "Pending",
-        "GroupNumber": "100148156",
-        "GroupId": "a0B6D000005BxT3UAK",
-        "EndDate": "2020-10-21",
-        "CustomerProductionStatus": "Activated",
-        "CountryCode": "CN",
-        "ContentPath": null
       }
     ]
   },
@@ -890,7 +796,7 @@
     "data": [
       {
         "StartDate": null,
-        "ProgramLevel": "5",
+        "ProgramLevel": "2",
         "Program": "TBV3Plus",
         "GroupType": "Online Classroom",
         "GroupStatus": "Activated",
@@ -899,11 +805,11 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "tb16/cn-3/book-2"
       },
       {
         "StartDate": "2020-05-07",
-        "ProgramLevel": "5",
+        "ProgramLevel": "1",
         "Program": "TBV3Plus",
         "GroupType": "Classroom",
         "GroupStatus": "Activated",
@@ -912,7 +818,7 @@
         "EndDate": "2021-09-23",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "tb16/cn-3/book-1"
       }
     ]
   },
@@ -949,7 +855,7 @@
       },
       {
         "StartDate": "2020-11-06",
-        "ProgramLevel": "F",
+        "ProgramLevel": "I",
         "Program": "HFV3Plus",
         "PDDesignation": "HF 3.5",
         "GroupType": "Classroom",
@@ -959,7 +865,7 @@
         "EndDate": "2021-10-05",
         "CustomerProductionStatus": "Created",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "highflyers/cn-3/book-7"
       },
       {
         "StartDate": "2019-09-07",
@@ -973,11 +879,11 @@
         "EndDate": "2020-05-08",
         "CustomerProductionStatus": "Completed",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "highflyers/cn-3/book-4"
       },
       {
         "StartDate": "2019-10-07",
-        "ProgramLevel": "C",
+        "ProgramLevel": "E",
         "Program": "HFV3Plus",
         "PDDesignation": "HF 3.5",
         "GroupType": "City-Wide Classroom",
@@ -987,7 +893,7 @@
         "EndDate": "2022-06-07",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "highflyers/cn-3/book-3"
       },
       {
         "StartDate": null,
@@ -1015,7 +921,7 @@
         "EndDate": "2020-08-14",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "highflyers/cn-3/book-2"
       },
       {
         "StartDate": "2020-08-15",
@@ -1029,7 +935,7 @@
         "EndDate": "2020-09-14",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "highflyers/cn-3/book-2/unit-1"
       },
       {
         "StartDate": "2020-07-19",
@@ -1043,7 +949,7 @@
         "EndDate": "2020-08-14",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "grammar-tutor/level-4/noun-quantifiers/lesson-2"
       },
       {
         "StartDate": "2020-08-15",
@@ -1057,7 +963,7 @@
         "EndDate": "2020-09-14",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "grammar-tutor/level-5/noun-quantifiers/lesson-1"
       }
     ]
   },
@@ -1314,7 +1220,7 @@
         "EndDate": "2021-08-20",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "frontrunner/cn-3/book-14"
       }
     ]
   },
@@ -1411,11 +1317,11 @@
         "EndDate": "2021-10-05",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "highflyers/cn-3/book-3"
       },
       {
         "StartDate": "2019-09-07",
-        "ProgramLevel": "C",
+        "ProgramLevel": "D",
         "Program": "HFV3Plus",
         "PDDesignation": "HF 3.5",
         "GroupType": "Classroom",
@@ -1425,7 +1331,7 @@
         "EndDate": "2020-05-08",
         "CustomerProductionStatus": "Completed",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "highflyers/cn-3/book-2"
       },
       {
         "StartDate": null,
@@ -1439,7 +1345,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "highflyers/cn-3/book-2"
       },
       {
         "StartDate": null,
@@ -1452,7 +1358,7 @@
         "EndDate": null,
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "highflyers/cn-3/book-3"
       },
       {
         "StartDate": "2020-09-06",
@@ -1466,7 +1372,7 @@
         "EndDate": "2021-10-05",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": null
+        "ContentPath": "highflyers/cn-3/book-7"
       }
     ]
   },
@@ -1612,7 +1518,158 @@
         "EndDate": "2029-10-05",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "highflyers/cn-3/book-1"
+        "ContentPath": "highflyers/cn-3-144/book-1"
+      },
+      {
+        "StartDate": "2020-05-08",
+        "ProgramLevel": "D",
+        "Program": "HFV3Plus",
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148735",
+        "GroupId": "a0B6D000005CLTHUA4",
+        "EndDate": "2029-10-05",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": "highflyers/cn-3-144/book-2"
+      },
+      {
+        "StartDate": "2020-05-08",
+        "ProgramLevel": "I",
+        "Program": "HFV3Plus",
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148735",
+        "GroupId": "a0B6D000005CLTHUA4",
+        "EndDate": "2029-10-05",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": "highflyers/cn-3-144/book-7"
+      },
+            {
+        "StartDate": "2020-05-08",
+        "ProgramLevel": "D",
+        "Program": "HFV3Plus",
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148735",
+        "GroupId": "a0B6D000005CLTHUA4",
+        "EndDate": "2029-10-05",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": "highflyers/cn-3-144/book-2"
+      },
+      {
+        "StartDate": "2020-05-28",
+        "ProgramLevel": "1",
+        "Program": "SSV3",
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148048",
+        "GroupId": "a0B6D000005BgBPUA0",
+        "EndDate": "2022-05-27",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": "small-stars-3-5/cn-3/book-1"
+      },
+      {
+        "StartDate": "2020-05-28",
+        "ProgramLevel": "1",
+        "Program": "SSV3",
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148048",
+        "GroupId": "a0B6D000005BgBPUA0",
+        "EndDate": "2022-05-27",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": "smallstar/cn-3/book-1"
+      },
+      {
+        "StartDate": "2020-05-07",
+        "ProgramLevel": "2",
+        "Program": "TBV3Plus",
+        "GroupType": "Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148729",
+        "GroupId": "a0B6D000005CKWSUA4",
+        "EndDate": "2021-09-23",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": "tb16/cn-3/book-1"
+      },
+      {
+        "StartDate": "2020-05-07",
+        "ProgramLevel": "2",
+        "Program": "TBV3Plus",
+        "GroupType": "Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148729",
+        "GroupId": "a0B6D000005CKWSUA4",
+        "EndDate": "2021-09-23",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": "tb16/cn-3/book-2"
+      },
+      {
+        "StartDate": "2020-05-07",
+        "ProgramLevel": "10",
+        "Program": "TBV3Plus",
+        "GroupType": "Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148729",
+        "GroupId": "a0B6D000005CKWSUA4",
+        "EndDate": "2021-09-23",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": "trailblazers/cn-2/book-13"
+      }
+    ]
+  },
+  {
+    "id": 10702,
+    "data": [
+      {
+        "StartDate": "2020-08-15",
+        "Season": "Regular",
+        "ProgramLevel": "2",
+        "Program": "PHV1",
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148156",
+        "GroupId": "a0B6D000005BxT3UAK",
+        "EndDate": "2020-09-14",
+        "CustomerProductionStatus": "Swapped",
+        "CountryCode": "CN",
+        "ContentPath": null
+      },
+      {
+        "StartDate": "2020-11-09",
+        "Season": "Regular",
+        "ProgramLevel": "Grade4",
+        "Program": "GRTV1",
+        "GroupType": "Classroom",
+        "GroupStatus": "Pending",
+        "GroupNumber": "100148156",
+        "GroupId": "a0B6D000005BxT3UAK",
+        "EndDate": "2020-12-14",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": "grammar-tutor/level-4/noun-quantifiers/lesson-2"
+      },
+      {
+        "StartDate": "2020-11-09",
+        "Season": "Regular",
+        "ProgramLevel": "Grade5",
+        "Program": "GRTV1",
+        "GroupType": "Classroom",
+        "GroupStatus": "Pending",
+        "GroupNumber": "100148156",
+        "GroupId": "a0B6D000005BxT3UAK",
+        "EndDate": "2022-12-14",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": "grammar-tutor/level-5/noun-quantifiers/lesson-2"
       }
     ]
   }
