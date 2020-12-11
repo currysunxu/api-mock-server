@@ -1,0 +1,150 @@
+[
+  {
+    "id": "ios",
+    "data": {
+      "errorCode": 0,
+      "scope": "OSD",
+      "config": {
+        "enableOmniture": false,
+        "enableTechCheck": false,
+        "svcDomain": "https://omni-apigateway-tc-staging.ef.cn"
+      },
+      "etownApi": {
+        "getSurveyUrl": "/api/v3/survey/load",
+        "sendSurveyUrl": "/api/v3/survey/save",
+        "getTechCheckTokenUrl": "/api/v3/Classroom/TechCheck",
+        "getClassEntranceTokenUrl": "/api/v1/classroom/online/link",
+        "getWeeklyTopicsUrl": "/api/v3/grouplesson/weeklytopics",
+        "getGroupLessonContextUrl": "/api/v3/grouplesson/context",
+        "getGroupLessonClassesUrl": "/api/v3/grouplesson/load",
+        "joinGroupLessonClassUrl": "/api/v3/grouplesson/join",
+        "cancelJoinGroupLessonClassUrl": "/api/v3/grouplesson/cancel",
+        "exitGroupLessonClassUrl": "/api/v3/grouplesson/exit",
+        "getSurveyClassesNotificationUrl": "/api/v3/notification/surveyclasses",
+        "getPLClassesNotificationUrl": "/api/v3/notification/privatelessons",
+        "mybookingsUrl": "https://study-online-staging.ef.cn//index.html?platform=webview",
+        "blurbUrl": "",
+        "visitorTrackingUrl": "/school/evclog/tracking/VisitorNonToken",
+        "behaviorTrackingUrl": "/school/evclog/tracking/BehaviorNonToken",
+        "classTrackingUrl": "/school/evclog/tracking/trackevcclass",
+        "evcTrackingDomain": "https://omni-apigateway-tc-staging.ef.cn"
+      },
+      "evcApi": {
+        "evcApiDomainCN": "evc-ts-qa.bj-englishtown.com",
+        "evcApiDomainUS": "evc-ts-qa.bj-englishtown.com",
+        "createTemporalClassUrl": "/evc15/meeting/api/create_temporal_class",
+        "loadStateUrl": "/evc15/media/api/loadstate",
+        "mediaServerLoggingUrl": "/evc15/meeting/api/log",
+        "webBootstrapUrl": "/evc15/meeting/api/bootstrap",
+        "loggingUrl": "/evc15/meeting/api/log",
+        "logVerboseUrl": "/evc15/meeting/api/logverbose",
+        "evcDomainMappings": {
+          "EvcCN1": "evc-ts-qa.bj-englishtown.com",
+          "EvcCN2": "evc-ts-qa.bj-englishtown.com",
+          "EvcUS1": "evc.ef.com"
+        }
+      },
+      "staticResource": {
+        "resourceCdnDomain": "evc-fe-qa.bj-englishtown.com",
+        "webResourceVersionUrl": "/_shared/evc15-fe-ios-bundle_kids/version.json"
+      },
+      "userContext": {
+        "countryCode": "cn",
+        "studentCountryCode": "cn",
+        "partnerCode": "Kids",
+        "studentName": "",
+        "avatarImageUrl": "",
+        "siteVersion": "qa",
+        "gender": "",
+        "userName": "",
+        "academicLevel": "BEG",
+        "canAccessGL": false,
+        "canAccessPL": true,
+        "canAccessCROC": false,
+        "crocLevel": "BEG",
+        "defaultVideoOption": false,
+        "hasInitialStudyPlan": false,
+        "evcServerCode": "EvcCN2"
+      },
+      "versionInfo": {
+        "minSupportedVersion": "1.4.0",
+        "latestVersion": "1.4.0",
+        "downloadPath": "https://itunes.apple.com/cn/app/ef-study/id1445419972?ls=1&mt=8"
+      }
+    }
+  },
+  {
+    "id": "android",
+    "data": {
+      "errorCode": 0,
+      "scope": "OSD",
+      "config": {
+        "enableOmniture": false,
+        "enableTechCheck": false,
+        "svcDomain": "https://omni-apigateway-tc-staging.ef.cn"
+      },
+      "etownApi": {
+        "getSurveyUrl": "/api/v3/survey/load",
+        "sendSurveyUrl": "/api/v3/survey/save",
+        "getTechCheckTokenUrl": "/api/v3/Classroom/TechCheck",
+        "getClassEntranceTokenUrl": "/api/v1/classroom/online/link",
+        "getWeeklyTopicsUrl": "/api/v3/grouplesson/weeklytopics",
+        "getGroupLessonContextUrl": "/api/v3/grouplesson/context",
+        "getGroupLessonClassesUrl": "/api/v3/grouplesson/load",
+        "joinGroupLessonClassUrl": "/api/v3/grouplesson/join",
+        "cancelJoinGroupLessonClassUrl": "/api/v3/grouplesson/cancel",
+        "exitGroupLessonClassUrl": "/api/v3/grouplesson/exit",
+        "getSurveyClassesNotificationUrl": "/api/v3/notification/surveyclasses",
+        "getPLClassesNotificationUrl": "/api/v3/notification/privatelessons",
+        "mybookingsUrl": "https://study-online-staging.ef.cn//index.html?platform=webview",
+        "blurbUrl": "",
+        "visitorTrackingUrl": "/school/evclog/tracking/VisitorNonToken",
+        "behaviorTrackingUrl": "/school/evclog/tracking/BehaviorNonToken",
+        "classTrackingUrl": "/school/evclog/tracking/trackevcclass",
+        "evcTrackingDomain": "https://omni-apigateway-tc-staging.ef.cn"
+      },
+      "evcApi": {
+        "evcApiDomainCN": "evc-ts-qa.bj-englishtown.com",
+        "evcApiDomainUS": "evc-ts-qa.bj-englishtown.com",
+        "createTemporalClassUrl": "/evc15/meeting/api/create_temporal_class",
+        "loadStateUrl": "/evc15/media/api/loadstate",
+        "mediaServerLoggingUrl": "/evc15/meeting/api/log",
+        "webBootstrapUrl": "/evc15/meeting/api/bootstrap",
+        "loggingUrl": "/evc15/meeting/api/log",
+        "logVerboseUrl": "/evc15/meeting/api/logverbose",
+        "evcDomainMappings": {
+          "EvcCN1": "evc-ts-qa.bj-englishtown.com",
+          "EvcCN2": "evc-ts-qa.bj-englishtown.com",
+          "EvcUS1": "evc.ef.com"
+        }
+      },
+      "staticResource": {
+        "resourceCdnDomain": "evc-fe-qa.bj-englishtown.com",
+        "webResourceVersionUrl": "/_shared/evc15-fe-android-bundle_kids/version.json"
+      },
+      "userContext": {
+        "countryCode": "cn",
+        "studentCountryCode": "cn",
+        "partnerCode": "Kids",
+        "studentName": "",
+        "avatarImageUrl": "",
+        "siteVersion": "qa",
+        "gender": "",
+        "userName": "",
+        "academicLevel": "BEG",
+        "canAccessGL": false,
+        "canAccessPL": true,
+        "canAccessCROC": false,
+        "crocLevel": "BEG",
+        "defaultVideoOption": false,
+        "hasInitialStudyPlan": false,
+        "evcServerCode": "EvcCN2"
+      },
+      "versionInfo": {
+        "minSupportedVersion": "1.4.0",
+        "latestVersion": "1.4.0",
+        "downloadPath": "/_shared/mobile-app/ef_study_1_4_0.apk"
+      }
+    }
+  }
+]
