@@ -239,7 +239,7 @@
         "CountryCode": "CN",
         "ContentPath": null
       },
-            {
+      {
         "StartDate": "2020-12-02",
         "ProgramLevel": "D",
         "Program": "HFV3Plus",
@@ -248,6 +248,19 @@
         "GroupNumber": "100148122",
         "GroupId": "a0B6D000005BqEAUA0",
         "EndDate": "2021-10-26",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": null
+      },
+      {
+        "StartDate": "2020-12-13",
+        "ProgramLevel": "F",
+        "Program": "HFV3Plus",
+        "GroupType": "Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148122",
+        "GroupId": "a0B6D000005BqEAUA0",
+        "EndDate": "2021-12-26",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
         "ContentPath": null
@@ -384,6 +397,32 @@
         "GroupId": "a0B6D000005BxT3UAK",
         "EndDate": "2020-05-14",
         "CustomerProductionStatus": "Completed",
+        "CountryCode": "CN",
+        "ContentPath": null
+      },
+      {
+        "StartDate": "2020-12-02",
+        "ProgramLevel": "D",
+        "Program": "HFV3Plus",
+        "GroupType": "Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148122",
+        "GroupId": "a0B6D000005BqEAUA0",
+        "EndDate": "2021-10-26",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": null
+      },
+      {
+        "StartDate": "2020-12-13",
+        "ProgramLevel": "F",
+        "Program": "HFV3Plus",
+        "GroupType": "Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148122",
+        "GroupId": "a0B6D000005BqEAUA0",
+        "EndDate": "2021-12-26",
+        "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
         "ContentPath": null
       }
@@ -1514,6 +1553,32 @@
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
         "ContentPath": null
+      },
+      {
+        "StartDate": "2020-12-02",
+        "ProgramLevel": "D",
+        "Program": "HFV3Plus",
+        "GroupType": "Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148122",
+        "GroupId": "a0B6D000005BqEAUA0",
+        "EndDate": "2021-10-26",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": null
+      },
+      {
+        "StartDate": "2020-12-13",
+        "ProgramLevel": "F",
+        "Program": "HFV3Plus",
+        "GroupType": "Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148122",
+        "GroupId": "a0B6D000005BqEAUA0",
+        "EndDate": "2021-12-26",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": null
       }
     ]
   },
@@ -1559,7 +1624,7 @@
         "CountryCode": "CN",
         "ContentPath": "highflyers/cn-3-144/book-7"
       },
-            {
+      {
         "StartDate": "2020-05-08",
         "ProgramLevel": "D",
         "Program": "HFV3Plus",

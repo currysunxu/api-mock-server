@@ -530,7 +530,7 @@
         },
         "GroupName": "hf1group",
         "GroupId": "100148995",
-        "GroupCode": "HFV3PlusC-1-120-P-200520-11",
+        "GroupCode": "HFV3PlusE-1-120-P-200520-11",
         "CustomerProductionStatus": {
           "Name": "Activated",
           "Code": "Activated"
@@ -538,6 +538,48 @@
         "CourseTypeLevel": {
           "Name": "E",
           "Code": "HFE"
+        },
+        "CourseType": {
+          "Name": "HF",
+          "Code": "HF"
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "AssignTo": {
+          "Name": "SZ2Ida ChenPA",
+          "Id": "8000006"
+        }
+      },
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "F",
+        "Program": "HFV3Plus",
+        "MainTeacher": {
+          "Name": "Erik Ogle",
+          "Id": "10072329"
+        },
+        "IsCurrentGroup": true,
+        "GroupType": "Classroom",
+        "GroupStatus": {
+          "Name": "Activated",
+          "Code": "A"
+        },
+        "GroupName": "hf1group",
+        "GroupId": "100148995",
+        "GroupCode": "HFV3PlusF-1-120-P-200520-11",
+        "CustomerProductionStatus": {
+          "Name": "Activated",
+          "Code": "Activated"
+        },
+        "CourseTypeLevel": {
+          "Name": "F",
+          "Code": "HFF"
         },
         "CourseType": {
           "Name": "HF",

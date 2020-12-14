@@ -328,6 +328,88 @@
           "Name": "HF",
           "Code": "HF"
         }
+      },
+      {
+        "CoTeacher": {
+          "Id": 145719,
+          "Name": "Holly Ma"
+        },
+        "CourseTypeLevel": {
+          "Name": "D",
+          "Code": "HFD"
+        },
+        "School": {
+          "Name": "CN Omni Test",
+          "Code": "DCNTES01"
+        },
+        "GroupName": "High Fly 3.0 D",
+        "MainTeacher": {
+          "Id": 145719,
+          "Name": "Katherine"
+        },
+        "CustomerProductionStatus": {
+          "Name": "Studying",
+          "Code": "STU"
+        },
+        "IsCurrentGroup": true,
+        "GroupStatus": {
+          "Name": "Activated",
+          "Code": "A"
+        },
+        "AssignTo": {
+          "Id": 145719,
+          "Name": "Zoe Shang"
+        },
+        "TotalACH": 54,
+        "GroupId": 10042,
+        "SessionACH": 3,
+        "CountryCode": "CN",
+        "CourseType": {
+          "Name": "HF",
+          "Code": "HF"
+        },
+        "GroupCode": "HFV3PlusD-1-60-C-01"
+      },
+      {
+        "CoTeacher": {
+          "Id": 145719,
+          "Name": "Holly Ma"
+        },
+        "CourseTypeLevel": {
+          "Name": "F",
+          "Code": "HFF"
+        },
+        "School": {
+          "Name": "CN Omni Test",
+          "Code": "DCNTES01"
+        },
+        "GroupName": "High Fly 3.0 F",
+        "MainTeacher": {
+          "Id": 145719,
+          "Name": "Katherine"
+        },
+        "CustomerProductionStatus": {
+          "Name": "Studying",
+          "Code": "STU"
+        },
+        "IsCurrentGroup": true,
+        "GroupStatus": {
+          "Name": "Activated",
+          "Code": "A"
+        },
+        "AssignTo": {
+          "Id": 145719,
+          "Name": "Zoe Shang"
+        },
+        "TotalACH": 104,
+        "GroupId": 10042,
+        "SessionACH": 3,
+        "CountryCode": "CN",
+        "CourseType": {
+          "Name": "HF",
+          "Code": "HF"
+        },
+        "GroupCode": "HFV3PlusF-1-60-C-01"
       }
     ],
     "id": "39981176"
@@ -1373,6 +1455,88 @@
           "Name": "HF",
           "Code": "HF"
         }
+      },
+      {
+        "CoTeacher": {
+          "Id": 145719,
+          "Name": "Holly Ma"
+        },
+        "CourseTypeLevel": {
+          "Name": "D",
+          "Code": "HFD"
+        },
+        "School": {
+          "Name": "CN Omni Test",
+          "Code": "DCNTES01"
+        },
+        "GroupName": "High Fly 3.0 D",
+        "MainTeacher": {
+          "Id": 145719,
+          "Name": "Katherine"
+        },
+        "CustomerProductionStatus": {
+          "Name": "Studying",
+          "Code": "STU"
+        },
+        "IsCurrentGroup": true,
+        "GroupStatus": {
+          "Name": "Activated",
+          "Code": "A"
+        },
+        "AssignTo": {
+          "Id": 145719,
+          "Name": "Zoe Shang"
+        },
+        "TotalACH": 54,
+        "GroupId": 10042,
+        "SessionACH": 3,
+        "CountryCode": "CN",
+        "CourseType": {
+          "Name": "HF",
+          "Code": "HF"
+        },
+        "GroupCode": "HFV3PlusD-1-60-C-01"
+      },
+      {
+        "CoTeacher": {
+          "Id": 145719,
+          "Name": "Holly Ma"
+        },
+        "CourseTypeLevel": {
+          "Name": "F",
+          "Code": "HFF"
+        },
+        "School": {
+          "Name": "CN Omni Test",
+          "Code": "DCNTES01"
+        },
+        "GroupName": "High Fly 3.0 F",
+        "MainTeacher": {
+          "Id": 145719,
+          "Name": "Katherine"
+        },
+        "CustomerProductionStatus": {
+          "Name": "Studying",
+          "Code": "STU"
+        },
+        "IsCurrentGroup": true,
+        "GroupStatus": {
+          "Name": "Activated",
+          "Code": "A"
+        },
+        "AssignTo": {
+          "Id": 145719,
+          "Name": "Zoe Shang"
+        },
+        "TotalACH": 104,
+        "GroupId": 10042,
+        "SessionACH": 3,
+        "CountryCode": "CN",
+        "CourseType": {
+          "Name": "HF",
+          "Code": "HF"
+        },
+        "GroupCode": "HFV3PlusF-1-60-C-01"
       }
     ],
     "id": 1002
@@ -7277,6 +7441,47 @@
           "Code": "HF"
         },
         "GroupCode": "HFV3PlusE-1-60-C-01"
+      },
+      {
+        "CoTeacher": {
+          "Id": 145719,
+          "Name": "Holly Ma"
+        },
+        "CourseTypeLevel": {
+          "Name": "F",
+          "Code": "HFF"
+        },
+        "School": {
+          "Name": "CN Omni Test",
+          "Code": "DCNTES01"
+        },
+        "GroupName": "High Fly 3.0 F",
+        "MainTeacher": {
+          "Id": 145719,
+          "Name": "Katherine"
+        },
+        "CustomerProductionStatus": {
+          "Name": "Studying",
+          "Code": "STU"
+        },
+        "IsCurrentGroup": true,
+        "GroupStatus": {
+          "Name": "Activated",
+          "Code": "A"
+        },
+        "AssignTo": {
+          "Id": 145719,
+          "Name": "Zoe Shang"
+        },
+        "TotalACH": 104,
+        "GroupId": 10042,
+        "SessionACH": 3,
+        "CountryCode": "CN",
+        "CourseType": {
+          "Name": "HF",
+          "Code": "HF"
+        },
+        "GroupCode": "HFV3PlusF-1-60-C-01"
       }
     ],
     "id": 9000043
