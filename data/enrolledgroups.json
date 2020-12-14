@@ -888,9 +888,23 @@
         "data": [
             {
                 "CourseTypeCode": "HF",
-                "RemainingACH": 0,
+                "RemainingACH": 100,
                 "CourseLevelCodes": [
                     "C"
+                ]
+            },
+                      {
+                "CourseTypeCode": "HF",
+                "RemainingACH": 100,
+                "CourseLevelCodes": [
+                    "D"
+                ]
+            },
+                      {
+                "CourseTypeCode": "HF",
+                "RemainingACH": 100,
+                "CourseLevelCodes": [
+                    "E"
                 ]
             }
         ],
