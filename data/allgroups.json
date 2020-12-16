@@ -124,7 +124,33 @@
         "EndDate": "2022-04-27",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "smallstar/cn-3/book-1"
+        "ContentPath": "smallstar/cn-3/book-2"
+      },
+      {
+        "StartDate": "2020-04-28",
+        "ProgramLevel": "3",
+        "Program": "SSV3",
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148099",
+        "GroupId": "a0B6D000005BgBPUA1",
+        "EndDate": "2022-04-27",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": "smallstar/cn-3/book-3"
+      },
+      {
+        "StartDate": "2020-04-28",
+        "ProgramLevel": "4",
+        "Program": "SSV3",
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148099",
+        "GroupId": "a0B6D000005BgBPUA1",
+        "EndDate": "2022-04-27",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": "smallstar/cn-3/book-4"
       },
       {
         "StartDate": "2020-04-21",
@@ -871,6 +897,97 @@
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
         "ContentPath": "tb16/cn-3/book-1"
+      },
+      {
+        "StartDate": "2020-05-07",
+        "ProgramLevel": "2",
+        "Program": "TBV3Plus",
+        "GroupType": "Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148729",
+        "GroupId": "a0B6D000005CKWSUA4",
+        "EndDate": "2021-09-23",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": "tb16/cn-3/book-2"
+      },
+      {
+        "StartDate": "2020-05-07",
+        "ProgramLevel": "3",
+        "Program": "TBV3Plus",
+        "GroupType": "Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148729",
+        "GroupId": "a0B6D000005CKWSUA4",
+        "EndDate": "2021-09-23",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": "tb16/cn-3/book-3"
+      },
+      {
+        "StartDate": "2020-05-07",
+        "ProgramLevel": "4",
+        "Program": "TBV3Plus",
+        "GroupType": "Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148729",
+        "GroupId": "a0B6D000005CKWSUA4",
+        "EndDate": "2021-09-23",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": "tb16/cn-3/book-4"
+      },
+      {
+        "StartDate": "2020-05-07",
+        "ProgramLevel": "5",
+        "Program": "TBV3Plus",
+        "GroupType": "Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148729",
+        "GroupId": "a0B6D000005CKWSUA4",
+        "EndDate": "2021-09-23",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": "tb16/cn-3/book-5"
+      },
+      {
+        "StartDate": "2020-05-07",
+        "ProgramLevel": "6",
+        "Program": "TBV3Plus",
+        "GroupType": "Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148729",
+        "GroupId": "a0B6D000005CKWSUA4",
+        "EndDate": "2021-09-23",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": "tb16/cn-3/book-6"
+      },
+      {
+        "StartDate": "2020-05-07",
+        "ProgramLevel": "7",
+        "Program": "TBV3Plus",
+        "GroupType": "Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148729",
+        "GroupId": "a0B6D000005CKWSUA4",
+        "EndDate": "2021-09-23",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": "tb16/cn-3/book-7"
+      },
+      {
+        "StartDate": "2020-05-07",
+        "ProgramLevel": "8",
+        "Program": "TBV3Plus",
+        "GroupType": "Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148729",
+        "GroupId": "a0B6D000005CKWSUA4",
+        "EndDate": "2021-09-23",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": "tb16/cn-3/book-8"
       }
     ]
   },
