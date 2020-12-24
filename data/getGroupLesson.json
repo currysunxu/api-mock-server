@@ -147,7 +147,7 @@
     "attendanceResult": "Present"
   },
     {
-    "timestamp": "2020-12-24T06:25:23.967Z",
+    "timestamp": "2020-10-24T06:25:23.967Z",
     "teacherName": "Teacher Pernethyia",
     "teacherId": "a5R2x00000002quEAA",
     "teacherAvatarUrl": "https://axis.englishtown.cn/opt-media/?id=c8bf466a-0bdf-4750-a8aa-7958d802c741",
@@ -170,7 +170,7 @@
       {
         "UnitNumber": "5",
         "OnlineLessonTopicId": "10298",
-        "OnlineLessonTopic": "Meet my Family Lesson 1",
+        "OnlineLessonTopic": "Meet my City wide group 1",
         "LessonNumber": "1",
         "ContentPath": "highflyers/cn-3-144/book-7/unit-5/assginment-1"
       },
@@ -183,7 +183,7 @@
       }
     ],
     "isRemoved": false,
-    "groupType": "Online Classroom",
+    "groupType": "City-Wide Classroom",
     "groupNumber": null,
     "groupId": "a0B2x000001phqlEAA",
     "evcToken": "98b4977c-c3ef-4640-9aeb-f1655993e421",
