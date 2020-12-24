@@ -1,149 +1,100 @@
 [
   {
-    "id": 101071985,
-    "reservationId": "a0G6D000001ZbCaUAK",
-    "data": {
-      "teacherName": "Thom",
-      "teacherId": "a5R0I0000022bRQUAY",
-      "teacherAvatarUrl": null,
-      "teacherAccent": "British",
-      "studentpwd": "384822",
-      "startTime": "2020-08-24T11:30:00.000Z",
-      "skillFocus": null,
-      "sessionType": "Online Class",
-      "sessionStatus": "Activated",
-      "sessionId": "112743328",
-      "sequenceNumber": 15,
-      "roomId": "1209200384",
-      "reservationId": "a0G6D000001ZbCaUAK",
-      "programLevel": "C",
-      "program": "HFV3Plus",
-      "offlineSessionId": "a0G6D000001ZbCaUAK",
-      "lessons": [
-        {
-          "UnitNumber": "5",
-          "OnlineLessonTopicId": null,
-          "OnlineLessonTopic": null,
-          "LessonNumber": "1",
-          "ContentPath": null
-        },
-        {
-          "UnitNumber": null,
-          "OnlineLessonTopicId": "10279",
-          "OnlineLessonTopic": "Try Your Best Lesson 2",
-          "LessonNumber": null,
-          "ContentPath": null
-        }
-      ],
-      "isRemoved": false,
-      "groupType": "Classroom",
-      "groupNumber": "100148369",
-      "groupId": "a0B6D000005CDzHUAW",
-      "evcToken": null,
-      "entryLink": "https://global.talk-cloud.net/WebAPI/entry/domain/efdemo/serial/1209200384/pid/101071985/username/Student12_Corona/usertype/2/ts/1597913183/auth/42885041bf3a9bf6c51bdebc8e566c99",
-      "endTime": "2020-08-24T13:00:00.000Z",
-      "customerId": "101071985",
-      "centerCode": "DCNSHA33",
-      "attendanceStatus": "Pending",
-      "attendanceResult": null
-    }
+    "timestamp": "2020-12-24T06:25:23.967Z",
+    "teacherName": "Teacher Pernethyia",
+    "teacherId": "a5R2x00000002quEAA",
+    "teacherAvatarUrl": "https://axis.englishtown.cn/opt-media/?id=c8bf466a-0bdf-4750-a8aa-7958d802c741",
+    "teacherAccent": "American",
+    "studentpwd": null,
+    "startTime": "2020-12-18T12:30:00.000Z",
+    "skillFocus": null,
+    "sessionType": "Online Classroom",
+    "sessionStatus": "Completed",
+    "sessionId": "122722535",
+    "sequenceNumber": 11,
+    "season": null,
+    "roomId": null,
+    "reservationId": "a0G2x000003XHQsABC",
+    "programLevel": "D",
+    "program": "HFV3Plus",
+    "pdDesignation": null,
+    "offlineSessionId": null,
+    "lessons": [
+      {
+        "UnitNumber": "5",
+        "OnlineLessonTopicId": "10298",
+        "OnlineLessonTopic": "Meet my Family Lesson 1",
+        "LessonNumber": "1",
+        "ContentPath": null
+      },
+      {
+        "UnitNumber": "5",
+        "OnlineLessonTopicId": null,
+        "OnlineLessonTopic": null,
+        "LessonNumber": "1",
+        "ContentPath": null
+      }
+    ],
+    "isRemoved": false,
+    "groupType": "Online Classroom",
+    "groupNumber": null,
+    "groupId": "a0B2x000001phqlEAA",
+    "evcToken": "98b4977c-c3ef-4640-9aeb-f1655993e421",
+    "entryLink": "https://global.talk-cloud.net/WebAPI/entry/domain/ef/serial/null/pid/38843142/username/cheng_Ricky/usertype/2/ts/1608791123/auth/52d4c46b919f6d0c8c63b71098dcb0b9",
+    "endTime": "2020-12-18T13:00:00.000Z",
+    "customerId": "1071",
+    "centerCode": "BJL",
+    "businessUnit": "China Own",
+    "attendanceStatus": "Completed",
+    "attendanceResult": "Present"
   },
-  {
-    "id": 1070,
-    "reservationId": "a0G6D000001ZbCaUAK",
-    "data": {
-      "teacherName": "Curry",
-      "teacherId": "a5R0I0000022bRQUAY",
-      "teacherAvatarUrl": null,
-      "teacherAccent": "American",
-      "studentpwd": "384823",
-      "startTime": "2020-08-24T11:30:00.000Z",
-      "skillFocus": null,
-      "sessionType": "Online",
-      "sessionStatus": "Activated",
-      "sessionId": "112743328",
-      "sequenceNumber": 15,
-      "roomId": "1209200384",
-      "reservationId": "a0G6D000001ZbCaUAK",
-      "programLevel": "D",
-      "program": "HFV3Plus",
-      "offlineSessionId": "a0G6D000001ZbCaUAK",
-      "lessons": [
-        {
-          "UnitNumber": "5",
-          "OnlineLessonTopicId": null,
-          "OnlineLessonTopic": null,
-          "LessonNumber": "1",
-          "ContentPath": null
-        },
-        {
-          "UnitNumber": null,
-          "OnlineLessonTopicId": "10278",
-          "OnlineLessonTopic": "Try Your Best Lesson 1",
-          "LessonNumber": null,
-          "ContentPath": null
-        }
-      ],
-      "isRemoved": false,
-      "groupType": "Online Classroom",
-      "groupNumber": "100148369",
-      "groupId": "a0B6D000005CDzHUAW",
-      "evcToken": null,
-      "entryLink": "https://global.talk-cloud.net/WebAPI/entry/domain/efdemo/serial/1209200384/pid/101071985/username/Student12_Corona/usertype/2/ts/1597913183/auth/42885041bf3a9bf6c51bdebc8e566c99",
-      "endTime": "2020-08-24T13:00:00.000Z",
-      "customerId": "1070",
-      "centerCode": "DCNSHA33",
-      "attendanceStatus": "Pending",
-      "attendanceResult": null
-    }
-  },
-  {
-    "id": 1071,
-    "reservationId": "a0G6D000001ZbCaUAK",
-    "data": {
-      "teacherName": "Curry",
-      "teacherId": "a5R0I0000022bRQUAY",
-      "teacherAvatarUrl": null,
-      "teacherAccent": null,
-      "studentpwd": "384824",
-      "startTime": "2020-07-30T11:30:00.000Z",
-      "skillFocus": null,
-      "sessionType": "CLASSROOM",
-      "sessionStatus": "Activated",
-      "sessionId": "112743328",
-      "sequenceNumber": 15,
-      "roomId": "1209200384",
-      "reservationId": "a0G6D000001ZbCaUAK",
-      "programLevel": "D",
-      "program": "HFV3Plus",
-      "offlineSessionId": "a0G6D000001ZbCaUAK",
-      "lessons": [
-        {
-          "UnitNumber": "3",
-          "OnlineLessonTopicId": null,
-          "OnlineLessonTopic": null,
-          "LessonNumber": "2",
-          "ContentPath": null
-        },
-        {
-          "UnitNumber": null,
-          "OnlineLessonTopicId": "10278",
-          "OnlineLessonTopic": "Try Your Best Lesson 1",
-          "LessonNumber": null,
-          "ContentPath": null
-        }
-      ],
-      "isRemoved": false,
-      "groupType": "City-Wide Classroom",
-      "groupNumber": "100148369",
-      "groupId": "a0B6D000005CDzHUAW",
-      "evcToken": null,
-      "entryLink": "https://global.talk-cloud.net/WebAPI/entry/domain/efdemo/serial/1209200384/pid/101071985/username/Student12_Corona/usertype/2/ts/1597913183/auth/42885041bf3a9bf6c51bdebc8e566c99",
-      "endTime": "2020-08-24T13:00:00.000Z",
-      "customerId": "1071",
-      "centerCode": "DCNSHA33",
-      "attendanceStatus": "Pending",
-      "attendanceResult": null
-    }
+    {
+    "timestamp": "2020-12-22T06:25:23.967Z",
+    "teacherName": "Teacher Pernethyia",
+    "teacherId": "a5R2x00000002quEBB",
+    "teacherAvatarUrl": "https://axis.englishtown.cn/opt-media/?id=c8bf466a-0bdf-4750-a8aa-7958d802c741",
+    "teacherAccent": "American",
+    "studentpwd": null,
+    "startTime": "2020-12-20T12:30:00.000Z",
+    "skillFocus": null,
+    "sessionType": "Online Class",
+    "sessionStatus": "Completed",
+    "sessionId": "122722535",
+    "sequenceNumber": 11,
+    "season": null,
+    "roomId": null,
+    "reservationId": "a0G2x000003XHQsEAO",
+    "programLevel": "D",
+    "program": "HFV3Plus",
+    "pdDesignation": null,
+    "offlineSessionId": "a0G2x000003XHQsTYX",
+    "lessons": [
+      {
+        "UnitNumber": "5",
+        "OnlineLessonTopicId": "10298",
+        "OnlineLessonTopic": "Meet my Family Lesson 1",
+        "LessonNumber": "1",
+        "ContentPath": null
+      },
+      {
+        "UnitNumber": "5",
+        "OnlineLessonTopicId": null,
+        "OnlineLessonTopic": null,
+        "LessonNumber": "1",
+        "ContentPath": null
+      }
+    ],
+    "isRemoved": false,
+    "groupType": "Online Classroom",
+    "groupNumber": null,
+    "groupId": "a0B2x000001phqlEQA",
+    "evcToken": "98b4977c-c3ef-4640-9aeb-f1655993e421",
+    "entryLink": "https://global.talk-cloud.net/WebAPI/entry/domain/ef/serial/null/pid/38843142/username/cheng_Ricky/usertype/2/ts/1608791123/auth/52d4c46b919f6d0c8c63b71098dcb0b9",
+    "endTime": "2020-12-20T13:00:00.000Z",
+    "customerId": "1071",
+    "centerCode": "BJL",
+    "businessUnit": "China Own",
+    "attendanceStatus": "Pending",
+    "attendanceResult": ""
   }
 ]
