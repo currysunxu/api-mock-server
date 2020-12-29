@@ -1867,5 +1867,85 @@
         "ContentPath": "grammar-tutor/level-5/noun-quantifiers/lesson-2"
       }
     ]
+  },
+  {
+    "id": 102040492,
+    "data": [
+      {
+        "StartDate": "2020-12-16",
+        "Season": null,
+        "ProgramLevel": "D",
+        "Program": "HFV3Plus",
+        "PDDesignation": "HF 3.5",
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": "Completed",
+        "GroupNumber": "100221525",
+        "GroupId": "a0B1s000000kvYOEAY",
+        "EndDate": "2020-12-16",
+        "CustomerProductionStatus": "Completed",
+        "CountryCode": "CN",
+        "ContentPath": "highflyers/cn-3/book-2"
+      },
+      {
+        "StartDate": "2020-11-12",
+        "Season": null,
+        "ProgramLevel": "F",
+        "Program": "HFV3Plus",
+        "PDDesignation": null,
+        "GroupType": "Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100221401",
+        "GroupId": "a0B1s000000kbJDEAY",
+        "EndDate": "2021-01-21",
+        "CustomerProductionStatus": "Swapped",
+        "CountryCode": "CN",
+        "ContentPath": null
+      },
+      {
+        "StartDate": "2020-10-19",
+        "Season": null,
+        "ProgramLevel": "C",
+        "Program": "HFV3Plus",
+        "PDDesignation": null,
+        "GroupType": "Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100221398",
+        "GroupId": "a0B1s000000jCxTEAU",
+        "EndDate": "2020-12-03",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": null
+      },
+      {
+        "StartDate": "2020-09-03",
+        "Season": null,
+        "ProgramLevel": "D",
+        "Program": "HFV3Plus",
+        "PDDesignation": "HF 3.5",
+        "GroupType": "Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100221397",
+        "GroupId": "a0B1s000000jCwzEAE",
+        "EndDate": "2020-12-28",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": null
+      },
+      {
+        "StartDate": "2020-07-19",
+        "Season": null,
+        "ProgramLevel": "E",
+        "Program": "HFV3Plus",
+        "PDDesignation": null,
+        "GroupType": "Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100221395",
+        "GroupId": "a0B1s000000j7zEEAQ",
+        "EndDate": "2020-12-28",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": null
+      }
+    ]
   }
 ]
