@@ -3005,5 +3005,963 @@
       "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
       "customerId": "10701"
     }
+  },
+  {
+    "id": 102040492,
+    "data": {
+      "groups": [
+        {
+          "usedACH": 0,
+          "totalACH": 60,
+          "timezone": "(GMT+08:00) China Standard Time (Asia/Shanghai)",
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "programLevelId": "100545",
+          "programLevel": "D",
+          "program": "High Flyers",
+          "name": "Book D PT Test",
+          "leftACH": 3,
+          "isCurrentGroup": false,
+          "id": "100221397",
+          "allSessions": [
+            {
+              "startTime": "2020-09-24T09:00:00.000Z",
+              "sessionType": "Open Lesson",
+              "sessionID": "120973772",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 3,
+                  "lesson": 4
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-10-09T18:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973780",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 6,
+                  "lesson": 1
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-10-08T17:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973779",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 5,
+                  "lesson": 3
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-10-08T09:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973778",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 5,
+                  "lesson": 2
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-09-18T18:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973771",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 3,
+                  "lesson": 3
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-09-17T17:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973770",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 3,
+                  "lesson": 2
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-09-17T09:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973769",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 3,
+                  "lesson": 1
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-09-04T18:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973765",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 1,
+                  "lesson": 3
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-09-03T17:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973764",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 1,
+                  "lesson": 2
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-09-03T09:00:00.000Z",
+              "sessionType": "Course Orientation",
+              "sessionID": "120973763",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 1,
+                  "lesson": 1
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-12-28T17:05:00.000Z",
+              "sessionType": "Achievement Ceremony",
+              "sessionID": "120973783",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 6,
+                  "lesson": 4
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-10-15T17:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973782",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 6,
+                  "lesson": 3
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-10-15T09:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973781",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 6,
+                  "lesson": 2
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-09-11T18:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973768",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 2,
+                  "lesson": 3
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-09-10T17:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973767",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 2,
+                  "lesson": 2
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-09-10T09:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973766",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 2,
+                  "lesson": 1
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-10-02T18:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973777",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 5,
+                  "lesson": 1
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-10-01T17:00:00.000Z",
+              "sessionType": "Parent Teacher Conference",
+              "sessionID": "120973776",
+              "sessionACH": 0,
+              "lessons": [],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-10-01T09:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973775",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 4,
+                  "lesson": 3
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-09-25T18:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973774",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 4,
+                  "lesson": 2
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-09-24T17:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973773",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 4,
+                  "lesson": 1
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            }
+          ],
+          "achPerLesson": 3
+        },
+        {
+          "usedACH": 0,
+          "totalACH": 60,
+          "timezone": "(GMT+08:00) China Standard Time (Asia/Shanghai)",
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "programLevelId": "100546",
+          "programLevel": "E",
+          "program": "High Flyers",
+          "name": "PTViewer HFE",
+          "leftACH": 3,
+          "isCurrentGroup": true,
+          "id": "100221395",
+          "allSessions": [
+            {
+              "startTime": "2020-12-21T02:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973707",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 6,
+                  "lesson": 2
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-12-24T04:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973708",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 6,
+                  "lesson": 3
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-12-28T02:00:00.000Z",
+              "sessionType": "Achievement Ceremony",
+              "sessionID": "120973709",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 6,
+                  "lesson": 4
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-07-19T02:00:00.000Z",
+              "sessionType": "Course Orientation",
+              "sessionID": "120973689",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 1,
+                  "lesson": 1
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-07-22T04:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973690",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 1,
+                  "lesson": 2
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-07-26T02:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973691",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 1,
+                  "lesson": 3
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-11-12T07:00:00.000Z",
+              "sessionType": "Open Lesson",
+              "sessionID": "120973698",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 3,
+                  "lesson": 4
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-11-13T07:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973699",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 4,
+                  "lesson": 1
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-11-26T04:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973700",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 4,
+                  "lesson": 2
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-12-10T04:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973704",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 5,
+                  "lesson": 2
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-12-14T02:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973705",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 5,
+                  "lesson": 3
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-12-17T04:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973706",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 6,
+                  "lesson": 1
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-10-29T10:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973695",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 3,
+                  "lesson": 1
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-11-06T08:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973696",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 3,
+                  "lesson": 2
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-11-11T07:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973697",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 3,
+                  "lesson": 3
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-11-30T02:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973701",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 4,
+                  "lesson": 3
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-12-03T04:00:00.000Z",
+              "sessionType": "Parent Teacher Conference",
+              "sessionID": "120973702",
+              "sessionACH": 0,
+              "lessons": [],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-12-07T02:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973703",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 5,
+                  "lesson": 1
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-07-29T04:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973692",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 2,
+                  "lesson": 1
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-08-02T02:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973693",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 2,
+                  "lesson": 2
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-10-22T00:20:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973694",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 2,
+                  "lesson": 3
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            }
+          ],
+          "achPerLesson": 3
+        },
+        {
+          "usedACH": 0,
+          "totalACH": 60,
+          "timezone": "(GMT+08:00) China Standard Time (Asia/Shanghai)",
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "programLevelId": "100544",
+          "programLevel": "C",
+          "program": "High Flyers",
+          "name": "Book C Unit Quiz",
+          "leftACH": 3,
+          "isCurrentGroup": false,
+          "id": "100221398",
+          "allSessions": [
+            {
+              "startTime": "2020-11-08T17:00:00.000Z",
+              "sessionType": "Open Lesson",
+              "sessionID": "120973799",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 3,
+                  "lesson": 4
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-11-09T18:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973800",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 4,
+                  "lesson": 1
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-11-12T09:35:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973801",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 4,
+                  "lesson": 2
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-11-22T17:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973805",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 5,
+                  "lesson": 2
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-11-23T18:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973806",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 5,
+                  "lesson": 3
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-11-26T09:35:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973807",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 6,
+                  "lesson": 1
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-11-29T17:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973808",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 6,
+                  "lesson": 2
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-11-30T18:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973809",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 6,
+                  "lesson": 3
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-12-03T09:35:00.000Z",
+              "sessionType": "Achievement Ceremony",
+              "sessionID": "120973810",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 6,
+                  "lesson": 4
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-11-01T17:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973796",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 3,
+                  "lesson": 1
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-11-02T18:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973797",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 3,
+                  "lesson": 2
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-11-05T09:35:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973798",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 3,
+                  "lesson": 3
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-10-25T17:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973793",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 2,
+                  "lesson": 1
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-10-26T18:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973794",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 2,
+                  "lesson": 2
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-10-29T09:35:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973795",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 2,
+                  "lesson": 3
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-11-15T17:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973802",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 4,
+                  "lesson": 3
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-11-16T18:00:00.000Z",
+              "sessionType": "Parent Teacher Conference",
+              "sessionID": "120973803",
+              "sessionACH": 0,
+              "lessons": [],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-11-19T09:35:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973804",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 5,
+                  "lesson": 1
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-10-18T17:00:00.000Z",
+              "sessionType": "Course Orientation",
+              "sessionID": "120973790",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 1,
+                  "lesson": 1
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-10-19T18:00:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973791",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 1,
+                  "lesson": 2
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            },
+            {
+              "startTime": "2020-10-22T09:35:00.000Z",
+              "sessionType": "Classroom",
+              "sessionID": "120973792",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 1,
+                  "lesson": 3
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            }
+          ],
+          "achPerLesson": 3
+        },
+        {
+          "usedACH": 0,
+          "totalACH": 60,
+          "timezone": "(GMT+08:00) China Standard Time (Asia/Shanghai)",
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "programLevelId": "100547",
+          "programLevel": "F",
+          "program": "High Flyers",
+          "name": "PTViewer HFF",
+          "leftACH": 3,
+          "isCurrentGroup": false,
+          "id": "100221401",
+          "allSessions": [
+            {
+              "startTime": "2020-11-12T10:00:00.000Z",
+              "sessionType": "Course Orientation",
+              "sessionID": "120974138",
+              "sessionACH": 3,
+              "lessons": [
+                {
+                  "unit": 1,
+                  "lesson": 1
+                }
+              ],
+              "isPTSession": false,
+              "attendanceResult": "Future"
+            }
+          ],
+          "achPerLesson": 3
+        }
+      ],
+      "customerPhotoUrl": null,
+      "customerId": "102040492"
+    }
   }
 ]
