@@ -474,6 +474,132 @@
           "Name": "SZ2FT2",
           "Code": "SZH"
         },
+        "ProgramLevel": "D",
+        "Program": "HFV3Plus",
+        "MainTeacher": {
+          "Name": "Erik Ogle",
+          "Id": "10072329"
+        },
+        "IsCurrentGroup": true,
+        "GroupType": "Classroom",
+        "GroupStatus": {
+          "Name": "Activated",
+          "Code": "A"
+        },
+        "GroupName": "hf1group",
+        "GroupId": "100148995",
+        "GroupCode": "HFV3PlusD-1-120-P-200520-11",
+        "CustomerProductionStatus": {
+          "Name": "Activated",
+          "Code": "Activated"
+        },
+        "CourseTypeLevel": {
+          "Name": "D",
+          "Code": "HFD"
+        },
+        "CourseType": {
+          "Name": "HF",
+          "Code": "HF"
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "AssignTo": {
+          "Name": "SZ2Ida ChenPA",
+          "Id": "8000006"
+        }
+      },
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "E",
+        "Program": "HFV3Plus",
+        "MainTeacher": {
+          "Name": "Erik Ogle",
+          "Id": "10072329"
+        },
+        "IsCurrentGroup": true,
+        "GroupType": "Classroom",
+        "GroupStatus": {
+          "Name": "Activated",
+          "Code": "A"
+        },
+        "GroupName": "hf1group",
+        "GroupId": "100148995",
+        "GroupCode": "HFV3PlusE-1-120-P-200520-11",
+        "CustomerProductionStatus": {
+          "Name": "Activated",
+          "Code": "Activated"
+        },
+        "CourseTypeLevel": {
+          "Name": "E",
+          "Code": "HFE"
+        },
+        "CourseType": {
+          "Name": "HF",
+          "Code": "HF"
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "AssignTo": {
+          "Name": "SZ2Ida ChenPA",
+          "Id": "8000006"
+        }
+      },
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
+        "ProgramLevel": "F",
+        "Program": "HFV3Plus",
+        "MainTeacher": {
+          "Name": "Erik Ogle",
+          "Id": "10072329"
+        },
+        "IsCurrentGroup": true,
+        "GroupType": "Classroom",
+        "GroupStatus": {
+          "Name": "Activated",
+          "Code": "A"
+        },
+        "GroupName": "hf1group",
+        "GroupId": "100148995",
+        "GroupCode": "HFV3PlusF-1-120-P-200520-11",
+        "CustomerProductionStatus": {
+          "Name": "Activated",
+          "Code": "Activated"
+        },
+        "CourseTypeLevel": {
+          "Name": "F",
+          "Code": "HFF"
+        },
+        "CourseType": {
+          "Name": "HF",
+          "Code": "HF"
+        },
+        "CountryCode": "CN",
+        "CoTeacher": {
+          "Name": "David Telfer",
+          "Id": "10073631"
+        },
+        "AssignTo": {
+          "Name": "SZ2Ida ChenPA",
+          "Id": "8000006"
+        }
+      },
+      {
+        "School": {
+          "Name": "SZ2FT2",
+          "Code": "SZH"
+        },
         "ProgramLevel": "2",
         "Program": "PHV1",
         "MainTeacher": {
@@ -1806,720 +1932,720 @@
   {
     "id": 1063,
     "data": [
-   {
+      {
         "School": {
-            "Name": null,
-            "Code": null
+          "Name": null,
+          "Code": null
         },
         "ProgramLevel": null,
         "Program": "HFV3Plus",
         "MainTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "IsCurrentGroup": false,
         "GroupType": "Online Classroom",
         "GroupStatus": {
-            "Name": "Activated",
-            "Code": "A"
+          "Name": "Activated",
+          "Code": "A"
         },
         "GroupName": "1063-HFV3Plus",
         "GroupId": null,
         "GroupCode": null,
         "CustomerProductionStatus": {
-            "Name": "Activated",
-            "Code": "Activated"
+          "Name": "Activated",
+          "Code": "Activated"
         },
         "CourseTypeLevel": {
-            "Name": null,
-            "Code": null
+          "Name": null,
+          "Code": null
         },
         "CourseType": {
-            "Name": "HF",
-            "Code": "HF"
+          "Name": "HF",
+          "Code": "HF"
         },
         "CountryCode": null,
         "CoTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "AssignTo": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         }
-    },
-    {
+      },
+      {
         "School": {
-            "Name": "CN Omni Test",
-            "Code": "DCNTES01"
+          "Name": "CN Omni Test",
+          "Code": "DCNTES01"
         },
         "ProgramLevel": "4",
         "Program": "FRV1",
         "MainTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "IsCurrentGroup": false,
         "GroupType": "Classroom",
         "GroupStatus": {
-            "Name": "Activated",
-            "Code": "A"
+          "Name": "Activated",
+          "Code": "A"
         },
         "GroupName": "Frontrunner 1.0 Book4",
         "GroupId": "10029",
         "GroupCode": "FRV14-1-120-A-04",
         "CustomerProductionStatus": {
-            "Name": "Activated",
-            "Code": "Activated"
+          "Name": "Activated",
+          "Code": "Activated"
         },
         "CourseTypeLevel": {
-            "Name": "a2.2",
-            "Code": "a2.2"
+          "Name": "a2.2",
+          "Code": "a2.2"
         },
         "CourseType": {
-            "Name": "FR",
-            "Code": "FR"
+          "Name": "FR",
+          "Code": "FR"
         },
         "CountryCode": "CN",
         "CoTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "AssignTo": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         }
-    },
-    {
+      },
+      {
         "School": {
-            "Name": "CN Omni Test",
-            "Code": "DCNTES01"
+          "Name": "CN Omni Test",
+          "Code": "DCNTES01"
         },
         "ProgramLevel": "16",
         "Program": "FRV1",
         "MainTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "IsCurrentGroup": false,
         "GroupType": "Classroom",
         "GroupStatus": {
-            "Name": "Activated",
-            "Code": "A"
+          "Name": "Activated",
+          "Code": "A"
         },
         "GroupName": "Frontrunner 1.0 Book16",
         "GroupId": "10041",
         "GroupCode": "FRV116-1-120-A-16",
         "CustomerProductionStatus": {
-            "Name": "Activated",
-            "Code": "Activated"
+          "Name": "Activated",
+          "Code": "Activated"
         },
         "CourseTypeLevel": {
-            "Name": "c1.2.2",
-            "Code": "c1.2.2"
+          "Name": "c1.2.2",
+          "Code": "c1.2.2"
         },
         "CourseType": {
-            "Name": "FR",
-            "Code": "FR"
+          "Name": "FR",
+          "Code": "FR"
         },
         "CountryCode": "CN",
         "CoTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "AssignTo": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         }
-    },
-    {
+      },
+      {
         "School": {
-            "Name": "CN Omni Test",
-            "Code": "DCNTES01"
+          "Name": "CN Omni Test",
+          "Code": "DCNTES01"
         },
         "ProgramLevel": "15",
         "Program": "FRV1",
         "MainTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "IsCurrentGroup": false,
         "GroupType": "Classroom",
         "GroupStatus": {
-            "Name": "Activated",
-            "Code": "A"
+          "Name": "Activated",
+          "Code": "A"
         },
         "GroupName": "Frontrunner 1.0 Book15",
         "GroupId": "10040",
         "GroupCode": "FRV115-1-120-A-15",
         "CustomerProductionStatus": {
-            "Name": "Activated",
-            "Code": "Activated"
+          "Name": "Activated",
+          "Code": "Activated"
         },
         "CourseTypeLevel": {
-            "Name": "c1.2.1",
-            "Code": "c1.2.1"
+          "Name": "c1.2.1",
+          "Code": "c1.2.1"
         },
         "CourseType": {
-            "Name": "FR",
-            "Code": "FR"
+          "Name": "FR",
+          "Code": "FR"
         },
         "CountryCode": "CN",
         "CoTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "AssignTo": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         }
-    },
-    {
+      },
+      {
         "School": {
-            "Name": "CN Omni Test",
-            "Code": "DCNTES01"
+          "Name": "CN Omni Test",
+          "Code": "DCNTES01"
         },
         "ProgramLevel": "14",
         "Program": "FRV1",
         "MainTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "IsCurrentGroup": false,
         "GroupType": "Classroom",
         "GroupStatus": {
-            "Name": "Activated",
-            "Code": "A"
+          "Name": "Activated",
+          "Code": "A"
         },
         "GroupName": "Frontrunner 1.0 Book14",
         "GroupId": "10039",
         "GroupCode": "FRV114-1-120-A-14",
         "CustomerProductionStatus": {
-            "Name": "Activated",
-            "Code": "Activated"
+          "Name": "Activated",
+          "Code": "Activated"
         },
         "CourseTypeLevel": {
-            "Name": "c1.1.2",
-            "Code": "c1.1.2"
+          "Name": "c1.1.2",
+          "Code": "c1.1.2"
         },
         "CourseType": {
-            "Name": "FR",
-            "Code": "FR"
+          "Name": "FR",
+          "Code": "FR"
         },
         "CountryCode": "CN",
         "CoTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "AssignTo": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         }
-    },
-    {
+      },
+      {
         "School": {
-            "Name": "CN Omni Test",
-            "Code": "DCNTES01"
+          "Name": "CN Omni Test",
+          "Code": "DCNTES01"
         },
         "ProgramLevel": "13",
         "Program": "FRV1",
         "MainTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "IsCurrentGroup": false,
         "GroupType": "Classroom",
         "GroupStatus": {
-            "Name": "Activated",
-            "Code": "A"
+          "Name": "Activated",
+          "Code": "A"
         },
         "GroupName": "Frontrunner 1.0 Book13",
         "GroupId": "10038",
         "GroupCode": "FRV113-1-120-A-13",
         "CustomerProductionStatus": {
-            "Name": "Activated",
-            "Code": "Activated"
+          "Name": "Activated",
+          "Code": "Activated"
         },
         "CourseTypeLevel": {
-            "Name": "c1.1.1",
-            "Code": "c1.1.1"
+          "Name": "c1.1.1",
+          "Code": "c1.1.1"
         },
         "CourseType": {
-            "Name": "FR",
-            "Code": "FR"
+          "Name": "FR",
+          "Code": "FR"
         },
         "CountryCode": "CN",
         "CoTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "AssignTo": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         }
-    },
-    {
+      },
+      {
         "School": {
-            "Name": "CN Omni Test",
-            "Code": "DCNTES01"
+          "Name": "CN Omni Test",
+          "Code": "DCNTES01"
         },
         "ProgramLevel": "12",
         "Program": "FRV1",
         "MainTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "IsCurrentGroup": false,
         "GroupType": "Classroom",
         "GroupStatus": {
-            "Name": "Activated",
-            "Code": "A"
+          "Name": "Activated",
+          "Code": "A"
         },
         "GroupName": "Frontrunner 1.0 Book12",
         "GroupId": "10037",
         "GroupCode": "FRV112-1-120-A-12",
         "CustomerProductionStatus": {
-            "Name": "Activated",
-            "Code": "Activated"
+          "Name": "Activated",
+          "Code": "Activated"
         },
         "CourseTypeLevel": {
-            "Name": "b2.2.2",
-            "Code": "b2.2.2"
+          "Name": "b2.2.2",
+          "Code": "b2.2.2"
         },
         "CourseType": {
-            "Name": "FR",
-            "Code": "FR"
+          "Name": "FR",
+          "Code": "FR"
         },
         "CountryCode": "CN",
         "CoTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "AssignTo": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         }
-    },
-    {
+      },
+      {
         "School": {
-            "Name": "CN Omni Test",
-            "Code": "DCNTES01"
+          "Name": "CN Omni Test",
+          "Code": "DCNTES01"
         },
         "ProgramLevel": "11",
         "Program": "FRV1",
         "MainTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "IsCurrentGroup": false,
         "GroupType": "Classroom",
         "GroupStatus": {
-            "Name": "Activated",
-            "Code": "A"
+          "Name": "Activated",
+          "Code": "A"
         },
         "GroupName": "Frontrunner 1.0 Book11",
         "GroupId": "10036",
         "GroupCode": "FRV111-1-120-A-11",
         "CustomerProductionStatus": {
-            "Name": "Activated",
-            "Code": "Activated"
+          "Name": "Activated",
+          "Code": "Activated"
         },
         "CourseTypeLevel": {
-            "Name": "b2.2.1",
-            "Code": "b2.2.1"
+          "Name": "b2.2.1",
+          "Code": "b2.2.1"
         },
         "CourseType": {
-            "Name": "FR",
-            "Code": "FR"
+          "Name": "FR",
+          "Code": "FR"
         },
         "CountryCode": "CN",
         "CoTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "AssignTo": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         }
-    },
-    {
+      },
+      {
         "School": {
-            "Name": "CN Omni Test",
-            "Code": "DCNTES01"
+          "Name": "CN Omni Test",
+          "Code": "DCNTES01"
         },
         "ProgramLevel": "10",
         "Program": "FRV1",
         "MainTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "IsCurrentGroup": false,
         "GroupType": "Classroom",
         "GroupStatus": {
-            "Name": "Activated",
-            "Code": "A"
+          "Name": "Activated",
+          "Code": "A"
         },
         "GroupName": "Frontrunner 1.0 Book10",
         "GroupId": "10035",
         "GroupCode": "FRV110-1-120-A-10",
         "CustomerProductionStatus": {
-            "Name": "Activated",
-            "Code": "Activated"
+          "Name": "Activated",
+          "Code": "Activated"
         },
         "CourseTypeLevel": {
-            "Name": "b2.1.2",
-            "Code": "b2.1.2"
+          "Name": "b2.1.2",
+          "Code": "b2.1.2"
         },
         "CourseType": {
-            "Name": "FR",
-            "Code": "FR"
+          "Name": "FR",
+          "Code": "FR"
         },
         "CountryCode": "CN",
         "CoTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "AssignTo": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         }
-    },
-    {
+      },
+      {
         "School": {
-            "Name": "CN Omni Test",
-            "Code": "DCNTES01"
+          "Name": "CN Omni Test",
+          "Code": "DCNTES01"
         },
         "ProgramLevel": "9",
         "Program": "FRV1",
         "MainTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "IsCurrentGroup": false,
         "GroupType": "Classroom",
         "GroupStatus": {
-            "Name": "Activated",
-            "Code": "A"
+          "Name": "Activated",
+          "Code": "A"
         },
         "GroupName": "Frontrunner 1.0 Book9",
         "GroupId": "10034",
         "GroupCode": "FRV19-1-120-A-09",
         "CustomerProductionStatus": {
-            "Name": "Activated",
-            "Code": "Activated"
+          "Name": "Activated",
+          "Code": "Activated"
         },
         "CourseTypeLevel": {
-            "Name": "b2.1.1",
-            "Code": "b2.1.1"
+          "Name": "b2.1.1",
+          "Code": "b2.1.1"
         },
         "CourseType": {
-            "Name": "FR",
-            "Code": "FR"
+          "Name": "FR",
+          "Code": "FR"
         },
         "CountryCode": "CN",
         "CoTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "AssignTo": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         }
-    },
-    {
+      },
+      {
         "School": {
-            "Name": "CN Omni Test",
-            "Code": "DCNTES01"
+          "Name": "CN Omni Test",
+          "Code": "DCNTES01"
         },
         "ProgramLevel": "8",
         "Program": "FRV1",
         "MainTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "IsCurrentGroup": false,
         "GroupType": "Classroom",
         "GroupStatus": {
-            "Name": "Activated",
-            "Code": "A"
+          "Name": "Activated",
+          "Code": "A"
         },
         "GroupName": "Frontrunner 1.0 Book8",
         "GroupId": "10033",
         "GroupCode": "FRV18-1-120-A-08",
         "CustomerProductionStatus": {
-            "Name": "Activated",
-            "Code": "Activated"
+          "Name": "Activated",
+          "Code": "Activated"
         },
         "CourseTypeLevel": {
-            "Name": "b1.2.2",
-            "Code": "b1.2.2"
+          "Name": "b1.2.2",
+          "Code": "b1.2.2"
         },
         "CourseType": {
-            "Name": "FR",
-            "Code": "FR"
+          "Name": "FR",
+          "Code": "FR"
         },
         "CountryCode": "CN",
         "CoTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "AssignTo": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         }
-    },
-    {
+      },
+      {
         "School": {
-            "Name": "CN Omni Test",
-            "Code": "DCNTES01"
+          "Name": "CN Omni Test",
+          "Code": "DCNTES01"
         },
         "ProgramLevel": "7",
         "Program": "FRV1",
         "MainTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "IsCurrentGroup": false,
         "GroupType": "Classroom",
         "GroupStatus": {
-            "Name": "Activated",
-            "Code": "A"
+          "Name": "Activated",
+          "Code": "A"
         },
         "GroupName": "Frontrunner 1.0 Book7",
         "GroupId": "10032",
         "GroupCode": "FRV17-1-120-A-07",
         "CustomerProductionStatus": {
-            "Name": "Activated",
-            "Code": "Activated"
+          "Name": "Activated",
+          "Code": "Activated"
         },
         "CourseTypeLevel": {
-            "Name": "b1.2.1",
-            "Code": "b1.2.1"
+          "Name": "b1.2.1",
+          "Code": "b1.2.1"
         },
         "CourseType": {
-            "Name": "FR",
-            "Code": "FR"
+          "Name": "FR",
+          "Code": "FR"
         },
         "CountryCode": "CN",
         "CoTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "AssignTo": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         }
-    },
-    {
+      },
+      {
         "School": {
-            "Name": "CN Omni Test",
-            "Code": "DCNTES01"
+          "Name": "CN Omni Test",
+          "Code": "DCNTES01"
         },
         "ProgramLevel": "6",
         "Program": "FRV1",
         "MainTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "IsCurrentGroup": false,
         "GroupType": "Classroom",
         "GroupStatus": {
-            "Name": "Activated",
-            "Code": "A"
+          "Name": "Activated",
+          "Code": "A"
         },
         "GroupName": "Frontrunner 1.0 Book6",
         "GroupId": "10031",
         "GroupCode": "FRV16-1-120-A-06",
         "CustomerProductionStatus": {
-            "Name": "Activated",
-            "Code": "Activated"
+          "Name": "Activated",
+          "Code": "Activated"
         },
         "CourseTypeLevel": {
-            "Name": "b1.1.2",
-            "Code": "b1.1.2"
+          "Name": "b1.1.2",
+          "Code": "b1.1.2"
         },
         "CourseType": {
-            "Name": "FR",
-            "Code": "FR"
+          "Name": "FR",
+          "Code": "FR"
         },
         "CountryCode": "CN",
         "CoTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "AssignTo": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         }
-    },
-    {
+      },
+      {
         "School": {
-            "Name": "CN Omni Test",
-            "Code": "DCNTES01"
+          "Name": "CN Omni Test",
+          "Code": "DCNTES01"
         },
         "ProgramLevel": "5",
         "Program": "FRV1",
         "MainTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "IsCurrentGroup": false,
         "GroupType": "Classroom",
         "GroupStatus": {
-            "Name": "Activated",
-            "Code": "A"
+          "Name": "Activated",
+          "Code": "A"
         },
         "GroupName": "Frontrunner 1.0 Book5",
         "GroupId": "10030",
         "GroupCode": "FRV15-1-120-A-05",
         "CustomerProductionStatus": {
-            "Name": "Activated",
-            "Code": "Activated"
+          "Name": "Activated",
+          "Code": "Activated"
         },
         "CourseTypeLevel": {
-            "Name": "b1.1.1",
-            "Code": "b1.1.1"
+          "Name": "b1.1.1",
+          "Code": "b1.1.1"
         },
         "CourseType": {
-            "Name": "FR",
-            "Code": "FR"
+          "Name": "FR",
+          "Code": "FR"
         },
         "CountryCode": "CN",
         "CoTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "AssignTo": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         }
-    },
-    {
+      },
+      {
         "School": {
-            "Name": "CN Omni Test",
-            "Code": "DCNTES01"
+          "Name": "CN Omni Test",
+          "Code": "DCNTES01"
         },
         "ProgramLevel": "1",
         "Program": "FRV1",
         "MainTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "IsCurrentGroup": false,
         "GroupType": "Classroom",
         "GroupStatus": {
-            "Name": "Activated",
-            "Code": "A"
+          "Name": "Activated",
+          "Code": "A"
         },
         "GroupName": "Frontrunner 1.0 Book1",
         "GroupId": "10026",
         "GroupCode": "FRV11-1-120-A-01",
         "CustomerProductionStatus": {
-            "Name": "Activated",
-            "Code": "Activated"
+          "Name": "Activated",
+          "Code": "Activated"
         },
         "CourseTypeLevel": {
-            "Name": "a1.1",
-            "Code": "a1.1"
+          "Name": "a1.1",
+          "Code": "a1.1"
         },
         "CourseType": {
-            "Name": "FR",
-            "Code": "FR"
+          "Name": "FR",
+          "Code": "FR"
         },
         "CountryCode": "CN",
         "CoTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "AssignTo": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         }
-    },
-    {
+      },
+      {
         "School": {
-            "Name": "CN Omni Test",
-            "Code": "DCNTES01"
+          "Name": "CN Omni Test",
+          "Code": "DCNTES01"
         },
         "ProgramLevel": "2",
         "Program": "FRV1",
         "MainTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "IsCurrentGroup": false,
         "GroupType": "Classroom",
         "GroupStatus": {
-            "Name": "Activated",
-            "Code": "A"
+          "Name": "Activated",
+          "Code": "A"
         },
         "GroupName": "Frontrunner 1.0 Book2",
         "GroupId": "10027",
         "GroupCode": "FRV12-1-120-A-02",
         "CustomerProductionStatus": {
-            "Name": "Activated",
-            "Code": "Activated"
+          "Name": "Activated",
+          "Code": "Activated"
         },
         "CourseTypeLevel": {
-            "Name": "a1.2",
-            "Code": "a1.2"
+          "Name": "a1.2",
+          "Code": "a1.2"
         },
         "CourseType": {
-            "Name": "FR",
-            "Code": "FR"
+          "Name": "FR",
+          "Code": "FR"
         },
         "CountryCode": "CN",
         "CoTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "AssignTo": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         }
-    },
-    {
+      },
+      {
         "School": {
-            "Name": "CN Omni Test",
-            "Code": "DCNTES01"
+          "Name": "CN Omni Test",
+          "Code": "DCNTES01"
         },
         "ProgramLevel": "3",
         "Program": "FRV1",
         "MainTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "IsCurrentGroup": true,
         "GroupType": "Classroom",
         "GroupStatus": {
-            "Name": "Activated",
-            "Code": "A"
+          "Name": "Activated",
+          "Code": "A"
         },
         "GroupName": "Frontrunner 1.0 Book3",
         "GroupId": "10028",
         "GroupCode": "FRV13-1-120-A-03",
         "CustomerProductionStatus": {
-            "Name": "Activated",
-            "Code": "Activated"
+          "Name": "Activated",
+          "Code": "Activated"
         },
         "CourseTypeLevel": {
-            "Name": "a2.1",
-            "Code": "a2.1"
+          "Name": "a2.1",
+          "Code": "a2.1"
         },
         "CourseType": {
-            "Name": "FR",
-            "Code": "FR"
+          "Name": "FR",
+          "Code": "FR"
         },
         "CountryCode": "CN",
         "CoTeacher": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         },
         "AssignTo": {
-            "Name": null,
-            "Id": null
+          "Name": null,
+          "Id": null
         }
-    },
+      },
       {
         "School": {
           "Name": "SZ2FT2",

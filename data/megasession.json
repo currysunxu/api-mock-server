@@ -1,0 +1,117 @@
+[
+  {
+    "id": "1071a0G1s000001Vs8dEAC",
+    "data": {
+      "timestamp": "2021-01-07T05:09:59.932Z",
+      "teacherName": "Teacher3 Test",
+      "teacherId": "a5R1s0000000o4SEAQ",
+      "teacherAvatarUrl": "https://cn-prod-salesforce-integration-1258166938.cos.ap-shanghai.myqcloud.com/B25__Staff__c/a5R1s0000000o4SEAQ/a5R1s0000000o4SEAQ_1600740131.png",
+      "teacherAccent": "Global",
+      "studentpwd": null,
+      "startTime": "2021-01-07T08:10:00.000Z",
+      "skillFocus": null,
+      "sessionType": "Online Classroom",
+      "sessionStatus": "Activated",
+      "sessionId": "120973665",
+      "sequenceNumber": 23,
+      "season": null,
+      "roomId": null,
+      "reservationId": "a0G1s000001Vs8dEAC",
+      "programLevel": "D",
+      "program": "HFV3Plus",
+      "pdDesignation": null,
+      "offlineSessionId": null,
+      "lessons": [
+        {
+          "UnitNumber": "1",
+          "OnlineLessonTopicId": "11018",
+          "OnlineLessonTopic": "Welcome Home! Lesson 6",
+          "LessonNumber": "6",
+          "ContentPath": null
+        },
+        {
+          "UnitNumber": "1",
+          "OnlineLessonTopicId": null,
+          "OnlineLessonTopic": null,
+          "LessonNumber": "3",
+          "ContentPath": "highflyers/cn-3/book-2/unit-1/assignment-3"
+        }
+      ],
+      "isRemoved": false,
+      "groupType": "Online Classroom",
+      "groupNumber": null,
+      "groupId": "a0B2x000001DeK6EAK",
+      "evcToken": null,
+      "entryLink": "https://global.talk-cloud.net/WebAPI/entry/domain/cloudclass/serial/null/pid/101563272/username/test_ll/usertype/2/ts/1609996199/auth/a3141247442a9955446e2944f8286fa8",
+      "endTime": "2021-01-07T08:40:00.000Z",
+      "customerId": "1071",
+      "contentPath": null,
+      "centerCode": "DCNTES01",
+      "businessUnit": "China Own",
+      "attendanceStatus": "Pending",
+      "attendanceResult": null,
+      "hasEnteredClass": false
+    }
+  },
+  {
+    "id": "1071a0G1s000001VvFsEAK",
+    "data": {
+      "timestamp": "2021-01-07T07:26:35.623Z",
+      "teacherName": "CN PD CC02",
+      "teacherId": "a5R0I000004IF7zUAG",
+      "teacherAvatarUrl": null,
+      "teacherAccent": null,
+      "studentpwd": null,
+      "startTime": "2025-11-02T02:05:00.000Z",
+      "skillFocus": null,
+      "sessionType": "Online Classroom",
+      "sessionStatus": "Created",
+      "sessionId": "120973744",
+      "sequenceNumber": 2,
+      "season": null,
+      "roomId": null,
+      "reservationId": "a0G1s000001VvFsEAK",
+      "programLevel": "D",
+      "program": "HFV3Plus",
+      "pdDesignation": "HF 3.5",
+      "offlineSessionId": null,
+      "lessons": [
+        {
+          "UnitNumber": "1",
+          "OnlineLessonTopicId": null,
+          "OnlineLessonTopic": null,
+          "LessonNumber": "2",
+          "ContentPath": "highflyers/cn-3/book-2/unit-1/assignment-2"
+        },
+        {
+          "UnitNumber": "1",
+          "OnlineLessonTopicId": "11015",
+          "OnlineLessonTopic": "Welcome Home! Lesson 3",
+          "LessonNumber": "3",
+          "ContentPath": null
+        },
+        {
+          "UnitNumber": "1",
+          "OnlineLessonTopicId": "11016",
+          "OnlineLessonTopic": "Welcome Home! Lesson 4",
+          "LessonNumber": "4",
+          "ContentPath": null
+        }
+      ],
+      "isRemoved": false,
+      "groupType": "City-Wide Classroom",
+      "groupNumber": "100221396",
+      "groupId": "a0B1s000000jCwuEAE",
+      "evcToken": null,
+      "entryLink": "https://global.talk-cloud.net/WebAPI/entry/domain/cloudclass/serial/null/pid/101563272/username/test_ll/usertype/2/ts/1610004395/auth/18cb99c8e54559776d0f5be61b5209ba",
+      "endTime": "2025-11-02T03:35:00.000Z",
+      "customerId": "1071",
+      "contentPath": "highflyers/cn-3/book-2",
+      "centerCode": "SHCenter",
+      "businessUnit": "China Own",
+      "attendanceStatus": "Pending",
+      "attendanceResult": null,
+      "hasEnteredClass": false
+    }
+  }
+]

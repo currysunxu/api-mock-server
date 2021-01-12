@@ -9,10 +9,11 @@ module.exports = function (req, res) {
 
   let list = dbGen()[req.params.resourceName];
 
+
   switch (req.method) {
     case "POST":
-      list = list.filter(i => i.id == req.body.customerId && i.reservationId == req.body.reservationId);
-      res.status(200).json(list.length ? list[0].data : []);
+      list = list.filter(i => i.customerId == req.body.customerId && i.reservationId == req.body.reservationId);
+      res.status(200).json(list.length ? list[0] : []);
       break;
     default:
       res.status(500).text("not supported http verb");

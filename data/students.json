@@ -467,7 +467,7 @@
         },
         "id": "auth2.exstd"
     },
-  {
+    {
         "data": {
             "CustomerId": "7000007"
         },
@@ -479,4 +479,23 @@
     },
     "id": "auth2.same.program"
   }
+    },
+    {
+        "id": "hf3.cn.09",
+        "data": {
+            "CustomerId": "10701"
+        }
+    },
+    {
+        "id": "ph.cn.01",
+        "data": {
+            "CustomerId": "10702"
+        }
+    },
+    {
+        "id": "pttest1",
+        "data": {
+            "CustomerId": "102040492"
+        }
+    }
 ]

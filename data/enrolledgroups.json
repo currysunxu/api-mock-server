@@ -14,6 +14,20 @@
                     "I",
                     "J"
                 ]
+            },
+            {
+                "CourseTypeCode": "HF",
+                "RemainingACH": 100,
+                "CourseLevelCodes": [
+                    "E"
+                ]
+            },
+            {
+                "CourseTypeCode": "HF",
+                "RemainingACH": 100,
+                "CourseLevelCodes": [
+                    "F"
+                ]
             }
         ],
         "id": 39981176
@@ -32,6 +46,20 @@
                     "H",
                     "I",
                     "J"
+                ]
+            },
+            {
+                "CourseTypeCode": "HF",
+                "RemainingACH": 100,
+                "CourseLevelCodes": [
+                    "E"
+                ]
+            },
+            {
+                "CourseTypeCode": "HF",
+                "RemainingACH": 100,
+                "CourseLevelCodes": [
+                    "F"
                 ]
             }
         ],
@@ -888,9 +916,30 @@
         "data": [
             {
                 "CourseTypeCode": "HF",
-                "RemainingACH": 0,
+                "RemainingACH": 100,
                 "CourseLevelCodes": [
                     "C"
+                ]
+            },
+            {
+                "CourseTypeCode": "HF",
+                "RemainingACH": 100,
+                "CourseLevelCodes": [
+                    "D"
+                ]
+            },
+            {
+                "CourseTypeCode": "HF",
+                "RemainingACH": 100,
+                "CourseLevelCodes": [
+                    "E"
+                ]
+            },
+            {
+                "CourseTypeCode": "HF",
+                "RemainingACH": 100,
+                "CourseLevelCodes": [
+                    "F"
                 ]
             }
         ],
@@ -914,5 +963,29 @@
             }
         ],
         "id": 9000044
+    },
+    {
+        "id": 10701,
+        "data": [
+            {
+                "CourseTypeCode": "HF",
+                "CourseLevelCodes": [
+                    "C"
+                ],
+                "RemainingACH": 0
+            }
+        ]
+    },
+    {
+        "id": 102040492,
+        "data": [
+            {
+                "CourseTypeCode": "HF",
+                "CourseLevelCodes": [
+                    "C"
+                ],
+                "RemainingACH": 0
+            }
+        ]
     }
 ]

@@ -12,11 +12,11 @@
             "PreferredLanguageCode": null,
             "JoinedDate": null,
             "CustomerId": "39981176",
-            "LastName": "中文",
+            "LastName": "\u4e2d\u6587",
             "MobilePhoneNumber": null,
             "HomePhoneNumber": "13671999379",
             "Gender": "Female",
-            "Address": "上海市北京西路1000弄1000号101室",
+            "Address": "\u4e0a\u6d77\u5e02\u5317\u4eac\u897f\u8def1000\u5f041000\u53f7101\u5ba4",
             "AvatarURL": "https://test-englishtown-center.picture.ef.cn",
             "Email": "workers@163.com",
             "StatusUpdatedUtcDateTime": "2019-03-19T17:09:42"
@@ -1010,7 +1010,11 @@
     {
         "data": {
             "DateOfBirth": "2008-01-04T00:00:00",
-            "WechatOpenIds": ["test1", "test2", "test3"],
+            "WechatOpenIds": [
+                "test1",
+                "test2",
+                "test3"
+            ],
             "Status": "Student",
             "EnglishFirstName": "ptReview06",
             "CountryCode": "CN",
@@ -1859,7 +1863,7 @@
         },
         "id": 7000007
     },
-      {
+    {
         "data": {
             "WechatOpenIds": [],
             "city_key": "Guangzhou",
@@ -1885,5 +1889,77 @@
             "EnglishLastName": "test"
         },
         "id": 9000045
+    },
+    {
+        "id": 10701,
+        "data": {
+            "CustomerId": "10701",
+            "CountryCode": "CN",
+            "EnglishFirstName": "Cherry",
+            "EnglishLastName": "Ye",
+            "Status": "Student",
+            "StatusUpdatedUtcDateTime": "2019-07-18T06:25:03",
+            "AvatarURL": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/0016D000002HSyJQAW_Avatar_URL__c",
+            "PreferredLanguageCode": null,
+            "Gender": null,
+            "Address": null,
+            "Email": "test@ef.com",
+            "HomePhoneNumber": "13671888379",
+            "MobilePhoneNumber": "13671888379",
+            "JoinedDate": null,
+            "DateOfBirth": null,
+            "WechatOpenIds": [],
+            "FirstName": "auto",
+            "LastName": "Test",
+            "KidsILabUserName": "hf3.cn.09"
+        }
+    },
+    {
+        "id": 10702,
+        "data": {
+            "CustomerId": "10702",
+            "CountryCode": "CN",
+            "EnglishFirstName": "phonics",
+            "EnglishLastName": "Ye",
+            "Status": "Student",
+            "StatusUpdatedUtcDateTime": "2019-07-18T06:25:03",
+            "AvatarURL": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/0016D000002HSyJQAW_Avatar_URL__c",
+            "PreferredLanguageCode": null,
+            "Gender": null,
+            "Address": null,
+            "Email": "test@ef.com",
+            "HomePhoneNumber": "13671888379",
+            "MobilePhoneNumber": "13671888379",
+            "JoinedDate": null,
+            "DateOfBirth": null,
+            "WechatOpenIds": [],
+            "FirstName": "auto",
+            "LastName": "Test",
+            "KidsILabUserName": "ph.cn.01"
+        }
+    },
+    {
+        "id": 102040492,
+        "data": {
+            "CustomerId": "102040492",
+            "CountryCode": "CN",
+            "EnglishFirstName": "pttest",
+            "EnglishLastName": "test",
+            "Status": "Student",
+            "StatusUpdatedUtcDateTime": "2019-07-18T06:25:03",
+            "AvatarURL": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/0016D000002HSyJQAW_Avatar_URL__c",
+            "PreferredLanguageCode": null,
+            "Gender": null,
+            "Address": null,
+            "Email": "test@ef.com",
+            "HomePhoneNumber": "13671888379",
+            "MobilePhoneNumber": "13671888379",
+            "JoinedDate": null,
+            "DateOfBirth": null,
+            "WechatOpenIds": [],
+            "FirstName": "auto",
+            "LastName": "Test",
+            "KidsILabUserName": "pttest1"
+        }
     }
 ]
