@@ -472,5 +472,11 @@
             "CustomerId": "7000007"
         },
         "id": "auth2.mix.program"
-    }
+    },
+  {
+    "data": {
+      "CustomerId": "7000008"
+    },
+    "id": "auth2.same.program"
+  }
 ]

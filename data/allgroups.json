@@ -1123,5 +1123,132 @@
         "ContentPath": null
       }
     ]
+  },
+  {
+    "id": 7000008,
+    "data": [
+      [
+        {
+          "StartDate": "2020-11-06",
+          "Season": null,
+          "ProgramLevel": "C",
+          "Program": "HFV3Plus",
+          "PDDesignation": null,
+          "GroupType": "Online Classroom",
+          "GroupStatus": "Activated",
+          "GroupNumber": null,
+          "GroupId": "a0B2x000001pyHEEAY",
+          "EndDate": "2021-03-19",
+          "CustomerProductionStatus": "Activated",
+          "CountryCode": "CN",
+          "ContentPath": null
+        },
+        {
+          "StartDate": "2020-09-19",
+          "Season": null,
+          "ProgramLevel": "C",
+          "Program": "HFV3Plus",
+          "PDDesignation": null,
+          "GroupType": "Classroom",
+          "GroupStatus": "Activated",
+          "GroupNumber": "100227617",
+          "GroupId": "a0B2x0000008K0pEAE",
+          "EndDate": "2021-01-30",
+          "CustomerProductionStatus": "Swapped",
+          "CountryCode": "CN",
+          "ContentPath": null
+        },
+        {
+          "StartDate": "2020-10-25",
+          "Season": null,
+          "ProgramLevel": "C",
+          "Program": "HFV3Plus",
+          "PDDesignation": "HF 3.5",
+          "GroupType": "Classroom",
+          "GroupStatus": "Activated",
+          "GroupNumber": "100236972",
+          "GroupId": "a0B2x000001plGFEAY",
+          "EndDate": "2021-03-14",
+          "CustomerProductionStatus": "Activated",
+          "CountryCode": "CN",
+          "ContentPath": "highflyers/cn-3/book-1"
+        },
+        {
+          "StartDate": null,
+          "Season": null,
+          "ProgramLevel": "3",
+          "Program": "SSV3",
+          "PDDesignation": null,
+          "GroupType": "Online Classroom",
+          "GroupStatus": "Activated",
+          "GroupNumber": null,
+          "GroupId": "a0B2x0000007dgvEAA",
+          "EndDate": null,
+          "CustomerProductionStatus": "Activated",
+          "CountryCode": "CN",
+          "ContentPath": null
+        },
+        {
+          "StartDate": "2020-07-23",
+          "Season": null,
+          "ProgramLevel": "4",
+          "Program": "SSV3",
+          "PDDesignation": null,
+          "GroupType": "Online Classroom",
+          "GroupStatus": "Activated",
+          "GroupNumber": null,
+          "GroupId": "a0B2x0000007dgwEAA",
+          "EndDate": "2020-10-29",
+          "CustomerProductionStatus": "Activated",
+          "CountryCode": "CN",
+          "ContentPath": null
+        },
+        {
+          "StartDate": "2020-02-23",
+          "Season": null,
+          "ProgramLevel": "4",
+          "Program": "SSV3",
+          "PDDesignation": null,
+          "GroupType": "Classroom",
+          "GroupStatus": "Completed",
+          "GroupNumber": "100171074",
+          "GroupId": "a0B0I00000pGRyuUAG",
+          "EndDate": "2020-10-27",
+          "CustomerProductionStatus": "Completed",
+          "CountryCode": "CN",
+          "ContentPath": "smallstars/cn-3/book-4"
+        },
+        {
+          "StartDate": "2019-04-02",
+          "Season": null,
+          "ProgramLevel": "3",
+          "Program": "SSV3",
+          "PDDesignation": null,
+          "GroupType": "Classroom",
+          "GroupStatus": "Completed",
+          "GroupNumber": "100098677",
+          "GroupId": "a0B0I00000kaRlsUAE",
+          "EndDate": "2020-01-21",
+          "CustomerProductionStatus": "Completed",
+          "CountryCode": "CN",
+          "ContentPath": "smallstars/cn-3/book-3"
+        },
+        {
+          "StartDate": "2018-05-22",
+          "Season": null,
+          "ProgramLevel": "A",
+          "Program": "SSV2",
+          "PDDesignation": null,
+          "GroupType": "Classroom",
+          "GroupStatus": "Completed",
+          "GroupNumber": "737092",
+          "GroupId": "a0B0I00000bT3IBUA0",
+          "EndDate": "2019-05-08",
+          "CustomerProductionStatus": "Completed",
+          "CountryCode": "CN",
+          "ContentPath": null
+        }
+      ]
+    ]
   }
 ]
