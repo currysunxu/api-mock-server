@@ -843,7 +843,7 @@
           "program": "Small Stars",
           "name": "Small stars 3.0 Book2",
           "leftACH": 0,
-          "isCurrentGroup": false,
+          "isCurrentGroup": true,
           "id": "10023",
           "achPerLesson": 1.5
         },
@@ -858,7 +858,7 @@
           "program": "Small Stars",
           "name": "Small stars 3.0 Book1",
           "leftACH": 0,
-          "isCurrentGroup": true,
+          "isCurrentGroup": false,
           "id": "10022",
           "achPerLesson": 1.5
         }
