@@ -1710,10 +1710,23 @@
         "GroupStatus": "Activated",
         "GroupNumber": "100148735",
         "GroupId": "a0B6D000005CLTHUA4",
+        "EndDate": "2020-10-05",
+        "CustomerProductionStatus": "Completed",
+        "CountryCode": "CN",
+        "ContentPath": "highflyers/cn-3-144/book-1"
+      },
+      {
+        "StartDate": "2020-05-08",
+        "ProgramLevel": "C",
+        "Program": "HFV3Plus",
+        "GroupType": "Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148735",
+        "GroupId": "a0B6D000005CLTHUA4",
         "EndDate": "2029-10-05",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "highflyers/cn-3-144/book-1"
+        "ContentPath": null
       },
       {
         "StartDate": "2020-05-08",
@@ -1727,6 +1740,19 @@
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
         "ContentPath": "highflyers/cn-3-144/book-2"
+      },
+            {
+        "StartDate": "2020-05-08",
+        "ProgramLevel": "D",
+        "Program": "HFV3Plus",
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148735",
+        "GroupId": "a0B6D000005CLTHUA4",
+        "EndDate": "2029-10-05",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": null
       },
       {
         "StartDate": "2020-05-08",
