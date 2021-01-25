@@ -2529,6 +2529,22 @@
           "programVersionCode": "HFV3Plus",
           "achPerLesson": 3,
           "id": null
+        },
+        {
+          "program": "High Flyers",
+          "allSessions": [],
+          "totalACH": 100,
+          "name": null,
+          "leftACH": null,
+          "timezone": "Asia/Shanghai",
+          "programLevel": "J",
+          "programLevelId": "100547",
+          "isCurrentGroup": true,
+          "usedACH": 0,
+          "status": "current",
+          "programVersionCode": "HFV3Plus",
+          "achPerLesson": 3,
+          "id": null
         }
       ],
       "customerPhotoUrl": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/45670366_mqyhgw.jpg",
