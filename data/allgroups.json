@@ -917,7 +917,6 @@
   {
     "id": 1022,
     "data": [
-      [
         {
           "StartDate": "2021-01-25",
           "Season": null,
@@ -1098,7 +1097,6 @@
           "CountryCode": "CN",
           "ContentPath": null
         }
-      ]
     ]
   },
   {
