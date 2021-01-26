@@ -884,7 +884,7 @@
       },
       {
         "StartDate": "2019-10-29",
-        "Season": null,
+        "Season": "Regular",
         "ProgramLevel": "8",
         "Program": "TBV3",
         "PDDesignation": null,
@@ -899,7 +899,7 @@
       },
       {
         "StartDate": "2019-05-07",
-        "Season": null,
+        "Season": "Regular",
         "ProgramLevel": "7",
         "Program": "TBV3",
         "PDDesignation": null,
@@ -935,7 +935,7 @@
         },
         {
           "StartDate": "2020-11-07",
-          "Season": null,
+          "Season": "Regular",
           "ProgramLevel": "4",
           "Program": "TBV3Plus",
           "PDDesignation": null,
@@ -950,7 +950,7 @@
         },
         {
           "StartDate": "2020-11-01",
-          "Season": null,
+          "Season": "Regular",
           "ProgramLevel": "4",
           "Program": "TBV3Plus",
           "PDDesignation": null,
@@ -965,7 +965,7 @@
         },
         {
           "StartDate": null,
-          "Season": null,
+          "Season": "Regular",
           "ProgramLevel": "4",
           "Program": "TBV3Plus",
           "PDDesignation": null,
@@ -980,7 +980,7 @@
         },
         {
           "StartDate": null,
-          "Season": null,
+          "Season": "Regular",
           "ProgramLevel": "3",
           "Program": "TBV3Plus",
           "PDDesignation": null,
@@ -1010,7 +1010,7 @@
         },
         {
           "StartDate": "2020-05-11",
-          "Season": null,
+          "Season": "Regular",
           "ProgramLevel": "3",
           "Program": "TBV3Plus",
           "PDDesignation": null,
@@ -1025,7 +1025,7 @@
         },
         {
           "StartDate": "2020-05-10",
-          "Season": null,
+          "Season": "Regular",
           "ProgramLevel": "3",
           "Program": "TBV3Plus",
           "PDDesignation": null,
@@ -1055,7 +1055,7 @@
         },
         {
           "StartDate": "2019-10-13",
-          "Season": null,
+          "Season": "Regular",
           "ProgramLevel": "2",
           "Program": "TBV3",
           "PDDesignation": null,
@@ -1070,7 +1070,7 @@
         },
         {
           "StartDate": "2019-07-31",
-          "Season": null,
+          "Season": "Regular",
           "ProgramLevel": "HF",
           "Program": "CLV1",
           "PDDesignation": null,
@@ -1085,7 +1085,7 @@
         },
         {
           "StartDate": "2021-01-04",
-          "Season": null,
+          "Season": "Regular",
           "ProgramLevel": "G",
           "Program": "HFV2",
           "PDDesignation": null,
