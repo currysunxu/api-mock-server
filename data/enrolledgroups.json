@@ -987,5 +987,17 @@
                 "RemainingACH": 0
             }
         ]
+    },
+    {
+        "id": 10471,
+        "data": [
+            {
+                "CourseTypeCode": "SS",
+                "CourseLevelCodes": [
+                    "v3bk1"
+                ],
+                "RemainingACH": 0
+            }
+        ]
     }
 ]
