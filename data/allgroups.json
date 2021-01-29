@@ -291,19 +291,36 @@
         "CountryCode": "CN",
         "ContentPath": null
       },
-      {
-        "StartDate": "2021-05-13",
+    {
+        "StartDate": "2020-10-26",
+        "Season": null,
         "ProgramLevel": "F",
         "Program": "HFV3Plus",
-        "GroupType": "Classroom",
+        "PDDesignation": "HF 3.5",
+        "GroupType": "City-Wide Classroom",
         "GroupStatus": "Pending",
-        "GroupNumber": "100148122",
-        "GroupId": "a0B6D000005BqEAUA0",
-        "EndDate": "2021-12-26",
+        "GroupNumber": "100221396",
+        "GroupId": "a0B1s000000jCwuEAE",
+        "EndDate": "2021-03-08",
         "CustomerProductionStatus": "Pending",
         "CountryCode": "CN",
-        "ContentPath": null
-      },
+        "ContentPath": "highflyers/cn-3/book-2"
+    },
+    {
+        "StartDate": "2020-04-29",
+        "Season": null,
+        "ProgramLevel": "F",
+        "Program": "HFV3Plus",
+        "PDDesignation": "HF 3.5",
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100190950",
+        "GroupId": "a0B2x0000005yZfEAI",
+        "EndDate": "2020-11-09",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": "highflyers/cn-3/book-2"
+    },
       {
         "StartDate": "2020-12-13",
         "ProgramLevel": "G",
@@ -2138,6 +2155,21 @@
     "id": 102040492,
     "data": [
       {
+        "StartDate": "2020-05-16",
+        "Season": null,
+        "ProgramLevel": "F",
+        "Program": "HFV3Plus",
+        "PDDesignation": "HF 3.5",
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": "Completed",
+        "GroupNumber": "100221525",
+        "GroupId": "a0B1s000000kvYOEAY",
+        "EndDate": "2020-12-16",
+        "CustomerProductionStatus": "Pending",
+        "CountryCode": "CN",
+        "ContentPath": "highflyers/cn-3/book-2"
+      },
+      {
         "StartDate": "2021-05-16",
         "Season": null,
         "ProgramLevel": "F",
@@ -2188,7 +2220,7 @@
         "ProgramLevel": "G",
         "Program": "HFV3Plus",
         "PDDesignation": "HF 3.5",
-        "GroupType": "Completed",
+        "GroupType": "Classroom",
         "GroupStatus": "Activated",
         "GroupNumber": "100221397",
         "GroupId": "a0B1s000000jCwzEAE",
@@ -2408,7 +2440,7 @@
         "CountryCode": "CN",
         "ContentPath": "small-stars-3-5/cn-3/book-2"
       },
-            {
+      {
         "StartDate": "2019-04-28",
         "ProgramLevel": "5",
         "Program": "SSV3",
