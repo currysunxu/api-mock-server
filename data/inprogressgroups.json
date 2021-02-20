@@ -1699,7 +1699,7 @@
           "Name": "CN Omni Test",
           "Code": "DCNTES01"
         },
-        "IsCurrentGroup": true,
+        "IsCurrentGroup": false,
         "MainTeacher": {
           "Id": 0,
           "Name": null
@@ -1916,7 +1916,6 @@
   },
   {
     "data": [
-      [
         {
           "GroupId": 100169174,
           "GroupName": "SS Book 1",
@@ -1999,7 +1998,6 @@
           "SessionACH": 3,
           "TotalACH": 72
         }
-      ]
     ],
     "id": 1047
   },
@@ -2128,7 +2126,7 @@
           "Id": 0,
           "Name": null
         },
-        "IsCurrentGroup": true,
+        "IsCurrentGroup": false,
         "CountryCode": "CN",
         "SessionACH": 3,
         "TotalACH": 96
@@ -2251,7 +2249,7 @@
           "Id": 0,
           "Name": null
         },
-        "IsCurrentGroup": false,
+        "IsCurrentGroup": true,
         "CountryCode": "CN",
         "SessionACH": 3,
         "TotalACH": 96
