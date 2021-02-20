@@ -2045,6 +2045,47 @@
         }
       },
       {
+        "CoTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CustomerProductionStatus": {
+          "Name": "STU",
+          "Code": "Studing"
+        },
+        "School": {
+          "Name": "CN Omni Test",
+          "Code": "DCNTES01"
+        },
+        "IsCurrentGroup": true,
+        "MainTeacher": {
+          "Id": 0,
+          "Name": null
+        },
+        "CourseTypeLevel": {
+          "Name": "v3bk2",
+          "Code": "SSv3bk2"
+        },
+        "GroupName": "Small stars 3.0 Book2",
+        "GroupStatus": {
+          "Name": "Activated",
+          "Code": "A"
+        },
+        "AssignTo": {
+          "Id": 30929,
+          "Name": "Connie Gu"
+        },
+        "SessionACH": 1.5,
+        "TotalACH": 96,
+        "GroupId": 10022,
+        "GroupCode": "SSV32-1-120-A-02",
+        "CountryCode": "CN",
+        "CourseType": {
+          "Name": "SS",
+          "Code": "SS"
+        }
+      },
+      {
         "GroupId": 100246034,
         "GroupName": "HF Book C",
         "GroupCode": "HFV2C-2-120-P-280221-16",
