@@ -1,7 +1,7 @@
 #!groovy
 library identifier: 'JenkinsSharedLib@master', retriever: modernSCM(
   [$class: 'GitSCMSource',
-   remote: 'ssh://git@bitbucket.englishtown.cn:7999/elab/jenkinssharedlib.git',
+   remote: 'ssh://git@bitbucket.org:english1.cn:7999/elab/jenkinssharedlib.git',
    credentialsId: '6f6f2853-94ac-4d4e-a714-fb0768580952'])
 
 config = [
