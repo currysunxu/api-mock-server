@@ -1,8 +1,8 @@
 #!groovy
-library identifier: 'JenkinsSharedLib@master', retriever: modernSCM(
+library identifier: 'jenkins-shared-lib@master', retriever: modernSCM(
   [$class: 'GitSCMSource',
-   remote: 'ssh://git@bitbucket.org:english1.cn:7999/elab/jenkinssharedlib.git',
-   credentialsId: '6f6f2853-94ac-4d4e-a714-fb0768580952'])
+   remote: 'git@bitbucket.org:english1/jenkins-shared-lib.git',
+   credentialsId: 'devops.kt'])
 
 config = [
   service:            'e1-pd-omni-gateway-mock',             // docker-compose service for building image.
