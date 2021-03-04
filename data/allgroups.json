@@ -1088,7 +1088,7 @@
     "data": [
       {
         "StartDate": "2020-05-08",
-        "ProgramLevel": "D",
+        "ProgramLevel": "J",
         "Program": "HFV3Plus",
         "PDDesignation": "HF 3.5",
         "GroupType": "City-Wide Classroom",
@@ -1117,7 +1117,7 @@
       {
         "StartDate": "2019-12-11",
         "Season": null,
-        "ProgramLevel": "J",
+        "ProgramLevel": "D",
         "Program": "HFV3",
         "PDDesignation": "HF 3.5",
         "GroupType": "Classroom",
