@@ -999,5 +999,17 @@
                 "RemainingACH": 0
             }
         ]
+    },
+    {
+        "id": 10708,
+        "data": [
+            {
+                "CourseTypeCode": "HF",
+                "CourseLevelCodes": [
+                    "C"
+                ],
+                "RemainingACH": 0
+            }
+        ]
     }
 ]
