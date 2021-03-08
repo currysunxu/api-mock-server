@@ -148,7 +148,7 @@
                 "GroupNumber": "100148099",
                 "GroupId": "a0B6D000005BgBPUA1",
                 "EndDate": "2022-04-27",
-                "CustomerProductionStatus": "Activated",
+                "CustomerProductionStatus": "Suspended",
                 "CountryCode": "CN",
                 "ContentPath": "smallstar/cn-3/book-4"
             },
@@ -1080,20 +1080,6 @@
                 "CustomerProductionStatus": "Completed",
                 "CountryCode": "CN",
                 "ContentPath": "tb16/cn-3/book-2"
-            },
-            {
-                "StartDate": "2020-05-08",
-                "ProgramLevel": "J",
-                "Program": "HFV3Plus",
-                "PDDesignation": "HF 3.5",
-                "GroupType": "City-Wide Classroom",
-                "GroupStatus": "Activated",
-                "GroupNumber": "100148735",
-                "GroupId": "a0B6D000005CLTHUA4",
-                "EndDate": "2022-10-05",
-                "CustomerProductionStatus": "Activated",
-                "CountryCode": "CN",
-                "ContentPath": "highflyers/cn-3/book-2"
             }
         ]
     },
@@ -1105,7 +1091,7 @@
                 "ProgramLevel": "J",
                 "Program": "HFV3Plus",
                 "PDDesignation": "HF 3.5",
-                "GroupType": "City-Wide Classroom",
+                "GroupType": "VIP",
                 "GroupStatus": "Activated",
                 "GroupNumber": "100148735",
                 "GroupId": "a0B6D000005CLTHUA4",
@@ -1119,7 +1105,7 @@
                 "ProgramLevel": "I",
                 "Program": "HFV3Plus",
                 "PDDesignation": "HF 3.5",
-                "GroupType": "VIP",
+                "GroupType": "City-Wide Classroom",
                 "GroupStatus": "Activated",
                 "GroupNumber": null,
                 "GroupId": "a0B6D000005CKWXUA7",
@@ -1310,13 +1296,13 @@
                 "GroupStatus": "Activated",
                 "GroupNumber": "100148735",
                 "GroupId": "a0B6D000005CLTHUA4",
-                "EndDate": "2020-10-05",
+                "EndDate": null,
                 "CustomerProductionStatus": "Activated",
                 "CountryCode": "CN",
                 "ContentPath": "highflyers/cn-3/book-2"
             },
             {
-                "StartDate": "2020-10-06",
+                "StartDate": null,
                 "ProgramLevel": "E",
                 "Program": "HFV3Plus",
                 "GroupType": "City-Wide Classroom",
@@ -2148,21 +2134,6 @@
                 "ContentPath": "tb16/cn-3/book-2"
             },
             {
-                "StartDate": "2021-02-22",
-                "Season": null,
-                "ProgramLevel": "F",
-                "Program": "HFV3Plus",
-                "PDDesignation": "HF 3.5",
-                "GroupType": "Classroom",
-                "GroupStatus": "Activated",
-                "GroupNumber": "100263891",
-                "GroupId": "a0B2x000001r594EAA",
-                "EndDate": "2021-12-29",
-                "CustomerProductionStatus": "Activated",
-                "CountryCode": "CN",
-                "ContentPath": "highflyers/cn-3/book-4"
-            },
-            {
                 "StartDate": "2020-11-02",
                 "Season": "Regular",
                 "ProgramLevel": "E",
@@ -2189,6 +2160,21 @@
                 "CustomerProductionStatus": "Completed",
                 "CountryCode": "CN",
                 "ContentPath": null
+            },
+            {
+                "StartDate": "2021-02-22",
+                "Season": null,
+                "ProgramLevel": "F",
+                "Program": "HFV3Plus",
+                "PDDesignation": "HF 3.5",
+                "GroupType": "Classroom",
+                "GroupStatus": "Activated",
+                "GroupNumber": "100263891",
+                "GroupId": "a0B2x000001r594EAA",
+                "EndDate": "2021-12-29",
+                "CustomerProductionStatus": "Activated",
+                "CountryCode": "CN",
+                "ContentPath": "highflyers/cn-3/book-4"
             },
             {
                 "StartDate": "2019-07-19",
