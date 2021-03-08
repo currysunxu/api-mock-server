@@ -6,11 +6,11 @@ from python.libs.group_info import GroupDataMapping, InprogressGroup, BookableGr
 
 def create_student(group_id = None):
   # input the student info,only support 1 student with 1 group
-  student_course_type = ['SS', 'v3bk1'] # ss:['SS','v3bk1] tb['TB','v3bk1'] HF:['HF','C'],['HFV3','C']
+  student_course_type = ['HFV3', 'C'] # ss:['SS','v3bk1] tb['TB','v3bk1'] HF:['HF','C'],['HFV3','C']
   student_base_info = {
-    'student_id': '10471',
-    'ilab_user_name': 'ss35.cn.01',
-    'student_english_name': 'ss35test',
+    'student_id': '10708',
+    'ilab_user_name': 'hf3.cn.08',
+    'student_english_name': 'hf35test',
     'studdent_last_name': 'test',
     'business_line_code':'OWN',
     "deepblue_schoolcode": "China_Omni",
@@ -214,12 +214,12 @@ def create_student(group_id = None):
         "Program": student_course_type[0],
         "GroupType": "Classroom",
         "GroupStatus": "Activated",
-        "GroupNumber": "100148735",
+        "GroupNumber": "100148736",
         "GroupId": "a0B6D000005CLTHUA4",
         "EndDate": "2029-10-05",
         "CustomerProductionStatus": "Activated",
         "CountryCode": "CN",
-        "ContentPath": "small-stars-3-5/book-1"
+        "ContentPath": "highflyers/cn-3/book-1"
       }
      ]
     }
