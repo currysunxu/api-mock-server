@@ -2464,7 +2464,7 @@
                 "ContentPath": "smallstars-35/cn-3/book-3"
             },
             {
-                "StartDate": "2021-03-11",
+                "StartDate": "2021-03-10",
                 "ProgramLevel": "4",
                 "Program": "SSV3",
                 "GroupType": "Classroom",
@@ -2484,8 +2484,8 @@
                 "GroupStatus": "Activated",
                 "GroupNumber": "100148622",
                 "GroupId": "a0B6D000005BgBPU12",
-                "EndDate": "2021-03-10",
-                "CustomerProductionStatus": "Activated",
+                "EndDate": "2021-03-09",
+                "CustomerProductionStatus": "Completed",
                 "CountryCode": "CN",
                 "ContentPath": "smallstars-35/cn-3/book-2"
             },
