@@ -54,6 +54,54 @@
     }
   },
   {
+    "id": "1071a0G1s000001Vs8dEA1",
+    "data": {
+      "timestamp": "2021-03-11T03:40:10.154Z",
+      "teacherName": "Candice",
+      "teacherId": "a5R0I000000CyFDUA0",
+      "teacherAvatarUrl": "https://cn-prod-salesforce-integration-1258166938.cos.ap-shanghai.myqcloud.com/B25__Staff__c/a5R0I000000CyFDUA0_Avatar_URL__c",
+      "teacherAccent": null,
+      "studentpwd": null,
+      "startTime": "2021-01-30T08:30:00.000Z",
+      "skillFocus": "Listening",
+      "sessionType": "Classroom",
+      "sessionStatus": "Completed",
+      "sessionId": "125154542",
+      "sequenceNumber": 7,
+      "season": null,
+      "roomId": null,
+      "reservationId": "a0G2x000005HjFQEA0",
+      "programLevel": "F",
+      "program": "HFV3Plus",
+      "pdDesignation": "HF 3.5",
+      "offlineSessionId": null,
+      "lessons": [
+        {
+          "UnitNumber": "2",
+          "OnlineLessonTopicId": null,
+          "OnlineLessonTopic": null,
+          "LessonNumber": "1",
+          "ContentPath": "highflyers/cn-3/book-4/unit-2/assignment-1"
+        }
+      ],
+      "isRemoved": false,
+      "groupType": "Classroom",
+      "groupNumber": "100254918",
+      "groupId": "a0B2x000000fqokEAA",
+      "evcToken": null,
+      "entryLink": "https://global.talk-cloud.net/WebAPI/entry/domain/ef/serial/null/pid/101658023/username/_Evan/usertype/2/ts/1615434010/auth/fcfa48cde0f506bca42c0a8fe4efcb24",
+      "endTime": "2021-01-30T09:30:00.000Z",
+      "customerId": "101658023",
+      "contentPath": "highflyers/cn-3/book-4",
+      "centerCode": "ZZC",
+      "businessUnit": "China Franchise",
+      "attendanceStatus": "Completed",
+      "attendanceResult": "Present",
+      "assessment": null,
+      "hasEnteredClass": false
+    }
+  },
+  {
     "id": "1071a0G1s000001VvFsEAK",
     "data": {
       "timestamp": "2021-01-07T07:26:35.623Z",
