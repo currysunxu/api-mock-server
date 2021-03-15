@@ -2077,5 +2077,34 @@
             "DeepBlueSchoolCode": "China_Omni",
             "SchoolCode": "SNA"
         }
+    },
+    {
+        "id": 10707,
+        "data": {
+            "CustomerId": "10707",
+            "CountryCode": "CN",
+            "EnglishFirstName": "hf35test",
+            "EnglishLastName": "test",
+            "Status": "Student",
+            "StatusUpdatedUtcDateTime": "2019-07-18T06:25:03",
+            "AvatarURL": "https://salesforce-integration-staging.s3.cn-north-1.amazonaws.com.cn/Account/0016D000002HSyJQAW_Avatar_URL__c",
+            "PreferredLanguageCode": null,
+            "Gender": null,
+            "Address": null,
+            "Email": "test@ef.com",
+            "HomePhoneNumber": "13671888379",
+            "MobilePhoneNumber": "13671888379",
+            "JoinedDate": null,
+            "DateOfBirth": null,
+            "WechatOpenIds": [],
+            "FirstName": "auto",
+            "LastName": "Test",
+            "KidsILabUserName": "hf3.cn.07",
+            "CurrentGroup": null,
+            "GroupsInProgress": [],
+            "BusinessLineCode": "OWN",
+            "DeepBlueSchoolCode": "China_Omni",
+            "SchoolCode": "SNA"
+        }
     }
 ]
