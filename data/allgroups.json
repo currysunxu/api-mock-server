@@ -246,7 +246,37 @@
                 "CustomerProductionStatus": "Completed",
                 "CountryCode": "CN",
                 "ContentPath": "highflyers/cn-3/book-2"
-            }
+            },
+          {
+              "StartDate": "2020-12-18",
+              "Season": null,
+              "ProgramLevel": "E",
+              "Program": "HFV3Plus",
+              "PDDesignation": "HF 3.5",
+              "GroupType": "Classroom",
+              "GroupStatus": "Activated",
+              "GroupNumber": "100245557",
+              "GroupId": "a0B2x000000fSABEA2",
+              "EndDate": "2021-05-28",
+              "CustomerProductionStatus": "Swapped",
+              "CountryCode": "CN",
+              "ContentPath": "highflyers/cn-3/book-3"
+          },
+          {
+              "StartDate": "2021-01-04",
+              "Season": null,
+              "ProgramLevel": "C",
+              "Program": "HFV3Plus",
+              "PDDesignation": "HF 3.5",
+              "GroupType": "Classroom",
+              "GroupStatus": "Activated",
+              "GroupNumber": "100249078",
+              "GroupId": "a0B2x000000fbNhEAI",
+              "EndDate": "2021-06-07",
+              "CustomerProductionStatus": "Swapped",
+              "CountryCode": "CN",
+              "ContentPath": "highflyers/cn-3/book-1"
+          }
         ]
     },
     {
