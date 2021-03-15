@@ -8,8 +8,8 @@ def create_student(group_id = None):
   # input the student info,only support 1 student with 1 group
   student_course_type = ['HFV3', 'C'] # ss:['SS','v3bk1] tb['TB','v3bk1'] HF:['HF','C'],['HFV3','C']
   student_base_info = {
-    'student_id': '10708',
-    'ilab_user_name': 'hf3.cn.08',
+    'student_id': '10707',
+    'ilab_user_name': 'hf3.cn.07',
     'student_english_name': 'hf35test',
     'studdent_last_name': 'test',
     'business_line_code':'OWN',
@@ -214,7 +214,7 @@ def create_student(group_id = None):
         "Program": student_course_type[0],
         "GroupType": "Classroom",
         "GroupStatus": "Activated",
-        "GroupNumber": "100148736",
+        "GroupNumber": "100148721",
         "GroupId": "a0B6D000005CLTHUA4",
         "EndDate": "2029-10-05",
         "CustomerProductionStatus": "Activated",
