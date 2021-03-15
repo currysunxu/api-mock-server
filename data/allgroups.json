@@ -2528,13 +2528,13 @@
         "GroupStatus": "Activated",
         "GroupNumber": "100148735",
         "GroupId": "a0B6D000005CLTHUA4",
-        "EndDate": "2022-10-05",
-        "CustomerProductionStatus": "Activated",
+        "EndDate": "2021-03-05",
+        "CustomerProductionStatus": "Completed",
         "CountryCode": "CN",
         "ContentPath": "highflyers/cn-3/book-1"
       },
       {
-        "StartDate": "2022-10-08",
+        "StartDate": "2021-03-08",
         "ProgramLevel": "I",
         "Program": "HFV3Plus",
         "GroupType": "City-Wide Classroom",
