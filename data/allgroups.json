@@ -2664,22 +2664,7 @@
       "CustomerProductionStatus": "Swapped",
       "CountryCode": "CN",
       "ContentPath": "smallstar/cn-3/book-4"
-    },
-      {
-        "StartDate": "2019-04-03",
-        "Season": null,
-        "ProgramLevel": "3",
-        "Program": "SSV3",
-        "PDDesignation": null,
-        "GroupType": "Classroom",
-        "GroupStatus": "Completed",
-        "GroupNumber": "100094222",
-        "GroupId": "a0B0I00000kaAiLUAU",
-        "EndDate": "2019-12-30",
-        "CustomerProductionStatus": "Completed",
-        "CountryCode": "CN",
-        "ContentPath": "smallstar/cn-3/book-3"
-      }]
+    }]
   },
   {
     "id": 200003,
