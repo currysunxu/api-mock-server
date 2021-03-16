@@ -2816,5 +2816,36 @@
         "CountryCode": "CN",
         "ContentPath": "tb16/cn-3/book-7"
       }]
-  }
-]
+  },
+  {
+    "id": 200007,
+    "data": [
+      {
+        "StartDate": "2021-03-08",
+        "ProgramLevel": "C",
+        "Program": "HFV3Plus",
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148767",
+        "GroupId": "a0B6D000005CLTHUA4",
+        "EndDate": "2029-10-05",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": "highflyers/cn-3/book-1"
+      },
+      {
+        "StartDate": "2021-02-08",
+        "ProgramLevel": "D",
+        "Program": "HFV3Plus",
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148767",
+        "GroupId": "a0B6D000005CLTHUA4",
+        "EndDate": "2029-10-05",
+        "CustomerProductionStatus": "Swapped",
+        "CountryCode": "CN",
+        "ContentPath": "highflyers/cn-3/book-2"
+      }
+    ]
+      }
+    ]
