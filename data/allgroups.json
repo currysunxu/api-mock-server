@@ -2490,5 +2490,348 @@
                 "ContentPath": "highflyers/cn-3/book-7"
             }
         ]
-    }
+    },
+  {
+    "id": 200000,
+    "data": [
+      {
+        "StartDate": null,
+        "Season": null,
+        "ProgramLevel": "D",
+        "Program": "HFV3Plus",
+        "PDDesignation": null,
+        "GroupType": "Online Classroom",
+        "GroupStatus": "Completed",
+        "GroupNumber": null,
+        "GroupId": "a0B2x000001rIHlEAM",
+        "EndDate": null,
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": null
+      },
+      {
+        "StartDate": "2021-03-14",
+        "Season": null,
+        "ProgramLevel": "D",
+        "Program": "HFV3Plus",
+        "PDDesignation": "HF 3.5",
+        "GroupType": "Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100268408",
+        "GroupId": "a0B2x000001rHqrEAE",
+        "EndDate": "2021-08-01",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": "highflyers/cn-3/book-2"
+      },
+      {
+        "StartDate": "2020-10-11",
+        "Season": null,
+        "ProgramLevel": "C",
+        "Program": "HFV3Plus",
+        "PDDesignation": "HF 3.5",
+        "GroupType": "Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100234750",
+        "GroupId": "a0B2x000001pe9oEAA",
+        "EndDate": "2021-03-07",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": "highflyers/cn-3/book-1"
+      },
+      {
+        "StartDate": "2020-08-17",
+        "Season": null,
+        "ProgramLevel": "4",
+        "Program": "SSV3",
+        "PDDesignation": null,
+        "GroupType": "Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100209828",
+        "GroupId": "a0B2x000001AozeEAC",
+        "EndDate": "2021-04-21",
+        "CustomerProductionStatus": "Swapped",
+        "CountryCode": "CN",
+        "ContentPath": "smallstar/cn-3/book-4"
+      },
+      {
+        "StartDate": "2020-01-06",
+        "Season": null,
+        "ProgramLevel": "4",
+        "Program": "SSV3",
+        "PDDesignation": null,
+        "GroupType": "Classroom",
+        "GroupStatus": "Completed",
+        "GroupNumber": "100169131",
+        "GroupId": "a0B0I00000p0lJ8UAI",
+        "EndDate": "2020-08-31",
+        "CustomerProductionStatus": "Swapped",
+        "CountryCode": "CN",
+        "ContentPath": "smallstar/cn-3/book-4"
+      },
+      {
+        "StartDate": "2019-04-03",
+        "Season": null,
+        "ProgramLevel": "3",
+        "Program": "SSV3",
+        "PDDesignation": null,
+        "GroupType": "Classroom",
+        "GroupStatus": "Completed",
+        "GroupNumber": "100094222",
+        "GroupId": "a0B0I00000kaAiLUAU",
+        "EndDate": "2019-12-30",
+        "CustomerProductionStatus": "Completed",
+        "CountryCode": "CN",
+        "ContentPath": "smallstar/cn-3/book-3"
+      },
+      {
+        "StartDate": "2018-06-04",
+        "Season": null,
+        "ProgramLevel": "A",
+        "Program": "SSV2",
+        "PDDesignation": null,
+        "GroupType": "Classroom",
+        "GroupStatus": "Completed",
+        "GroupNumber": "100005481",
+        "GroupId": "a0B0I00000bS9bXUAS",
+        "EndDate": "2020-01-11",
+        "CustomerProductionStatus": "Completed",
+        "CountryCode": "CN",
+        "ContentPath": null
+      }
+    ]
+  },
+  {
+    "id": 200001,
+    "data": [{
+      "StartDate": "2021-01-06",
+      "Season": null,
+      "ProgramLevel": "4",
+      "Program": "SSV3",
+      "PDDesignation": null,
+      "GroupType": "Classroom",
+      "GroupStatus": "Activated",
+      "GroupNumber": "100169131",
+      "GroupId": "a0B0I00000p0lJ8UAI",
+      "EndDate": "2021-08-31",
+      "CustomerProductionStatus": "Swapped",
+      "CountryCode": "CN",
+      "ContentPath": "smallstar/cn-3/book-4"
+    },
+  {
+    "StartDate": "2019-04-03",
+    "Season": null,
+    "ProgramLevel": "3",
+    "Program": "SSV3",
+    "PDDesignation": null,
+    "GroupType": "Classroom",
+    "GroupStatus": "Completed",
+    "GroupNumber": "100094222",
+    "GroupId": "a0B0I00000kaAiLUAU",
+    "EndDate": "2019-12-30",
+    "CustomerProductionStatus": "Completed",
+    "CountryCode": "CN",
+    "ContentPath": "smallstar/cn-3/book-3"
+  }]
+  },
+  {
+    "id": 200002,
+    "data": [
+      {
+        "StartDate": "2021-04-08",
+        "ProgramLevel": "C",
+        "Program": "HFV3Plus",
+        "GroupType": "City-Wide Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100148767",
+        "GroupId": "a0B6D000005CLTHUA4",
+        "EndDate": "2029-10-05",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": "highflyers/cn-3/book-1"
+      },
+      {
+      "StartDate": "2021-01-06",
+      "Season": null,
+      "ProgramLevel": "4",
+      "Program": "SSV3",
+      "PDDesignation": null,
+      "GroupType": "Classroom",
+      "GroupStatus": "Activated",
+      "GroupNumber": "100169131",
+      "GroupId": "a0B0I00000p0lJ8UAI",
+      "EndDate": "2021-08-31",
+      "CustomerProductionStatus": "Swapped",
+      "CountryCode": "CN",
+      "ContentPath": "smallstar/cn-3/book-4"
+    },
+      {
+        "StartDate": "2019-04-03",
+        "Season": null,
+        "ProgramLevel": "3",
+        "Program": "SSV3",
+        "PDDesignation": null,
+        "GroupType": "Classroom",
+        "GroupStatus": "Completed",
+        "GroupNumber": "100094222",
+        "GroupId": "a0B0I00000kaAiLUAU",
+        "EndDate": "2019-12-30",
+        "CustomerProductionStatus": "Completed",
+        "CountryCode": "CN",
+        "ContentPath": "smallstar/cn-3/book-3"
+      }]
+  },
+  {
+    "id": 200003,
+    "data": [{
+      "StartDate": "2021-05-06",
+      "Season": null,
+      "ProgramLevel": "4",
+      "Program": "SSV3",
+      "PDDesignation": null,
+      "GroupType": "Classroom",
+      "GroupStatus": "Activated",
+      "GroupNumber": "100169131",
+      "GroupId": "a0B0I00000p0lJ8UAI",
+      "EndDate": "2021-12-31",
+      "CustomerProductionStatus": "Activated",
+      "CountryCode": "CN",
+      "ContentPath": "smallstar/cn-3/book-4"
+    },
+      {
+        "StartDate": "2020-04-03",
+        "Season": null,
+        "ProgramLevel": "3",
+        "Program": "SSV3",
+        "PDDesignation": null,
+        "GroupType": "Classroom",
+        "GroupStatus": "Completed",
+        "GroupNumber": "100094222",
+        "GroupId": "a0B0I00000kaAiLUAU",
+        "EndDate": "2021-02-03",
+        "CustomerProductionStatus": "Completed",
+        "CountryCode": "CN",
+        "ContentPath": "smallstar/cn-3/book-3"
+      }]
+  },
+  {
+    "id": 200004,
+    "data": [
+      {
+        "StartDate": "2021-04-06",
+        "Season": null,
+        "ProgramLevel": "9",
+        "Program": "FRV1",
+        "PDDesignation": null,
+        "GroupType": "Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100269645",
+        "GroupId": "a0B2x000002uoO2EAI",
+        "EndDate": "2021-08-07",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": null
+      },
+
+      {
+        "StartDate": "2018-06-23",
+        "Season": null,
+        "ProgramLevel": "7",
+        "Program": "TBV3",
+        "PDDesignation": null,
+        "GroupType": "Classroom",
+        "GroupStatus": "Completed",
+        "GroupNumber": "746180",
+        "GroupId": "a0B0I00000h3WaoUAE",
+        "EndDate": "2019-01-15",
+        "CustomerProductionStatus": "Completed",
+        "CountryCode": "CN",
+        "ContentPath": "tb16/cn-3/book-7"
+      }]
+  },
+  {
+    "id": 200005,
+    "data": [
+      {
+        "StartDate": "2021-04-06",
+        "Season": null,
+        "ProgramLevel": "9",
+        "Program": "FRV1",
+        "PDDesignation": null,
+        "GroupType": "Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100269645",
+        "GroupId": "a0B2x000002uoO2EAI",
+        "EndDate": "2021-08-07",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": null
+      },
+
+      {
+        "StartDate": "2021-02-06",
+        "Season": null,
+        "ProgramLevel": "8",
+        "Program": "FRV1",
+        "PDDesignation": null,
+        "GroupType": "Classroom",
+        "GroupStatus": "Completed",
+        "GroupNumber": "100254707",
+        "GroupId": "a0B2x000000fq5BEAQ",
+        "EndDate": "2021-02-06",
+        "CustomerProductionStatus": "Completed",
+        "CountryCode": "CN",
+        "ContentPath": null
+      },
+      {
+        "StartDate": "2018-06-23",
+        "Season": null,
+        "ProgramLevel": "7",
+        "Program": "TBV3",
+        "PDDesignation": null,
+        "GroupType": "Classroom",
+        "GroupStatus": "Completed",
+        "GroupNumber": "746180",
+        "GroupId": "a0B0I00000h3WaoUAE",
+        "EndDate": "2019-01-15",
+        "CustomerProductionStatus": "Completed",
+        "CountryCode": "CN",
+        "ContentPath": "tb16/cn-3/book-7"
+      }]
+  },
+  {
+    "id": 200006,
+    "data": [
+      {
+        "StartDate": "2021-03-06",
+        "Season": null,
+        "ProgramLevel": "9",
+        "Program": "FRV1",
+        "PDDesignation": null,
+        "GroupType": "Classroom",
+        "GroupStatus": "Activated",
+        "GroupNumber": "100269645",
+        "GroupId": "a0B2x000002uoO2EAI",
+        "EndDate": "2021-08-07",
+        "CustomerProductionStatus": "Activated",
+        "CountryCode": "CN",
+        "ContentPath": null
+      },
+
+      {
+        "StartDate": "2018-06-23",
+        "Season": null,
+        "ProgramLevel": "7",
+        "Program": "TBV3",
+        "PDDesignation": null,
+        "GroupType": "Classroom",
+        "GroupStatus": "Completed",
+        "GroupNumber": "746180",
+        "GroupId": "a0B0I00000h3WaoUAE",
+        "EndDate": "2019-01-15",
+        "CustomerProductionStatus": "Completed",
+        "CountryCode": "CN",
+        "ContentPath": "tb16/cn-3/book-7"
+      }]
+  }
 ]
