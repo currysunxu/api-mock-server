@@ -1845,10 +1845,10 @@
                 "Program": "HFV3Plus",
                 "GroupType": "City-Wide Classroom",
                 "GroupStatus": "Activated",
-                "GroupNumber": "100148735",
+                "GroupNumber": "100148787",
                 "GroupId": "a0B6D000005CLTHUA4",
-                "EndDate": "2020-10-05",
-                "CustomerProductionStatus": "Completed",
+                "EndDate": "2023-10-05",
+                "CustomerProductionStatus": "Activated",
                 "CountryCode": "CN",
                 "ContentPath": null
             },
@@ -2470,6 +2470,32 @@
                 "CustomerProductionStatus": "Completed",
                 "CountryCode": "CN",
                 "ContentPath": "highflyers/cn-3-144/book-1"
+            },
+            {
+                "StartDate": "2020-10-08",
+                "ProgramLevel": "F",
+                "Program": "HFV3Plus",
+                "GroupType": "City-Wide Classroom",
+                "GroupStatus": "Activated",
+                "GroupNumber": "100148735",
+                "GroupId": "a0B6D000005CLTHUA4",
+                "EndDate": "2022-09-05",
+                "CustomerProductionStatus": "Activated",
+                "CountryCode": "CN",
+                "ContentPath": null
+            },
+            {
+                "StartDate": "2020-10-08",
+                "ProgramLevel": "G",
+                "Program": "HFV3Plus",
+                "GroupType": "City-Wide Classroom",
+                "GroupStatus": "Activated",
+                "GroupNumber": "100148735",
+                "GroupId": "a0B6D000005CLTHUA4",
+                "EndDate": "2023-01-05",
+                "CustomerProductionStatus": "Activated",
+                "CountryCode": "CN",
+                "ContentPath": ""
             }
         ]
     },
