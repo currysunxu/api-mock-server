@@ -2495,7 +2495,7 @@
                 "EndDate": "2023-01-05",
                 "CustomerProductionStatus": "Activated",
                 "CountryCode": "CN",
-                "ContentPath": ""
+                "ContentPath": null
             }
         ]
     },
