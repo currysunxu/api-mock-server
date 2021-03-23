@@ -772,51 +772,6 @@
               "CustomerProductionStatus": "Completed",
               "CountryCode": "CN",
               "ContentPath": null
-          },
-          {
-              "StartDate": "2018-06-23",
-              "Season": null,
-              "ProgramLevel": "7",
-              "Program": "TBV3",
-              "PDDesignation": null,
-              "GroupType": "Classroom",
-              "GroupStatus": "Completed",
-              "GroupNumber": "746180",
-              "GroupId": "a0B0I00000h3WaoUAE",
-              "EndDate": "2019-01-15",
-              "CustomerProductionStatus": "Completed",
-              "CountryCode": "CN",
-              "ContentPath": "tb16/cn-3/book-7"
-          },
-          {
-              "StartDate": "2017-12-16",
-              "Season": null,
-              "ProgramLevel": "6",
-              "Program": "TBV3",
-              "PDDesignation": null,
-              "GroupType": "Classroom",
-              "GroupStatus": "Completed",
-              "GroupNumber": "686858",
-              "GroupId": "a0B0I00000h3WapUAE",
-              "EndDate": "2018-06-16",
-              "CustomerProductionStatus": "Completed",
-              "CountryCode": "CN",
-              "ContentPath": "tb16/cn-3/book-6"
-          },
-          {
-              "StartDate": "2017-06-10",
-              "Season": null,
-              "ProgramLevel": "5",
-              "Program": "TBV3",
-              "PDDesignation": null,
-              "GroupType": "Classroom",
-              "GroupStatus": "Completed",
-              "GroupNumber": "628822",
-              "GroupId": "a0B0I00000h3Wb6UAE",
-              "EndDate": "2017-12-09",
-              "CustomerProductionStatus": "Completed",
-              "CountryCode": "CN",
-              "ContentPath": "tb16/cn-3/book-5"
           }
         ]
     },
