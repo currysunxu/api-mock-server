@@ -1423,7 +1423,7 @@
                 "EndDate": null,
                 "CustomerProductionStatus": "Completed",
                 "CountryCode": "CN",
-                "ContentPath": "frontrunner/cn-3/book-16"
+                "ContentPath": null
             },
             {
                 "StartDate": "2018-12-20",
@@ -1437,7 +1437,7 @@
                 "EndDate": null,
                 "CustomerProductionStatus": "Completed",
                 "CountryCode": "CN",
-                "ContentPath": "frontrunner/cn-3/book-15"
+                "ContentPath": null
             },
             {
                 "StartDate": "2018-12-20",
@@ -1451,7 +1451,7 @@
                 "EndDate": "2021-12-20",
                 "CustomerProductionStatus": "Completed",
                 "CountryCode": "CN",
-                "ContentPath": "frontrunner/cn-3/book-14"
+                "ContentPath": null
             },
             {
                 "StartDate": "2020-10-20",
