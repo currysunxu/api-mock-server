@@ -221,8 +221,8 @@
     "data": {
       "timestamp": "2021-03-30T10:09:59.932Z",
       "teacherName": "Teacher2 Parent Test",
-      "teacherId": "a5R1s0000000o4SEAQ",
-      "teacherAvatarUrl": "https://cn-prod-salesforce-integration-1258166938.cos.ap-shanghai.myqcloud.com/B25__Staff__c/a5R1s0000000o4SEAQ/a5R1s0000000o4SEAQ_1600740131.png",
+      "teacherId": "d5R1s0000001o4SEAQ",
+      "teacherAvatarUrl": null,
       "teacherAccent": "Global",
       "studentpwd": null,
       "startTime": "2021-03-30T09:10:00.000Z",
