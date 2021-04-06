@@ -2354,19 +2354,6 @@
                 "CustomerProductionStatus": "Completed",
                 "CountryCode": "CN",
                 "ContentPath": "smallstars-35/cn-3/book-2"
-            },
-            {
-                "StartDate": "2019-04-28",
-                "ProgramLevel": "5",
-                "Program": "SSV3",
-                "GroupType": "Classroom",
-                "GroupStatus": "Activated",
-                "GroupNumber": "100148655",
-                "GroupId": "a0B6D000005BgBPU12",
-                "EndDate": "2021-01-27",
-                "CustomerProductionStatus": "Swapped",
-                "CountryCode": "CN",
-                "ContentPath": "smallstars-35/cn-3/book-5"
             }
         ]
     },
