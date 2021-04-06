@@ -994,7 +994,7 @@
                 "EndDate": "2020-05-11",
                 "CustomerProductionStatus": "Completed",
                 "CountryCode": "CN",
-                "ContentPath": null
+                "ContentPath": "highflyers/cn-3/book-2"
             },
             {
                 "StartDate": "2019-09-07",
@@ -1036,7 +1036,7 @@
                 "EndDate": null,
                 "CustomerProductionStatus": "Activated",
                 "CountryCode": "CN",
-                "ContentPath": null
+                "ContentPath": "highflyers/cn-3/book-3"
             },
             {
                 "StartDate": "2020-01-01",
@@ -1050,7 +1050,7 @@
                 "EndDate": "2020-11-01",
                 "CustomerProductionStatus": "Completed",
                 "CountryCode": "CN",
-                "ContentPath": null
+                "ContentPath": "highflyers/cn-3/book-4"
             },
             {
                 "StartDate": null,
@@ -1064,7 +1064,7 @@
                 "EndDate": null,
                 "CustomerProductionStatus": "Completed",
                 "CountryCode": "CN",
-                "ContentPath": null
+                "ContentPath": "highflyers/cn-3/book-5"
             },
             {
                 "StartDate": "2017-02-17",
@@ -1079,7 +1079,7 @@
                 "EndDate": "2018-06-23",
                 "CustomerProductionStatus": "Completed",
                 "CountryCode": "CN",
-                "ContentPath": null
+                "ContentPath": "highflyers/cn-3/book-6"
             },
             {
                 "StartDate": "2020-07-19",
