@@ -983,9 +983,8 @@
             },
             {
                 "StartDate": "2021-01-11",
-                "Season": null,
                 "ProgramLevel": "D",
-                "Program": "HFV3",
+                "Program": "HFV3Plus",
                 "PDDesignation": "HF 3.5",
                 "GroupType": "Classroom",
                 "GroupStatus": "Activated",
