@@ -1237,7 +1237,7 @@
         }
       ],
       "isRemoved": false,
-      "groupType": "Online Classroom",
+      "groupType": "Classroom",
       "groupNumber": null,
       "groupId": "a0B2x000001DeK6EAK",
       "evcToken": null,
@@ -1291,7 +1291,7 @@
         }
       ],
       "isRemoved": false,
-      "groupType": "Online Classroom",
+      "groupType": "City-Wide Classroom",
       "groupNumber": null,
       "groupId": "a0B2x000002uif5EAA",
       "evcToken": "73bcbbb5-9883-4580-9815-fc613d1a25a9",
