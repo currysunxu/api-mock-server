@@ -111,7 +111,8 @@
                 "EndDate": "2022-05-27",
                 "CustomerProductionStatus": "Activated",
                 "CountryCode": "CN",
-                "ContentPath": "smallstar/cn-3/book-1"
+                "ContentPath": "smallstar/cn-3/book-1",
+                "Assessments": []
             },
             {
                 "StartDate": "2020-04-28",
@@ -124,7 +125,8 @@
                 "EndDate": "2022-04-27",
                 "CustomerProductionStatus": "Activated",
                 "CountryCode": "CN",
-                "ContentPath": "smallstar/cn-3/book-2"
+                "ContentPath": "smallstar/cn-3/book-2",
+                "Assessments": []
             },
             {
                 "StartDate": "2020-04-28",
@@ -137,7 +139,8 @@
                 "EndDate": "2022-04-27",
                 "CustomerProductionStatus": "Activated",
                 "CountryCode": "CN",
-                "ContentPath": "smallstar/cn-3/book-3"
+                "ContentPath": "smallstar/cn-3/book-3",
+                "Assessments": ["Unit Quiz"]
             },
             {
                 "StartDate": "2020-04-28",
@@ -150,7 +153,8 @@
                 "EndDate": "2022-04-27",
                 "CustomerProductionStatus": "Suspended",
                 "CountryCode": "CN",
-                "ContentPath": "smallstar/cn-3/book-4"
+                "ContentPath": "smallstar/cn-3/book-4",
+                "Assessments": ["Unit Quiz"]
             },
             {
                 "StartDate": "2020-04-21",
@@ -841,7 +845,8 @@
                 "EndDate": "2021-05-28",
                 "CustomerProductionStatus": "Activated",
                 "CountryCode": "CN",
-                "ContentPath": "tb16/cn-3/book-4"
+                "ContentPath": "tb16/cn-3/book-4",
+                "Assessments": ["Mid-Term", "Final"]
             },
             {
                 "StartDate": null,
@@ -856,7 +861,8 @@
                 "EndDate": null,
                 "CustomerProductionStatus": "Activated",
                 "CountryCode": "CN",
-                "ContentPath": null
+                "ContentPath": null,
+                "Assessments": ["Mid-Term", "Final"]
             },
             {
                 "StartDate": null,
@@ -886,7 +892,8 @@
                 "EndDate": "2020-08-07",
                 "CustomerProductionStatus": "Completed",
                 "CountryCode": "CN",
-                "ContentPath": null
+                "ContentPath": null,
+                "Assessments": []
             },
             {
                 "StartDate": "2020-05-11",
@@ -916,7 +923,8 @@
                 "EndDate": "2020-10-25",
                 "CustomerProductionStatus": "Completed",
                 "CountryCode": "CN",
-                "ContentPath": "tb16/cn-3/book-3"
+                "ContentPath": "tb16/cn-3/book-3",
+                "Assessments": ["Mid-Term", "Final"]
             },
             {
                 "StartDate": "2019-10-30",
@@ -931,7 +939,8 @@
                 "EndDate": "2019-11-26",
                 "CustomerProductionStatus": "Completed",
                 "CountryCode": "CN",
-                "ContentPath": null
+                "ContentPath": null,
+                "Assessments": []
             },
             {
                 "StartDate": "2019-10-13",
@@ -946,7 +955,8 @@
                 "EndDate": "2020-05-05",
                 "CustomerProductionStatus": "Completed",
                 "CountryCode": "CN",
-                "ContentPath": "tb16/cn-3/book-2"
+                "ContentPath": "tb16/cn-3/book-2",
+                "Assessments": []
             }
         ]
     },
@@ -965,7 +975,8 @@
                 "EndDate": "2022-10-05",
                 "CustomerProductionStatus": "Pending",
                 "CountryCode": "CN",
-                "ContentPath": "highflyers/cn-3/book-8"
+                "ContentPath": "highflyers/cn-3/book-8",
+                "Assessments": ["Mid-Term", "Final","Unit Quiz"]
             },
             {
                 "StartDate": "2020-11-06",
@@ -979,7 +990,8 @@
                 "EndDate": "2021-02-05",
                 "CustomerProductionStatus": "Completed",
                 "CountryCode": "CN",
-                "ContentPath": "highflyers/cn-3/book-7"
+                "ContentPath": "highflyers/cn-3/book-7",
+                "Assessments": ["Mid-Term", "Final"]
             },
             {
                 "StartDate": "2021-01-11",
@@ -993,7 +1005,8 @@
                 "EndDate": "2021-10-11",
                 "CustomerProductionStatus": "Activated",
                 "CountryCode": "CN",
-                "ContentPath": "highflyers/cn-3/book-2"
+                "ContentPath": "highflyers/cn-3/book-2",
+                "Assessments": ["Mid-Term", "Final","Unit Quiz"]
             },
             {
                 "StartDate": "2019-09-07",
@@ -1021,7 +1034,8 @@
                 "EndDate": "2021-02-07",
                 "CustomerProductionStatus": "Completed",
                 "CountryCode": "CN",
-                "ContentPath": "highflyers/cn-3/book-3"
+                "ContentPath": "highflyers/cn-3/book-3",
+                "Assessments": ["Mid-Term", "Final"]
             },
             {
                 "StartDate": null,
@@ -1049,7 +1063,8 @@
                 "EndDate": "2020-11-01",
                 "CustomerProductionStatus": "Completed",
                 "CountryCode": "CN",
-                "ContentPath": "highflyers/cn-3/book-4"
+                "ContentPath": "highflyers/cn-3/book-4",
+                "Assessments": ["Mid-Term", "Final","Unit Quiz"]
             },
             {
                 "StartDate": null,
@@ -1063,7 +1078,8 @@
                 "EndDate": null,
                 "CustomerProductionStatus": "Completed",
                 "CountryCode": "CN",
-                "ContentPath": "highflyers/cn-3/book-5"
+                "ContentPath": "highflyers/cn-3/book-5",
+                "Assessments": []
             },
             {
                 "StartDate": "2017-02-17",
@@ -1078,7 +1094,8 @@
                 "EndDate": "2018-06-23",
                 "CustomerProductionStatus": "Completed",
                 "CountryCode": "CN",
-                "ContentPath": "highflyers/cn-3/book-6"
+                "ContentPath": "highflyers/cn-3/book-6",
+                "Assessments": []
             },
             {
                 "StartDate": "2020-07-19",
@@ -1497,7 +1514,8 @@
                 "EndDate": null,
                 "CustomerProductionStatus": "Activated",
                 "CountryCode": "CN",
-                "ContentPath": "highflyers/cn-3/book-2"
+                "ContentPath": "highflyers/cn-3/book-2",
+                "Assessments": []
             },
             {
                 "StartDate": "2020-05-08",
@@ -1511,7 +1529,8 @@
                 "EndDate": "2020-10-05",
                 "CustomerProductionStatus": "Activated",
                 "CountryCode": "CN",
-                "ContentPath": "highflyers/cn-3/book-2"
+                "ContentPath": "highflyers/cn-3/book-2",
+                "Assessments": []
             },
             {
                 "StartDate": "2020-06-06",
@@ -1525,7 +1544,8 @@
                 "EndDate": "2021-10-05",
                 "CustomerProductionStatus": "Activated",
                 "CountryCode": "CN",
-                "ContentPath": "highflyers/cn-3/book-3"
+                "ContentPath": "highflyers/cn-3/book-3",
+                "Assessments": []
             },
             {
                 "StartDate": "2019-09-07",
@@ -1539,7 +1559,8 @@
                 "EndDate": "2020-05-08",
                 "CustomerProductionStatus": "Completed",
                 "CountryCode": "CN",
-                "ContentPath": "highflyers/cn-3/book-2"
+                "ContentPath": "highflyers/cn-3/book-2",
+                "Assessments": []
             },
             {
                 "StartDate": null,
@@ -1553,7 +1574,8 @@
                 "EndDate": null,
                 "CustomerProductionStatus": "Activated",
                 "CountryCode": "CN",
-                "ContentPath": "highflyers/cn-3/book-2"
+                "ContentPath": "highflyers/cn-3/book-2",
+                "Assessments": []
             },
             {
                 "StartDate": null,
@@ -1566,7 +1588,8 @@
                 "EndDate": null,
                 "CustomerProductionStatus": "Activated",
                 "CountryCode": "CN",
-                "ContentPath": "highflyers/cn-3/book-3"
+                "ContentPath": "highflyers/cn-3/book-3",
+                "Assessments": []
             },
             {
                 "StartDate": "2020-09-06",
@@ -1580,7 +1603,8 @@
                 "EndDate": "2021-10-05",
                 "CustomerProductionStatus": "Completed",
                 "CountryCode": "CN",
-                "ContentPath": "highflyers/cn-3/book-7"
+                "ContentPath": "highflyers/cn-3/book-7",
+                "Assessments": []
             }
         ]
     },
