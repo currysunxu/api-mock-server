@@ -1311,15 +1311,15 @@
                 "Assessments": []
             },
             {
-                "StartDate": "2020-04-28",
+                "StartDate": "2021-05-13",
                 "ProgramLevel": "2",
                 "Program": "SSV3",
                 "GroupType": "City-Wide Classroom",
-                "GroupStatus": "Activated",
+                "GroupStatus": "Prestart",
                 "GroupNumber": "100148099",
                 "GroupId": "a0B6D000005BgBPUA1",
                 "EndDate": "2022-04-27",
-                "CustomerProductionStatus": "Activated",
+                "CustomerProductionStatus": "Prestart",
                 "CountryCode": "CN",
                 "ContentPath": "smallstar/cn-3/book-2",
                 "Assessments": []
