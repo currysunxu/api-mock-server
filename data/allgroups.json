@@ -1318,10 +1318,10 @@
                 "GroupStatus": "Prestart",
                 "GroupNumber": null,
                 "GroupId": null,
-                "EndDate": "2022-04-27",
+                "EndDate": null,
                 "CustomerProductionStatus": "Prestart",
                 "CountryCode": "CN",
-                "ContentPath": "smallstar/cn-3/book-2",
+                "ContentPath": null,
                 "Assessments": null
             },
             {
