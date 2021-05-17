@@ -108,7 +108,7 @@
                 "GroupStatus": "Activated",
                 "GroupNumber": "100148048",
                 "GroupId": "a0B6D000005BgBPUA0",
-                "EndDate": "2022-05-27",
+                "EndDate": "2021-05-11",
                 "CustomerProductionStatus": "Activated",
                 "CountryCode": "CN",
                 "ContentPath": "smallstar/cn-3/book-1",
@@ -144,7 +144,7 @@
             },
             {
                 "StartDate": "2020-04-28",
-                "ProgramLevel": "4",
+                "ProgramLevel": "3",
                 "Program": "SSV3",
                 "GroupType": "City-Wide Classroom",
                 "GroupStatus": "Activated",
@@ -152,6 +152,20 @@
                 "GroupId": "a0B6D000005BgBPUA1",
                 "EndDate": "2022-04-27",
                 "CustomerProductionStatus": "Suspended",
+                "CountryCode": "CN",
+                "ContentPath": "smallstar/cn-3/book-3",
+                "Assessments": ["Unit Quiz"]
+            },
+            {
+                "StartDate": "2022-04-28",
+                "ProgramLevel": "4",
+                "Program": "SSV3",
+                "GroupType": "City-Wide Classroom",
+                "GroupStatus": "Activated",
+                "GroupNumber": "100148099",
+                "GroupId": "a0B6D000005BgBPUA1",
+                "EndDate": "2024-04-27",
+                "CustomerProductionStatus": "Activated",
                 "CountryCode": "CN",
                 "ContentPath": "smallstar/cn-3/book-4",
                 "Assessments": ["Unit Quiz"]
