@@ -1090,7 +1090,7 @@
                 "GroupNumber": null,
                 "GroupId": "a0B6D000005CKEWUA4",
                 "EndDate": "2021-11-01",
-                "CustomerProductionStatus": "Swapped",
+                "CustomerProductionStatus": "Completed",
                 "CountryCode": "CN",
                 "ContentPath": "highflyers/cn-3/book-4",
                 "Assessments": ["Mid-Term", "Final","Unit Quiz"]
