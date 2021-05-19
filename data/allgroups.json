@@ -2325,26 +2325,26 @@
                 "GroupStatus": "Activated",
                 "GroupNumber": "100148048",
                 "GroupId": "a0B6D000005BgBPUA0",
-                "EndDate": "2020-05-27",
+                "EndDate": "2021-01-18",
                 "CustomerProductionStatus": "Completed",
                 "CountryCode": "CN",
                 "ContentPath": "smallstar/cn-3/book-1"
             },
             {
-                "StartDate": "2020-04-28",
+                "StartDate": "2021-04-28",
                 "ProgramLevel": "3",
                 "Program": "SSV3",
                 "GroupType": "Classroom",
                 "GroupStatus": "Activated",
                 "GroupNumber": "100148019",
                 "GroupId": "a0B6D000005BgBPUA3",
-                "EndDate": "2020-01-27",
+                "EndDate": "2021-06-30",
                 "CustomerProductionStatus": "Completed",
                 "CountryCode": "CN",
                 "ContentPath": "smallstar/cn-3/book-3"
             },
             {
-                "StartDate": "2021-03-10",
+                "StartDate": "2021-06-01",
                 "ProgramLevel": "4",
                 "Program": "SSV3",
                 "GroupType": "Classroom",
@@ -2357,14 +2357,14 @@
                 "ContentPath": "smallstar/cn-3/book-4"
             },
             {
-                "StartDate": "2020-01-10",
+                "StartDate": "2021-02-10",
                 "ProgramLevel": "2",
                 "Program": "SSV3",
                 "GroupType": "Classroom",
                 "GroupStatus": "Activated",
                 "GroupNumber": "100148622",
                 "GroupId": "a0B6D000005BgBPU12",
-                "EndDate": "2021-03-09",
+                "EndDate": "2021-05-31",
                 "CustomerProductionStatus": "Completed",
                 "CountryCode": "CN",
                 "ContentPath": "smallstar/cn-3/book-2"
