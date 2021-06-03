@@ -2368,6 +2368,38 @@
                 "CustomerProductionStatus": "Completed",
                 "CountryCode": "CN",
                 "ContentPath": "smallstar/cn-3/book-2"
+            },
+            {
+                "StartDate": "2019-03-29",
+                "Season": "",
+                "ProgramLevel": "A",
+                "Program": "SSV2",
+                "PDDesignation": null,
+                "GroupType": null,
+                "GroupStatus": "Prestart",
+                "GroupNumber": null,
+                "GroupId": null,
+                "EndDate": null,
+                "CustomerProductionStatus": "Prestart",
+                "CountryCode": "CN",
+                "ContentPath": null,
+                "Assessments": null
+            },
+            {
+                "StartDate": "2019-03-29",
+                "Season": "",
+                "ProgramLevel": "Blue",
+                "Program": "SSV2",
+                "PDDesignation": null,
+                "GroupType": null,
+                "GroupStatus": "Prestart",
+                "GroupNumber": null,
+                "GroupId": null,
+                "EndDate": null,
+                "CustomerProductionStatus": "Prestart",
+                "CountryCode": "CN",
+                "ContentPath": null,
+                "Assessments": null
             }
         ]
     },
