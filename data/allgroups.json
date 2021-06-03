@@ -1038,7 +1038,7 @@
                 "Assessments": ["Mid-Term", "Final","Unit Quiz"]
             },
             {
-                "StartDate": "2019-09-07",
+                "StartDate": "2021-05-07",
                 "ProgramLevel": "C",
                 "Program": "HFV3Plus",
                 "PDDesignation": "HF 3.5",
@@ -1046,7 +1046,7 @@
                 "GroupStatus": "Activated",
                 "GroupNumber": "100148729",
                 "GroupId": "a0B6D000005CKWSUA4",
-                "EndDate": "2020-05-08",
+                "EndDate": "2022-05-08",
                 "CustomerProductionStatus": "Activated",
                 "CountryCode": "CN",
                 "ContentPath": "highflyers/cn-3/book-1"
