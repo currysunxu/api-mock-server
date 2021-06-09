@@ -2351,5 +2351,169 @@
       "assessment": null,
       "hasEnteredClass": false
     }
+  },
+  {
+    "id": "1047a0G2x000001itGREAY",
+    "data": {
+      "timestamp": "2021-01-07T05:09:59.932Z",
+      "teacherName": "Teacher3 Test",
+      "teacherId": "a5R1s0000000o4SEAQ",
+      "teacherAvatarUrl": "https://cn-prod-salesforce-integration-1258166938.cos.ap-shanghai.myqcloud.com/B25__Staff__c/a5R1s0000000o4SEAQ/a5R1s0000000o4SEAQ_1600740131.png",
+      "teacherAccent": "Global",
+      "studentpwd": null,
+      "startTime": "2021-01-07T08:10:00.000Z",
+      "skillFocus": null,
+      "sessionType": "Online Classroom",
+      "sessionStatus": "Activated",
+      "sessionId": "120973665",
+      "sequenceNumber": 23,
+      "season": null,
+      "roomId": null,
+      "reservationId": "a0G2x000001itGREAY",
+      "programLevel": "D",
+      "program": "HFV3Plus",
+      "pdDesignation": null,
+      "offlineSessionId": null,
+      "lessons": [
+        {
+          "UnitNumber": "1",
+          "OnlineLessonTopicId": "11018",
+          "OnlineLessonTopic": "Welcome Home! Lesson 6",
+          "LessonNumber": "6",
+          "ContentPath": null
+        },
+        {
+          "UnitNumber": "1",
+          "OnlineLessonTopicId": null,
+          "OnlineLessonTopic": null,
+          "LessonNumber": "3",
+          "ContentPath": "highflyers/cn-3/book-2/unit-10/assignment-1"
+        }
+      ],
+      "isRemoved": false,
+      "groupType": "Online Classroom",
+      "groupNumber": null,
+      "groupId": "a0B2x000001DeK6EAK",
+      "evcToken": null,
+      "entryLink": "https://global.talk-cloud.net/WebAPI/entry/domain/cloudclass/serial/null/pid/101563272/username/test_ll/usertype/2/ts/1609996199/auth/a3141247442a9955446e2944f8286fa8",
+      "endTime": "2021-01-07T08:40:00.000Z",
+      "customerId": "1071",
+      "contentPath": null,
+      "centerCode": "DCNTES01",
+      "businessUnit": "China Own",
+      "attendanceStatus": "Pending",
+      "attendanceResult": null,
+      "hasEnteredClass": false
+    }
+  },
+  {
+    "id": "1047a0G2x000001itGSEAY",
+    "data": {
+      "timestamp": "2021-06-09T08:23:42.279Z",
+      "teacherName": "Alynne S.",
+      "teacherId": "a5R0I0000019PpFUAU",
+      "teacherAvatarUrl": "https://cn-prod-salesforce-integration-1258166938.cos.ap-shanghai.myqcloud.com/B25__Staff__c/teacher_upload/cosmg/161723084667057.png",
+      "teacherAccent": "American",
+      "studentpwd": null,
+      "startTime": "2021-05-08T10:00:00.000Z",
+      "skillFocus": null,
+      "sessionType": "Online Classroom",
+      "sessionStatus": "Completed",
+      "sessionId": "119548613",
+      "sequenceNumber": 2,
+      "season": null,
+      "roomId": null,
+      "reservationId": "a0G2x000001itGSEAY",
+      "programLevel": "4",
+      "program": "SSV3",
+      "pdDesignation": null,
+      "offlineSessionId": null,
+      "lessons": [
+        {
+          "UnitNumber": "7",
+          "OnlineLessonTopicId": "10936",
+          "OnlineLessonTopic": "Around My Town Lesson 3",
+          "LessonNumber": "3",
+          "ContentPath": null
+        },
+        {
+          "UnitNumber": "7",
+          "OnlineLessonTopicId": null,
+          "OnlineLessonTopic": null,
+          "LessonNumber": "6",
+          "ContentPath": "smallstar/cn-3/book-2/unit-10/assignment-2"
+        }
+      ],
+      "isRemoved": false,
+      "groupType": "Online Classroom",
+      "groupNumber": "100437775",
+      "groupId": "a0B2x000001AfnhEAC",
+      "evcToken": "206a2734-20ec-4425-8234-6f45c4dc5947",
+      "entryLink": "https://global.talk-cloud.net/WebAPI/entry/domain/ef/serial/null/pid/100006452/username/tang_Aven/usertype/2/ts/1623227022/auth/5c4c18d78f96306fc366199aa09d5e3e",
+      "endTime": "2020-07-06T10:30:00.000Z",
+      "customerId": "100006452",
+      "contentPath": null,
+      "centerCode": "DCNFOC03",
+      "businessUnit": "China Own",
+      "attendanceStatus": "Completed",
+      "attendanceResult": "Present",
+      "assessment": null,
+      "hasEnteredClass": false
+    }
+  },
+  {
+    "id": "1047a0G2x000001itGTEAY",
+    "data": {
+      "timestamp": "2021-06-09T08:25:48.702Z",
+      "teacherName": "Alynne S.",
+      "teacherId": "a5R0I0000019PpFUAU",
+      "teacherAvatarUrl": "https://cn-prod-salesforce-integration-1258166938.cos.ap-shanghai.myqcloud.com/B25__Staff__c/teacher_upload/cosmg/161723084667057.png",
+      "teacherAccent": "American",
+      "studentpwd": null,
+      "startTime": "2021-06-10 09:00:00.000",
+      "skillFocus": null,
+      "sessionType": "Online Classroom",
+      "sessionStatus": "Completed",
+      "sessionId": "119548614",
+      "sequenceNumber": 3,
+      "season": null,
+      "roomId": null,
+      "reservationId": "a0G2x000001HKPmEAO",
+      "programLevel": "4",
+      "program": "SSV3",
+      "pdDesignation": null,
+      "offlineSessionId": null,
+      "lessons": [
+        {
+          "UnitNumber": "8",
+          "OnlineLessonTopicId": "10937",
+          "OnlineLessonTopic": "Jobs Lesson 1",
+          "LessonNumber": "1",
+          "ContentPath": null
+        },
+        {
+          "UnitNumber": "8",
+          "OnlineLessonTopicId": null,
+          "OnlineLessonTopic": null,
+          "LessonNumber": "1",
+          "ContentPath": "smallstar/cn-3/book-2/unit-10/assignment-3"
+        }
+      ],
+      "isRemoved": false,
+      "groupType": "Online Classroom",
+      "groupNumber": "100437775",
+      "groupId": "a0B2x000001AfnhEAC",
+      "evcToken": "14d01c05-e337-49eb-824c-b62c20528a64",
+      "entryLink": "https://global.talk-cloud.net/WebAPI/entry/domain/ef/serial/null/pid/100006452/username/tang_Aven/usertype/2/ts/1623227148/auth/db2609942985267f46e1becbf5498d85",
+      "endTime": "2020-07-13T10:30:00.000Z",
+      "customerId": "100006452",
+      "contentPath": null,
+      "centerCode": "DCNFOC03",
+      "businessUnit": "China Own",
+      "attendanceStatus": "Completed",
+      "attendanceResult": "Present",
+      "assessment": null,
+      "hasEnteredClass": false
+    }
   }
 ]
